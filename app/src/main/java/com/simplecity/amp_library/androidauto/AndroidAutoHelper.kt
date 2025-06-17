@@ -82,8 +82,9 @@ class MediaIdHelper(
                         uri.pathSegments.contains("playlists") -> MediaIdWrapper.PlaylistDirectory
                         uri.pathSegments.contains("genres") -> MediaIdWrapper.GenreDirectory
                         else -> {
-                            throw IllegalStateException("Unknown MediaId '$mediaId' path")
+                            error("Unknown MediaId '$mediaId' path")
                         }
+
                     }
                 } else {
                     when {
