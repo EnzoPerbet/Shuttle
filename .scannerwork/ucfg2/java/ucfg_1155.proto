@@ -1,0 +1,69 @@
+
+Bcom.simplecity.amp_library.playback.MusicService#recentlyPlayed()Zp
+dC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/playback/MusicService.javaÑ Ñ(""3*´
+2
+Ò Ò($s
+q
+
+Ò Ò(8
+
+%1long"%java.lang.System#currentTimeMillis()J*0
+
+__unknown_file ("
+java.lang.Systemn
+l
+
+Ò Ò(I
+
+%2long"__calculate*
+
+Ò9 Ò(:
+-*
+
+Ò Ò(8
+
+
+%1long*
+
+Ò; Ò(I
+""C
+A
+
+ÒL Ò(V	
+%3int"__id*"
+
+__unknown_file (
+""t
+r
+
+Ò Ò(V
+%4boolean"	__compare*
+
+ÒJ Ò(K
+<*
+
+Ò Ò(I
+
+
+%2long*
+
+ÒL Ò(V
+	
+%3int*
+1*Ö
+3
+Ò Ò(¼¹
+
+Ò Ò(
+%0boolean"=com.simplecity.amp_library.playback.MusicService#isPlaying()Z*P
+
+__unknown_file (42
+0com.simplecity.amp_library.playback.MusicService2isPlaying()*
+2
+1*%
+1
+Ò Ò(W"
+
+Ò Ò(W
+""B42
+0com.simplecity.amp_library.playback.MusicServiceX

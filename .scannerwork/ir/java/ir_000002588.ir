@@ -1,0 +1,24 @@
+
+"\nid='"java.lang.String
+ 
+"\nname='"java.lang.String
++"\nalbumArtistName='"java.lang.String
+	"\nSong{"java.lang.String
+	'}'char;this
+é é("%com.simplecity.amp_library.model.Song"˛+
+)
+
+ê ê("#get-field# id:Blong9
+7
+
+ë ë(!"#get-field# name:Bjava.lang.StringD
+B
+
+í( í(7"#get-field# albumArtistName:Bjava.lang.String<
+:
+
+è ì(
+"	#binop +#2+:	Bjava.lang.String
+
+è ì(
+*YC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Song.java

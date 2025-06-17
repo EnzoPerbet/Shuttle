@@ -1,0 +1,743 @@
+
+1.0testepsi2_analyseepsiJavaFrontend"1750157080165*java2.B®
+T
+Oapp/src/main/java/com/simplecity/amp_library/ui/settings/SettingsPresenter.java2
+
+package4
++
+&com.simplecity.amp_library.ui.settings5
+=
+8com.simplecity.amp_library.ui.settings.SettingsPresenter7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+SettingsPresenter12
+/
+)Recovered#typeBindingLPurchasePresenter;014
+
+unknown15
+
+extends16
+
+
+uses17
+*
+$Recovered#typeBindingLSettingsView;019
+R
+Lcom.simplecity.amp_library.ui.settings.SettingsPresenter#<init>(LActivity;)V21
+
+method22
+&
+ Recovered#typeBindingLActivity;024
+
+	has param25
+
+Inject27
+
+annotated by28
+$
+Recovered#typeBindingLInject;030
+
+calls31
+
+is type32
+[
+Ucom.simplecity.amp_library.ui.settings.SettingsPresenter#changelogClicked(LContext;)V34
+
+	protected35
+
+changelogClicked36
+%
+Recovered#typeBindingLContext;038
+Y
+Scom.simplecity.amp_library.ui.settings.SettingsPresenter#restorePurchasesClicked()V40
+
+restorePurchasesClicked41
+]
+Wcom.simplecity.amp_library.ui.settings.SettingsPresenter#chooseTabsClicked(LActivity;)V43
+
+chooseTabsClicked44
+c
+]com.simplecity.amp_library.ui.settings.SettingsPresenter#chooseDefaultPageClicked(LContext;)V46
+
+chooseDefaultPageClicked47
+/
+)Recovered#typeBindingLSharedPreferences;049
+*
+$Recovered#typeBindingLCategoryItem;051
+,
+&Recovered#typeBindingLMaterialDialog;053
+[
+Ucom.simplecity.amp_library.ui.settings.SettingsPresenter#baseThemeClicked(LContext;)V55
+
+baseThemeClicked56
+[
+Ucom.simplecity.amp_library.ui.settings.SettingsPresenter#changeBaseTheme(LContext;I)V58
+
+private59
+
+changeBaseTheme60
+^
+Xcom.simplecity.amp_library.ui.settings.SettingsPresenter#primaryColorClicked(LContext;)V62
+
+primaryColorClicked63
+0
+*Recovered#typeBindingLColorChooserDialog;065
+^
+Xcom.simplecity.amp_library.ui.settings.SettingsPresenter#changePrimaryColor(LContext;I)V67
+
+changePrimaryColor68
+]
+Wcom.simplecity.amp_library.ui.settings.SettingsPresenter#accentColorClicked(LContext;)V70
+
+accentColorClicked71
+]
+Wcom.simplecity.amp_library.ui.settings.SettingsPresenter#changeAccentColor(LContext;I)V73
+
+changeAccentColor74
+]
+Wcom.simplecity.amp_library.ui.settings.SettingsPresenter#tintNavBarClicked(LContext;Z)V76
+
+tintNavBarClicked77
+]
+Wcom.simplecity.amp_library.ui.settings.SettingsPresenter#usePaletteClicked(LContext;Z)V79
+
+usePaletteClicked80
+k
+ecom.simplecity.amp_library.ui.settings.SettingsPresenter#usePaletteNowPlayingOnlyClicked(LContext;Z)V82
+%
+usePaletteNowPlayingOnlyClicked83
+a
+[com.simplecity.amp_library.ui.settings.SettingsPresenter#downloadArtworkClicked(LContext;)V85
+
+downloadArtworkClicked86
+Z
+Tcom.simplecity.amp_library.ui.settings.SettingsPresenter#downloadArtwork(LContext;)V88
+
+downloadArtwork89
+$
+Recovered#typeBindingLIntent;091
+4
+.Recovered#typeBindingLArtworkDownloadService;093
+_
+Ycom.simplecity.amp_library.ui.settings.SettingsPresenter#deleteArtworkClicked(LContext;)V95
+
+deleteArtworkClicked96
+O
+Icom.simplecity.amp_library.ui.settings.SettingsPresenter#deleteArtwork()V98
+
+deleteArtwork99
+j
+ccom.simplecity.amp_library.ui.settings.SettingsPresenter#changeArtworkPreferenceClicked(LContext;)V101
+%
+changeArtworkPreferenceClicked102
+[
+Tcom.simplecity.amp_library.ui.settings.SettingsPresenter#downloadScrobblerClicked()V104
+
+downloadScrobblerClicked105
+`
+Ycom.simplecity.amp_library.ui.settings.SettingsPresenter#viewBlacklistClicked(LContext;)V107
+
+viewBlacklistClicked108
+`
+Ycom.simplecity.amp_library.ui.settings.SettingsPresenter#viewWhitelistClicked(LContext;)V110
+
+viewWhitelistClicked111J
+
+1
+12Z
+
+3	
+354j…
+
+37
+373815
+F
+106?
+10610722 *
+1¥ ¥(26:3B
+	
+9
+10
+
+11
+108
+
+64
+646515
+
+13
+131415
+@
+57:
+575822 *
+1v v(26:3B
+	
+9
+59
+
+
+11
+60
+B
+72<
+727322 *
+1¶ ¶(26:3B
+	
+9
+10
+
+
+11
+74
+F
+109?
+10911022 *
+1¬ ¬(26:3B
+	
+9
+10
+
+11
+111
+@
+20:
+202122 *
+1) )(26:3B
+	
+9
+10
+
+
+11
+12
+
+23
+232415
+9
+64
+678 *
+1' '(:3B
+	
+9
+10
+
+
+11
+12
+B
+81<
+818222 *
+1Ñ Ñ(26:3B
+	
+9
+10
+
+
+11
+83
+
+48
+484915
+B
+84<
+848522 *
+1à à(26:3B
+	
+9
+10
+
+
+11
+86
+
+26
+262715
+@
+42:
+424322 *
+1D D(26:3B
+	
+9
+10
+
+
+11
+44
+
+92
+929315
+F
+100?
+10010122 *
+1Œ Œ(26:3B
+	
+9
+10
+
+11
+102
+@
+33:
+333422 *
+10 0(	26:3B
+	
+9
+35
+
+
+11
+36
+B
+66<
+666722 *
+1Ÿ Ÿ(26:3B
+	
+9
+10
+
+
+11
+68
+F
+103?
+10310422 *
+1ž ž(26:3B
+	
+9
+10
+
+11
+105
+
+29
+293015
+B
+75<
+757622 *
+1¾ ¾(26:3B
+	
+9
+10
+
+
+11
+77
+
+90
+909115
+
+18
+181915
+B
+69<
+697022 *
+1¨ ¨(26:3B
+	
+9
+10
+
+
+11
+71
+@
+39:
+394022 *
+19 9(26:3B
+	
+9
+10
+
+
+11
+41
+B
+61<
+616222 *
+1‘ ‘(26:3B
+	
+9
+10
+
+
+11
+63
+B
+94<
+949522 *
+1ó ó(26:3B
+	
+9
+10
+
+
+11
+96
+
+50
+505115
+@
+54:
+545522 *
+1k k(26:3B
+	
+9
+10
+
+
+11
+56
+B
+97<
+979822 *
+1‚ ‚(26:3B
+	
+9
+59
+
+
+11
+99
+
+52
+525315
+B
+87<
+878822 *
+1î î(26:3B
+	
+9
+59
+
+
+11
+89
+B
+78<
+787922 *
+1Ä Ä(26:3B
+	
+9
+10
+
+
+11
+80
+@
+45:
+454622 *
+1K K(26:3B
+	
+9
+10
+
+
+11
+47r˜
+
+61316*
+1'( '(9
+
+61317*
+1'( '(9
+
+61817*
+1': '(F
+
+202325*
+1* *(&
+
+202628*
+1) )(
+
+202917*
+1) )(
+
+20631*
+1* *(
+
+202332*
+1*' *(/
+
+202317*
+1* *(&
+
+333725*
+10 0("
+
+333732*
+10# 0(*
+
+333717*
+10 0("
+
+331832*
+13 3("
+
+331817*
+13	 3(
+
+422325*
+1D# D(+
+
+422332*
+1D, D(4
+
+422317*
+1D# D(+
+
+421832*
+1E E("
+
+421817*
+1E	 E(
+
+453725*
+1K* K(1
+
+453732*
+1K2 K(9
+
+453717*
+1K* K(1
+
+451832*
+1L L("
+
+451817*
+1L	 L(
+
+454832*
+1N N(0
+
+454817*
+1N N(
+
+455017*
+1O O(
+
+455217*
+1\ \('
+
+543725*
+1k" k()
+
+543732*
+1k* k(1
+
+543717*
+1k" k()
+
+541832*
+1l l("
+
+541817*
+1l	 l(
+
+545217*
+1n2 n(@
+
+573725*
+1v" v()
+
+573732*
+1v* v(1
+
+573717*
+1v" v()
+
+613725*
+1‘% ‘(,
+
+613732*
+1‘- ‘(4
+
+613717*
+1‘% ‘(,
+
+611832*
+1’ ’("
+
+611817*
+1’	 ’(
+
+616417*
+1• •(+
+
+663725*
+1Ÿ$ Ÿ(+
+
+663732*
+1Ÿ, Ÿ(3
+
+663717*
+1Ÿ$ Ÿ(+
+
+693725*
+1¨$ ¨(+
+
+693732*
+1¨, ¨(3
+
+693717*
+1¨$ ¨(+
+
+691832*
+1© ©("
+
+691817*
+1©	 ©(
+
+696417*
+1¬ ¬(+
+
+723725*
+1¶# ¶(*
+
+723732*
+1¶+ ¶(2
+
+723717*
+1¶# ¶(*
+
+753725*
+1¾# ¾(*
+
+753732*
+1¾+ ¾(2
+
+753717*
+1¾# ¾(*
+
+783725*
+1Ä# Ä(*
+
+783732*
+1Ä+ Ä(2
+
+783717*
+1Ä# Ä(*
+
+813725*
+1Ñ1 Ñ(8
+
+813732*
+1Ñ9 Ñ(@
+
+813717*
+1Ñ1 Ñ(8
+
+843725*
+1à( à(/
+
+843732*
+1à0 à(7
+
+843717*
+1à( à(/
+
+841832*
+1á á("
+
+841817*
+1á	 á(
+
+845217*
+1ä ä('
+
+873725*
+1î" î()
+
+873732*
+1î* î(1
+
+873717*
+1î" î()
+
+879032*
+1ï ï(
+
+879017*
+1ï	 ï(
+
+879217*
+1ï- ï(C
+
+943725*
+1ó& ó(-
+
+943732*
+1ó. ó(5
+
+943717*
+1ó& ó(-
+
+941832*
+1ô ô("
+
+941817*
+1ô	 ô(
+
+945217*
+1÷ ÷('
+
+1003725*
+1Œ0 Œ(7
+
+1003732*
+1Œ8 Œ(?
+
+1003717*
+1Œ0 Œ(7
+
+1001832*
+1 ("
+
+1001817*
+1	 (
+
+1005217*
+1 ('
+
+1031832*
+1Ÿ Ÿ("
+
+1031817*
+1Ÿ	 Ÿ(
+
+1063725*
+1¥& ¥(-
+
+1063732*
+1¥. ¥(5
+
+1063717*
+1¥& ¥(-
+
+1061832*
+1¦ ¦("
+
+1061817*
+1¦	 ¦(
+
+1093725*
+1¬& ¬(-
+
+1093732*
+1¬. ¬(5
+
+1093717*
+1¬& ¬(-
+
+1091832*
+1­ ­("
+
+1091817*
+1­	 ­(

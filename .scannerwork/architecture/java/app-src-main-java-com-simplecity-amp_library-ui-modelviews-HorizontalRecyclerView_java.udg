@@ -1,0 +1,493 @@
+
+1.0testepsi2_analyseepsiJavaFrontend"1750157063160*java2.Bæ
+[
+Vapp/src/main/java/com/simplecity/amp_library/ui/modelviews/HorizontalRecyclerView.java2
+
+package4
+-
+(com.simplecity.amp_library.ui.modelviews5
+D
+?com.simplecity.amp_library.ui.modelviews.HorizontalRecyclerView7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+HorizontalRecyclerView12
++
+%Recovered#typeBindingLBaseViewModel;014
+
+unknown15
+
+extends16
+
+
+uses17
+P
+Jcom.simplecity.amp_library.ui.modelviews.HorizontalRecyclerView$ViewHolder19
+
+
+references20
+V
+Pcom.simplecity.amp_library.ui.modelviews.HorizontalRecyclerView.viewModelAdapter22
+
+field23
+
+viewModelAdapter24
+
+ViewModelAdapter26
+
+is type27
+a
+[com.simplecity.amp_library.ui.modelviews.HorizontalRecyclerView#<init>(Ljava/lang/String;)V29
+
+method30
+
+calls31
+a
+[com.simplecity.amp_library.ui.modelviews.HorizontalRecyclerView#setItems(Ljava/util/List;)V33
+
+setItems34
+'
+!Recovered#typeBindingLViewModel;036
+Q
+Kcom.simplecity.amp_library.ui.modelviews.HorizontalRecyclerView#getCount()I38
+
+getCount39
+T
+Ncom.simplecity.amp_library.ui.modelviews.HorizontalRecyclerView#getViewType()I41
+
+getViewType42
+W
+Qcom.simplecity.amp_library.ui.modelviews.HorizontalRecyclerView#getLayoutResId()I44
+
+getLayoutResId45
+û
+ócom.simplecity.amp_library.ui.modelviews.HorizontalRecyclerView#bindView(Lcom/simplecity/amp_library/ui/modelviews/HorizontalRecyclerView$ViewHolder;)V47
+
+bindView48
+
+	has param49
+
+BaseViewModel51
+*
+$Recovered#typeBindingLRecyclerView;053
+∞
+©com.simplecity.amp_library.ui.modelviews.HorizontalRecyclerView#createViewHolder(LViewGroup;)Lcom/simplecity/amp_library/ui/modelviews/HorizontalRecyclerView$ViewHolder;55
+
+createViewHolder56
+
+returns57
+'
+!Recovered#typeBindingLViewGroup;059
+
+
+ViewHolder60
+,
+&Recovered#typeBindingLBaseViewHolder;062
+`
+Zcom.simplecity.amp_library.ui.modelviews.HorizontalRecyclerView$ViewHolder#<init>(LView;)V64
+"
+Recovered#typeBindingLView;066
+1
++Recovered#typeBindingLLinearLayoutManager;068
+m
+gcom.simplecity.amp_library.ui.modelviews.HorizontalRecyclerView$ViewHolder#toString()Ljava/lang/String;70
+
+toString71
+a
+[com.simplecity.amp_library.ui.modelviews.HorizontalRecyclerView#equals(Ljava/lang/Object;)Z73
+
+equals74
+Q
+Kcom.simplecity.amp_library.ui.modelviews.HorizontalRecyclerView#hashCode()I76
+
+hashCode77J
+
+1
+12Z
+
+3	
+354j 
+?
+189
+18198 *
+1: :(#26:3B
+	
+9
+10
+
+
+11
+60
+@
+43:
+434430 *
+1) )(26:3B
+	
+9
+10
+
+
+11
+45
+@
+75:
+757630 *
+1V V(26:3B
+	
+9
+10
+
+
+11
+77
+@
+37:
+373830 *
+1   (26:3B
+	
+9
+10
+
+
+11
+39
+
+61
+616215
+@
+21:
+212223 *
+1 (26:3B
+	
+9
+10
+
+
+11
+24
+
+52
+525315
+
+50
+505115
+
+58
+585915
+@
+72:
+727330 *
+1L L(26:3B
+	
+9
+10
+
+
+11
+74
+A
+69;
+697030 *
+1F	 F(
+218:3B
+	
+9
+10
+
+
+11
+71
+9
+64
+678 *
+1 ($:3B
+	
+9
+10
+
+
+11
+12
+
+67
+676815
+@
+28:
+282930 *
+1 (26:3B
+	
+9
+10
+
+
+11
+12
+A
+63;
+636430 *
+1<	 <(218:3B
+	
+9
+10
+
+
+11
+60
+
+65
+656615
+@
+32:
+323330 *
+1 (26:3B
+	
+9
+10
+
+
+11
+34
+@
+54:
+545530 *
+15 5(26:3B
+	
+9
+10
+
+
+11
+56
+@
+46:
+464730 *
+1. .(26:3B
+	
+9
+10
+
+
+11
+48
+
+13
+131415
+
+35
+353615
+
+25
+252615
+@
+40:
+404130 *
+1$ $(26:3B
+	
+9
+10
+
+
+11
+42rÕ
+
+61316*
+1- (:
+
+61317*
+1- (:
+
+61817*
+1R (\
+
+61820*
+1R (\
+
+212527*
+1 (
+
+212517*
+1 (
+
+212517*
+1 (-
+
+28631*
+1 ("
+
+28617*
+1	 (
+
+28620*
+1	 (
+
+282517*
+1 (
+
+282120*
+1 (
+
+323517*
+1 ((
+
+322120*
+1	 (
+
+322517*
+1	 (
+
+322120*
+1	 (
+
+372120*
+1! !( 
+
+372517*
+1! !( 
+
+372120*
+1! !( 
+
+461849*
+1/ /($
+
+461827*
+1/% /(+
+
+461817*
+1/ /($
+
+461820*
+1/ /($
+
+46620*
+10	 0(
+
+465017*
+10	 0(
+
+46620*
+10	 0(
+
+465217*
+12 2(
+
+462517*
+125 2(E
+
+462120*
+125 2(E
+
+541857*
+16 6(
+
+545849*
+16( 6(1
+
+541817*
+16 6(
+
+541820*
+16 6(
+
+545827*
+162 6(8
+
+545817*
+16( 6(1
+
+541831*
+17 7(
+
+186116*
+1:, :(:
+
+186117*
+1:, :(:
+
+636549*
+1< <(
+
+631831*
+1< <(
+
+636527*
+1<  <((
+
+636517*
+1< <(
+
+636727*
+1?! ?(.
+
+636717*
+1? ?( 
+
+635217*
+1A A(
+
+635217*
+1C C(
+
+72617*
+1N N(
+
+72620*
+1N N(
+
+72627*
+1Q  Q($
+
+72617*
+1Q	 Q(
+
+72617*
+1Q( Q(>
+
+722517*
+1S S( 
+
+722120*
+1S S( 
+
+722120*
+1S+ S(;
+
+722517*
+1S+ S(;
+
+722120*
+1S+ S(;
+
+722517*
+1SH S(X
+
+722120*
+1SH S(X
+
+722517*
+1Sa S(q
+
+722120*
+1Sa S(q
+
+752517*
+1X X( 
+
+752120*
+1X X( 
+
+752120*
+1X+ X(;
+
+752517*
+1X+ X(;
+
+752120*
+1X+ X(;

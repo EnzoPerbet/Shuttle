@@ -1,0 +1,718 @@
+
+1.0testepsi2_analyseepsiJavaFrontend"1750157057749*java2.B­
+H
+Capp/src/main/java/com/simplecity/amp_library/utils/StringUtils.java2
+
+package4
+%
+ com.simplecity.amp_library.utils5
+1
+,com.simplecity.amp_library.utils.StringUtils7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+StringUtils12
+6
+0com.simplecity.amp_library.utils.StringUtils.TAG14
+
+field15
+
+private16
+	
+TAG17
+A
+;com.simplecity.amp_library.utils.StringUtils.sFormatBuilder19
+
+sFormatBuilder20
+=
+7com.simplecity.amp_library.utils.StringUtils.sFormatter22
+
+
+sFormatter23
+
+
+references24
+:
+4com.simplecity.amp_library.utils.StringUtils.pattern26
+
+pattern27
+<
+6com.simplecity.amp_library.utils.StringUtils#<init>()V29
+
+method30
+
+calls31
+b
+\com.simplecity.amp_library.utils.StringUtils#makeAlbumsLabel(LContext;IIZ)Ljava/lang/String;33
+
+makeAlbumsLabel34
+%
+Recovered#typeBindingLContext;036
+
+unknown37
+
+	has param38
+
+is type39
+
+
+uses40
+'
+!Recovered#typeBindingLResources;042
+_
+Ycom.simplecity.amp_library.utils.StringUtils#makeTimeString(LContext;J)Ljava/lang/String;44
+
+makeTimeString45
+
+NonNull47
+
+annotated by48
+%
+Recovered#typeBindingLNonNull;050
+d
+^com.simplecity.amp_library.utils.StringUtils#makeShortTimeString(LContext;J)Ljava/lang/String;52
+c
+]com.simplecity.amp_library.utils.StringUtils#makeLongTimeString(LContext;J)Ljava/lang/String;54
+
+makeLongTimeString55
+
+makeShortTimeString56
+h
+bcom.simplecity.amp_library.utils.StringUtils#makeTimeString(Ljava/lang/String;J)Ljava/lang/String;58
+e
+_com.simplecity.amp_library.utils.StringUtils#makeSubfoldersLabel(LContext;II)Ljava/lang/String;60
+
+makeSubfoldersLabel61
+h
+bcom.simplecity.amp_library.utils.StringUtils#makeAlbumAndSongsLabel(LContext;II)Ljava/lang/String;63
+
+makeAlbumAndSongsLabel64
+`
+Zcom.simplecity.amp_library.utils.StringUtils#makeAlbumsLabel(LContext;I)Ljava/lang/String;66
+_
+Ycom.simplecity.amp_library.utils.StringUtils#makeSongsLabel(LContext;I)Ljava/lang/String;68
+
+makeSongsLabel69
+^
+Xcom.simplecity.amp_library.utils.StringUtils#makeYearLabel(LContext;I)Ljava/lang/String;71
+
+makeYearLabel72
+_
+Ycom.simplecity.amp_library.utils.StringUtils#keyFor(Ljava/lang/String;)Ljava/lang/String;74
+
+keyFor75
+l
+fcom.simplecity.amp_library.utils.StringUtils#containsIgnoreCase(Ljava/lang/String;Ljava/lang/String;)Z77
+
+containsIgnoreCase78
+z
+tcom.simplecity.amp_library.utils.StringUtils#getAdjustedJaroWinklerSimilarity(Ljava/lang/String;Ljava/lang/String;)D80
+&
+ getAdjustedJaroWinklerSimilarity81
+
+Nullable83
+&
+ Recovered#typeBindingLNullable;085
+r
+lcom.simplecity.amp_library.utils.StringUtils#getJaroWinklerSimilarity(Ljava/lang/String;Ljava/lang/String;)D87
+
+getJaroWinklerSimilarity88
+n
+hcom.simplecity.amp_library.utils.StringUtils#matches(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)[I90
+
+matches91J
+
+1
+12Z
+
+3	
+354jí
+
+35
+353637
+@
+13:
+131415 *
+1 (26:3B
+	
+9
+16
+
+
+11
+17
+@
+18:
+181915 *
+1 (26:3B
+	
+9
+16
+
+
+11
+20
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+@
+51:
+515230 *
+1V V(26:3B
+	
+9
+16
+
+
+11
+56
+
+84
+848537
+@
+43:
+434430 *
+1L L(26:3B
+	
+9
+10
+
+
+11
+45
+
+46
+464737
+B
+65<
+656630 *
+1± ±(26:3B
+	
+9
+10
+
+
+11
+34
+B
+67<
+676830 *
+1» »(26:3B
+	
+9
+10
+
+
+11
+69
+@
+28:
+282930 *
+1 (26:3B
+	
+9
+16
+
+
+11
+12
+@
+21:
+212215 *
+1 (26:3B
+	
+9
+16
+
+
+11
+23
+B
+73<
+737430 *
+1Ý Ý(26:3B
+	
+9
+10
+
+
+11
+75
+B
+76<
+767730 *
+1î î(26:3B
+	
+9
+10
+
+
+11
+78
+B
+70<
+707130 *
+1Å Å(26:3B
+	
+9
+10
+
+
+11
+72
+B
+79<
+798030 *
+1ø ø(26:3B
+	
+9
+10
+
+
+11
+81
+@
+32:
+323330 *
+1( ((26:3B
+	
+9
+10
+
+
+11
+34
+@
+53:
+535430 *
+1R R(26:3B
+	
+9
+16
+
+
+11
+55
+
+41
+414237
+@
+57:
+575830 *
+1Z Z(26:3B
+	
+9
+16
+
+
+11
+45
+B
+86<
+868730 *
+1œ œ(26:3B
+	
+9
+10
+
+
+11
+88
+@
+25:
+252615 *
+1 (26:3B
+	
+9
+16
+
+
+11
+27
+@
+59:
+596030 *
+1n n(26:3B
+	
+9
+10
+
+
+11
+61
+B
+89<
+899030 *
+1¯ ¯(26:3B
+	
+9
+16
+
+
+11
+91
+
+49
+495037
+
+82
+828337
+B
+62<
+626330 *
+1– –(26:3B
+	
+9
+10
+
+
+11
+64rž
+
+211824*
+19 (G
+
+28631*
+1 (
+
+323538*
+1(* ((1
+
+323539*
+1(2 ((9
+
+323540*
+1(* ((1
+
+324139*
+1/ /(
+
+324140*
+1/ /(
+
+321824*
+15 5(
+
+321824*
+15 5(
+
+322124*
+16 6(
+
+322124*
+16 6(
+
+321824*
+17% 7(3
+
+321824*
+1; ;(
+
+321824*
+1; ;(
+
+322124*
+1< <(
+
+322124*
+1< <(
+
+321824*
+1=! =(/
+
+433538*
+1L2 L(9
+
+433539*
+1L: L(A
+
+434648*
+1L) L(*
+
+434940*
+1L* L(1
+
+433540*
+1L2 L(9
+
+431824*
+1M	 M(
+
+431824*
+1M	 M(
+
+43624*
+1O( O(;
+
+435131*
+1O( O(;
+
+43624*
+1OM O(_
+
+435331*
+1OM O(_
+
+533538*
+1R7 R(>
+
+533539*
+1R? R(F
+
+534648*
+1R. R(/
+
+534940*
+1R/ R(6
+
+533540*
+1R7 R(>
+
+53624*
+1S S(
+
+534331*
+1S S(
+
+513538*
+1V8 V(?
+
+513539*
+1V@ V(G
+
+514648*
+1V/ V(0
+
+514940*
+1V0 V(7
+
+513540*
+1V8 V(?
+
+51624*
+1W W(
+
+514331*
+1W W(
+
+572124*
+1\ \(
+
+572124*
+1\ \(
+
+593538*
+1n. n(5
+
+593539*
+1n6 n(=
+
+593540*
+1n. n(5
+
+594139*
+1r r(
+
+594140*
+1r r(
+
+591824*
+1z z(
+
+591824*
+1z z(
+
+592124*
+1{ {(
+
+592124*
+1{ {(
+
+591824*
+1| |(-
+
+591824*
+1‰ ‰(
+
+591824*
+1‰ ‰(
+
+592124*
+1Š Š(
+
+592124*
+1Š Š(
+
+591824*
+1‹ ‹(-
+
+623538*
+1–1 –(8
+
+623539*
+1–9 –(@
+
+623540*
+1–1 –(8
+
+624139*
+1™ ™(
+
+624140*
+1™ ™(
+
+621824*
+1ž ž(
+
+621824*
+1ž ž(
+
+622124*
+1Ÿ Ÿ(
+
+622124*
+1Ÿ Ÿ(
+
+621824*
+1 "  (0
+
+621824*
+1ª ª(
+
+621824*
+1ª ª(
+
+622124*
+1« «(
+
+622124*
+1« «(
+
+621824*
+1¬" ¬(0
+
+653538*
+1±* ±(1
+
+653539*
+1±2 ±(9
+
+653540*
+1±* ±(1
+
+651824*
+1´	 ´(
+
+651824*
+1´	 ´(
+
+652124*
+1µ	 µ(
+
+652124*
+1µ	 µ(
+
+651824*
+1¶ ¶(,
+
+673538*
+1») »(0
+
+673539*
+1»1 »(8
+
+673540*
+1») »(0
+
+671824*
+1¾	 ¾(
+
+671824*
+1¾	 ¾(
+
+672124*
+1¿	 ¿(
+
+672124*
+1¿	 ¿(
+
+671824*
+1À À(,
+
+703538*
+1Å( Å(/
+
+703539*
+1Å0 Å(7
+
+703540*
+1Å( Å(/
+
+732524*
+1à à(
+
+732524*
+1à à(
+
+798248*
+1ø; ø(<
+
+798440*
+1ø< ø(D
+
+798248*
+1øS ø(T
+
+798440*
+1øT ø(\
+
+79624*
+1‚# ‚(;
+
+798631*
+1‚# ‚(;
+
+79624*
+1ˆ ˆ(5
+
+798631*
+1ˆ ˆ(5
+
+79624*
+1Š Š(,
+
+798631*
+1Š Š(,
+
+864648*
+1œ3 œ(4
+
+864940*
+1œ4 œ(;
+
+864648*
+1œJ œ(K
+
+864940*
+1œK œ(R
+
+86624*
+1¥ ¥("
+
+868931*
+1¥ ¥("

@@ -1,0 +1,385 @@
+
+1.0testepsi2_analyseepsiJavaFrontend"1750157070721*java2.BÎ
+J
+Eapp/src/main/java/com/simplecity/amp_library/ui/views/PlayerView.java2
+
+package4
+(
+#com.simplecity.amp_library.ui.views5
+3
+.com.simplecity.amp_library.ui.views.PlayerView7
+
+	interface8
+
+access9
+
+public10
+
+simple name11
+
+
+PlayerView12
+H
+Bcom.simplecity.amp_library.ui.views.PlayerView#setSeekProgress(I)V14
+
+method15
+
+setSeekProgress16
+U
+Ocom.simplecity.amp_library.ui.views.PlayerView#currentTimeVisibilityChanged(Z)V18
+"
+currentTimeVisibilityChanged19
+K
+Ecom.simplecity.amp_library.ui.views.PlayerView#currentTimeChanged(J)V21
+
+currentTimeChanged22
+I
+Ccom.simplecity.amp_library.ui.views.PlayerView#totalTimeChanged(J)V24
+
+totalTimeChanged25
+F
+@com.simplecity.amp_library.ui.views.PlayerView#queueChanged(II)V27
+
+queueChanged28
+H
+Bcom.simplecity.amp_library.ui.views.PlayerView#playbackChanged(Z)V30
+
+playbackChanged31
+G
+Acom.simplecity.amp_library.ui.views.PlayerView#shuffleChanged(I)V33
+
+shuffleChanged34
+
+MusicService.ShuffleMode36
+
+unknown37
+
+annotated by38
+*
+$Recovered#typeBindingLMusicService;040
+
+
+uses41
+F
+@com.simplecity.amp_library.ui.views.PlayerView#repeatChanged(I)V43
+
+repeatChanged44
+
+MusicService.RepeatMode46
+H
+Bcom.simplecity.amp_library.ui.views.PlayerView#favoriteChanged(Z)V48
+
+favoriteChanged49
+N
+Hcom.simplecity.amp_library.ui.views.PlayerView#trackInfoChanged(LSong;)V51
+
+trackInfoChanged52
+"
+Recovered#typeBindingLSong;054
+
+	has param55
+
+is type56
+
+Nullable58
+&
+ Recovered#typeBindingLNullable;060
+T
+Ncom.simplecity.amp_library.ui.views.PlayerView#showToast(Ljava/lang/String;I)V62
+
+	showToast63
+X
+Rcom.simplecity.amp_library.ui.views.PlayerView#showLyricsDialog(LMaterialDialog;)V65
+
+showLyricsDialog66
+,
+&Recovered#typeBindingLMaterialDialog;068
+x
+rcom.simplecity.amp_library.ui.views.PlayerView#showTaggerDialog(Lcom/simplecity/amp_library/tagger/TaggerDialog;)V70
+
+showTaggerDialog71
+4
+.com.simplecity.amp_library.tagger.TaggerDialog73
+Z
+Tcom.simplecity.amp_library.ui.views.PlayerView#showSongInfoDialog(LMaterialDialog;)V75
+
+showSongInfoDialog76
+Y
+Scom.simplecity.amp_library.ui.views.PlayerView#showUpgradeDialog(LMaterialDialog;)V78
+
+showUpgradeDialog79J
+
+1
+12Z
+
+3	
+354j¹	
+@
+32:
+323315 *
+1 (	26:3B
+	
+9
+10
+
+
+11
+34
+
+72
+727337
+@
+74:
+747515 *
+1' '(	26:3B
+	
+9
+10
+
+
+11
+76
+@
+47:
+474815 *
+1 (	26:3B
+	
+9
+10
+
+
+11
+49
+@
+77:
+777815 *
+1) )(	26:3B
+	
+9
+10
+
+
+11
+79
+
+39
+394037
+@
+50:
+505115 *
+1 (	26:3B
+	
+9
+10
+
+
+11
+52
+@
+64:
+646515 *
+1# #(	26:3B
+	
+9
+10
+
+
+11
+66
+
+53
+535437
+@
+29:
+293015 *
+1 (	26:3B
+	
+9
+10
+
+
+11
+31
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+@
+13:
+131415 *
+1 (	26:3B
+	
+9
+10
+
+
+11
+16
+@
+23:
+232415 *
+1 (	26:3B
+	
+9
+10
+
+
+11
+25
+@
+42:
+424315 *
+1 (	26:3B
+	
+9
+10
+
+
+11
+44
+@
+69:
+697015 *
+1% %(	26:3B
+	
+9
+10
+
+
+11
+71
+
+35
+353637
+
+59
+596037
+@
+61:
+616215 *
+1! !(	26:3B
+	
+9
+10
+
+
+11
+63
+@
+26:
+262715 *
+1 (	26:3B
+	
+9
+10
+
+
+11
+28
+
+45
+454637
+
+67
+676837
+@
+17:
+171815 *
+1 (	26:3B
+	
+9
+10
+
+
+11
+19
+
+57
+575837
+@
+20:
+202115 *
+1 (	26:3B
+	
+9
+10
+
+
+11
+22rí
+
+323538*
+1 (
+
+323941*
+1 (&
+
+323941*
+1' (2
+
+424538*
+1 (
+
+423941*
+1 (%
+
+423941*
+1& (0
+
+505355*
+1% ()
+
+505356*
+1* (.
+
+505738*
+1 (
+
+505941*
+1 ($
+
+505341*
+1% ()
+
+646755*
+1# #()
+
+646756*
+1#* #(0
+
+646741*
+1# #()
+
+697255*
+1% %('
+
+697256*
+1%( %(4
+
+697241*
+1% %('
+
+746755*
+1' '(+
+
+746756*
+1', '(2
+
+746741*
+1' '(+
+
+776755*
+1) )(*
+
+776756*
+1)+ )(1
+
+776741*
+1) )(*

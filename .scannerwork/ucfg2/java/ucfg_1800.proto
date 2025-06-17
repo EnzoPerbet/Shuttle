@@ -1,0 +1,110 @@
+
+Lcom.simplecity.amp_library.model.Song#getDiscNumberLabel()Ljava/lang/String;e
+YC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Song.javaè è($"5*œ
+2
+î" î((¨
+©
+
+î" î(<
+%5java.lang.String"-java.lang.String#valueOf(I)Ljava/lang/String;*0
+
+__unknown_file ("
+java.lang.String*"
+
+__unknown_file (
+""â
+Ü
+
+î î(<<'
+%com.simplecity.amp_library.model.Song"
+discNumberLabel"__id*4
+
+__unknown_file (
+
+%5java.lang.String*
+1*‘
+3
+í" í((ß§
+
+í1 í(=
+%3";com.simplecity.amp_library.model.Song#getTagInfo()LTagInfo;*E
+
+__unknown_file ()'
+%com.simplecity.amp_library.model.Song2getTagInfo()õ
+ò
+
+í" í(I
+%4".java.lang.String#valueOf([C)Ljava/lang/String;*0
+
+__unknown_file ("
+java.lang.String*"
+
+__unknown_file (
+""v
+t
+
+í í(I<'
+%com.simplecity.amp_library.model.Song"
+discNumberLabel"__id*"
+
+__unknown_file (
+
+%4*
+1*Å
+4
+ë ë(h
+f
+
+ë ë( 
+%2boolean"	__compare*
+
+ë ë(
+==*
+
+ë ë(
+""*
+
+ë ë( 2*
+2
+3*°
+5
+ê ê(â
+Ü
+
+ê ê(
+%0java.lang.String"__id*Z
+
+__unknown_file (>*<'
+%com.simplecity.amp_library.model.Song"
+discNumberLabel|
+z
+
+ê ê(#
+%1boolean"	__compare*
+
+ê ê(
+==*&
+
+ê ê(
+
+%0java.lang.String*
+
+ê ê(#
+""*
+4
+1*√
+1
+ó ó(â
+Ü
+
+ó ó(
+%6java.lang.String"__id*Z
+
+__unknown_file (>*<'
+%com.simplecity.amp_library.model.Song"
+discNumberLabel"&
+
+ó ó(
+
+%6java.lang.StringB)'
+%com.simplecity.amp_library.model.SongH

@@ -1,0 +1,1085 @@
+
+1.0testepsi2_analyseepsiJavaFrontend"1750157060257*java2.B÷%
+o
+jlibraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.java2
+
+package4
+0
++com.simplecityapps.recycler_adapter.adapter5
+A
+<com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+ViewModelAdapter12
+*
+$Recovered#typeBindingLRecyclerView;014
+
+unknown15
+
+extends16
+
+
+uses17
+F
+@com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter.TAG19
+
+field20
+
+private21
+	
+TAG22
+P
+Jcom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter.enableLogging24
+
+enableLogging25
+H
+Bcom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter.items27
+
+items28
+'
+!Recovered#typeBindingLViewModel;030
+V
+Pcom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#getItemViewType(I)I32
+
+method33
+
+getItemViewType34
+
+
+references35
+|
+vcom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#onCreateViewHolder(LViewGroup;I)LRecyclerView/ViewHolder;37
+
+onCreateViewHolder38
+
+RecyclerView.ViewHolder40
+
+returns41
+'
+!Recovered#typeBindingLViewGroup;043
+
+	has param44
+
+is type45
+p
+jcom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#onBindViewHolder(LRecyclerView/ViewHolder;I)V47
+
+onBindViewHolder48
+Ä
+zcom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#onBindViewHolder(LRecyclerView/ViewHolder;ILjava/util/List;)V50
+
+calls51
+R
+Lcom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#getItemCount()I53
+
+getItemCount54
+i
+ccom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#setItems(Ljava/util/List;)LDisposable;56
+
+setItems57
+
+
+Disposable59
+à
+Åcom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#setItems(Ljava/util/List;LCompletionListUpdateCallback;)LDisposable;61
+:
+4Recovered#typeBindingLCompletionListUpdateCallback;063
+
+Nullable65
+
+annotated by66
+&
+ Recovered#typeBindingLNullable;068
+h
+bcom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#logDiffResult(LDiffUtil/DiffResult;)V70
+
+logDiffResult71
+&
+ Recovered#typeBindingLDiffUtil;073
+D
+>com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$175
+
+	protected76
+T
+Ncom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$1#onInserted(II)V78
+
+
+onInserted79
+S
+Mcom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$1#onRemoved(II)V81
+
+	onRemoved82
+Q
+Kcom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$1#onMoved(II)V84
+
+onMoved85
+e
+_com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$1#onChanged(IILjava/lang/Object;)V87
+
+	onChanged88
+Y
+Scom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#addItem(ILViewModel;)V90
+
+addItem91
+X
+Rcom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#addItem(LViewModel;)V93
+^
+Xcom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#addItems(Ljava/util/List;)V95
+
+addItems96
+[
+Ucom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#removeItem(I)LViewModel;98
+
+
+removeItem99
+
+	ViewModel101
+f
+_com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#removeItem(LViewModel;)LViewModel;103
+Q
+Jcom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#moveItem(II)V105
+
+moveItem106
+P
+Icom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback108
+
+DiffCallback109
+X
+Qcom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback.oldList111
+
+oldList112
+X
+Qcom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback.newList114
+
+newList115
+z
+scom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback#<init>(Ljava/util/List;Ljava/util/List;)V117
+b
+[com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback#getOldListSize()I119
+
+getOldListSize120
+b
+[com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback#getNewListSize()I122
+
+getNewListSize123
+p
+icom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback#getOldItem(I)Ljava/lang/Object;125
+
+
+getOldItem126
+p
+icom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback#getNewItem(I)Ljava/lang/Object;128
+
+
+getNewItem129
+e
+^com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback#areItemsTheSame(II)Z131
+
+areItemsTheSame132
+h
+acom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback#areContentsTheSame(II)Z134
+
+areContentsTheSame135
+C
+<com.simplecityapps.recycler_adapter.model.ContentsComparator137
+i
+bcom.simplecityapps.recycler_adapter.model.ContentsComparator#areContentsEqual(Ljava/lang/Object;)Z139
+w
+pcom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback#getChangePayload(II)Ljava/lang/Object;141
+
+getChangePayload142J
+
+1
+12Z
+
+3	
+354jö
+H
+133A
+13313433 *
+1Ç	 Ç(
+2107:3B
+	
+9
+10
+
+11
+135
+H
+140A
+14014133 *
+1è	 è(
+2107:3B
+	
+9
+10
+
+11
+142
+A
+80;
+808133 *
+1| |(274:3B
+	
+9
+10
+
+
+11
+82
+H
+118A
+11811933 *
+1Á	 Á(
+2107:3B
+	
+9
+10
+
+11
+120
+C
+83=
+838433 *
+1É É(274:3B
+	
+9
+10
+
+
+11
+85
+H
+116A
+11611733 *
+1‚	 ‚(2107:3B
+	
+9
+76
+
+11
+109
+B
+94<
+949533 *
+1≠ ≠(26:3B
+	
+9
+10
+
+
+11
+96
+H
+130A
+13013133 *
+1˘	 ˘(
+2107:3B
+	
+9
+10
+
+11
+132
+B
+89<
+899033 *
+1ô ô(26:3B
+	
+9
+10
+
+
+11
+91
+B
+92<
+929333 *
+1£ £(26:3B
+	
+9
+10
+
+
+11
+91
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+E
+102>
+10210333 *
+1… …(26:3B
+	
+9
+10
+
+
+11
+99
+
+100
+10010115
+
+42
+424315
+H
+113A
+11311420 *
+1‡	 ‡(2107:3B
+	
+9
+21
+
+11
+115
+H
+127A
+12712833 *
+1ı	 ı(2107:3B
+	
+9
+76
+
+11
+129
+
+67
+676815
+F
+104?
+10410533 *
+1◊ ◊(26:3B
+	
+9
+10
+
+11
+106
+
+138
+13813915
+@
+31:
+313233 *
+1& &(26:3B
+	
+9
+10
+
+
+11
+34
+
+72
+727315
+@
+69:
+697033 *
+1s s(26:3B
+	
+9
+21
+
+
+11
+71
+H
+124A
+12412533 *
+1Ò	 Ò(2107:3B
+	
+9
+76
+
+11
+126
+
+29
+293015
+
+39
+394015
+
+58
+585915
+A
+77;
+777833 *
+1u u(274:3B
+	
+9
+10
+
+
+11
+79
+@
+55:
+555633 *
+1O O(26:3B
+	
+9
+10
+
+
+11
+57
+C
+86=
+868733 *
+1ä ä(274:3B
+	
+9
+10
+
+
+11
+88
+
+136
+13613715
+B
+97<
+979833 *
+1π π(26:3B
+	
+9
+10
+
+
+11
+99
+E
+107>
+1071088 *
+1› ›(&26:3B
+	
+9
+21
+
+11
+109
+@
+23:
+232420 *
+1 (26:3B
+	
+9
+21
+
+
+11
+25
+H
+110A
+11011120 *
+1ﬂ	 ﬂ(2107:3B
+	
+9
+21
+
+11
+112
+4
+74.
+74758 *
+1t? t(@269:3B
+	
+9
+76
+
+13
+131415
+@
+26:
+262720 *
+1$ $(26:3B
+	
+9
+10
+
+
+11
+28
+@
+18:
+181920 *
+1 (26:3B
+	
+9
+21
+
+
+11
+22
+@
+36:
+363733 *
+1+ +(26:3B
+	
+9
+10
+
+
+11
+38
+@
+52:
+525333 *
+1D D(26:3B
+	
+9
+10
+
+
+11
+54
+
+62
+626315
+H
+121A
+12112233 *
+1Ï	 Ï(
+2107:3B
+	
+9
+10
+
+11
+123
+@
+49:
+495033 *
+1; ;(26:3B
+	
+9
+10
+
+
+11
+48
+@
+60:
+606133 *
+1Z Z(26:3B
+	
+9
+10
+
+
+11
+57
+
+64
+646515
+@
+46:
+464733 *
+16 6(26:3B
+	
+9
+10
+
+
+11
+48rÊ#
+
+61316*
+1' (3
+
+61317*
+1' (3
+
+61317*
+14 (;
+
+262917*
+1$ $(
+
+312635*
+1( ((
+
+312635*
+1( ((
+
+363941*
+1, ,(
+
+364244*
+1,7 ,(@
+
+361317*
+1, ,(
+
+363917*
+1, ,(#
+
+364245*
+1,A ,(G
+
+364217*
+1,7 ,(@
+
+362945*
+1. .(
+
+362917*
+1. .(
+
+362635*
+1. .($
+
+461344*
+17" 7(.
+
+461345*
+17: 7(@
+
+461317*
+17" 7(.
+
+461317*
+17/ 7(9
+
+462635*
+18	 8(
+
+462635*
+18	 8(
+
+491344*
+1<" <(.
+
+491345*
+1<: <(@
+
+491317*
+1<" <(.
+
+491317*
+1</ <(9
+
+49635*
+1> >(
+
+494651*
+1> >(
+
+492635*
+1@ @(
+
+492635*
+1@ @(
+
+522635*
+1F F(
+
+522635*
+1F F(
+
+555841*
+1O O(#
+
+555817*
+1O O(#
+
+552917*
+1O2 O(;
+
+555841*
+1P P(
+
+55635*
+1P P(
+
+556051*
+1P P(
+
+605841*
+1[ [(#
+
+606244*
+1[N [(j
+
+606466*
+1Z Z(
+
+606717*
+1Z Z(
+
+605817*
+1[ [(#
+
+602917*
+1[2 [(;
+
+606245*
+1[k [(s
+
+606466*
+1[D [(E
+
+606717*
+1[E [(M
+
+606217*
+1[N [(j
+
+60617*
+1] ](
+
+60635*
+1] ](
+
+602635*
+1] ](
+
+60617*
+1aR a(V
+
+60635*
+1aR a(V
+
+60617*
+1e e(%
+
+60617*
+1e& e(*
+
+60635*
+1e& e(*
+
+60617*
+1f2 f(B
+
+60617*
+1fC f(G
+
+60635*
+1fC f(G
+
+697244*
+1s  s((
+
+697245*
+1s4 s(>
+
+697217*
+1s  s((
+
+697217*
+1s) s(3
+
+772335*
+1w w("
+
+771835*
+1x x(
+
+802335*
+1~ ~("
+
+801835*
+1 (
+
+832335*
+1Ö Ö("
+
+831835*
+1Ü Ü(
+
+862335*
+1å å("
+
+861835*
+1ç ç(
+
+892944*
+1ô' ô(0
+
+892945*
+1ô1 ô(5
+
+892917*
+1ô' ô(0
+
+892635*
+1ö	 ö(
+
+892635*
+1ö	 ö(
+
+922944*
+1£ £("
+
+922945*
+1£# £('
+
+922917*
+1£ £("
+
+922635*
+1§	 §(
+
+922635*
+1§	 §(
+
+922635*
+1• •(!
+
+922635*
+1• •(!
+
+942917*
+1≠ ≠((
+
+94617*
+1Æ! Æ(%
+
+94635*
+1Æ! Æ(%
+
+942635*
+1Æ& Æ(+
+
+94617*
+1Ø	 Ø(
+
+94635*
+1Ø	 Ø(
+
+942635*
+1Ø Ø(
+
+9710041*
+1∫ ∫(
+
+976466*
+1π π(
+
+976717*
+1π π(
+
+9710017*
+1∫ ∫(
+
+97635*
+1ª ª(
+
+975251*
+1ª ª(
+
+972635*
+1ª@ ª(E
+
+972635*
+1ª@ ª(E
+
+972945*
+1æ æ(
+
+972917*
+1æ æ(
+
+972635*
+1æ! æ(&
+
+972635*
+1æ! æ(&
+
+10210041*
+1   (
+
+1022944*
+1 +  (4
+
+1026466*
+1… …(
+
+1026717*
+1… …(
+
+10210017*
+1   (
+
+1022945*
+1 5  (9
+
+1026466*
+1 !  ("
+
+1026717*
+1 "  (*
+
+1022917*
+1 +  (4
+
+10210041*
+1Œ Œ(
+
+102635*
+1Œ Œ(
+
+1022635*
+1Œ Œ( 
+
+1022635*
+1Œ Œ( 
+
+1042945*
+1ÿ ÿ(
+
+1042917*
+1ÿ ÿ(
+
+1042635*
+1ÿ! ÿ(&
+
+1042635*
+1ÿ! ÿ(&
+
+1042635*
+1Ÿ	 Ÿ(
+
+1042635*
+1Ÿ	 Ÿ(
+
+1077216*
+1›/ ›(7
+
+1077217*
+1›/ ›(7
+
+1077217*
+1›8 ›(@
+
+1102917*
+1ﬂ ﬂ(
+
+1132917*
+1‡ ‡(
+
+11610751*
+1‚	 ‚(
+
+1162917*
+1‚ ‚($
+
+1162917*
+1‚4 ‚(=
+
+11610717*
+1„ „(
+
+11610735*
+1„ „(
+
+11611035*
+1„ „(
+
+11610717*
+1‰ ‰(
+
+11610735*
+1‰ ‰(
+
+11611335*
+1‰ ‰(
+
+11811035*
+1È È(
+
+11811035*
+1È& È(-
+
+11811035*
+1È& È(-
+
+12111335*
+1Ó Ó(
+
+12111335*
+1Ó& Ó(-
+
+12111335*
+1Ó& Ó(-
+
+12411035*
+1Ú Ú(
+
+12411035*
+1Ú Ú(
+
+12711335*
+1ˆ ˆ(
+
+12711335*
+1ˆ ˆ(
+
+13010735*
+1¸ ¸((
+
+13012451*
+1¸ ¸((
+
+13010735*
+1˝ ˝((
+
+13012751*
+1˝ ˝((
+
+13310735*
+1Ö Ö((
+
+13312451*
+1Ö Ö((
+
+13310735*
+1Ü Ü((
+
+13312751*
+1Ü Ü((
+
+13313617*
+1à$ à(6
+
+13313635*
+1â â(
+
+13313851*
+1â7 â(G
+
+13313617*
+1â â(,
+
+13310735*
+1ã ã('
+
+13313051*
+1ã ã('
+
+1406466*
+1è	 è(
+
+
+1406717*
+1è
+ è(

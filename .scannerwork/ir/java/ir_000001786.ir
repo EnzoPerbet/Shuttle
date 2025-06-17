@@ -1,0 +1,50 @@
+
+falsebooleanFthis
+¨ ¨("0com.simplecity.amp_library.playback.MusicService40com.simplecity.amp_library.playback.MusicService"L8
+6
+
+ª ª( "#get-field# playbackLocation:Bint
+
+ª ±(	"-
++
+
+« «("#get-field# LOCAL:Bint/
+-
+
+« «("
+#binop ==#2==:Bboolean,"*
+
+« «( *
+« «(2
+® ®("….
+,
+
+® ®("#get-field# REMOTE:Bint/
+-
+
+® ®("
+#binop ==#2==:Bboolean "
+
+® ®( *
+® ®("WA
+?
+
+¬ ¬(,"#!#get-field# isSupposedToBePlaying:Bboolean
+
+¬ ¬(-"­5
+3
+
+¯ ¯($	"#get-field# playbackState:Bint/
+-
+
+¯( ¯(/
+"#get-field# PLAYING:Bint/
+-
+
+¯ ¯(/"
+#binop ==#2==:	
+Bboolean
+
+¯ ¯(0"
+
+³ ³(*dC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/playback/MusicService.java

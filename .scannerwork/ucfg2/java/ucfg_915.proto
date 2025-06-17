@@ -1,0 +1,26 @@
+
+[com.simplecity.amp_library.glide.fetcher.BaseRemoteFetcher#getStream()Ljava/io/InputStream;x
+nC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/glide/fetcher/BaseRemoteFetcher.java   (#"23*!
+6) )(i"
+* *("
+""*û
+19#< #(Bâß
+#< #(D
+%1java.lang.String"Ucom.simplecity.amp_library.glide.fetcher.BaseRemoteFetcher#getUrl()Ljava/lang/String;*Z
+
+__unknown_file (><
+:com.simplecity.amp_library.glide.fetcher.BaseRemoteFetcher2getUrl()*
+6
+1*ü
+23" "(âß
+"# "(+
+%0java.lang.String"Ucom.simplecity.amp_library.glide.fetcher.BaseRemoteFetcher#getUrl()Ljava/lang/String;*Z
+
+__unknown_file (><
+:com.simplecity.amp_library.glide.fetcher.BaseRemoteFetcher2getUrl()*
+19
+1*!
+13 3("
+3 3(
+""B><
+:com.simplecity.amp_library.glide.fetcher.BaseRemoteFetcher

@@ -1,0 +1,335 @@
+
+1.0testepsi2_analyseepsiJavaFrontend"1750157062495*java2.BÆ
+L
+Gapp/src/main/java/com/simplecity/amp_library/model/ArtworkProvider.java2
+
+package4
+%
+ com.simplecity.amp_library.model5
+5
+0com.simplecity.amp_library.model.ArtworkProvider7
+
+	interface8
+
+access9
+
+public10
+
+simple name11
+
+ArtworkProvider12
+;
+5com.simplecity.amp_library.model.ArtworkProvider$Type14
+
+
+annotation15
+
+
+Type16
+G
+Acom.simplecity.amp_library.model.ArtworkProvider$Type.MEDIA_STORE18
+
+field19
+
+MEDIA_STORE20
+?
+9com.simplecity.amp_library.model.ArtworkProvider$Type.TAG22
+	
+TAG23
+B
+<com.simplecity.amp_library.model.ArtworkProvider$Type.FOLDER25
+
+FOLDER26
+C
+=com.simplecity.amp_library.model.ArtworkProvider$Type.LAST_FM28
+
+LAST_FM29
+B
+<com.simplecity.amp_library.model.ArtworkProvider$Type.ITUNES31
+
+ITUNES32
+X
+Rcom.simplecity.amp_library.model.ArtworkProvider#getArtworkKey()Ljava/lang/String;34
+
+method35
+
+getArtworkKey36
+O
+Icom.simplecity.amp_library.model.ArtworkProvider#getLastFmArtwork()LCall;38
+
+getLastFmArtwork39
+
+
+Call41
+
+unknown42
+
+returns43
+
+Nullable45
+
+annotated by46
+&
+ Recovered#typeBindingLNullable;048
+
+
+uses49
+*
+$Recovered#typeBindingLLastFmResult;051
+
+bound by52
+O
+Icom.simplecity.amp_library.model.ArtworkProvider#getItunesArtwork()LCall;54
+
+getItunesArtwork55
+9
+3com.simplecity.amp_library.http.itunes.ItunesResult57
+b
+\com.simplecity.amp_library.model.ArtworkProvider#getMediaStoreArtwork()Ljava/io/InputStream;59
+
+getMediaStoreArtwork60
+^
+Xcom.simplecity.amp_library.model.ArtworkProvider#getFolderArtwork()Ljava/io/InputStream;62
+
+getFolderArtwork63
+[
+Ucom.simplecity.amp_library.model.ArtworkProvider#getTagArtwork()Ljava/io/InputStream;65
+
+getTagArtwork66
+^
+Xcom.simplecity.amp_library.model.ArtworkProvider#getFolderArtworkFiles()Ljava/util/List;68
+
+getFolderArtworkFiles69J
+
+1
+12Z
+
+3	
+354jþ
+
+40
+404142
+@
+33:
+333435 *
+1 (26:3B
+	
+9
+10
+
+
+11
+36
+@
+13:
+131415 *
+1 (26:3B
+	
+9
+10
+
+
+11
+16
+@
+61:
+616235 *
+1# #(26:3B
+	
+9
+10
+
+
+11
+63
+@
+67:
+676835 *
+1) )(26:3B
+	
+9
+10
+
+
+11
+69
+A
+27;
+272819 *
+1	 (213:3B
+	
+9
+10
+
+
+11
+29
+@
+37:
+373835 *
+1 (26:3B
+	
+9
+10
+
+
+11
+39
+9
+64
+678 *
+1 (!:3B
+	
+9
+10
+
+
+11
+12
+@
+58:
+585935 *
+1   (26:3B
+	
+9
+10
+
+
+11
+60
+
+56
+565742
+@
+53:
+535435 *
+1 (26:3B
+	
+9
+10
+
+
+11
+55
+A
+24;
+242519 *
+1	 (213:3B
+	
+9
+10
+
+
+11
+26
+@
+64:
+646535 *
+1& &(26:3B
+	
+9
+10
+
+
+11
+66
+
+47
+474842
+A
+30;
+303119 *
+1	 (213:3B
+	
+9
+10
+
+
+11
+32
+A
+17;
+171819 *
+1	 (213:3B
+	
+9
+10
+
+
+11
+20
+A
+21;
+212219 *
+1	 (213:3B
+	
+9
+10
+
+
+11
+23
+
+44
+444542
+
+50
+505142r
+
+374043*
+1 (	
+
+374446*
+1 (
+
+374749*
+1 (
+
+374049*
+1 (	
+
+375052*
+1 ( 
+
+375049*
+1 ( 
+
+534043*
+1 (	
+
+534446*
+1 (
+
+534749*
+1 (
+
+534049*
+1 (	
+
+535649*
+1
+ (
+
+584446*
+1   (
+
+584749*
+1   (
+
+614446*
+1# #(
+
+614749*
+1# #(
+
+644446*
+1& &(
+
+644749*
+1& &(
+
+674446*
+1) )(
+
+674749*
+1) )(

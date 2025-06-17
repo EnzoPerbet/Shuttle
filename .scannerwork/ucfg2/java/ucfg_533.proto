@@ -1,0 +1,44 @@
+
+Acom.simplecity.amp_library.model.Album$Builder#%field_initializer
+__unknown_file ("1*é	
+1 (™–
+d
+ZC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Album.javaM+ M(6
+%0java.util.ArrayList"java.util.ArrayList·
+´
+d
+ZC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Album.javaM' M(8
+%1"java.util.ArrayList#<init>()V*'
+ (
+
+%0java.util.ArrayList×
+Ô
+d
+ZC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Album.javaM M(9=0
+.com.simplecity.amp_library.model.Album$Builder"	
+artists"__id*'
+ (
+
+%0java.util.ArrayList™–
+d
+ZC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Album.javaT) T(4
+%2java.util.ArrayList"java.util.ArrayList·
+´
+d
+ZC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Album.javaT% T(6
+%3"java.util.ArrayList#<init>()V*'
+ (
+
+%2java.util.ArrayListÕ
+Ò
+d
+ZC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Album.javaT T(7;0
+.com.simplecity.amp_library.model.Album$Builder"
+paths"__id*'
+ (
+
+%2java.util.ArrayList"|
+e
+ZC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Album.javaI ™(
+implicit returnB20
+.com.simplecity.amp_library.model.Album$Builder

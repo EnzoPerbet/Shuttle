@@ -1,0 +1,432 @@
+
+1.0testepsi2_analyseepsiJavaFrontend"1750157046105*java2.BÉ
+]
+Xlibraries/ccl/src/com/google/android/libraries/cast/companionlibrary/utils/LogUtils.java2
+
+package4
+=
+8com.google.android.libraries.cast.companionlibrary.utils5
+F
+Acom.google.android.libraries.cast.companionlibrary.utils.LogUtils7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+LogUtils12
+R
+Lcom.google.android.libraries.cast.companionlibrary.utils.LogUtils.LOG_PREFIX14
+
+field15
+
+private16
+
+
+LOG_PREFIX17
+Y
+Scom.google.android.libraries.cast.companionlibrary.utils.LogUtils.LOG_PREFIX_LENGTH19
+
+LOG_PREFIX_LENGTH20
+
+
+references21
+Z
+Tcom.google.android.libraries.cast.companionlibrary.utils.LogUtils.MAX_LOG_TAG_LENGTH23
+
+MAX_LOG_TAG_LENGTH24
+N
+Hcom.google.android.libraries.cast.companionlibrary.utils.LogUtils.sDebug26
+
+sDebug27
+Q
+Kcom.google.android.libraries.cast.companionlibrary.utils.LogUtils#<init>()V29
+
+method30
+
+calls31
+x
+rcom.google.android.libraries.cast.companionlibrary.utils.LogUtils#makeLogTag(Ljava/lang/String;)Ljava/lang/String;33
+
+
+makeLogTag34
+w
+qcom.google.android.libraries.cast.companionlibrary.utils.LogUtils#makeLogTag(Ljava/lang/Class;)Ljava/lang/String;36
+s
+mcom.google.android.libraries.cast.companionlibrary.utils.LogUtils#LOGD(Ljava/lang/String;Ljava/lang/String;)V38
+
+
+LOGD39
+l
+fcom.google.android.libraries.cast.companionlibrary.utils.LogUtils#getVersionPrefix()Ljava/lang/String;41
+
+unknown42
+‰
+‚com.google.android.libraries.cast.companionlibrary.utils.LogUtils#LOGD(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Throwable;)V44
+s
+mcom.google.android.libraries.cast.companionlibrary.utils.LogUtils#LOGV(Ljava/lang/String;Ljava/lang/String;)V46
+
+
+LOGV47
+‰
+‚com.google.android.libraries.cast.companionlibrary.utils.LogUtils#LOGV(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Throwable;)V49
+s
+mcom.google.android.libraries.cast.companionlibrary.utils.LogUtils#LOGI(Ljava/lang/String;Ljava/lang/String;)V51
+
+
+LOGI52
+‰
+‚com.google.android.libraries.cast.companionlibrary.utils.LogUtils#LOGI(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Throwable;)V54
+s
+mcom.google.android.libraries.cast.companionlibrary.utils.LogUtils#LOGW(Ljava/lang/String;Ljava/lang/String;)V56
+
+
+LOGW57
+‰
+‚com.google.android.libraries.cast.companionlibrary.utils.LogUtils#LOGW(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Throwable;)V59
+s
+mcom.google.android.libraries.cast.companionlibrary.utils.LogUtils#LOGE(Ljava/lang/String;Ljava/lang/String;)V61
+
+
+LOGE62
+‰
+‚com.google.android.libraries.cast.companionlibrary.utils.LogUtils#LOGE(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Throwable;)V64
+
+getVersionPrefix65
+T
+Ncom.google.android.libraries.cast.companionlibrary.utils.LogUtils#setDebug(Z)V67
+
+setDebug68J
+
+1
+12Z
+
+3	
+354j¡
+
+@
+32:
+323330 *
+1& &(26:3B
+	
+9
+10
+
+
+11
+34
+@
+45:
+454630 *
+1A A(26:3B
+	
+9
+10
+
+
+11
+47
+@
+18:
+181915 *
+1 (26:3B
+	
+9
+16
+
+
+11
+20
+@
+43:
+434430 *
+1; ;(26:3B
+	
+9
+10
+
+
+11
+39
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+@
+13:
+131415 *
+1 (26:3B
+	
+9
+16
+
+
+11
+17
+@
+48:
+484930 *
+1G G(26:3B
+	
+9
+10
+
+
+11
+47
+@
+63:
+636430 *
+1a a(26:3B
+	
+9
+10
+
+
+11
+62
+@
+55:
+555630 *
+1U U(26:3B
+	
+9
+10
+
+
+11
+57
+@
+28:
+282930 *
+1# #(26:3B
+	
+9
+16
+
+
+11
+12
+@
+35:
+353630 *
+11 1(26:3B
+	
+9
+10
+
+
+11
+34
+@
+37:
+373830 *
+15 5(26:3B
+	
+9
+10
+
+
+11
+39
+@
+22:
+222315 *
+1 (26:3B
+	
+9
+16
+
+
+11
+24
+@
+50:
+505130 *
+1M M(26:3B
+	
+9
+10
+
+
+11
+52
+@
+58:
+585930 *
+1Y Y(26:3B
+	
+9
+10
+
+
+11
+57
+@
+40:
+404130 *
+1e e(26:3B
+	
+9
+10
+
+
+11
+65
+@
+53:
+535430 *
+1Q Q(26:3B
+	
+9
+10
+
+
+11
+52
+@
+60:
+606130 *
+1] ](26:3B
+	
+9
+10
+
+
+11
+62
+@
+66:
+666730 *
+1i i(26:3B
+	
+9
+10
+
+
+11
+68
+@
+25:
+252615 *
+1! !(26:3B
+	
+9
+16
+
+
+11
+27r‹
+
+181321*
+12 (<
+
+181321*
+12 (<
+
+28631*
+1# #(
+
+322221*
+1' '(.
+
+321821*
+1'1 '(B
+
+321321*
+1( ((
+
+322221*
+1(2 ((D
+
+321821*
+1(G ((X
+
+321321*
+1+ +(
+
+35621*
+12 2(
+
+353231*
+12 2(
+
+372521*
+16 6(
+
+37621*
+17 7((
+
+374031*
+17 7((
+
+432521*
+1< <(
+
+43621*
+1= =((
+
+434031*
+1= =((
+
+452521*
+1B B(
+
+45621*
+1C C((
+
+454031*
+1C C((
+
+482521*
+1H H(
+
+48621*
+1I I((
+
+484031*
+1I I((
+
+50621*
+1N N($
+
+504031*
+1N N($
+
+55621*
+1V V($
+
+554031*
+1V V($
+
+58621*
+1Z Z($
+
+584031*
+1Z Z($
+
+60621*
+1^ ^($
+
+604031*
+1^ ^($
+
+63621*
+1b b($
+
+634031*
+1b b($
+
+662521*
+1j	 j(

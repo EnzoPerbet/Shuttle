@@ -1,0 +1,47 @@
+
+Gcom.android.vending.billing.utils.Purchase#toString()Ljava/lang/String;h
+^C:/Users/enzo.perbet/Shuttle/app/src/main/java/com/android/vending/billing/utils/Purchase.java> >("1*©
+1>& >(:†
+ƒ
+>= >(F
+%0java.lang.String"__id*Y
+
+__unknown_file (=*;,
+*com.android.vending.billing.utils.Purchase"
+	mItemTypex
+v
+>& >(F
+%1java.lang.String"__concat*"
+>& >(:
+PurchaseInfo(type:*$
+>= >(F
+
+%0java.lang.Stringh
+f
+>& >(M
+%2java.lang.String"__concat*$
+>& >(F
+
+%1java.lang.String*
+>I >(M
+):Š
+‡
+>P >(]
+%3java.lang.String"__id*]
+
+__unknown_file (A*?,
+*com.android.vending.billing.utils.Purchase"
+mOriginalJsonz
+x
+>& >(]
+%4java.lang.String"__concat*$
+>& >(M
+
+%2java.lang.String*$
+>P >(]
+
+%3java.lang.String"$
+> >(^
+
+%4java.lang.StringB.,
+*com.android.vending.billing.utils.PurchaseH

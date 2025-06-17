@@ -1,0 +1,89 @@
+
+1.0testepsi2_analyseepsiJavaFrontend"1750157025856*java2.Bû
+t
+olibraries/ccl/src/com/google/android/libraries/cast/companionlibrary/cast/exceptions/NoConnectionException.java2
+
+package4
+G
+Bcom.google.android.libraries.cast.companionlibrary.cast.exceptions5
+]
+Xcom.google.android.libraries.cast.companionlibrary.cast.exceptions.NoConnectionException7
+
+	exception8
+
+access9
+
+public10
+
+simple name11
+
+NoConnectionException12
+h
+bcom.google.android.libraries.cast.companionlibrary.cast.exceptions.NoConnectionException#<init>()V14
+
+method15
+
+calls16
+}
+wcom.google.android.libraries.cast.companionlibrary.cast.exceptions.NoConnectionException#<init>(Ljava/lang/Throwable;)V18
+ê
+âcom.google.android.libraries.cast.companionlibrary.cast.exceptions.NoConnectionException#<init>(Ljava/lang/String;Ljava/lang/Throwable;)V20J
+
+1
+12Z
+
+3	
+354jÅ
+@
+17:
+171815 *
+1 (26:3B
+	
+9
+10
+
+
+11
+12
+9
+64
+678 *
+1 (#:3B
+	
+9
+10
+
+
+11
+12
+@
+19:
+192015 *
+1# #(26:3B
+	
+9
+10
+
+
+11
+12
+@
+13:
+131415 *
+1 (26:3B
+	
+9
+10
+
+
+11
+12rN
+
+13616*
+1 (!
+
+17616*
+1 (!
+
+19616*
+1# #(!

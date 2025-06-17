@@ -1,0 +1,645 @@
+
+1.0testepsi2_analyseepsiJavaFrontend"1750157079158*java2.B¸
+F
+Aapp/src/main/java/com/simplecity/amp_library/http/HttpServer.java2
+
+package4
+$
+com.simplecity.amp_library.http5
+/
+*com.simplecity.amp_library.http.HttpServer7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+
+HttpServer12
+4
+.com.simplecity.amp_library.http.HttpServer.TAG14
+
+field15
+
+private16
+	
+TAG17
+<
+6com.simplecity.amp_library.http.HttpServer.sHttpServer19
+
+sHttpServer20
+
+is type21
+
+
+uses22
+7
+1com.simplecity.amp_library.http.HttpServer.server24
+
+server25
+;
+5com.simplecity.amp_library.http.HttpServer$NanoServer27
+
+unknown28
+
+
+references29
+A
+;com.simplecity.amp_library.http.HttpServer.audioFileToServe31
+
+	protected32
+
+audioFileToServe33
+B
+<com.simplecity.amp_library.http.HttpServer.imageBytesToServe35
+
+imageBytesToServe36
+A
+;com.simplecity.amp_library.http.HttpServer.audioInputStream38
+
+audioInputStream39
+A
+;com.simplecity.amp_library.http.HttpServer.imageInputStream41
+
+imageInputStream42
+:
+4com.simplecity.amp_library.http.HttpServer.isStarted44
+
+	isStarted45
+j
+dcom.simplecity.amp_library.http.HttpServer#getInstance()Lcom/simplecity/amp_library/http/HttpServer;47
+
+method48
+
+getInstance49
+
+returns50
+
+calls51
+:
+4com.simplecity.amp_library.http.HttpServer#<init>()V53
+P
+Jcom.simplecity.amp_library.http.HttpServer#serveAudio(Ljava/lang/String;)V55
+
+
+serveAudio56
+@
+:com.simplecity.amp_library.http.HttpServer#serveImage([B)V58
+
+
+serveImage59
+9
+3com.simplecity.amp_library.http.HttpServer#start()V61
+
+start62
+8
+2com.simplecity.amp_library.http.HttpServer#stop()V64
+
+
+stop65
+F
+@com.simplecity.amp_library.http.HttpServer#cleanupAudioStream()V67
+F
+@com.simplecity.amp_library.http.HttpServer#cleanupImageStream()V69
+
+
+NanoServer70
+'
+!Recovered#typeBindingLNanoHTTPD;072
+
+extends73
+q
+kcom.simplecity.amp_library.http.HttpServer$NanoServer#<init>(Lcom/simplecity/amp_library/http/HttpServer;)V75
+[
+Ucom.simplecity.amp_library.http.HttpServer$NanoServer#serve(LIHTTPSession;)LResponse;77
+
+serve78
+
+Response80
+*
+$Recovered#typeBindingLIHTTPSession;082
+
+	has param83
+&
+ Recovered#typeBindingLResponse;085
+b
+\com.simplecity.amp_library.http.HttpServer#getMimeType(Ljava/lang/String;)Ljava/lang/String;87
+
+cleanupAudioStream88
+
+cleanupImageStream89
+;
+5com.simplecity.amp_library.http.HttpServer.MIME_TYPES91
+
+
+MIME_TYPES92
+2
+,com.simplecity.amp_library.http.HttpServer$194
+
+getMimeType95J
+
+1
+12Z
+
+3	
+354j¶
+@
+18:
+181915 *
+1 (26:3B
+	
+9
+16
+
+
+11
+20
+@
+34:
+343515 *
+1 (	26:3B
+	
+9
+32
+
+
+11
+36
+B
+90<
+909115 *
+1¨ ¨(26:3B
+	
+9
+16
+
+
+11
+92
+@
+52:
+525348 *
+1% %(26:3B
+	
+9
+16
+
+
+11
+12
+
+84
+848528
+@
+46:
+464748 *
+1 (26:3B
+	
+9
+10
+
+
+11
+49
+@
+43:
+434415 *
+1 (26:3B
+	
+9
+16
+
+
+11
+45
+@
+60:
+606148 *
+15 5(26:3B
+	
+9
+10
+
+
+11
+62
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+?
+269
+26278 *
+1I I(26:3B
+	
+9
+16
+
+
+11
+70
+@
+63:
+636448 *
+1@ @(26:3B
+	
+9
+10
+
+
+11
+65
+@
+13:
+131415 *
+1 (26:3B
+	
+9
+16
+
+
+11
+17
+@
+30:
+303115 *
+1 (26:3B
+	
+9
+32
+
+
+11
+33
+@
+54:
+545548 *
+1) )(26:3B
+	
+9
+10
+
+
+11
+56
+
+81
+818228
+@
+57:
+575848 *
+1/ /(26:3B
+	
+9
+10
+
+
+11
+59
+@
+40:
+404115 *
+1 (26:3B
+	
+9
+32
+
+
+11
+42
+@
+37:
+373815 *
+1 (26:3B
+	
+9
+32
+
+
+11
+39
+A
+76;
+767748 *
+1O	 O(
+226:3B
+	
+9
+10
+
+
+11
+78
+6
+930
+93948 *
+1¨R ¨(S290:3B
+	
+9
+32
+B
+66<
+666748 *
+1– –(	26:3B
+	
+9
+32
+
+
+11
+88
+@
+23:
+232415 *
+1 (26:3B
+	
+9
+16
+
+
+11
+25
+
+71
+717228
+B
+68<
+686948 *
+1Ÿ Ÿ(	26:3B
+	
+9
+32
+
+
+11
+89
+
+79
+798028
+A
+74;
+747548 *
+1K	 K(226:3B
+	
+9
+32
+
+
+11
+70
+B
+86<
+868748 *
+1Å Å(26:3B
+	
+9
+32
+
+
+11
+95rß
+
+18621*
+1 (
+
+18622*
+1 (
+
+18622*
+1 (*
+
+232621*
+1 (
+
+232622*
+1 (
+
+232629*
+1 (
+
+232622*
+1 (
+
+46650*
+1 (
+
+46622*
+1 (
+
+46622*
+1 (
+
+461829*
+1 (
+
+46622*
+1   (
+
+461829*
+1   (
+
+46651*
+1   ()
+
+46622*
+1" "(
+
+461829*
+1" "(
+
+52651*
+1% %(
+
+522622*
+1&	 &(
+
+522329*
+1&	 &(
+
+522651*
+1& &( 
+
+543029*
+1+ +(
+
+573429*
+11 1(
+
+604329*
+16 6(
+
+602329*
+18 8(
+
+602622*
+18 8(
+
+602329*
+18 8(
+
+604329*
+19 9(
+
+601329*
+1; ;(
+
+634329*
+1A A(
+
+632329*
+1B B(
+
+632622*
+1B B(
+
+632329*
+1B B(
+
+634329*
+1C C(
+
+63629*
+1D D(
+
+636651*
+1D D(
+
+63629*
+1E E(
+
+636851*
+1E E(
+
+267173*
+1I& I(/
+
+267122*
+1I& I(/
+
+742651*
+1K	 K(
+
+767950*
+1P P(
+
+768183*
+1P P(+
+
+767922*
+1P P(
+
+768121*
+1P, P(3
+
+768122*
+1P P(+
+
+763029*
+1R R(!
+
+761329*
+1S S(
+
+763029*
+1Z* Z(:
+
+76629*
+1} }(+
+
+766651*
+1} }(+
+
+763729*
+1~ ~()
+
+763729*
+1 ()
+
+763729*
+1 ()
+
+768421*
+1€" €(*
+
+768422*
+1€ €(!
+
+76629*
+1€e €(p
+
+768651*
+1€e €(p
+
+763029*
+1€q €(
+
+763729*
+1€„ €(”
+
+76629*
+1ƒ< ƒ(G
+
+768651*
+1ƒ< ƒ(G
+
+763029*
+1ƒH ƒ(X
+
+761329*
+1‰ ‰(
+
+76629*
+1 (#
+
+766851*
+1 (#
+
+764029*
+1Ž Ž(!
+
+763429*
+1Ž= Ž(N
+
+764029*
+1P (`
+
+763429*
+1b (s
+
+761329*
+1‘ ‘(
+
+663729*
+1— —(
+
+663729*
+1™ ™(!
+
+663729*
+1™ ™(!
+
+684029*
+1   (
+
+684029*
+1¢ ¢(!
+
+684029*
+1¢ ¢(!
+
+869029*
+1Æ Æ(
+
+869029*
+1Æ Æ(

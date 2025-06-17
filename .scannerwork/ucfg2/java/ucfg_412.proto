@@ -1,0 +1,85 @@
+
+Fcom.simplecity.amp_library.model.Playlist#toString()Ljava/lang/String;i
+]C:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Playlist.java£ £("1*È
+1
+§ §(d
+b
+
+§ •(
+%0java.lang.String"__concat*
+
+§ §(
+	Playlist{*
+
+• •(
+id=n
+l
+
+§ •(
+%1java.lang.String"__concat*&
+
+§ •(
+
+%0java.lang.String*
+
+• •(
+""t
+r
+
+§ ¶(
+%2java.lang.String"__concat*&
+
+§ •(
+
+%1java.lang.String*
+
+¶ ¶(
+
+, name='Å
+
+
+¶ ¶(!
+%3java.lang.String"__id*S
+
+__unknown_file (7*5+
+)com.simplecity.amp_library.model.Playlist"
+nameÄ
+~
+
+§ ¶(!
+%4java.lang.String"__concat*&
+
+§ ¶(
+
+%2java.lang.String*&
+
+¶ ¶(!
+
+%3java.lang.Stringn
+l
+
+§ ¶((
+%5java.lang.String"__concat*&
+
+§ ¶(!
+
+%4java.lang.String*
+
+¶$ ¶((
+\'m
+k
+
+§ ß(
+%6java.lang.String"__concat*&
+
+§ ¶((
+
+%5java.lang.String*
+
+ß ß(
+}"&
+
+§ ß(
+
+%6java.lang.StringB-+
+)com.simplecity.amp_library.model.PlaylistH

@@ -1,0 +1,23 @@
+Vthis# #("Bcom.google.android.libraries.cast.companionlibrary.cast.MediaQueue(
+queueItems# #(5"java.util.ListAcurrentItem$ $(&"&Recovered#typeBindingLMediaQueueItem;0shuffle$( $(7"boolean
+repeatMode$9 $(G"int"„.
+,
+% %( mQueueItems"#unknown-value#-
++
+% %( "#set-field# mQueueItems:/
+-
+& &("mCurrentItem"#unknown-value#.
+,
+& &("	"#set-field# mCurrentItem:,
+*
+' '(
+mShuffle"#id#:Bboolean*
+(
+' '("#set-field# mShuffle:
++
+)
+( (( mRepeatMode"#id#:Bint-
++
+( (( "#set-field# mRepeatMode:
+
+) )(*vC:/Users/enzo.perbet/Shuttle/libraries/ccl/src/com/google/android/libraries/cast/companionlibrary/cast/MediaQueue.java

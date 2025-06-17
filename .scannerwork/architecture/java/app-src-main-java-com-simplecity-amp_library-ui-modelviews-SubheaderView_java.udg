@@ -1,0 +1,430 @@
+
+1.0testepsi2_analyseepsiJavaFrontend"1750157077451*java2.B£
+R
+Mapp/src/main/java/com/simplecity/amp_library/ui/modelviews/SubheaderView.java2
+
+package4
+-
+(com.simplecity.amp_library.ui.modelviews5
+;
+6com.simplecity.amp_library.ui.modelviews.SubheaderView7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+SubheaderView12
++
+%Recovered#typeBindingLBaseViewModel;014
+
+unknown15
+
+extends16
+
+
+uses17
+G
+Acom.simplecity.amp_library.ui.modelviews.SubheaderView$ViewHolder19
+
+
+references20
+B
+<com.simplecity.amp_library.ui.modelviews.SubheaderView.title22
+
+field23
+
+private24
+
+title25
+X
+Rcom.simplecity.amp_library.ui.modelviews.SubheaderView#<init>(Ljava/lang/String;)V27
+
+method28
+
+calls29
+K
+Ecom.simplecity.amp_library.ui.modelviews.SubheaderView#getViewType()I31
+
+getViewType32
+N
+Hcom.simplecity.amp_library.ui.modelviews.SubheaderView#getLayoutResId()I34
+
+getLayoutResId35
+ž
+—com.simplecity.amp_library.ui.modelviews.SubheaderView#createViewHolder(LViewGroup;)Lcom/simplecity/amp_library/ui/modelviews/SubheaderView$ViewHolder;37
+
+createViewHolder38
+
+returns39
+'
+!Recovered#typeBindingLViewGroup;041
+
+	has param42
+
+is type43
+Œ
+…com.simplecity.amp_library.ui.modelviews.SubheaderView#bindView(Lcom/simplecity/amp_library/ui/modelviews/SubheaderView$ViewHolder;)V45
+
+bindView46
+
+BaseViewModel48
+
+TextView50
+P
+Jcom.simplecity.amp_library.ui.modelviews.SubheaderView$ViewHolder.textView52
+X
+Rcom.simplecity.amp_library.ui.modelviews.SubheaderView#equals(Ljava/lang/Object;)Z54
+
+equals55
+H
+Bcom.simplecity.amp_library.ui.modelviews.SubheaderView#hashCode()I57
+
+hashCode58
+
+
+ViewHolder59
+E
+?com.simplecityapps.recycler_adapter.recyclerview.BaseViewHolder61
+
+	protected62
+
+textView63
+
+BindView65
+
+annotated by66
+&
+ Recovered#typeBindingLBindView;068
+W
+Qcom.simplecity.amp_library.ui.modelviews.SubheaderView$ViewHolder#<init>(LView;)V70
+"
+Recovered#typeBindingLView;072J
+
+1
+12Z
+
+3	
+354j²
+@
+33:
+333428 *
+1 (26:3B
+	
+9
+10
+
+
+11
+35
+A
+69;
+697028 *
+1C	 C(218:3B
+	
+9
+10
+
+
+11
+59
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+@
+21:
+212223 *
+1 (26:3B
+	
+9
+24
+
+
+11
+25
+@
+44:
+444528 *
+1( ((26:3B
+	
+9
+10
+
+
+11
+46
+?
+189
+18198 *
+1> >(#26:3B
+	
+9
+10
+
+
+11
+59
+
+47
+474815
+@
+30:
+303128 *
+1 (26:3B
+	
+9
+10
+
+
+11
+32
+
+40
+404115
+@
+53:
+535428 *
+1/ /(26:3B
+	
+9
+10
+
+
+11
+55
+
+60
+606115
+
+71
+717215
+@
+26:
+262728 *
+1 (26:3B
+	
+9
+10
+
+
+11
+12
+
+64
+646515
+
+49
+495015
+
+13
+131415
+A
+51;
+515223 *
+1@	 @(
+218:3B
+	
+9
+62
+
+
+11
+63
+@
+56:
+565728 *
+19 9(26:3B
+	
+9
+10
+
+
+11
+58
+@
+36:
+363728 *
+1# #(26:3B
+	
+9
+10
+
+
+11
+38
+
+67
+676815r‰
+
+61316*
+1$ (1
+
+61317*
+1$ (1
+
+61817*
+1@ (J
+
+61820*
+1@ (J
+
+26629*
+1 (
+
+26617*
+1	 (
+
+26620*
+1	 (
+
+262120*
+1 (
+
+361839*
+1$ $(
+
+364042*
+1$( $(1
+
+361817*
+1$ $(
+
+361820*
+1$ $(
+
+364043*
+1$2 $(8
+
+364017*
+1$( $(1
+
+361829*
+1% %(
+
+441842*
+1) )($
+
+441843*
+1)% )(+
+
+441817*
+1) )($
+
+441820*
+1) )($
+
+44620*
+1*	 *(
+
+444717*
+1*	 *(
+
+44620*
+1*	 *(
+
+444917*
+1, ,(
+
+445120*
+1, ,(
+
+442120*
+1,! ,(&
+
+53617*
+11 1(
+
+53620*
+11 1(
+
+53643*
+14 4(
+
+53617*
+14	 4(
+
+53617*
+14 4(,
+
+532120*
+16 6(
+
+532120*
+16  6(%
+
+532120*
+16  6(%
+
+532120*
+162 6(7
+
+532120*
+16@ 6(E
+
+562120*
+1; ;(
+
+562120*
+1;  ;(%
+
+562120*
+1;  ;(%
+
+186016*
+1>, >(:
+
+514943*
+1A	 A(
+
+516466*
+1@	 @(
+
+
+516717*
+1@
+ @(
+
+514917*
+1A	 A(
+
+514917*
+1A A(
+
+697142*
+1C C(
+
+691829*
+1C C(
+
+697143*
+1C  C((
+
+697117*
+1C C(
+
+696020*
+1D D(
+
+696029*
+1D D(
+
+696029*
+1D D(
+
+691817*
+1F F("
+
+691820*
+1F F("

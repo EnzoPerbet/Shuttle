@@ -1,0 +1,54 @@
+
+„com.simplecity.amp_library.ui.widgets.WidgetProviderMedium#getInstance()Lcom/simplecity/amp_library/ui/widgets/WidgetProviderMedium;x
+nC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetProviderMedium.java4 (?"3*Ÿ
+2 (2‹ˆ
+ (0@
+%2:com.simplecity.amp_library.ui.widgets.WidgetProviderMedium":com.simplecity.amp_library.ui.widgets.WidgetProviderMedium¹
+¶
+ (2
+%3"Dcom.simplecity.amp_library.ui.widgets.WidgetProviderMedium#<init>()V*^
+
+__unknown_file (B
+@
+%2:com.simplecity.amp_library.ui.widgets.WidgetProviderMediumÀ
+½
+ (2K<
+:com.simplecity.amp_library.ui.widgets.WidgetProviderMedium"
+	sInstance"__id*^
+
+__unknown_file (B
+@
+%2:com.simplecity.amp_library.ui.widgets.WidgetProviderMedium*
+1*ú
+3 (À
+½
+ (@
+%0:com.simplecity.amp_library.ui.widgets.WidgetProviderMedium"__id*i
+
+__unknown_file (M*K<
+:com.simplecity.amp_library.ui.widgets.WidgetProviderMedium"
+	sInstanceŸ
+œ
+ (
+%1boolean"	__compare*
+ (
+==*N
+ (B
+@
+%0:com.simplecity.amp_library.ui.widgets.WidgetProviderMedium*
+ (
+""*
+2
+1* 
+1 (À
+½
+ (@
+%4:com.simplecity.amp_library.ui.widgets.WidgetProviderMedium"__id*i
+
+__unknown_file (M*K<
+:com.simplecity.amp_library.ui.widgets.WidgetProviderMedium"
+	sInstance"N
+ (B
+@
+%4:com.simplecity.amp_library.ui.widgets.WidgetProviderMediumB>"<
+:com.simplecity.amp_library.ui.widgets.WidgetProviderMediumH

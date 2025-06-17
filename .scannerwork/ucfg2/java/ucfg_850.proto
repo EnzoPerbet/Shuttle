@@ -1,0 +1,31 @@
+
+ecom.simplecity.amp_library.utils.SettingsManager#getFolderBrowserFoldersSortOrder()Ljava/lang/String;p
+dC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.java… …(2"1*Î
+1
+† †(o
+m
+
+† †(>
+%0java.lang.String"__id*A
+
+__unknown_file (%#
+!folder_browser_folders_sort_orderµ
+²
+
+† †(`
+%1"rcom.simplecity.amp_library.utils.SettingsManager#getString(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*P
+
+__unknown_file (42
+0com.simplecity.amp_library.utils.SettingsManager*4
+
+__unknown_file (
+
+%0java.lang.String*"
+
+__unknown_file (
+"""
+
+† †(a
+
+%1B42
+0com.simplecity.amp_library.utils.SettingsManagerH

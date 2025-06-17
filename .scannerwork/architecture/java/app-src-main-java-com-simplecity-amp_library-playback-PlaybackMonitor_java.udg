@@ -1,0 +1,274 @@
+
+1.0testepsi2_analyseepsiJavaFrontend"1750157059955*java2.BÍ	
+O
+Japp/src/main/java/com/simplecity/amp_library/playback/PlaybackMonitor.java2
+
+package4
+(
+#com.simplecity.amp_library.playback5
+8
+3com.simplecity.amp_library.playback.PlaybackMonitor7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+PlaybackMonitor12
+=
+7com.simplecity.amp_library.playback.PlaybackMonitor.TAG14
+
+field15
+
+private16
+	
+TAG17
+B
+<com.simplecity.amp_library.playback.PlaybackMonitor.instance19
+
+instance20
+
+is type21
+
+
+uses22
+L
+Fcom.simplecity.amp_library.playback.PlaybackMonitor.progressObservable24
+
+progressObservable25
+
+Flowable27
+
+unknown28
+O
+Icom.simplecity.amp_library.playback.PlaybackMonitor.currentTimeObservable30
+
+currentTimeObservable31
+|
+vcom.simplecity.amp_library.playback.PlaybackMonitor#getInstance()Lcom/simplecity/amp_library/playback/PlaybackMonitor;33
+
+method34
+
+getInstance35
+
+returns36
+
+
+references37
+
+calls38
+C
+=com.simplecity.amp_library.playback.PlaybackMonitor#<init>()V40
+[
+Ucom.simplecity.amp_library.playback.PlaybackMonitor#getProgressObservable()LFlowable;42
+
+getProgressObservable43
+^
+Xcom.simplecity.amp_library.playback.PlaybackMonitor#getCurrentTimeObservable()LFlowable;45
+
+getCurrentTimeObservable46J
+
+1
+12Z
+
+3	
+354jﬂ
+@
+29:
+293015 *
+1 (26:3B
+	
+9
+16
+
+
+11
+31
+@
+23:
+232415 *
+1 (26:3B
+	
+9
+16
+
+
+11
+25
+@
+39:
+394034 *
+1 (26:3B
+	
+9
+16
+
+
+11
+12
+@
+13:
+131415 *
+1 (26:3B
+	
+9
+16
+
+
+11
+17
+@
+32:
+323334 *
+1 (26:3B
+	
+9
+10
+
+
+11
+35
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+@
+44:
+444534 *
+17 7(26:3B
+	
+9
+10
+
+
+11
+46
+@
+41:
+414234 *
+13 3(26:3B
+	
+9
+10
+
+
+11
+43
+@
+18:
+181915 *
+1 (26:3B
+	
+9
+16
+
+
+11
+20
+
+26
+262728rª
+
+18621*
+1 (#
+
+18622*
+1 (#
+
+18622*
+1$ (,
+
+232621*
+1 (
+
+232622*
+1 (
+
+232622*
+1 (/
+
+292621*
+1 (
+
+292622*
+1 (
+
+292622*
+1 (1
+
+32636*
+1 ("
+
+32622*
+1 ("
+
+32622*
+1 (
+
+321837*
+1 (
+
+32622*
+1 (
+
+321837*
+1 (
+
+32638*
+1 (+
+
+32622*
+1 (
+
+321837*
+1 (
+
+39638*
+1 (
+
+392622*
+1	 (
+
+392337*
+1	 (
+
+392622*
+1+	 +(
+
+392937*
+1+	 +(
+
+412636*
+13 3(
+
+412622*
+13 3(
+
+412622*
+14 4("
+
+412337*
+14 4("
+
+442636*
+17 7(
+
+442622*
+17 7(
+
+442622*
+18 8(%
+
+442937*
+18 8(%

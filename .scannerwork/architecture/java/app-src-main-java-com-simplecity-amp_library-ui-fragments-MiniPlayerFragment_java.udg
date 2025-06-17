@@ -1,0 +1,1461 @@
+
+1.0testepsi2_analyseepsiJavaFrontend"1750157048788*java2.B«.
+V
+Qapp/src/main/java/com/simplecity/amp_library/ui/fragments/MiniPlayerFragment.java2
+
+package4
+,
+'com.simplecity.amp_library.ui.fragments5
+?
+:com.simplecity.amp_library.ui.fragments.MiniPlayerFragment7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+MiniPlayerFragment12
+*
+$Recovered#typeBindingLBaseFragment;014
+
+unknown15
+
+extends16
+
+
+uses17
+D
+>com.simplecity.amp_library.ui.fragments.MiniPlayerFragment.TAG19
+
+field20
+
+private21
+	
+TAG22
+I
+Ccom.simplecity.amp_library.ui.fragments.MiniPlayerFragment.rootView24
+
+	protected25
+
+rootView26
+
+
+View28
+
+is type29
+N
+Hcom.simplecity.amp_library.ui.fragments.MiniPlayerFragment.playPauseView31
+
+playPauseView32
+
+PlayPauseView34
+
+BindView36
+
+annotated by37
+&
+ Recovered#typeBindingLBindView;039
+L
+Fcom.simplecity.amp_library.ui.fragments.MiniPlayerFragment.progressBar41
+
+progressBar42
+
+ProgressBar44
+J
+Dcom.simplecity.amp_library.ui.fragments.MiniPlayerFragment.trackName46
+
+	trackName47
+
+TextView49
+K
+Ecom.simplecity.amp_library.ui.fragments.MiniPlayerFragment.artistName51
+
+
+artistName52
+L
+Fcom.simplecity.amp_library.ui.fragments.MiniPlayerFragment.miniArtwork54
+
+miniArtwork55
+
+	ImageView57
+J
+Dcom.simplecity.amp_library.ui.fragments.MiniPlayerFragment.presenter59
+
+	presenter60
+
+PlayerPresenter62
+
+Inject64
+$
+Recovered#typeBindingLInject;066
+K
+Ecom.simplecity.amp_library.ui.fragments.MiniPlayerFragment.disposable68
+
+
+disposable69
+
+CompositeDisposable71
+I
+Ccom.simplecity.amp_library.ui.fragments.MiniPlayerFragment.unbinder73
+
+unbinder74
+
+Unbinder76
+J
+Dcom.simplecity.amp_library.ui.fragments.MiniPlayerFragment#<init>()V78
+
+method79
+
+calls80
+ã
+Ñcom.simplecity.amp_library.ui.fragments.MiniPlayerFragment#newInstance()Lcom/simplecity/amp_library/ui/fragments/MiniPlayerFragment;82
+
+newInstance83
+
+returns84
+$
+Recovered#typeBindingLBundle;086
+T
+Ncom.simplecity.amp_library.ui.fragments.MiniPlayerFragment#onCreate(LBundle;)V88
+
+onCreate89
+
+	has param90
+
+
+references91
+
+BaseFragment93
+
+AppComponent95
+3
+-com.simplecity.amp_library.ShuttleApplication97
+S
+Mcom.simplecity.amp_library.ShuttleApplication#getAppComponent()LAppComponent;99
+q
+jcom.simplecity.amp_library.ShuttleApplication#getInstance()Lcom/simplecity/amp_library/ShuttleApplication;101
+y
+rcom.simplecity.amp_library.ui.fragments.MiniPlayerFragment#onCreateView(LLayoutInflater;LViewGroup;LBundle;)LView;103
+
+onCreateView104
+-
+&Recovered#typeBindingLLayoutInflater;0106
+(
+!Recovered#typeBindingLViewGroup;0108
+
+Nullable110
+'
+ Recovered#typeBindingLNullable;0112
+V
+Ocom.simplecity.amp_library.ui.fragments.MiniPlayerFragment$OnSwipeTouchListener114
+`
+Ycom.simplecity.amp_library.ui.fragments.MiniPlayerFragment#onViewCreated(LView;LBundle;)V116
+
+onViewCreated117
+#
+Recovered#typeBindingLView;0119
+
+PlayerViewAdapter121
+S
+Lcom.simplecity.amp_library.ui.fragments.MiniPlayerFragment.playerViewAdapter123
+M
+Fcom.simplecity.amp_library.ui.fragments.MiniPlayerFragment#onResume()V125
+
+onResume126
+R
+Kcom.simplecity.amp_library.ui.fragments.MiniPlayerFragment#onDestroyView()V128
+
+onDestroyView129
+N
+Gcom.simplecity.amp_library.ui.fragments.MiniPlayerFragment#onDestroy()V131
+
+	onDestroy132
+
+OnSwipeTouchListener133
+
+
+implements134
+f
+_com.simplecity.amp_library.ui.fragments.MiniPlayerFragment$OnSwipeTouchListener.gestureDetector136
+
+gestureDetector137
+
+GestureDetector139
+¶
+ûcom.simplecity.amp_library.ui.fragments.MiniPlayerFragment$OnSwipeTouchListener#<init>(Lcom/simplecity/amp_library/ui/fragments/MiniPlayerFragment;LContext;)V141
+&
+Recovered#typeBindingLContext;0143
+f
+_com.simplecity.amp_library.ui.fragments.MiniPlayerFragment$OnSwipeTouchListener$GestureListener145
+e
+^com.simplecity.amp_library.ui.fragments.MiniPlayerFragment$OnSwipeTouchListener#onSwipeLeft()V147
+
+onSwipeLeft148
+f
+_com.simplecity.amp_library.ui.fragments.MiniPlayerFragment$OnSwipeTouchListener#onSwipeRight()V150
+
+onSwipeRight151
+t
+mcom.simplecity.amp_library.ui.fragments.MiniPlayerFragment$OnSwipeTouchListener#onTouch(LView;LMotionEvent;)Z153
+
+onTouch154
+*
+#Recovered#typeBindingLMotionEvent;0156
+
+GestureListener157
+.
+'Recovered#typeBindingLGestureDetector;0159
+
+xcom.simplecity.amp_library.ui.fragments.MiniPlayerFragment$OnSwipeTouchListener$GestureListener.SWIPE_DISTANCE_THRESHOLD161
+
+SWIPE_DISTANCE_THRESHOLD162
+
+xcom.simplecity.amp_library.ui.fragments.MiniPlayerFragment$OnSwipeTouchListener$GestureListener.SWIPE_VELOCITY_THRESHOLD164
+
+SWIPE_VELOCITY_THRESHOLD165
+¬
+∫com.simplecity.amp_library.ui.fragments.MiniPlayerFragment$OnSwipeTouchListener$GestureListener#<init>(Lcom/simplecity/amp_library/ui/fragments/MiniPlayerFragment$OnSwipeTouchListener;)V167
+}
+vcom.simplecity.amp_library.ui.fragments.MiniPlayerFragment$OnSwipeTouchListener$GestureListener#onDown(LMotionEvent;)Z169
+
+onDown170
+é
+Ücom.simplecity.amp_library.ui.fragments.MiniPlayerFragment$OnSwipeTouchListener$GestureListener#onFling(LMotionEvent;LMotionEvent;FF)Z172
+
+onFling173
+`
+Ycom.simplecity.amp_library.ui.fragments.MiniPlayerFragment#screenName()Ljava/lang/String;175
+
+
+screenName176
+
+playerViewAdapter177
+C
+<com.simplecity.amp_library.ui.fragments.MiniPlayerFragment$1179
+W
+Pcom.simplecity.amp_library.ui.fragments.MiniPlayerFragment$1#setSeekProgress(I)V181
+
+setSeekProgress182
+W
+Pcom.simplecity.amp_library.ui.fragments.MiniPlayerFragment$1#playbackChanged(Z)V184
+
+playbackChanged185
+]
+Vcom.simplecity.amp_library.ui.fragments.MiniPlayerFragment$1#trackInfoChanged(LSong;)V187
+
+trackInfoChanged188
+#
+Recovered#typeBindingLSong;0190
+h
+acom.simplecity.amp_library.ui.fragments.MiniPlayerFragment$1#showUpgradeDialog(LMaterialDialog;)V192
+
+showUpgradeDialog193
+-
+&Recovered#typeBindingLMaterialDialog;0195J
+
+1
+12Z
+
+3	
+354jÙ
+
+120
+12012115
+@
+40:
+404120 *
+14 4(26:3B
+	
+9
+25
+
+
+11
+42
+H
+171A
+17117279 *
+1∆ ∆(2144:3B
+	
+9
+10
+
+11
+173
+@
+30:
+303120 *
+11 1(26:3B
+	
+9
+25
+
+
+11
+32
+@
+72:
+727320 *
+1E E(26:3B
+	
+9
+21
+
+
+11
+74
+H
+160A
+16016120 *
+1ª ª(2144:3B
+	
+9
+21
+
+11
+162
+H
+140A
+14014179 *
+1†	 †(2113:3B
+	
+9
+25
+
+11
+133
+
+61
+616215
+F
+122?
+12212320 *
+1€ €(26:3B
+	
+9
+25
+
+11
+177
+
+189
+18919015
+
+92
+929315
+
+107
+10710815
+H
+166A
+16616779 *
+1æ æ(2144:3B
+	
+9
+25
+
+11
+157
+
+48
+484915
+
+56
+565715
+H
+168A
+16816979 *
+1¡ ¡(2144:3B
+	
+9
+10
+
+11
+170
+F
+130?
+13013179 *
+1ï ï(26:3B
+	
+9
+10
+
+11
+132
+
+98
+989915
+H
+183A
+18318479 *
+1„	 „(
+2178:3B
+	
+9
+10
+
+11
+185
+
+65
+656615
+@
+23:
+232420 *
+1/ /(	26:3B
+	
+9
+25
+
+
+11
+26
+H
+146A
+14614779 *
+1§	 §(2113:3B
+	
+9
+25
+
+11
+148
+D
+115=
+11511679 *
+1} }(26:3B
+	
+9
+10
+
+11
+117
+
+100
+10010115
+@
+53:
+535420 *
+1= =(26:3B
+	
+9
+25
+
+
+11
+55
+@
+67:
+676820 *
+1C C(26:3B
+	
+9
+21
+
+
+11
+69
+H
+186A
+18618779 *
+1	 (
+2178:3B
+	
+9
+10
+
+11
+188
+
+85
+858615
+
+94
+949515
+@
+45:
+454620 *
+17 7(26:3B
+	
+9
+25
+
+
+11
+47
+@
+18:
+181920 *
+1- -(26:3B
+	
+9
+21
+
+
+11
+22
+
+105
+10510615
+
+70
+707115
+
+109
+10911015
+@
+50:
+505120 *
+1: :(26:3B
+	
+9
+25
+
+
+11
+52
+
+142
+14214315
+
+158
+15815915
+
+75
+757615
+H
+163A
+16316420 *
+1º º(2144:3B
+	
+9
+21
+
+11
+165
+
+138
+13813915
+G
+144@
+1441458 *
+1π π(,2113:3B
+	
+9
+21
+
+11
+157
+@
+87:
+878879 *
+1R R(26:3B
+	
+9
+10
+
+
+11
+89
+E
+113>
+1131148 *
+1ú ú('26:3B
+	
+9
+21
+
+11
+133
+
+111
+11111215
+
+118
+11811915
+F
+127?
+12712879 *
+1ç ç(26:3B
+	
+9
+10
+
+11
+129
+F
+124?
+12412579 *
+1Ñ Ñ(26:3B
+	
+9
+10
+
+11
+126
+H
+152A
+15215379 *
+1¨	 ¨(2113:3B
+	
+9
+10
+
+11
+154
+
+43
+434415
+
+63
+636415
+
+13
+131415
+
+33
+333415
+:
+1783
+1781798 *
+1€C €(D2122:3B
+	
+9
+25
+D
+102=
+10210379 *
+1[ [(26:3B
+	
+9
+10
+
+11
+104
+H
+191A
+19119279 *
+1É	 É(
+2178:3B
+	
+9
+10
+
+11
+193
+H
+180A
+18018179 *
+1›	 ›(
+2178:3B
+	
+9
+10
+
+11
+182
+@
+77:
+777879 *
+1G G(26:3B
+	
+9
+10
+
+
+11
+12
+
+27
+272815
+@
+81:
+818279 *
+1K K(26:3B
+	
+9
+10
+
+
+11
+83
+
+96
+969715
+@
+58:
+585920 *
+1@ @(26:3B
+	
+9
+25
+
+
+11
+60
+H
+135A
+13513620 *
+1û	 û(2113:3B
+	
+9
+21
+
+11
+137
+
+35
+353615
+H
+149A
+14915079 *
+1®	 ®(2113:3B
+	
+9
+25
+
+11
+151
+
+155
+15515615
+
+194
+19419515
+9
+64
+678 *
+1+ +( :3B
+	
+9
+10
+
+
+11
+12
+F
+174?
+17417579 *
+1÷ ÷(26:3B
+	
+9
+25
+
+11
+176
+
+38
+383915rÆ5
+
+61316*
+1+) +(5
+
+61317*
+1+) +(5
+
+232729*
+1/ /(	
+
+232717*
+1/ /(	
+
+232717*
+1/
+ /(
+
+303329*
+12 2(
+
+303537*
+11 1(
+
+303817*
+11 1(
+
+303317*
+12 2(
+
+303317*
+12 2( 
+
+404329*
+15 5(
+
+403537*
+14 4(
+
+403817*
+14 4(
+
+404317*
+15 5(
+
+404317*
+15 5(
+
+454829*
+18 8(
+
+453537*
+17 7(
+
+453817*
+17 7(
+
+454817*
+18 8(
+
+454817*
+18 8(
+
+504829*
+1; ;(
+
+503537*
+1: :(
+
+503817*
+1: :(
+
+504817*
+1; ;(
+
+504817*
+1; ;(
+
+535629*
+1> >(
+
+533537*
+1= =(
+
+533817*
+1= =(
+
+535617*
+1> >(
+
+535617*
+1> >(
+
+586129*
+1A A(
+
+586337*
+1@ @(
+
+586517*
+1@ @(
+
+586117*
+1A A(
+
+586117*
+1A A(
+
+677029*
+1C C( 
+
+677017*
+1C C( 
+
+677017*
+1C! C(+
+
+727529*
+1E E(
+
+727517*
+1E E(
+
+727517*
+1E E(
+
+77680*
+1G G(
+
+81684*
+1K K(%
+
+81617*
+1K K(%
+
+81629*
+1L L($
+
+81617*
+1L	 L(
+
+81680*
+1L+ L(=
+
+818529*
+1M M(
+
+818517*
+1M	 M(
+
+878590*
+1S S( 
+
+878529*
+1S! S(3
+
+878517*
+1S S( 
+
+87691*
+1T	 T(
+
+879217*
+1T	 T(
+
+87691*
+1T	 T(
+
+879484*
+1V	 V(
+
+879691*
+1V	 V(
+
+879880*
+1V* V(9
+
+879684*
+1V	 V(
+
+879691*
+1V	 V(
+
+8710080*
+1V V('
+
+879617*
+1V	 V(
+
+87617*
+1W* W(.
+
+87691*
+1W* W(.
+
+87617*
+1X X(
+
+87691*
+1X X(
+
+1022784*
+1\ \(
+
+10210590*
+1\ \(,
+
+10210790*
+1\A \(J
+
+1028590*
+1\` \(f
+
+1022717*
+1\ \(
+
+10210529*
+1\- \(5
+
+10210517*
+1\ \(,
+
+10210729*
+1\K \(T
+
+10210937*
+1\7 \(8
+
+10211117*
+1\8 \(@
+
+10210717*
+1\A \(J
+
+1028529*
+1\g \(y
+
+10210937*
+1\V \(W
+
+10211117*
+1\W \(_
+
+1028517*
+1\` \(f
+
+1022717*
+1]	 ](
+
+1022391*
+1]	 ](
+
+1027517*
+1_	 _(
+
+1027291*
+1_	 _(
+
+102617*
+1_% _()
+
+102691*
+1_% _()
+
+1022717*
+1_+ _(3
+
+1022391*
+1_+ _(3
+
+1022391*
+1a	 a(
+
+1022717*
+1a	 a(
+
+1022391*
+1a	 a(
+
+1022391*
+1g	 g(
+
+1022717*
+1g	 g(
+
+1022391*
+1g	 g(
+
+10211380*
+1g) g(=
+
+1023091*
+1i	 i(
+
+1023317*
+1i	 i(
+
+1023091*
+1i	 i(
+
+1024091*
+1n	 n(
+
+1024317*
+1n	 n(
+
+1024091*
+1n	 n(
+
+1026791*
+1p	 p(
+
+1027017*
+1p	 p(
+
+1026791*
+1p	 p(
+
+1022717*
+1z z(
+
+1022391*
+1z z(
+
+11511890*
+1~ ~(#
+
+1158590*
+1~4 ~(:
+
+11511829*
+1~$ ~((
+
+11511817*
+1~ ~(#
+
+1158529*
+1~; ~(M
+
+11510937*
+1~* ~(+
+
+11511117*
+1~+ ~(3
+
+1158517*
+1~4 ~(:
+
+115691*
+1	 (
+
+1159217*
+1	 (
+
+115691*
+1	 (
+
+1155891*
+1Å	 Å(
+
+1156117*
+1Å	 Å(
+
+1155891*
+1Å	 Å(
+
+11512017*
+1Å Å(-
+
+11512291*
+1Å Å(-
+
+124691*
+1Ü	 Ü(
+
+1249217*
+1Ü	 Ü(
+
+124691*
+1Ü	 Ü(
+
+1246117*
+1à à(
+
+1245891*
+1à à(
+
+1245891*
+1â â(
+
+1246117*
+1â â(
+
+1245891*
+1â â(
+
+1275891*
+1è	 è(
+
+1276117*
+1è	 è(
+
+1275891*
+1è	 è(
+
+12712017*
+1è è(/
+
+12712291*
+1è è(/
+
+1276791*
+1ê	 ê(
+
+1277017*
+1ê	 ê(
+
+1276791*
+1ê	 ê(
+
+1277291*
+1ë	 ë(
+
+1277517*
+1ë	 ë(
+
+1277291*
+1ë	 ë(
+
+127691*
+1í	 í(
+
+1279217*
+1í	 í(
+
+127691*
+1í	 í(
+
+1302391*
+1ó	 ó(
+
+1302717*
+1ó	 ó(
+
+1302391*
+1ó	 ó(
+
+130691*
+1ô	 ô(
+
+1309217*
+1ô	 ô(
+
+130691*
+1ô	 ô(
+
+113118134*
+1ú3 ú(7
+
+11311817*
+1ú3 ú(7
+
+11311817*
+1ú8 ú(G
+
+13513829*
+1û û(&
+
+13513817*
+1û û(&
+
+13513817*
+1û' û(6
+
+14014290*
+1† †(%
+
+14011380*
+1†	 †(
+
+14014229*
+1†& †(-
+
+14014217*
+1† †(%
+
+14013817*
+1° °(
+
+14013591*
+1° °(
+
+14014480*
+1°@ °(O
+
+1465891*
+1• •(
+
+1466117*
+1• •(
+
+1465891*
+1• •(
+
+1495891*
+1© ©(
+
+1496117*
+1© ©(
+
+1495891*
+1© ©(
+
+15211890*
+1¨  ¨($
+
+15215590*
+1¨( ¨(3
+
+15211829*
+1¨% ¨(&
+
+15211817*
+1¨  ¨($
+
+15215529*
+1¨4 ¨(9
+
+15215517*
+1¨( ¨(3
+
+15213591*
+1Æ  Æ(/
+
+15213817*
+1Æ  Æ(/
+
+15213591*
+1Æ  Æ(/
+
+14415816*
+1π5 π(D
+
+14415817*
+1π5 π(D
+
+14415817*
+1πE π(\
+
+16614480*
+1æ æ(
+
+16815590*
+1¬# ¬(.
+
+16815529*
+1¬/ ¬(0
+
+16815517*
+1¬# ¬(.
+
+17115590*
+1«$ «(/
+
+17115590*
+1«4 «(?
+
+17115529*
+1«0 «(2
+
+17115517*
+1«$ «(/
+
+17115529*
+1«@ «(B
+
+17115517*
+1«4 «(?
+
+17116091*
+1 X  (p
+
+17116391*
+1 ä  (¢
+
+17111391*
+1Ã Ã(%
+
+17114980*
+1Ã Ã(%
+
+17111391*
+1Œ Œ($
+
+17114680*
+1Œ Œ($
+
+1741891*
+1ÿ ÿ(
+
+12212029*
+1€ €(
+
+12212017*
+1€ €(
+
+12212017*
+1€ €((
+
+1804091*
+1ﬂ ﬂ(
+
+1804317*
+1ﬂ ﬂ(
+
+1804091*
+1ﬂ ﬂ(
+
+1833091*
+1Ê Ê("
+
+1833317*
+1Ê Ê("
+
+1833091*
+1Ê Ê("
+
+1833091*
+1Á Á("
+
+1833317*
+1Á Á("
+
+1833091*
+1Á Á("
+
+1833091*
+1Í Í(#
+
+1833317*
+1Í Í(#
+
+1833091*
+1Í Í(#
+
+1833091*
+1Î Î("
+
+1833317*
+1Î Î("
+
+1833091*
+1Î Î("
+
+18618990*
+1Ò0 Ò(4
+
+18618929*
+1Ò5 Ò(9
+
+18610937*
+1Ò& Ò('
+
+18611117*
+1Ò' Ò(/
+
+18618917*
+1Ò0 Ò(4
+
+1864591*
+1ı ı(
+
+1864817*
+1ı ı(
+
+1864591*
+1ı ı(
+
+1865091*
+1ˆ ˆ(
+
+1864817*
+1ˆ ˆ(
+
+1865091*
+1ˆ ˆ(
+
+1865617*
+1˝ ˝(&
+
+1865391*
+1˝ ˝(&
+
+1862391*
+1ˇ ˇ(
+
+1862717*
+1ˇ ˇ(
+
+1862391*
+1ˇ ˇ(
+
+19119490*
+1Ñ' Ñ(5
+
+19119429*
+1Ñ6 Ñ(<
+
+19119417*
+1Ñ' Ñ(5

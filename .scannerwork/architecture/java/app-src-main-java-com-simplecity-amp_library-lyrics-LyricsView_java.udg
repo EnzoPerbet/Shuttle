@@ -1,0 +1,195 @@
+
+1.0testepsi2_analyseepsiJavaFrontend"1750157058415*java2.B£	
+H
+Capp/src/main/java/com/simplecity/amp_library/lyrics/LyricsView.java2
+
+package4
+&
+!com.simplecity.amp_library.lyrics5
+1
+,com.simplecity.amp_library.lyrics.LyricsView7
+
+	interface8
+
+access9
+
+	protected10
+
+simple name11
+
+
+LyricsView12
+T
+Ncom.simplecity.amp_library.lyrics.LyricsView#updateLyrics(Ljava/lang/String;)V14
+
+method15
+
+public16
+
+updateLyrics17
+
+Nullable19
+
+unknown20
+
+annotated by21
+&
+ Recovered#typeBindingLNullable;023
+
+
+uses24
+G
+Acom.simplecity.amp_library.lyrics.LyricsView#showNoLyricsView(Z)V26
+
+showNoLyricsView27
+O
+Icom.simplecity.amp_library.lyrics.LyricsView#showQuickLyricInfoButton(Z)V29
+
+showQuickLyricInfoButton30
+N
+Hcom.simplecity.amp_library.lyrics.LyricsView#showQuickLyricInfoDialog()V32
+
+showQuickLyricInfoDialog33
+H
+Bcom.simplecity.amp_library.lyrics.LyricsView#downloadQuickLyric()V35
+
+downloadQuickLyric36
+m
+gcom.simplecity.amp_library.lyrics.LyricsView#launchQuickLyric(Lcom/simplecity/amp_library/model/Song;)V38
+
+launchQuickLyric39
++
+%com.simplecity.amp_library.model.Song41
+
+	has param42
+
+is type43
+
+NonNull45
+%
+Recovered#typeBindingLNonNull;047J
+
+1
+12Z
+
+3	
+354j«
+@
+13:
+131415 *
+1
+ 
+(	26:3B
+	
+9
+16
+
+
+11
+17
+
+40
+404120
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+
+22
+222320
+@
+34:
+343515 *
+1 (	26:3B
+	
+9
+16
+
+
+11
+36
+
+44
+444520
+@
+31:
+313215 *
+1 (	26:3B
+	
+9
+16
+
+
+11
+33
+@
+37:
+373815 *
+1 (	26:3B
+	
+9
+16
+
+
+11
+39
+
+18
+181920
+@
+28:
+282915 *
+1 (	26:3B
+	
+9
+16
+
+
+11
+30
+
+46
+464720
+@
+25:
+252615 *
+1 (	26:3B
+	
+9
+16
+
+
+11
+27r½
+
+131821*
+1
+ 
+(
+
+132224*
+1
+ 
+( 
+
+374042*
+1$ ((
+
+374043*
+1) (-
+
+374421*
+1 (
+
+374624*
+1 (#
+
+374024*
+1$ ((

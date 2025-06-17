@@ -1,0 +1,75 @@
+
+Icom.simplecity.amp_library.model.Song#getBitrateLabel()Ljava/lang/String;e
+YC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Song.javaï ï(!"3*—
+2
+ñ ñ(%§¤
+
+ñ ñ('
+%2";com.simplecity.amp_library.model.Song#getTagInfo()LTagInfo;*E
+
+__unknown_file ()'
+%com.simplecity.amp_library.model.Song2getTagInfo()b
+`
+
+ñ ñ(
+%3"__calculate*
+
+ñ0 ñ(1
++*
+
+ñ ñ(/
+""*
+
+ñ2 ñ(
+""s
+q
+
+ñ ñ(9'
+%com.simplecity.amp_library.model.Song"
+bitrateLabel"__id*"
+
+__unknown_file (
+
+%3*
+1*ž
+3
+ð ð(†
+ƒ
+
+ð ð(
+%0java.lang.String"__id*W
+
+__unknown_file (;*9'
+%com.simplecity.amp_library.model.Song"
+bitrateLabel|
+z
+
+ð ð( 
+%1boolean"	__compare*
+
+ð ð(
+==*&
+
+ð ð(
+
+%0java.lang.String*
+
+ð ð( 
+""*
+2
+1*À
+1
+ó ó(†
+ƒ
+
+ó ó(
+%4java.lang.String"__id*W
+
+__unknown_file (;*9'
+%com.simplecity.amp_library.model.Song"
+bitrateLabel"&
+
+ó ó(
+
+%4java.lang.StringB)'
+%com.simplecity.amp_library.model.SongH

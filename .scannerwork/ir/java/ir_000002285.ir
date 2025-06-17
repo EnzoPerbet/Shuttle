@@ -1,0 +1,16 @@
+Vthis (""Bcom.simplecity.amp_library.ui.recyclerview.ItemTouchHelperCallbacksonMoveListener# (D"Ucom.simplecity.amp_library.ui.recyclerview.ItemTouchHelperCallback$OnItemMoveListeneroonDropListenerF (c"Qcom.simplecity.amp_library.ui.recyclerview.ItemTouchHelperCallback$OnDropListenerronClearListener	e (é"Rcom.simplecity.amp_library.ui.recyclerview.ItemTouchHelperCallback$OnClearListener"±Ñ
+Å
+   (*mItemMoveListener"#id#:BUcom.simplecity.amp_library.ui.recyclerview.ItemTouchHelperCallback$OnItemMoveListener3
+1
+   (*"#set-field# mItemMoveListener:}
+{
+! !((mOnDropListener"#id#:BQcom.simplecity.amp_library.ui.recyclerview.ItemTouchHelperCallback$OnDropListener1
+/
+! !(("#set-field# mOnDropListener:
+}
+" "(*	mOnClearListener"#id#:BRcom.simplecity.amp_library.ui.recyclerview.ItemTouchHelperCallback$OnClearListener2
+0
+" "(*
+"#set-field# mOnClearListener:	
+
+# #(*vC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/recyclerview/ItemTouchHelperCallback.java

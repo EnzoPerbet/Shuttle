@@ -1,0 +1,506 @@
+
+1.0testepsi2_analyseepsiJavaFrontend"1750157051952*java2.B‚
+P
+Kapp/src/main/java/com/simplecity/amp_library/ui/fragments/BaseFragment.java2
+
+package4
+,
+'com.simplecity.amp_library.ui.fragments5
+9
+4com.simplecity.amp_library.ui.fragments.BaseFragment7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+BaseFragment12
+,
+&Recovered#typeBindingLBaseController;014
+
+unknown15
+
+extends16
+
+
+uses17
+>
+8com.simplecity.amp_library.ui.fragments.BaseFragment.TAG19
+
+field20
+
+private21
+	
+TAG22
+[
+Ucom.simplecity.amp_library.ui.fragments.BaseFragment.DEFAULT_CHILD_ANIMATION_DURATION24
+&
+ DEFAULT_CHILD_ANIMATION_DURATION25
+O
+Icom.simplecity.amp_library.ui.fragments.BaseFragment.multiSheetEventRelay27
+
+	protected28
+
+multiSheetEventRelay29
+
+MultiSheetEventRelay31
+
+is type32
+
+Inject34
+
+annotated by35
+$
+Recovered#typeBindingLInject;037
+N
+Hcom.simplecity.amp_library.ui.fragments.BaseFragment#onCreate(LBundle;)V39
+
+method40
+
+onCreate41
+$
+Recovered#typeBindingLBundle;043
+
+	has param44
+
+Nullable46
+&
+ Recovered#typeBindingLNullable;048
+
+
+references49
+
+BaseController51
+F
+@com.simplecity.amp_library.ui.fragments.BaseFragment#onResume()V53
+
+onResume54
+Y
+Scom.simplecity.amp_library.ui.fragments.BaseFragment#screenName()Ljava/lang/String;56
+
+calls57
+\
+Vcom.simplecity.amp_library.ui.fragments.BaseFragment#onCreateAnimation(IZI)LAnimation;59
+
+onCreateAnimation60
+
+	Animation62
+
+returns63
+&
+ Recovered#typeBindingLFragment;065
+'
+!Recovered#typeBindingLAnimation;067
+a
+[com.simplecity.amp_library.ui.fragments.BaseFragment#getNextAnimationDuration(LFragment;J)J69
+
+getNextAnimationDuration70
+'
+!Recovered#typeBindingLResources;072
+G
+Acom.simplecity.amp_library.ui.fragments.BaseFragment#onDestroy()V74
+
+	onDestroy75
+(
+"Recovered#typeBindingLRefWatcher;077
+Q
+Kcom.simplecity.amp_library.ui.fragments.BaseFragment#setupCastMenu(LMenu;)V79
+
+setupCastMenu80
+"
+Recovered#typeBindingLMenu;082
+?
+9com.simplecity.amp_library.ui.activities.BaseCastActivity84
+-
+'Recovered#typeBindingLBaseCastManager;086
+
+VideoCastManager88
+K
+Ecom.simplecity.amp_library.ui.activities.BaseCastActivity.castManager90
+&
+ Recovered#typeBindingLMenuItem;092
+<
+6Recovered#typeBindingLCustomMediaRouteActionProvider;094
+
+
+screenName95J
+
+1
+12Z
+
+3	
+354jß
+
+87
+878815
+
+89
+899015
+@
+78:
+787940 *
+1r r(26:3B
+	
+9
+28
+
+
+11
+80
+
+50
+505115
+
+93
+939415
+
+66
+666715
+@
+68:
+686940 *
+1Z Z(26:3B
+	
+9
+21
+
+
+11
+70
+
+13
+131415
+
+47
+474815
+@
+26:
+262720 *
+1% %(26:3B
+	
+9
+28
+
+
+11
+29
+
+91
+919215
+
+83
+838415
+
+33
+333415
+@
+58:
+585940 *
+18 8(26:3B
+	
+9
+10
+
+
+11
+60
+@
+18:
+181920 *
+1   (26:3B
+	
+9
+21
+
+
+11
+22
+
+64
+646515
+
+36
+363715
+
+81
+818215
+
+76
+767715
+@
+55:
+555640 *
+1| |(26:3B
+	
+9
+28
+
+
+11
+95
+
+85
+858615
+
+42
+424315
+
+71
+717215
+@
+52:
+525340 *
+11 1(26:3B
+	
+9
+10
+
+
+11
+54
+@
+73:
+737440 *
+1j j(26:3B
+	
+9
+10
+
+
+11
+75
+
+30
+303115
+9
+64
+678 *
+1 (#:3B
+	
+9
+10
+
+
+11
+12
+
+61
+616215
+@
+23:
+232420 *
+1# #(26:3B
+	
+9
+21
+
+
+11
+25
+
+45
+454615
+@
+38:
+383940 *
+1( ((26:3B
+	
+9
+10
+
+
+11
+41r“
+
+61316*
+1, (:
+
+61317*
+1, (:
+
+263032*
+1& &(
+
+263335*
+1% %(
+
+263617*
+1% %(
+
+263017*
+1& &(
+
+263017*
+1& &(.
+
+384244*
+1)$ )(*
+
+384232*
+1)+ )(=
+
+384535*
+1) )(
+
+384717*
+1) )(#
+
+384217*
+1)$ )(*
+
+38649*
+1*	 *(
+
+385017*
+1*	 *(
+
+38649*
+1*	 *(
+
+38617*
+1-* -(.
+
+38649*
+1-* -(.
+
+38617*
+1. .(
+
+38649*
+1. .(
+
+52649*
+13	 3(
+
+525017*
+13	 3(
+
+52649*
+13	 3(
+
+52649*
+157 5(A
+
+525557*
+157 5(A
+
+586163*
+19 9(
+
+586117*
+19 9(
+
+586432*
+1B B(
+
+586417*
+1B B(
+
+586632*
+1J J($
+
+586617*
+1J J(
+
+58649*
+1K' K(?
+
+586857*
+1K' K(?
+
+582349*
+1KH K(h
+
+58649*
+1N N(
+
+585017*
+1N N(
+
+58649*
+1N N(
+
+686444*
+1Z2 Z(:
+
+686432*
+1Z; Z(C
+
+686417*
+1Z2 Z(:
+
+686417*
+1^# ^(+
+
+686632*
+1a a(
+
+686617*
+1a a(
+
+687117*
+1eB e(K
+
+687117*
+1eL e(]
+
+73649*
+1m	 m(
+
+735017*
+1m	 m(
+
+73649*
+1m	 m(
+
+737632*
+1n n(
+
+737617*
+1n	 n(
+
+73617*
+1o o(
+
+73649*
+1o o(
+
+788144*
+1r" r(&
+
+788132*
+1r' r(+
+
+788117*
+1r" r(&
+
+788317*
+1s& s(6
+
+788532*
+1t t((
+
+788517*
+1t t(
+
+788317*
+1t- t(=
+
+788717*
+1tN t(Y
+
+788949*
+1tN t(Y
+
+789132*
+1w w((
+
+789117*
+1w w(
+
+789317*
+1x x(-

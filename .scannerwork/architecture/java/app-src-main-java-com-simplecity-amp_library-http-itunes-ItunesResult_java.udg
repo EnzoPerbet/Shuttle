@@ -1,0 +1,197 @@
+
+1.0testepsi2_analyseepsiJavaFrontend"1750157063010*java2.B­
+O
+Japp/src/main/java/com/simplecity/amp_library/http/itunes/ItunesResult.java2
+
+package4
++
+&com.simplecity.amp_library.http.itunes5
+8
+3com.simplecity.amp_library.http.itunes.ItunesResult7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+ItunesResult12
+A
+;com.simplecity.amp_library.http.itunes.ItunesResult.results14
+
+field15
+
+results16
+@
+:com.simplecity.amp_library.http.itunes.ItunesResult$Result18
+
+unknown19
+
+
+uses20
+
+
+references21
+Y
+Scom.simplecity.amp_library.http.itunes.ItunesResult#getImageUrl()Ljava/lang/String;23
+
+method24
+
+getImageUrl25
+[
+Ucom.simplecity.amp_library.http.itunes.ItunesResult$Result#getUrl()Ljava/lang/String;27
+
+calls28
+
+returns29
+
+Result30
+D
+>com.simplecity.amp_library.http.itunes.ItunesResult$Result.url32
+	
+url33
+
+SerializedName35
+
+annotated by36
+,
+&Recovered#typeBindingLSerializedName;038
+
+	protected39
+
+getUrl40J
+
+1
+12Z
+
+3	
+354j®
+9
+64
+678 *
+1	 	(:3B
+	
+9
+10
+
+
+11
+12
+A
+31;
+313215 *
+1	 (
+217:3B
+	
+9
+10
+
+
+11
+33
+@
+22:
+222324 *
+1 (26:3B
+	
+9
+10
+
+
+11
+25
+@
+13:
+131415 *
+1 (26:3B
+	
+9
+10
+
+
+11
+16
+
+37
+373819
+
+34
+343519
+A
+26;
+262724 *
+1	 (217:3B
+	
+9
+39
+
+
+11
+40
+?
+179
+17188 *
+1 (26:3B
+	
+9
+10
+
+
+11
+30rË
+
+131720*
+1 (
+
+131721*
+1 (
+
+221321*
+1 (
+
+221321*
+1 (
+
+221721*
+1 (
+
+222628*
+1# ()
+
+221729*
+1 (
+
+221321*
+1 (
+
+221321*
+1 (
+
+313436*
+1	 (
+
+
+313720*
+1
+ (
+
+263121*
+1 (
+
+263121*
+1 (
+
+263121*
+1 (
+
+263121*
+1 (
+
+263121*
+1 (
+
+263121*
+1 (

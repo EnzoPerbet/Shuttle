@@ -1,0 +1,77 @@
+
+Acom.simplecity.amp_library.tagger.TaggerDialog#%field_initializer
+__unknown_file ("1*À
+1 (¡ž
+l
+bC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/tagger/TaggerDialog.javaI) I(4
+%0java.util.ArrayList"java.util.ArrayList¿
+¼
+l
+bC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/tagger/TaggerDialog.javaI% I(6
+%1"java.util.ArrayList#<init>()V*'
+ (
+
+%0java.util.ArrayListé
+æ
+l
+bC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/tagger/TaggerDialog.javaI I(7G0
+.com.simplecity.amp_library.tagger.TaggerDialog"
+originalSongPaths"__id*'
+ (
+
+%0java.util.ArrayList¡ž
+l
+bC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/tagger/TaggerDialog.javaJ3 J(>
+%2java.util.ArrayList"java.util.ArrayList¿
+¼
+l
+bC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/tagger/TaggerDialog.javaJ/ J(@
+%3"java.util.ArrayList#<init>()V*'
+ (
+
+%2java.util.ArrayListå
+â
+l
+bC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/tagger/TaggerDialog.javaJ J(AC0
+.com.simplecity.amp_library.tagger.TaggerDialog"
+documentFiles"__id*'
+ (
+
+%2java.util.ArrayListÊ
+Ç
+l
+bC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/tagger/TaggerDialog.javaL L(%?0
+.com.simplecity.amp_library.tagger.TaggerDialog"
+	showAlbum"__id*
+ (2Ê
+Ç
+l
+bC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/tagger/TaggerDialog.javaM M(%?0
+.com.simplecity.amp_library.tagger.TaggerDialog"
+	showTrack"__id*
+ (2 
+
+l
+bC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/tagger/TaggerDialog.javap4 q(YG
+%4Acom.simplecity.amp_library.tagger.TaggerDialog$TextChangeListener"__declareFunction*Q
+ (EC
+A__sonar_lambda_186$com.simplecity.amp_library.tagger.TaggerDialog³
+°
+ (^
+G
+%4Acom.simplecity.amp_library.tagger.TaggerDialog$TextChangeListener"
+TaggerDialog.this"__id*>
+ (20
+.com.simplecity.amp_library.tagger.TaggerDialog˜
+•
+l
+bC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/tagger/TaggerDialog.javap q(ZH0
+.com.simplecity.amp_library.tagger.TaggerDialog"
+textChangeListener"__id*U
+ (I
+G
+%4Acom.simplecity.amp_library.tagger.TaggerDialog$TextChangeListener"‚
+k
+bC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/tagger/TaggerDialog.java5 ï(
+implicit returnB20
+.com.simplecity.amp_library.tagger.TaggerDialog

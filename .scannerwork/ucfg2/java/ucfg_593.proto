@@ -1,0 +1,162 @@
+
+[com.google.android.libraries.cast.companionlibrary.cast.VideoCastManager#%field_initializer
+__unknown_file ("1*√3
+1 (∂
+≥
+à
+|C:/Users/enzo.perbet/Shuttle/libraries/ccl/src/com/google/android/libraries/cast/companionlibrary/cast/VideoCastManager.javaì! ì(4
+%0double"__id*
+ (
+""ç
+ä
+à
+|C:/Users/enzo.perbet/Shuttle/libraries/ccl/src/com/google/android/libraries/cast/companionlibrary/cast/VideoCastManager.javaì ì(5[J
+Hcom.google.android.libraries.cast.companionlibrary.cast.VideoCastManager"
+mVolumeStep"__id*
+ (
+
+%0double•
+¢
+à
+|C:/Users/enzo.perbet/Shuttle/libraries/ccl/src/com/google/android/libraries/cast/companionlibrary/cast/VideoCastManager.javaß: ®(<
+%1java.util.Set"Ejava.util.Collections#synchronizedSet(Ljava/util/Set;)Ljava/util/Set;*%
+ ("
+java.util.Collections*
+ (
+""ô
+ñ
+à
+|C:/Users/enzo.perbet/Shuttle/libraries/ccl/src/com/google/android/libraries/cast/companionlibrary/cast/VideoCastManager.javaß ®(=`J
+Hcom.google.android.libraries.cast.companionlibrary.cast.VideoCastManager"
+mMiniControllers"__id*!
+ (
+
+%1java.util.SetÉ
+Ä
+à
+|C:/Users/enzo.perbet/Shuttle/libraries/ccl/src/com/google/android/libraries/cast/companionlibrary/cast/VideoCastManager.java¨% ¨(6Y
+%2Scom.google.android.libraries.cast.companionlibrary.cast.VideoCastManager$VolumeType"__id*
+ (
+""⁄
+◊
+à
+|C:/Users/enzo.perbet/Shuttle/libraries/ccl/src/com/google/android/libraries/cast/companionlibrary/cast/VideoCastManager.java¨ ¨(7[J
+Hcom.google.android.libraries.cast.companionlibrary.cast.VideoCastManager"
+mVolumeType"__id*g
+ ([
+Y
+%2Scom.google.android.libraries.cast.companionlibrary.cast.VideoCastManager$VolumeTypeÄ
+˝
+à
+|C:/Users/enzo.perbet/Shuttle/libraries/ccl/src/com/google/android/libraries/cast/companionlibrary/cast/VideoCastManager.java≠ ≠(7VJ
+Hcom.google.android.libraries.cast.companionlibrary.cast.VideoCastManager"
+mState"__id*
+ (
+""ËÂ
+à
+|C:/Users/enzo.perbet/Shuttle/libraries/ccl/src/com/google/android/libraries/cast/companionlibrary/cast/VideoCastManager.java±? ±(T.
+%3(java.util.concurrent.CopyOnWriteArraySet"(java.util.concurrent.CopyOnWriteArraySetÜ
+É
+à
+|C:/Users/enzo.perbet/Shuttle/libraries/ccl/src/com/google/android/libraries/cast/companionlibrary/cast/VideoCastManager.java±; ±(V
+%4"2java.util.concurrent.CopyOnWriteArraySet#<init>()V*<
+ (0
+.
+%3(java.util.concurrent.CopyOnWriteArraySet≥
+∞
+à
+|C:/Users/enzo.perbet/Shuttle/libraries/ccl/src/com/google/android/libraries/cast/companionlibrary/cast/VideoCastManager.java± ±(W_J
+Hcom.google.android.libraries.cast.companionlibrary.cast.VideoCastManager"
+mVideoConsumers"__id*<
+ (0
+.
+%3(java.util.concurrent.CopyOnWriteArraySetËÂ
+à
+|C:/Users/enzo.perbet/Shuttle/libraries/ccl/src/com/google/android/libraries/cast/companionlibrary/cast/VideoCastManager.java≥ ≥(%.
+%5(java.util.concurrent.CopyOnWriteArraySet"(java.util.concurrent.CopyOnWriteArraySetÜ
+É
+à
+|C:/Users/enzo.perbet/Shuttle/libraries/ccl/src/com/google/android/libraries/cast/companionlibrary/cast/VideoCastManager.java≥ ≥('
+%6"2java.util.concurrent.CopyOnWriteArraySet#<init>()V*<
+ (0
+.
+%5(java.util.concurrent.CopyOnWriteArraySetº
+π
+à
+|C:/Users/enzo.perbet/Shuttle/libraries/ccl/src/com/google/android/libraries/cast/companionlibrary/cast/VideoCastManager.java≤ ≥((hJ
+Hcom.google.android.libraries.cast.companionlibrary.cast.VideoCastManager"
+mTracksSelectedListeners"__id*<
+ (0
+.
+%5(java.util.concurrent.CopyOnWriteArraySetËÂ
+à
+|C:/Users/enzo.perbet/Shuttle/libraries/ccl/src/com/google/android/libraries/cast/companionlibrary/cast/VideoCastManager.java¥? ¥(T.
+%7(java.util.concurrent.CopyOnWriteArraySet"(java.util.concurrent.CopyOnWriteArraySetÜ
+É
+à
+|C:/Users/enzo.perbet/Shuttle/libraries/ccl/src/com/google/android/libraries/cast/companionlibrary/cast/VideoCastManager.java¥; ¥(V
+%8"2java.util.concurrent.CopyOnWriteArraySet#<init>()V*<
+ (0
+.
+%7(java.util.concurrent.CopyOnWriteArraySetµ
+≤
+à
+|C:/Users/enzo.perbet/Shuttle/libraries/ccl/src/com/google/android/libraries/cast/companionlibrary/cast/VideoCastManager.java¥ ¥(WaJ
+Hcom.google.android.libraries.cast.companionlibrary.cast.VideoCastManager"
+mProgressWatchers"__id*<
+ (0
+.
+%7(java.util.concurrent.CopyOnWriteArraySet¥
+±
+à
+|C:/Users/enzo.perbet/Shuttle/libraries/ccl/src/com/google/android/libraries/cast/companionlibrary/cast/VideoCastManager.java∂' ∂(F
+
+%9long"__id*
+ (
+""ì
+ê
+à
+|C:/Users/enzo.perbet/Shuttle/libraries/ccl/src/com/google/android/libraries/cast/companionlibrary/cast/VideoCastManager.java∂ ∂(GcJ
+Hcom.google.android.libraries.cast.companionlibrary.cast.VideoCastManager"
+mLiveStreamDuration"__id*
+ (
+
+
+%9longÔ
+Ï
+à
+|C:/Users/enzo.perbet/Shuttle/libraries/ccl/src/com/google/android/libraries/cast/companionlibrary/cast/VideoCastManager.java∏7 ∏(Z4
+%10-java.util.concurrent.ScheduledExecutorService"gjava.util.concurrent.Executors#newScheduledThreadPool(I)Ljava/util/concurrent/ScheduledExecutorService;*.
+ ("" 
+java.util.concurrent.Executors*
+ (2≥
+∞
+à
+|C:/Users/enzo.perbet/Shuttle/libraries/ccl/src/com/google/android/libraries/cast/companionlibrary/cast/VideoCastManager.java∏ ∏([YJ
+Hcom.google.android.libraries.cast.companionlibrary.cast.VideoCastManager"
+	scheduler"__id*B
+ (6
+4
+%10-java.util.concurrent.ScheduledExecutorServiceØ¨
+à
+|C:/Users/enzo.perbet/Shuttle/libraries/ccl/src/com/google/android/libraries/cast/companionlibrary/cast/VideoCastManager.java§3 §(;R
+%11Kcom.google.android.libraries.cast.companionlibrary.cast.VideoCastManager$35"Kcom.google.android.libraries.cast.companionlibrary.cast.VideoCastManager$35ì
+ê
+à
+|C:/Users/enzo.perbet/Shuttle/libraries/ccl/src/com/google/android/libraries/cast/companionlibrary/cast/VideoCastManager.java§/ ∂(
+%12"java.lang.Object#<init>()V*`
+ (T
+R
+%11Kcom.google.android.libraries.cast.companionlibrary.cast.VideoCastManager$35Ÿ
+÷
+à
+|C:/Users/enzo.perbet/Shuttle/libraries/ccl/src/com/google/android/libraries/cast/companionlibrary/cast/VideoCastManager.java§ ∂(aJ
+Hcom.google.android.libraries.cast.companionlibrary.cast.VideoCastManager"
+mProgressRunnable"__id*`
+ (T
+R
+%11Kcom.google.android.libraries.cast.companionlibrary.cast.VideoCastManager$35"û
+Ü
+|C:/Users/enzo.perbet/Shuttle/libraries/ccl/src/com/google/android/libraries/cast/companionlibrary/cast/VideoCastManager.javaÉ ‚(
+implicit returnBLJ
+Hcom.google.android.libraries.cast.companionlibrary.cast.VideoCastManager

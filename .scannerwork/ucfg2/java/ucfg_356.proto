@@ -1,0 +1,28 @@
+
+_com.simplecity.amp_library.ui.detail.PlaylistDetailFragment#getToolbarTitle()Ljava/lang/String;{
+oC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/detail/PlaylistDetailFragment.javaß ß($"1*ô
+1
+à à(±
+®
+
+à à(/
+%0)com.simplecity.amp_library.model.Playlist"__id*i
+
+__unknown_file (M*K=
+;com.simplecity.amp_library.ui.detail.PlaylistDetailFragment"
+
+playlist†
+ƒ
+
+à à(
+%1java.lang.String"__id*W
+
+__unknown_file (;*9
+/
+%0)com.simplecity.amp_library.model.Playlist"
+name"&
+
+à à(
+
+%1java.lang.StringB?=
+;com.simplecity.amp_library.ui.detail.PlaylistDetailFragment

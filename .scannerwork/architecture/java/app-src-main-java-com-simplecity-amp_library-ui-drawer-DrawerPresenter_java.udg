@@ -1,0 +1,445 @@
+
+1.0testepsi2_analyseepsiJavaFrontend"1750157060975*java2.Bü
+P
+Kapp/src/main/java/com/simplecity/amp_library/ui/drawer/DrawerPresenter.java2
+
+package4
+)
+$com.simplecity.amp_library.ui.drawer5
+9
+4com.simplecity.amp_library.ui.drawer.DrawerPresenter7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+DrawerPresenter12
+/
+)Recovered#typeBindingLPurchasePresenter;014
+
+unknown15
+
+extends16
+
+
+uses17
+(
+"Recovered#typeBindingLDrawerView;019
+>
+8com.simplecity.amp_library.ui.drawer.DrawerPresenter.TAG21
+
+field22
+
+private23
+	
+TAG24
+O
+Icom.simplecity.amp_library.ui.drawer.DrawerPresenter.navigationEventRelay26
+
+	protected27
+
+navigationEventRelay28
+
+NavigationEventRelay30
+
+is type31
+
+Inject33
+
+annotated by34
+$
+Recovered#typeBindingLInject;036
+I
+Ccom.simplecity.amp_library.ui.drawer.DrawerPresenter.playlistsModel38
+
+playlistsModel39
+
+PlaylistsModel41
+N
+Hcom.simplecity.amp_library.ui.drawer.DrawerPresenter#<init>(LActivity;)V43
+
+method44
+&
+ Recovered#typeBindingLActivity;046
+
+	has param47
+
+calls48
+R
+Lcom.simplecity.amp_library.ui.drawer.DrawerPresenter#bindView(LDrawerView;)V50
+
+bindView51
+
+NonNull53
+%
+Recovered#typeBindingLNonNull;055
+
+
+references56
+
+PurchasePresenter58
+R
+Lcom.simplecity.amp_library.ui.drawer.DrawerPresenter#loadData(LDrawerView;)V60
+_
+Ycom.simplecity.amp_library.ui.drawer.DrawerPresenter#onDrawerItemClicked(LDrawerParent;)V62
+
+onDrawerItemClicked63
+*
+$Recovered#typeBindingLDrawerParent;065
+I
+Ccom.simplecity.amp_library.ui.drawer.DrawerPresenter#closeDrawer()V67
+Y
+Scom.simplecity.amp_library.ui.drawer.DrawerPresenter#onPlaylistClicked(LPlaylist;)V69
+
+onPlaylistClicked70
+&
+ Recovered#typeBindingLPlaylist;072
+2
+,Recovered#typeBindingLNavigationEventRelay;074
+
+closeDrawer75
+
+loadData76
+
+	!Unknown!78J
+
+1
+12Z
+
+3	
+354j«
+
+32
+323315
+4
+77.
+77788 *
+1d] d(^259:3B
+	
+9
+27
+
+13
+131415
+@
+25:
+252622 *
+1 (26:3B
+	
+9
+27
+
+
+11
+28
+
+35
+353615
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+
+29
+293015
+
+45
+454615
+@
+61:
+616244 *
+1E E(	26:3B
+	
+9
+27
+
+
+11
+63
+@
+66:
+666744 *
+1W W(26:3B
+	
+9
+23
+
+
+11
+75
+
+73
+737415
+
+71
+717215
+
+52
+525315
+@
+68:
+686944 *
+1R R(	26:3B
+	
+9
+27
+
+
+11
+70
+@
+49:
+495044 *
+1( ((26:3B
+	
+9
+10
+
+
+11
+51
+@
+20:
+202122 *
+1 (26:3B
+	
+9
+23
+
+
+11
+24
+
+40
+404115
+@
+59:
+596044 *
+1^ ^(26:3B
+	
+9
+23
+
+
+11
+76
+
+18
+181915
+@
+42:
+424344 *
+1# #(26:3B
+	
+9
+10
+
+
+11
+12
+@
+37:
+373822 *
+1   (26:3B
+	
+9
+27
+
+
+11
+39
+
+54
+545515
+
+64
+646515
+
+57
+575815rï
+
+61316*
+1& (7
+
+61317*
+1& (7
+
+61817*
+18 (B
+
+252931*
+1 (
+
+253234*
+1 (
+
+253517*
+1 (
+
+252917*
+1 (
+
+252917*
+1 (.
+
+374031*
+1! !(
+
+373234*
+1   (
+
+373517*
+1   (
+
+374017*
+1! !(
+
+374017*
+1! !("
+
+424547*
+1$ $($
+
+423234*
+1# #(
+
+423517*
+1# #(
+
+42648*
+1$ $(
+
+424531*
+1$% $(-
+
+424517*
+1$ $($
+
+491847*
+1)# )(-
+
+491831*
+1). )(2
+
+495234*
+1) )(
+
+495417*
+1) )("
+
+491817*
+1)# )(-
+
+49656*
+1*	 *(
+
+495717*
+1*	 *(
+
+49656*
+1*	 *(
+
+49656*
+1,	 ,(
+
+495948*
+1,	 ,(
+
+492556*
+1. .(+
+
+492917*
+1. .(+
+
+492556*
+1. .(+
+
+616447*
+1E E(*
+
+616431*
+1E+ E(7
+
+616417*
+1E E(*
+
+611831*
+1F F(
+
+611817*
+1F	 F(
+
+61656*
+1K	 K(
+
+616648*
+1K	 K(
+
+612556*
+1N N(!
+
+612917*
+1N N(!
+
+612556*
+1N N(!
+
+687147*
+1R R($
+
+687131*
+1R% R(-
+
+687117*
+1R R($
+
+68656*
+1S	 S(
+
+686648*
+1S	 S(
+
+682556*
+1T	 T(
+
+682917*
+1T	 T(
+
+682556*
+1T	 T(
+
+687317*
+1T, T(@
+
+661831*
+1X X(
+
+661817*
+1X	 X(
+
+591847*
+1^$ ^(.
+
+591831*
+1^/ ^(9
+
+595234*
+1^ ^(
+
+595417*
+1^ ^(#
+
+591817*
+1^$ ^(.

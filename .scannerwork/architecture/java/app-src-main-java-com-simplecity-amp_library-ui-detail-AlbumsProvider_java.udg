@@ -1,0 +1,131 @@
+
+1.0testepsi2_analyseepsiJavaFrontend"1750157066438*java2.Bà
+O
+Japp/src/main/java/com/simplecity/amp_library/ui/detail/AlbumsProvider.java2
+
+package4
+)
+$com.simplecity.amp_library.ui.detail5
+8
+3com.simplecity.amp_library.ui.detail.AlbumsProvider7
+
+	interface8
+
+access9
+
+public10
+
+simple name11
+
+AlbumsProvider12
+M
+Gcom.simplecity.amp_library.ui.detail.AlbumsProvider#getAlbums()LSingle;14
+
+method15
+
+	getAlbums16
+
+Single18
+
+unknown19
+
+returns20
+
+NonNull22
+
+annotated by23
+%
+Recovered#typeBindingLNonNull;025
+
+
+uses26
+#
+Recovered#typeBindingLAlbum;028
+n
+hcom.simplecity.amp_library.ui.detail.AlbumsProvider#getAlbumViewModels(Ljava/util/List;)Ljava/util/List;30
+
+getAlbumViewModels31
+'
+!Recovered#typeBindingLViewModel;033J
+
+1
+12Z
+
+3	
+354j£
+9
+64
+678 *
+1 ( :3B
+	
+9
+10
+
+
+11
+12
+
+17
+171819
+@
+29:
+293015 *
+1 (26:3B
+	
+9
+10
+
+
+11
+31
+
+21
+212219
+
+27
+272819
+@
+13:
+131415 *
+1 (26:3B
+	
+9
+10
+
+
+11
+16
+
+24
+242519
+
+32
+323319ró
+
+131720*
+1 (
+
+132123*
+1 (
+
+132426*
+1 (
+
+131726*
+1 (
+
+132726*
+1 (
+
+292123*
+1 (
+
+292426*
+1 (
+
+293226*
+1
+ (
+
+292726*
+1- (2

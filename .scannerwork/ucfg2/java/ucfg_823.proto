@@ -1,0 +1,85 @@
+
+rcom.simplecity.amp_library.utils.SettingsManager#getString(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;n
+dC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaR R("startingBlock*¹
+startingBlockR R(O~
+|
+Q Q(
+%1"
+__annotate*'
+
+__unknown_file (	
+NonNull*5
+
+__unknown_file (
+
+keyjava.lang.String~
+|
+R R(%
+%2"
+__annotate*'
+
+__unknown_file (	
+NonNull*5
+
+__unknown_file (
+
+keyjava.lang.String{
+y
+R- R(0
+keyjava.lang.String"__annotation*"
+
+__unknown_file (
+
+%1*"
+
+__unknown_file (
+
+%2ˆ
+…
+Q Q(
+%3"
+__annotate*'
+
+__unknown_file (	
+NonNull*>
+
+__unknown_file ("
+ 
+defaultValuejava.lang.Stringˆ
+…
+R2 R(:
+%4"
+__annotate*'
+
+__unknown_file (	
+NonNull*>
+
+__unknown_file ("
+ 
+defaultValuejava.lang.String…
+‚
+RB R(N 
+defaultValuejava.lang.String"__annotation*"
+
+__unknown_file (
+
+%3*"
+
+__unknown_file (
+
+%4*
+1*å
+1S S(#Á
+¾
+S S(%
+%0"Zcom.simplecity.amp_library.utils.SettingsManager#getSharedPreferences()LSharedPreferences;*P
+
+__unknown_file (42
+0com.simplecity.amp_library.utils.SettingsManager"
+S S(C
+"":#
+R R(1
+keyjava.lang.String:,
+R2 R(N 
+defaultValuejava.lang.StringB42
+0com.simplecity.amp_library.utils.SettingsManager

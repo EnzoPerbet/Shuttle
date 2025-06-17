@@ -1,0 +1,204 @@
+
+bcom.simplecity.amp_library.tagger.TaggerTask#build()Lcom/simplecity/amp_library/tagger/TaggerTask;l
+`C:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/tagger/TaggerTask.java¢ ¢("1*¡
+1
+£ £('Ñ
+Å
+
+£4 £(9
+%0java.util.List"__id*W
+
+__unknown_file (;*9.
+,com.simplecity.amp_library.tagger.TaggerTask"
+pathsä
+á
+
+£J £(S
+%1java.lang.String"__id*[
+
+__unknown_file (?*=.
+,com.simplecity.amp_library.tagger.TaggerTask"
+	titleTextä
+á
+
+§ §(
+%2java.lang.String"__id*[
+
+__unknown_file (?*=.
+,com.simplecity.amp_library.tagger.TaggerTask"
+	albumTextã
+à
+
+§ §(%
+%3java.lang.String"__id*\
+
+__unknown_file (@*>.
+,com.simplecity.amp_library.tagger.TaggerTask"
+
+artistTextê
+ç
+
+§' §(6
+%4java.lang.String"__id*a
+
+__unknown_file (E*C.
+,com.simplecity.amp_library.tagger.TaggerTask"
+albumArtistTextâ
+Ü
+
+§8 §(@
+%5java.lang.String"__id*Z
+
+__unknown_file (>*<.
+,com.simplecity.amp_library.tagger.TaggerTask"
+
+yearTextä
+á
+
+§B §(K
+%6java.lang.String"__id*[
+
+__unknown_file (?*=.
+,com.simplecity.amp_library.tagger.TaggerTask"
+	trackTextè
+å
+
+§M §([
+%7java.lang.String"__id*`
+
+__unknown_file (D*B.
+,com.simplecity.amp_library.tagger.TaggerTask"
+trackTotalTextâ
+Ü
+
+• •(
+%8java.lang.String"__id*Z
+
+__unknown_file (>*<.
+,com.simplecity.amp_library.tagger.TaggerTask"
+
+discTexté
+ã
+
+• •('
+%9java.lang.String"__id*_
+
+__unknown_file (C*A.
+,com.simplecity.amp_library.tagger.TaggerTask"
+discTotalTextå
+â
+
+•) •(3
+%10java.lang.String"__id*\
+
+__unknown_file (@*>.
+,com.simplecity.amp_library.tagger.TaggerTask"
+
+lyricsTextç
+ä
+
+•5 •(@
+%11java.lang.String"__id*]
+
+__unknown_file (A*?.
+,com.simplecity.amp_library.tagger.TaggerTask"
+commentTextã
+à
+
+•B •(K
+%12java.lang.String"__id*[
+
+__unknown_file (?*=.
+,com.simplecity.amp_library.tagger.TaggerTask"
+	genreText…
+∆
+
+¶ ¶(%I
+%13Bcom.simplecity.amp_library.tagger.TaggerTask$TagCompletionListener"__id*g
+
+__unknown_file (K*I.
+,com.simplecity.amp_library.tagger.TaggerTask"
+tagCompletionListenerqo
+
+£ £(3
+%14,com.simplecity.amp_library.tagger.TaggerTask",com.simplecity.amp_library.tagger.TaggerTaskÙ
+
+Ò
+
+
+£ ¶(&
+%15"Ùcom.simplecity.amp_library.tagger.TaggerTask#<init>(ZZLjava/util/List;Ljava/util/List;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/simplecity/amp_library/tagger/TaggerTask$TagCompletionListener;)V*Q
+
+__unknown_file (5
+3
+%14,com.simplecity.amp_library.tagger.TaggerTask*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*2
+
+__unknown_file (
+
+%0java.util.List*"
+
+__unknown_file (
+""*4
+
+__unknown_file (
+
+%1java.lang.String*4
+
+__unknown_file (
+
+%2java.lang.String*4
+
+__unknown_file (
+
+%3java.lang.String*4
+
+__unknown_file (
+
+%4java.lang.String*4
+
+__unknown_file (
+
+%5java.lang.String*4
+
+__unknown_file (
+
+%6java.lang.String*4
+
+__unknown_file (
+
+%7java.lang.String*4
+
+__unknown_file (
+
+%8java.lang.String*4
+
+__unknown_file (
+
+%9java.lang.String*5
+
+__unknown_file (
+
+%10java.lang.String*5
+
+__unknown_file (
+
+%11java.lang.String*5
+
+__unknown_file (
+
+%12java.lang.String*g
+
+__unknown_file (K
+I
+%13Bcom.simplecity.amp_library.tagger.TaggerTask$TagCompletionListener"C
+
+£ ¶('5
+3
+%14,com.simplecity.amp_library.tagger.TaggerTaskB0.
+,com.simplecity.amp_library.tagger.TaggerTaskH

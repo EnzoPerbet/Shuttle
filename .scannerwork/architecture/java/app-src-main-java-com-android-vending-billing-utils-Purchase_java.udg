@@ -1,0 +1,478 @@
+
+1.0testepsi2_analyseepsiJavaFrontend"1750157041180*java2.B
+F
+Aapp/src/main/java/com/android/vending/billing/utils/Purchase.java2
+
+package4
+&
+!com.android.vending.billing.utils5
+/
+*com.android.vending.billing.utils.Purchase7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+Purchase12
+:
+4com.android.vending.billing.utils.Purchase.mItemType14
+
+field15
+
+	protected16
+
+	mItemType17
+9
+3com.android.vending.billing.utils.Purchase.mOrderId19
+
+mOrderId20
+=
+7com.android.vending.billing.utils.Purchase.mPackageName22
+
+mPackageName23
+5
+/com.android.vending.billing.utils.Purchase.mSku25
+
+
+mSku26
+>
+8com.android.vending.billing.utils.Purchase.mPurchaseTime28
+
+mPurchaseTime29
+?
+9com.android.vending.billing.utils.Purchase.mPurchaseState31
+
+mPurchaseState32
+B
+<com.android.vending.billing.utils.Purchase.mDeveloperPayload34
+
+mDeveloperPayload35
+7
+1com.android.vending.billing.utils.Purchase.mToken37
+
+mToken38
+>
+8com.android.vending.billing.utils.Purchase.mOriginalJson40
+
+mOriginalJson41
+;
+5com.android.vending.billing.utils.Purchase.mSignature43
+
+
+mSignature44
+p
+jcom.android.vending.billing.utils.Purchase#<init>(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V46
+
+method47
+
+calls48
+
+JSONException50
+
+unknown51
+
+
+uses52
+
+
+references53
+(
+"Recovered#typeBindingLJSONObject;055
+
+is type56
+P
+Jcom.android.vending.billing.utils.Purchase#getItemType()Ljava/lang/String;58
+
+getItemType59
+O
+Icom.android.vending.billing.utils.Purchase#getOrderId()Ljava/lang/String;61
+
+
+getOrderId62
+S
+Mcom.android.vending.billing.utils.Purchase#getPackageName()Ljava/lang/String;64
+
+getPackageName65
+K
+Ecom.android.vending.billing.utils.Purchase#getSku()Ljava/lang/String;67
+
+getSku68
+C
+=com.android.vending.billing.utils.Purchase#getPurchaseTime()J70
+
+getPurchaseTime71
+D
+>com.android.vending.billing.utils.Purchase#getPurchaseState()I73
+
+getPurchaseState74
+X
+Rcom.android.vending.billing.utils.Purchase#getDeveloperPayload()Ljava/lang/String;76
+
+getDeveloperPayload77
+M
+Gcom.android.vending.billing.utils.Purchase#getToken()Ljava/lang/String;79
+
+getToken80
+T
+Ncom.android.vending.billing.utils.Purchase#getOriginalJson()Ljava/lang/String;82
+
+getOriginalJson83
+Q
+Kcom.android.vending.billing.utils.Purchase#getSignature()Ljava/lang/String;85
+
+getSignature86
+M
+Gcom.android.vending.billing.utils.Purchase#toString()Ljava/lang/String;88
+
+toString89J
+
+1
+12Z
+
+3	
+354j
+@
+63:
+636447 *
+14 4(26:3B
+	
+9
+10
+
+
+11
+65
+@
+42:
+424315 *
+1" "(26:3B
+	
+9
+16
+
+
+11
+44
+@
+60:
+606147 *
+13 3(26:3B
+	
+9
+10
+
+
+11
+62
+
+54
+545551
+@
+45:
+454647 *
+1$ $(26:3B
+	
+9
+10
+
+
+11
+12
+@
+72:
+727347 *
+17 7(26:3B
+	
+9
+10
+
+
+11
+74
+@
+69:
+697047 *
+16 6(26:3B
+	
+9
+10
+
+
+11
+71
+@
+27:
+272815 *
+1 (	26:3B
+	
+9
+16
+
+
+11
+29
+@
+81:
+818247 *
+1: :(26:3B
+	
+9
+10
+
+
+11
+83
+@
+33:
+333415 *
+1 (26:3B
+	
+9
+16
+
+
+11
+35
+@
+39:
+394015 *
+1! !(26:3B
+	
+9
+16
+
+
+11
+41
+@
+13:
+131415 *
+1 (26:3B
+	
+9
+16
+
+
+11
+17
+@
+30:
+303115 *
+1 (26:3B
+	
+9
+16
+
+
+11
+32
+@
+78:
+787947 *
+19 9(26:3B
+	
+9
+10
+
+
+11
+80
+@
+75:
+757647 *
+18 8(26:3B
+	
+9
+10
+
+
+11
+77
+
+49
+495051
+@
+84:
+848547 *
+1; ;(26:3B
+	
+9
+10
+
+
+11
+86
+@
+21:
+212215 *
+1 (26:3B
+	
+9
+16
+
+
+11
+23
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+@
+66:
+666747 *
+15 5(26:3B
+	
+9
+10
+
+
+11
+68
+@
+24:
+242515 *
+1 (26:3B
+	
+9
+16
+
+
+11
+26
+@
+36:
+363715 *
+1   (26:3B
+	
+9
+16
+
+
+11
+38
+@
+87:
+878847 *
+1= =(26:3B
+	
+9
+10
+
+
+11
+89
+@
+18:
+181915 *
+1 (26:3B
+	
+9
+16
+
+
+11
+20
+@
+57:
+575847 *
+12 2(26:3B
+	
+9
+10
+
+
+11
+59rØ
+
+45648*
+1$ $(
+
+454952*
+1$X $(e
+
+451353*
+1%	 %(
+
+453953*
+1&	 &(
+
+455456*
+1' '(
+
+455452*
+1'	 '(
+
+453953*
+1'' '(4
+
+451853*
+1(	 ((
+
+452153*
+1)	 )(
+
+452453*
+1*	 *(
+
+452753*
+1+	 +(
+
+453053*
+1,	 ,(
+
+453353*
+1-	 -(
+
+453653*
+1.	 .(
+
+454253*
+1/	 /(
+
+571353*
+12* 2(3
+
+601853*
+13) 3(1
+
+632153*
+14- 4(9
+
+662453*
+15% 5()
+
+692753*
+16, 6(9
+
+723053*
+17, 7(:
+
+753353*
+182 8(C
+
+783653*
+19' 9(-
+
+813953*
+1:. :(;
+
+844253*
+1;+ ;(5
+
+871353*
+1>> >(G
+
+873953*
+1>Q >(^

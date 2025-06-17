@@ -1,0 +1,214 @@
+
+1.0testepsi2_analyseepsiJavaFrontend"1750157070827*java2.Bè	
+R
+Mapp/src/main/java/com/simplecity/amp_library/glide/fetcher/LastFmFetcher.java2
+
+package4
+-
+(com.simplecity.amp_library.glide.fetcher5
+;
+6com.simplecity.amp_library.glide.fetcher.LastFmFetcher7
+
+
+class8
+
+access9
+
+	protected10
+
+simple name11
+
+LastFmFetcher12
+/
+)Recovered#typeBindingLBaseRemoteFetcher;014
+
+unknown15
+
+extends16
+
+
+uses17
+@
+:com.simplecity.amp_library.glide.fetcher.LastFmFetcher.TAG19
+
+field20
+
+private21
+	
+TAG22
+W
+Qcom.simplecity.amp_library.glide.fetcher.LastFmFetcher#<init>(LArtworkProvider;)V24
+
+method25
+-
+'Recovered#typeBindingLArtworkProvider;027
+
+	has param28
+
+calls29
+
+is type30
+W
+Qcom.simplecity.amp_library.glide.fetcher.LastFmFetcher#getTag()Ljava/lang/String;32
+
+getTag33
+
+
+references34
+W
+Qcom.simplecity.amp_library.glide.fetcher.LastFmFetcher#getUrl()Ljava/lang/String;36
+
+getUrl37
+*
+$Recovered#typeBindingLLastFmResult;039
+]
+Wcom.simplecity.amp_library.glide.fetcher.LastFmFetcher#getStream()Ljava/io/InputStream;41
+
+	getStream42
+
+BaseRemoteFetcher44
++
+%Recovered#typeBindingLBitmapFactory;046
+$
+Recovered#typeBindingLBitmap;048J
+
+1
+12Z
+
+3	
+354j˝
+
+45
+454615
+@
+23:
+232425 *
+1 (26:3B
+	
+9
+10
+
+
+11
+12
+@
+35:
+353625 *
+1 (26:3B
+	
+9
+10
+
+
+11
+37
+
+13
+131415
+@
+31:
+313225 *
+1 (26:3B
+	
+9
+10
+
+
+11
+33
+@
+18:
+181920 *
+1 (26:3B
+	
+9
+21
+
+
+11
+22
+
+26
+262715
+@
+40:
+404125 *
+1# #(26:3B
+	
+9
+10
+
+
+11
+42
+
+47
+474815
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+
+38
+383915
+
+43
+434415r∆
+
+61316*
+1 (.
+
+61317*
+1 (.
+
+232628*
+1 ("
+
+23629*
+1 (
+
+232630*
+1# (2
+
+232617*
+1 ("
+
+311834*
+1 (
+
+353817*
+1   (
+
+40634*
+1&# &((
+
+404317*
+1&# &((
+
+40634*
+1&# &((
+
+404530*
+12 2("
+
+404517*
+12	 2(
+
+404517*
+12 2(
+
+404517*
+12) 2(6
+
+404730*
+1= =(
+
+404717*
+1=	 =(

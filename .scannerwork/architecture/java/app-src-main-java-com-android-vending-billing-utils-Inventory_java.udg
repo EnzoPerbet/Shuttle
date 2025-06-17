@@ -1,0 +1,397 @@
+
+1.0testepsi2_analyseepsiJavaFrontend"1750157024085*java2.B€
+G
+Bapp/src/main/java/com/android/vending/billing/utils/Inventory.java2
+
+package4
+&
+!com.android.vending.billing.utils5
+0
++com.android.vending.billing.utils.Inventory7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+	Inventory12
+9
+3com.android.vending.billing.utils.Inventory.mSkuMap14
+
+field15
+
+	protected16
+
+mSkuMap17
+(
+"Recovered#typeBindingLSkuDetails;019
+
+unknown20
+
+
+uses21
+>
+8com.android.vending.billing.utils.Inventory.mPurchaseMap23
+
+mPurchaseMap24
+&
+ Recovered#typeBindingLPurchase;026
+;
+5com.android.vending.billing.utils.Inventory#<init>()V28
+
+method29
+
+calls30
+_
+Ycom.android.vending.billing.utils.Inventory#getSkuDetails(Ljava/lang/String;)LSkuDetails;32
+
+getSkuDetails33
+
+
+SkuDetails35
+
+returns36
+
+
+references37
+[
+Ucom.android.vending.billing.utils.Inventory#getPurchase(Ljava/lang/String;)LPurchase;39
+
+getPurchase40
+
+Purchase42
+R
+Lcom.android.vending.billing.utils.Inventory#hasPurchase(Ljava/lang/String;)Z44
+
+hasPurchase45
+Q
+Kcom.android.vending.billing.utils.Inventory#hasDetails(Ljava/lang/String;)Z47
+
+
+hasDetails48
+T
+Ncom.android.vending.billing.utils.Inventory#erasePurchase(Ljava/lang/String;)V50
+
+erasePurchase51
+S
+Mcom.android.vending.billing.utils.Inventory#getAllOwnedSkus()Ljava/util/List;53
+
+getAllOwnedSkus54
+e
+_com.android.vending.billing.utils.Inventory#getAllOwnedSkus(Ljava/lang/String;)Ljava/util/List;56
+
+is type57
+S
+Mcom.android.vending.billing.utils.Inventory#getAllPurchases()Ljava/util/List;59
+
+getAllPurchases60
+N
+Hcom.android.vending.billing.utils.Inventory#addSkuDetails(LSkuDetails;)V62
+
+addSkuDetails63
+
+	has param64
+J
+Dcom.android.vending.billing.utils.Inventory#addPurchase(LPurchase;)V66
+
+addPurchase67J
+
+1
+12Z
+
+3	
+354jå
+@
+31:
+313229 *
+1" "(26:3B
+	
+9
+10
+
+
+11
+33
+
+34
+343520
+
+41
+414220
+@
+52:
+525329 *
+1B B(	26:3B
+	
+9
+16
+
+
+11
+54
+@
+46:
+464729 *
+11 1(26:3B
+	
+9
+10
+
+
+11
+48
+@
+58:
+585929 *
+1P P(	26:3B
+	
+9
+16
+
+
+11
+60
+
+18
+181920
+@
+61:
+616229 *
+1T T(	26:3B
+	
+9
+16
+
+
+11
+63
+@
+27:
+272829 *
+1 (26:3B
+	
+9
+16
+
+
+11
+12
+@
+38:
+383929 *
+1' '(26:3B
+	
+9
+10
+
+
+11
+40
+@
+65:
+656629 *
+1X X(	26:3B
+	
+9
+16
+
+
+11
+67
+@
+13:
+131415 *
+1 (26:3B
+	
+9
+16
+
+
+11
+17
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+
+25
+252620
+@
+49:
+495029 *
+1= =(26:3B
+	
+9
+10
+
+
+11
+51
+@
+22:
+222315 *
+1 (26:3B
+	
+9
+16
+
+
+11
+24
+@
+43:
+434429 *
+1, ,(26:3B
+	
+9
+10
+
+
+11
+45
+@
+55:
+555629 *
+1G G(	26:3B
+	
+9
+16
+
+
+11
+54rÒ
+
+131821*
+1 (
+
+131821*
+19 (C
+
+222521*
+1 (
+
+222521*
+1< (D
+
+27630*
+1 (
+
+313436*
+1" "(
+
+313421*
+1" "(
+
+311337*
+1# #(
+
+311337*
+1# #(
+
+384136*
+1' '(
+
+384121*
+1' '(
+
+382237*
+1( ((
+
+382237*
+1( ((
+
+432237*
+1- -(
+
+432237*
+1- -(
+
+461337*
+12 2(
+
+461337*
+12 2(
+
+492237*
+1> >(
+
+492237*
+1> >(
+
+492237*
+1>, >(8
+
+492237*
+1>, >(8
+
+522237*
+1C& C(2
+
+522237*
+1C& C(2
+
+552557*
+1I I(
+
+552521*
+1I I(
+
+552237*
+1I I('
+
+552237*
+1I I('
+
+582521*
+1P
+ P(
+
+582521*
+1Q Q(&
+
+582237*
+1Q( Q(4
+
+582237*
+1Q( Q(4
+
+611864*
+1T T("
+
+611857*
+1T# T($
+
+611821*
+1T T("
+
+611337*
+1U	 U(
+
+611337*
+1U	 U(
+
+652564*
+1X X(
+
+652557*
+1X X( 
+
+652521*
+1X X(
+
+652237*
+1Y	 Y(
+
+652237*
+1Y	 Y(

@@ -1,0 +1,881 @@
+
+1.0testepsi2_analyseepsiJavaFrontend"1750157068580*java2.Bž 
+T
+Oapp/src/main/java/com/simplecity/amp_library/ui/widgets/BaseWidgetProvider.java2
+
+package4
+*
+%com.simplecity.amp_library.ui.widgets5
+=
+8com.simplecity.amp_library.ui.widgets.BaseWidgetProvider7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+BaseWidgetProvider12
+/
+)Recovered#typeBindingLAppWidgetProvider;014
+
+unknown15
+
+extends16
+
+
+uses17
+i
+ccom.simplecity.amp_library.ui.widgets.BaseWidgetProvider#getUpdateCommandString()Ljava/lang/String;19
+
+method20
+
+getUpdateCommandString21
+d
+^com.simplecity.amp_library.ui.widgets.BaseWidgetProvider#getLayoutIdString()Ljava/lang/String;23
+
+getLayoutIdString24
+S
+Mcom.simplecity.amp_library.ui.widgets.BaseWidgetProvider#getWidgetLayoutId()I26
+
+getWidgetLayoutId27
+O
+Icom.simplecity.amp_library.ui.widgets.BaseWidgetProvider#getRootViewId()I29
+
+getRootViewId30
+|
+vcom.simplecity.amp_library.ui.widgets.BaseWidgetProvider#doOnMainThread(Lcom/simplecity/amp_library/rx/UnsafeAction;)V32
+
+	protected33
+
+doOnMainThread34
+0
+*com.simplecity.amp_library.rx.UnsafeAction36
+
+	has param37
+
+is type38
+Z
+Tcom.simplecity.amp_library.ui.widgets.BaseWidgetProvider.ARG_WIDGET_BACKGROUND_COLOR40
+
+field41
+!
+ARG_WIDGET_BACKGROUND_COLOR42
+T
+Ncom.simplecity.amp_library.ui.widgets.BaseWidgetProvider.ARG_WIDGET_TEXT_COLOR44
+
+ARG_WIDGET_TEXT_COLOR45
+V
+Pcom.simplecity.amp_library.ui.widgets.BaseWidgetProvider.ARG_WIDGET_INVERT_ICONS47
+
+ARG_WIDGET_INVERT_ICONS48
+V
+Pcom.simplecity.amp_library.ui.widgets.BaseWidgetProvider.ARG_WIDGET_SHOW_ARTWORK50
+
+ARG_WIDGET_SHOW_ARTWORK51
+V
+Pcom.simplecity.amp_library.ui.widgets.BaseWidgetProvider.ARG_WIDGET_COLOR_FILTER53
+
+ARG_WIDGET_COLOR_FILTER54
+E
+?com.simplecity.amp_library.ui.widgets.BaseWidgetProvider.mPrefs56
+
+mPrefs57
+
+SharedPreferences59
+H
+Bcom.simplecity.amp_library.ui.widgets.BaseWidgetProvider.mLayoutId61
+
+	mLayoutId62
+
+	LayoutRes64
+
+annotated by65
+'
+!Recovered#typeBindingLLayoutRes;067
+Y
+Scom.simplecity.amp_library.ui.widgets.BaseWidgetProvider#update(LMusicService;[IZ)V69
+
+update70
+*
+$Recovered#typeBindingLMusicService;072
+\
+Vcom.simplecity.amp_library.ui.widgets.BaseWidgetProvider#initialiseWidget(LContext;I)V74
+
+initialiseWidget75
+%
+Recovered#typeBindingLContext;077
+g
+acom.simplecity.amp_library.ui.widgets.BaseWidgetProvider#onUpdate(LContext;LAppWidgetManager;[I)V79
+
+onUpdate80
+.
+(Recovered#typeBindingLAppWidgetManager;082
+
+
+references83
+
+calls84
+$
+Recovered#typeBindingLIntent;086
+c
+]com.simplecity.amp_library.ui.widgets.BaseWidgetProvider#pushUpdate(LContext;ILRemoteViews;)V88
+
+
+pushUpdate89
+)
+#Recovered#typeBindingLRemoteViews;091
+X
+Rcom.simplecity.amp_library.ui.widgets.BaseWidgetProvider#getInstances(LContext;)[I93
+
+private94
+
+getInstances95
+n
+hcom.simplecity.amp_library.ui.widgets.BaseWidgetProvider#notifyChange(LMusicService;Ljava/lang/String;)V97
+
+notifyChange98
+g
+`com.simplecity.amp_library.ui.widgets.BaseWidgetProvider#setupButtons(LContext;LRemoteViews;II)V100
+
+setupButtons101
+,
+%Recovered#typeBindingLPendingIntent;0103
++
+$Recovered#typeBindingLMainActivity;0105
+
+PendingIntent107
+
+returns108
+s
+lcom.simplecity.amp_library.ui.widgets.BaseWidgetProvider#getPendingIntent(LContext;ILIntent;)LPendingIntent;110
+
+getPendingIntent111
+l
+ecom.simplecity.amp_library.ui.widgets.BaseWidgetProvider#loadArtwork(LMusicService;[ILRemoteViews;I)V113
+
+loadArtwork114
+¿
+·com.simplecity.amp_library.ui.widgets.BaseWidgetProvider#loadArtwork(LMusicService;LRemoteViews;ILcom/simplecity/amp_library/glide/utils/CustomAppWidgetTarget$CustomErrorListener;[I)V116
+W
+Pcom.simplecity.amp_library.glide.utils.CustomAppWidgetTarget$CustomErrorListener118
+C
+<com.simplecity.amp_library.glide.utils.CustomAppWidgetTarget120
+n
+gcom.simplecity.amp_library.ui.widgets.BaseWidgetProvider#setupRepeatView(LMusicService;LRemoteViews;Z)V122
+
+setupRepeatView123
+o
+hcom.simplecity.amp_library.ui.widgets.BaseWidgetProvider#setupShuffleView(LMusicService;LRemoteViews;Z)V125
+
+setupShuffleView126J
+
+1
+12Z
+
+3	
+354jÄ
+@
+49:
+495041 *
+1, ,(26:3B
+	
+9
+10
+
+
+11
+51
+
+76
+767715
+
+104
+10410515
+@
+39:
+394041 *
+1) )(26:3B
+	
+9
+10
+
+
+11
+42
+@
+18:
+181920 *
+1 (26:3B
+	
+9
+10
+
+
+11
+21
+F
+112?
+11211320 *
+1 (	26:3B
+	
+9
+33
+
+11
+114
+@
+73:
+737420 *
+16 6(26:3B
+	
+9
+33
+
+
+11
+75
+@
+78:
+787920 *
+18 8(26:3B
+	
+9
+10
+
+
+11
+80
+
+81
+818215
+@
+28:
+282920 *
+1# #(26:3B
+	
+9
+10
+
+
+11
+30
+@
+31:
+313220 *
+1% %(26:3B
+	
+9
+33
+
+
+11
+34
+@
+43:
+434441 *
+1* *(26:3B
+	
+9
+10
+
+
+11
+45
+@
+46:
+464741 *
+1+ +(26:3B
+	
+9
+10
+
+
+11
+48
+
+102
+10210315
+B
+99<
+9910020 *
+1c c(26:3B
+	
+9
+10
+
+11
+101
+F
+115?
+11511620 *
+1‹ ‹(	26:3B
+	
+9
+33
+
+11
+114
+@
+68:
+686920 *
+14 4(26:3B
+	
+9
+10
+
+
+11
+70
+@
+96:
+969720 *
+1X X(26:3B
+	
+9
+10
+
+
+11
+98
+@
+25:
+252620 *
+1! !(26:3B
+	
+9
+10
+
+
+11
+27
+
+35
+353615
+
+90
+909115
+
+58
+585915
+
+13
+131415
+@
+60:
+606141 *
+11 1(26:3B
+	
+9
+10
+
+
+11
+62
+
+85
+858615
+9
+64
+678 *
+1 ():3B
+	
+9
+10
+
+
+11
+12
+@
+22:
+222320 *
+1 (26:3B
+	
+9
+10
+
+
+11
+24
+F
+124?
+12412520 *
+1¨ ¨(	26:3B
+	
+9
+33
+
+11
+126
+
+71
+717215
+@
+92:
+929320 *
+1S S(26:3B
+	
+9
+94
+
+
+11
+95
+@
+55:
+555641 *
+1/ /(26:3B
+	
+9
+10
+
+
+11
+57
+
+63
+636415
+
+117
+11711815
+
+66
+666715
+@
+87:
+878820 *
+1H H(26:3B
+	
+9
+33
+
+
+11
+89
+
+119
+11912015
+F
+121?
+12112220 *
+1“ “(	26:3B
+	
+9
+33
+
+11
+123
+D
+109=
+10911020 *
+1x x(26:3B
+	
+9
+94
+
+11
+111
+
+106
+10610715
+@
+52:
+525341 *
+1- -(26:3B
+	
+9
+10
+
+
+11
+54rŒ
+
+61316*
+12 (C
+
+61317*
+12 (C
+
+313537*
+1%# %(/
+
+313538*
+1%0 %(6
+
+313517*
+1%# %(/
+
+555838*
+1/ /(
+
+555817*
+1/ /(
+
+555817*
+1/ /($
+
+606365*
+11 1(
+
+606617*
+11 1(
+
+687137*
+14! 4(-
+
+687138*
+14. 4(5
+
+687117*
+14! 4(-
+
+737637*
+16. 6(5
+
+737638*
+166 6(=
+
+737617*
+16. 6(5
+
+787637*
+19 9(!
+
+788137*
+19+ 9(;
+
+787638*
+19" 9()
+
+787617*
+19 9(!
+
+788138*
+19< 9(L
+
+788117*
+19+ 9(;
+
+786083*
+1< <(
+
+785583*
+1< <(
+
+785817*
+1< <(
+
+785583*
+1< <(
+
+78683*
+1<' <(8
+
+782284*
+1<' <(8
+
+78683*
+1<J <([
+
+782584*
+1<J <([
+
+78683*
+1= =(
+
+787384*
+1= =(
+
+788538*
+1A A(
+
+788517*
+1A	 A(
+
+78683*
+1BI B(_
+
+781884*
+1BI B(_
+
+877637*
+1H H(&
+
+879037*
+1HA H(L
+
+877638*
+1H' H(.
+
+877617*
+1H H(&
+
+879038*
+1HM H(R
+
+879017*
+1HA H(L
+
+878138*
+1J  J(0
+
+878117*
+1J J(
+
+87683*
+1OI O(M
+
+87617*
+1OI O(M
+
+87683*
+1OI O(M
+
+927637*
+1S  S('
+
+927638*
+1S( S(/
+
+927617*
+1S  S('
+
+928138*
+1T T(*
+
+928117*
+1T	 T(
+
+92683*
+1UM U(Q
+
+92617*
+1UM U(Q
+
+92683*
+1UM U(Q
+
+967137*
+1X X(*
+
+967138*
+1X+ X(2
+
+967117*
+1X X(*
+
+96683*
+1Y Y(
+
+969284*
+1Y Y(
+
+96683*
+1^ ^(
+
+966884*
+1^ ^(
+
+96683*
+1^! ^(-
+
+969284*
+1^! ^(-
+
+997637*
+1c% c(,
+
+999037*
+1c6 c(A
+
+997638*
+1c- c(4
+
+997617*
+1c% c(,
+
+999038*
+1cB c(G
+
+999017*
+1c6 c(A
+
+9910238*
+1e e($
+
+9910217*
+1e	 e(
+
+9910417*
+1ea e(m
+
+99106108*
+1h h()
+
+99683*
+1h h()
+
+9910984*
+1h h()
+
+99106108*
+1k k()
+
+99683*
+1k k()
+
+9910984*
+1k k()
+
+99106108*
+1n n()
+
+99683*
+1n n()
+
+9910984*
+1n n()
+
+99106108*
+1q q()
+
+99683*
+1q q()
+
+9910984*
+1q q()
+
+99106108*
+1t t()
+
+99683*
+1t t()
+
+9910984*
+1t t()
+
+109106108*
+1x x(!
+
+1097637*
+1x3 x(:
+
+1098537*
+1xU x([
+
+10910617*
+1x x(!
+
+1097638*
+1x; x(B
+
+1097617*
+1x3 x(:
+
+1098538*
+1x\ x(b
+
+1098517*
+1xU x([
+
+1097117*
+1y8 y(D
+
+1127137*
+1 ("
+
+1129037*
+1@ (K
+
+1127138*
+1# (*
+
+1127117*
+1 ("
+
+1129038*
+1L (Q
+
+1129017*
+1@ (K
+
+112683*
+1ƒ	 ƒ(
+
+11211584*
+1ƒ	 ƒ(
+
+1157137*
+1‹ ‹("
+
+1159037*
+1‹, ‹(7
+
+11511737*
+1‹I ‹(^
+
+1157138*
+1‹# ‹(*
+
+1157117*
+1‹ ‹("
+
+1159038*
+1‹8 ‹(=
+
+1159017*
+1‹, ‹(7
+
+11511738*
+1‹s ‹(€
+
+11511917*
+1‹I ‹(^
+
+11511717*
+1‹_ ‹(r
+
+11511783*
+1‹_ ‹(r
+
+11511984*
+1 (0
+
+1217137*
+1“ “(&
+
+1219037*
+1“0 “(;
+
+1217138*
+1“' “(.
+
+1217117*
+1“ “(&
+
+1219038*
+1“< “(A
+
+1219017*
+1“0 “(;
+
+1247137*
+1¨ ¨('
+
+1249037*
+1¨1 ¨(<
+
+1247138*
+1¨( ¨(/
+
+1247117*
+1¨ ¨('
+
+1249038*
+1¨= ¨(B
+
+1249017*
+1¨1 ¨(<

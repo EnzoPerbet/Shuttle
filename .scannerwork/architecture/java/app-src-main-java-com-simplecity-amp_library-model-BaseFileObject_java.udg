@@ -1,0 +1,313 @@
+
+1.0testepsi2_analyseepsiJavaFrontend"1750157074603*java2.B¨	
+K
+Fapp/src/main/java/com/simplecity/amp_library/model/BaseFileObject.java2
+
+package4
+%
+ com.simplecity.amp_library.model5
+4
+/com.simplecity.amp_library.model.BaseFileObject7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+BaseFileObject12
+:
+4com.simplecity.amp_library.model.BaseFileObject.name14
+
+field15
+
+
+name16
+:
+4com.simplecity.amp_library.model.BaseFileObject.path18
+
+
+path19
+:
+4com.simplecity.amp_library.model.BaseFileObject.size21
+
+
+size22
+>
+8com.simplecity.amp_library.model.BaseFileObject.fileType24
+
+fileType25
+
+FileType27
+
+unknown28
+
+annotated by29
+&
+ Recovered#typeBindingLFileType;031
+
+
+uses32
+O
+Icom.simplecity.amp_library.model.BaseFileObject#getParent()Ljava/io/File;34
+
+method35
+
+	getParent36
+
+
+references37
+E
+?com.simplecity.amp_library.model.BaseFileObject#canReadWrite()Z39
+
+canReadWrite40
+R
+Lcom.simplecity.amp_library.model.BaseFileObject#toString()Ljava/lang/String;42
+
+toString43
+Q
+Kcom.simplecity.amp_library.model.BaseFileObject#equals(Ljava/lang/Object;)Z45
+
+equals46
+
+is type47
+A
+;com.simplecity.amp_library.model.BaseFileObject#hashCode()I49
+
+hashCode50J
+
+1
+12Z
+
+3	
+354jµ
+
+30
+303128
+@
+33:
+333435 *
+1 (26:3B
+	
+9
+10
+
+
+11
+36
+@
+41:
+414235 *
+1 (26:3B
+	
+9
+10
+
+
+11
+43
+@
+17:
+171815 *
+1 (26:3B
+	
+9
+10
+
+
+11
+19
+@
+13:
+131415 *
+1 (26:3B
+	
+9
+10
+
+
+11
+16
+
+26
+262728
+@
+44:
+444535 *
+1$ $(26:3B
+	
+9
+10
+
+
+11
+46
+9
+64
+678 *
+1	 	(:3B
+	
+9
+10
+
+
+11
+12
+@
+20:
+202115 *
+1 (26:3B
+	
+9
+10
+
+
+11
+22
+@
+48:
+484935 *
+12 2(26:3B
+	
+9
+10
+
+
+11
+50
+@
+23:
+232415 *
+1 (26:3B
+	
+9
+10
+
+
+11
+25
+@
+38:
+383935 *
+1 (26:3B
+	
+9
+10
+
+
+11
+40rà
+
+232629*
+1 (
+
+233032*
+1 (
+
+331737*
+1 ("
+
+381737*
+11 (5
+
+411337*
+1 ( 
+
+411737*
+1 ("
+
+412337*
+1 !  ()
+
+41637*
+1! !(
+
+41637*
+1! !(
+
+44632*
+1& &(
+
+44637*
+1& &(
+
+44647*
+1) )(
+
+44632*
+1)	 )(
+
+44632*
+1)  )(.
+
+442037*
+1+ +(
+
+442037*
+1+ +(
+
+442337*
+1, ,(
+
+442337*
+1, ,(&
+
+441337*
+1- -(
+
+441337*
+1- -(!
+
+441337*
+1- -(!
+
+441337*
+1-. -(2
+
+441337*
+1-; -(?
+
+441737*
+1. .(
+
+441737*
+1. .(#
+
+441737*
+1. .(#
+
+441737*
+1.0 .(4
+
+441737*
+1.= .(A
+
+481337*
+14 4(
+
+481337*
+14% 4()
+
+481337*
+14% 4()
+
+481737*
+15! 5(%
+
+481737*
+150 5(4
+
+481737*
+150 5(4
+
+482037*
+16' 6(+
+
+482037*
+16/ 6(3
+
+482337*
+17  7((

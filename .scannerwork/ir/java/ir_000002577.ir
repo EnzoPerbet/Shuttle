@@ -1,0 +1,65 @@
+
+32int
+31int;this
+Ñ Ñ("%com.simplecity.amp_library.model.Song"ú+
+)
+
+Ò Ò("#get-field# id:Blong+
+)
+
+Ò" Ò($"#get-field# id:Blong.
+,
+
+Ò" Ò(+"#binop >>>#2>>>:Blong*
+(
+
+Ò Ò(,"	#binop ^#2^:Blong*
+(
+
+Ò Ò(-result"#cast#:Bint)
+'
+
+Ó Ó(	"	#binop *#2*:Bint1
+/
+
+Ó& Ó(.
+"#get-field# artistId:Blong1
+/
+
+Ó2 Ó(:"#get-field# artistId:Blong.
+,
+
+Ó2 Ó(A"#binop >>>#2>>>:Blong*
+(
+
+Ó& Ó(B"	#binop ^#2^:
+Blong"
+ 
+
+Ó Ó(C"#cast#:Bint1
+/
+
+Ó Ó(Cresult"	#binop +#2+:	Bint)
+'
+
+Ô Ô("	#binop *#2*:Bint0
+.
+
+Ô& Ô(-"#get-field# albumId:Blong0
+.
+
+Ô1 Ô(8"#get-field# albumId:Blong.
+,
+
+Ô1 Ô(?"#binop >>>#2>>>:Blong*
+(
+
+Ô& Ô(@"	#binop ^#2^:Blong"
+ 
+
+Ô Ô(A"#cast#:Bint1
+/
+
+Ô Ô(Aresult"	#binop +#2+:Bint
+
+Õ Õ(*YC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Song.java

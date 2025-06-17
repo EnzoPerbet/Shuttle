@@ -1,0 +1,26 @@
+typeQ% Q(@"int1-com.simplecity.amp_library.model.InclExclItem"áY
+W
+R R(("#get-field# Type:B2com.simplecity.amp_library.model.InclExclItem$Type-
++
+R R(0"#get-field# INCLUDE:Bint-
++
+R R(0"
+#binop ==#2==:Bboolean&"$
+R R(0 *R1 R(22RL R(M"¦!
+
+R3 R(4"#unknown-value#2
+0
+R3 R(;"#get-field# string:B	!Unknown!;
+9
+R3 R(K"#get-field# whitelist_title:B	!Unknown!
+R3 R(K"¦!
+
+RN R(O	"#unknown-value#2
+0
+RN R(V
+"#get-field# string:	B	!Unknown!;
+9
+RN R(f"#get-field# blacklist_title:
+B	!Unknown!
+RN R(f"$*
+R R(g*gC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/dialog/InclExclDialog.java

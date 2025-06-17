@@ -1,0 +1,459 @@
+
+1.0testepsi2_analyseepsiJavaFrontend"1750157026102*java2.BÁ
+O
+Japp/src/main/java/com/simplecity/amp_library/ui/adapters/PagerAdapter.java2
+
+package4
++
+&com.simplecity.amp_library.ui.adapters5
+8
+3com.simplecity.amp_library.ui.adapters.PagerAdapter7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+PagerAdapter12
+2
+,Recovered#typeBindingLFragmentPagerAdapter;014
+
+unknown15
+
+extends16
+
+
+uses17
+H
+Bcom.simplecity.amp_library.ui.adapters.PagerAdapter.ARG_PAGE_TITLE19
+
+field20
+
+private21
+
+ARG_PAGE_TITLE22
+I
+Ccom.simplecity.amp_library.ui.adapters.PagerAdapter.fragmentManager24
+
+fragmentManager25
+
+FragmentManager27
+
+is type28
+E
+?com.simplecity.amp_library.ui.adapters.PagerAdapter.fragmentMap30
+
+fragmentMap31
+
+SparseArray33
+&
+ Recovered#typeBindingLFragment;035
+T
+Ncom.simplecity.amp_library.ui.adapters.PagerAdapter#<init>(LFragmentManager;)V37
+
+method38
+-
+'Recovered#typeBindingLFragmentManager;040
+
+	has param41
+
+calls42
+
+
+references43
+N
+Hcom.simplecity.amp_library.ui.adapters.PagerAdapter#getItem(I)LFragment;45
+
+getItem46
+
+Fragment48
+
+returns49
+i
+ccom.simplecity.amp_library.ui.adapters.PagerAdapter#instantiateItem(LViewGroup;I)Ljava/lang/Object;51
+
+instantiateItem52
+'
+!Recovered#typeBindingLViewGroup;054
+
+FragmentPagerAdapter56
+E
+?com.simplecity.amp_library.ui.adapters.PagerAdapter#getCount()I58
+
+getCount59
+a
+[com.simplecity.amp_library.ui.adapters.PagerAdapter#getPageTitle(I)Ljava/lang/CharSequence;61
+
+getPageTitle62
+R
+Lcom.simplecity.amp_library.ui.adapters.PagerAdapter#addFragment(LFragment;)V64
+
+addFragment65
+B
+<com.simplecity.amp_library.ui.adapters.PagerAdapter#clear()V67
+
+clear68
+T
+Ncom.simplecity.amp_library.ui.adapters.PagerAdapter#removeAllChildFragments()V70
+
+removeAllChildFragments71
+1
++Recovered#typeBindingLFragmentTransaction;073J
+
+1
+12Z
+
+3	
+354jÅ
+@
+23:
+232420 *
+1 (26:3B
+	
+9
+21
+
+
+11
+25
+
+39
+394015
+@
+18:
+181920 *
+1 (26:3B
+	
+9
+21
+
+
+11
+22
+
+34
+343515
+
+55
+555615
+@
+63:
+636438 *
+1/ /(26:3B
+	
+9
+10
+
+
+11
+65
+
+72
+727315
+
+13
+131415
+
+47
+474815
+@
+69:
+697038 *
+1: :(26:3B
+	
+9
+10
+
+
+11
+71
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+
+53
+535415
+
+26
+262715
+@
+29:
+293020 *
+1 (26:3B
+	
+9
+21
+
+
+11
+31
+@
+36:
+363738 *
+1 (26:3B
+	
+9
+10
+
+
+11
+12
+@
+50:
+505138 *
+1 (26:3B
+	
+9
+10
+
+
+11
+52
+
+32
+323315
+@
+44:
+444538 *
+1 (26:3B
+	
+9
+10
+
+
+11
+46
+@
+66:
+666738 *
+14 4(26:3B
+	
+9
+10
+
+
+11
+68
+@
+60:
+606138 *
+1* *(26:3B
+	
+9
+10
+
+
+11
+62
+@
+57:
+575838 *
+1% %(26:3B
+	
+9
+10
+
+
+11
+59rœ
+
+61316*
+1# (7
+
+61317*
+1# (7
+
+232628*
+1 (
+
+232617*
+1 (
+
+232617*
+1 (,
+
+293228*
+1 (
+
+293217*
+1 (
+
+293417*
+1 (!
+
+293217*
+1# (.
+
+363941*
+1 ((
+
+36642*
+1 (
+
+363928*
+1) (8
+
+363917*
+1 ((
+
+36617*
+1	 (
+
+36643*
+1	 (
+
+362617*
+1 (
+
+362343*
+1 (
+
+444749*
+1 (
+
+444717*
+1 (
+
+442943*
+1 (
+
+443217*
+1 (
+
+442943*
+1 (
+
+505341*
+1# (,
+
+505328*
+1- (6
+
+505317*
+1# (,
+
+503428*
+1   (
+
+503417*
+1 	  (
+
+503417*
+1   (&
+
+50643*
+1 (  (-
+
+505517*
+1 (  (-
+
+50643*
+1 (  (-
+
+502943*
+1!	 !(
+
+503217*
+1!	 !(
+
+502943*
+1!	 !(
+
+572943*
+1' '(
+
+573217*
+1' '(
+
+572943*
+1' '(
+
+604749*
+1, ,(
+
+60643*
+1, ,(
+
+604442*
+1, ,(
+
+601843*
+1,; ,(I
+
+633441*
+1/ /(%
+
+633428*
+1/& /(.
+
+633417*
+1/ /(%
+
+632943*
+10	 0(
+
+633217*
+10	 0(
+
+632943*
+10	 0(
+
+632943*
+10 0($
+
+633217*
+10 0($
+
+632943*
+10 0($
+
+662943*
+15	 5(
+
+663217*
+15	 5(
+
+662943*
+15	 5(
+
+697228*
+1; ;(0
+
+697217*
+1;	 ;(
+
+692343*
+1;3 ;(B
+
+692617*
+1;3 ;(B
+
+692343*
+1;3 ;(B
+
+692943*
+1< <('
+
+693217*
+1< <('
+
+692943*
+1< <('
+
+69643*
+1?	 ?(
+
+696642*
+1?	 ?(

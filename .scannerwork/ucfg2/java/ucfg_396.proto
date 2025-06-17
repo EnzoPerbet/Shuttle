@@ -1,0 +1,134 @@
+
+Wcom.simplecity.amp_library.ui.modelviews.QueuePagerItemView#equals(Ljava/lang/Object;)Zy
+oC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/QueuePagerItemView.javaI I("startingBlock*«
+2O7 O(;Y
+W
+O7 O(H
+%8"	__compare*
+OA O(C
+==*
+O7 O(@
+""*
+OD O(H
+""<
+:
+O7 O(H
+%6"__id*"
+
+__unknown_file (
+
+%8*
+1*P
+3O O("<
+:
+O O(4
+%6"__id*"
+
+__unknown_file (
+
+%7*
+1*€
+startingBlockI I(#ˆ
+…
+H H(
+%9"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+ojava.lang.ObjectU
+S
+I! I("
+ojava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%9*
+9*€
+4M7 M(8
+Š
+M M(9C
+that;com.simplecity.amp_library.ui.modelviews.QueuePagerItemView"__id*3
+
+__unknown_file (
+
+ojava.lang.ObjectY
+W
+O O(
+%5"	__compare*
+O O(
+!=*
+O O(
+""*
+O O(
+""*
+2
+3*!
+5K< K(A"
+K5 K(B
+""*ñ
+6K K(!»¸
+K K(#
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*[
+
+__unknown_file (?=
+;com.simplecity.amp_library.ui.modelviews.QueuePagerItemView2
+getClass()“
+K' K(3
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
+
+__unknown_file (
+
+ojava.lang.Object2
+getClass()…
+‚
+K K(3
+%4boolean"	__compare*
+K$ K(&
+!=*#
+K K(#
+
+%2java.lang.Class*#
+K' K(3
+
+%3java.lang.Class*
+4
+5*Š
+7K K(s
+q
+K K(
+%1boolean"	__compare*
+K K(
+==*#
+K K(
+
+ojava.lang.Object*
+K K(
+""*
+5
+6*!
+8J J(""
+J J(#
+""*Å
+9J J(­
+ª
+J J(
+%0boolean"	__compare*
+J J(
+==*K
+J J(?=
+;com.simplecity.amp_library.ui.modelviews.QueuePagerItemView*#
+J J(
+
+ojava.lang.Object*
+7
+8*!
+1O O(I"
+O O(I
+"":!
+I I("
+ojava.lang.ObjectB?=
+;com.simplecity.amp_library.ui.modelviews.QueuePagerItemViewHX

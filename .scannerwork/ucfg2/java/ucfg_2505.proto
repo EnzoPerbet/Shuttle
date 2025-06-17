@@ -1,0 +1,44 @@
+
+Zcom.google.android.libraries.cast.companionlibrary.cast.DataCastManager#%field_initializer
+__unknown_file ("1*÷
+1 (·´
+…
+{C:/Users/enzo.perbet/Shuttle/libraries/ccl/src/com/google/android/libraries/cast/companionlibrary/cast/DataCastManager.javaP3 P(<
+%0java.util.HashSet"java.util.HashSetÕ
+Ò
+…
+{C:/Users/enzo.perbet/Shuttle/libraries/ccl/src/com/google/android/libraries/cast/companionlibrary/cast/DataCastManager.javaP/ P(>
+%1"java.util.HashSet#<init>()V*%
+ (
+
+%0java.util.HashSet—
+”
+…
+{C:/Users/enzo.perbet/Shuttle/libraries/ccl/src/com/google/android/libraries/cast/companionlibrary/cast/DataCastManager.javaP P(?]I
+Gcom.google.android.libraries.cast.companionlibrary.cast.DataCastManager"
+mNamespaceList"__id*%
+ (
+
+%0java.util.HashSetåâ
+…
+{C:/Users/enzo.perbet/Shuttle/libraries/ccl/src/com/google/android/libraries/cast/companionlibrary/cast/DataCastManager.javaQ= Q(R.
+%2(java.util.concurrent.CopyOnWriteArraySet"(java.util.concurrent.CopyOnWriteArraySetƒ
+€
+…
+{C:/Users/enzo.perbet/Shuttle/libraries/ccl/src/com/google/android/libraries/cast/companionlibrary/cast/DataCastManager.javaQ9 Q(T
+%3"2java.util.concurrent.CopyOnWriteArraySet#<init>()V*<
+ (0
+.
+%2(java.util.concurrent.CopyOnWriteArraySet®
+«
+…
+{C:/Users/enzo.perbet/Shuttle/libraries/ccl/src/com/google/android/libraries/cast/companionlibrary/cast/DataCastManager.javaQ Q(U]I
+Gcom.google.android.libraries.cast.companionlibrary.cast.DataCastManager"
+mDataConsumers"__id*<
+ (0
+.
+%2(java.util.concurrent.CopyOnWriteArraySet"œ
+„
+{C:/Users/enzo.perbet/Shuttle/libraries/ccl/src/com/google/android/libraries/cast/companionlibrary/cast/DataCastManager.javaL »(
+implicit returnBKI
+Gcom.google.android.libraries.cast.companionlibrary.cast.DataCastManager

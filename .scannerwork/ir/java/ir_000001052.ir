@@ -1,0 +1,21 @@
+
+1.0ffloatFthis ("2com.simplecity.amp_library.ui.views.SizableSeekBar"ì7
+5
+ (/"#!#set-field# currentThumbSizeRatio:M
+K
+< (b"#new-object#2ConstructorB AccelerateDecelerateInterpolator1
+/
+< (b"#unknown-value#2Constructor:.
+,
+ (c"#set-field# interpolator:?
+=
+[E c("/-?create:Recovered#typeBindingLValueAnimator;03
+1
+[ c("#set-field# mAnimatorListener:I
+G
+e7 z(	"97?create:Recovered#typeBindingLOnSeekBarChangeListener;02
+0
+e z(
+"#set-field# internalListener:	
+
+ {(*fC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/views/SizableSeekBar.java

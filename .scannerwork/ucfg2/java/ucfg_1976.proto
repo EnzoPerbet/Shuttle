@@ -1,0 +1,33 @@
+
+’com.simplecity.amp_library.ui.fragments.PlaylistFragment#newInstance(Ljava/lang/String;)Lcom/simplecity/amp_library/ui/fragments/PlaylistFragment;v
+lC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/fragments/PlaylistFragment.java;# ;(."1*µ
+1<$ <(:‡„
+<( <(8>
+%08com.simplecity.amp_library.ui.fragments.PlaylistFragment"8com.simplecity.amp_library.ui.fragments.PlaylistFragmentµ
+²
+<$ <(:
+%1"Bcom.simplecity.amp_library.ui.fragments.PlaylistFragment#<init>()V*\
+
+__unknown_file (@
+>
+%08com.simplecity.amp_library.ui.fragments.PlaylistFragment·
+´
+< <(;D
+fragment8com.simplecity.amp_library.ui.fragments.PlaylistFragment"__id*\
+
+__unknown_file (@
+>
+%08com.simplecity.amp_library.ui.fragments.PlaylistFragmentV
+T
+> >(%
+%2java.lang.String"__id**
+
+__unknown_file (
+
+page_title"R
+@ @(F
+D
+fragment8com.simplecity.amp_library.ui.fragments.PlaylistFragment:)
+;/ ;(?
+	pageTitlejava.lang.StringB<":
+8com.simplecity.amp_library.ui.fragments.PlaylistFragmentH

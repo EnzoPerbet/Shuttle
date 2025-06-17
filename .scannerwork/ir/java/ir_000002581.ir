@@ -1,0 +1,37 @@
+
+
+2int
+"%s_%s"java.lang.String
+
+0int
+
+
+1int;this
+ë ë("%com.simplecity.amp_library.model.Song"þP
+N
+
+ì ì(G
+artworkKey"#new-object#2Constructor:Bjava.lang.Object[]D
+B
+
+ì, ì(;"#get-field# albumArtistName:Bjava.lang.String&
+$
+
+ì ì(G"#array-write#:>
+<
+
+ì= ì(F"#get-field# albumName:Bjava.lang.String&
+$
+
+ì ì(G	"#array-write#:
+“
+
+
+ì ì(G
+artworkKey"S
+java.lang.String?format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*2format:Bjava.lang.String.
+,
+
+ì ì(G"#set-field# artworkKey:
+
+í í(*YC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Song.java

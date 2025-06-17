@@ -1,0 +1,66 @@
+
+Ecom.simplecity.amp_library.ui.modelviews.SongView#onItemLongClick(I)Zq
+eC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/SongView.java„ „(#"3*²
+2
+† †(½
+º
+
+† †(E
+%2?com.simplecity.amp_library.ui.modelviews.SongView$ClickListener"__id*_
+
+__unknown_file (C*A3
+1com.simplecity.amp_library.ui.modelviews.SongView"
+
+listenerÊÇ
+
+† †(;
+%3boolean"†com.simplecity.amp_library.ui.modelviews.SongView$ClickListener#onSongLongClick(ILcom/simplecity/amp_library/ui/modelviews/SongView;)Z*c
+
+__unknown_file (G
+E
+%2?com.simplecity.amp_library.ui.modelviews.SongView$ClickListener*"
+
+__unknown_file (
+""*Q
+
+__unknown_file (53
+1com.simplecity.amp_library.ui.modelviews.SongView2EonSongLongClick(ILcom/simplecity/amp_library/ui/modelviews/SongView;)"
+
+† †(<
+""*†
+3
+… …(½
+º
+
+… …(E
+%0?com.simplecity.amp_library.ui.modelviews.SongView$ClickListener"__id*_
+
+__unknown_file (C*A3
+1com.simplecity.amp_library.ui.modelviews.SongView"
+
+listener¬
+©
+
+… …(
+%1boolean"	__compare*
+
+… …(
+!=*U
+
+… …(G
+E
+%0?com.simplecity.amp_library.ui.modelviews.SongView$ClickListener*
+
+… …(
+""*
+2
+1*%
+1
+ˆ ˆ("
+
+ˆ ˆ(
+"": 
+
+__unknown_file (
+""B53
+1com.simplecity.amp_library.ui.modelviews.SongViewX

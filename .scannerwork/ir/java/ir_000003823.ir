@@ -1,0 +1,101 @@
+
+'-1intAthisB B("-com.simplecity.amp_library.model.CategoryItem62com.simplecity.amp_library.model.CategoryItem$Type"<*
+(
+C C("#get-field# type:Bint
+C R(	"‡,
+*
+D D("#get-field# GENRES:Bint-
++
+D D("
+#binop ==#2==:Bboolean&"$
+D D( *D D(2F F("Š/
+-
+F F("#get-field# SUGGESTED:Bint-
++
+F F( "
+#binop ==#2==:Bboolean&"$
+F F( 	 *F F(2H H("ˆ-
++
+H H("#get-field# ARTISTS:Bint-
++
+H H(	"
+#binop ==#2==:Bboolean&"$
+H H(	
+ *H H(2J J("‡,
+*
+J J(
+"#get-field# ALBUMS:Bint-
++
+J J("
+#binop ==#2==:
+Bboolean&"$
+J J( *J J(2L L("†+
+)
+L L("#get-field# SONGS:Bint-
++
+L L("
+#binop ==#2==:Bboolean&"$
+L L( *L L(2N N("ˆ-
++
+N N("#get-field# FOLDERS:Bint-
++
+N N("
+#binop ==#2==:Bboolean&"$
+N N( *N N(2P P("€/
+-
+P P("#get-field# PLAYLISTS:Bint-
++
+P P( "
+#binop ==#2==:Bboolean"
+P P(  *P P("£!
+
+E E("#unknown-value#2
+0
+E E("#get-field# string:B	!Unknown!8
+6
+E E(,"#get-field# genres_title:B	!Unknown!
+E E(-"¦	!
+
+G G("#unknown-value#2
+0
+G G("#get-field# string:B	!Unknown!;
+9
+G G(/"#get-field# suggested_title:B	!Unknown!
+G G(0"¤
+!
+
+I I("#unknown-value#2
+0
+I I("#get-field# string:B	!Unknown!9
+7
+I I(-"#get-field# artists_title:B	!Unknown!
+I I(."£!
+
+K K("#unknown-value#2
+0
+K K("#get-field# string:B	!Unknown!8
+6
+K K(,"#get-field# albums_title:B	!Unknown!
+K K(-"£!
+
+M M("#unknown-value#2
+0
+M M("#get-field# string:B	!Unknown!8
+6
+M M(, "#get-field# tracks_title:B	!Unknown!
+M M(- "¤!
+
+O O(!"#unknown-value#2
+0
+O O(""#get-field# string:!B	!Unknown!9
+7
+O O(-#"#get-field# folders_title:"B	!Unknown!
+O O(.#"¦!
+
+Q Q($"#unknown-value#2
+0
+Q Q(%"#get-field# string:$B	!Unknown!;
+9
+Q Q(/&"#get-field# playlists_title:%B	!Unknown!
+Q Q(0&"
+S S('*aC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/CategoryItem.java

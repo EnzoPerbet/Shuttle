@@ -1,0 +1,77 @@
+
+Xcom.simplecity.amp_library.ui.modelviews.AlbumView#areContentsEqual(Ljava/lang/Object;)Zr
+fC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/AlbumView.javaê ê(#"startingBlock*%
+2
+ì ì(p"
+
+ì ì(p
+""*Î
+3
+ì> ì(Dƒ
+€
+
+ìL ì(R
+%0char[]"__id*^
+
+__unknown_file (B*@4
+2com.simplecity.amp_library.ui.modelviews.AlbumView"
+prefixg
+e
+
+ìT ì(n
+%1char[]"__id*C
+
+__unknown_file ('*%
+
+otherjava.lang.Object"
+prefixÈ
+Å
+
+ì> ì(o
+%2boolean"java.util.Arrays#equals([C[C)Z*0
+
+__unknown_file ("
+java.util.Arrays**
+
+__unknown_file (
+
+%0char[]**
+
+__unknown_file (
+
+%1char[]*
+2*”
+startingBlock
+ê# ê(1Ž
+‹
+
+é é(
+%3"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*7
+
+__unknown_file (
+
+otherjava.lang.Object[
+Y
+
+ê+ ê(0
+otherjava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%3*	
+2
+3
+1*%
+1
+î î("
+
+î î(
+"":'
+
+ê$ ê(0
+otherjava.lang.ObjectB64
+2com.simplecity.amp_library.ui.modelviews.AlbumViewHX

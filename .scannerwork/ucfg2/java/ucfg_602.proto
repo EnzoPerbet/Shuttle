@@ -1,0 +1,48 @@
+
+^com.google.android.libraries.cast.companionlibrary.cast.VideoCastManager#isRemoteStreamLive()Zˆ
+|C:/Users/enzo.perbet/Shuttle/libraries/ccl/src/com/google/android/libraries/cast/companionlibrary/cast/VideoCastManager.javaó ó(+"3*w
+2
+÷" ÷(&a
+_
+
+÷" ÷(T
+%2"	__compare*
+
+÷7 ÷(9
+==*
+
+÷" ÷(6
+""*
+
+÷: ÷(T
+""*
+1*Š
+3
+õ õ(Š
+
+ö ö(4
+%0"ocom.google.android.libraries.cast.companionlibrary.cast.VideoCastManager#getRemoteMediaInformation()LMediaInfo;*h
+
+__unknown_file (LJ
+Hcom.google.android.libraries.cast.companionlibrary.cast.VideoCastManager2getRemoteMediaInformation()a
+_
+
+÷ ÷(
+%1"	__compare*
+
+÷ ÷(
+!=*
+
+÷ ÷(
+""*
+
+÷ ÷(
+""*
+2
+1*%
+1
+÷ ÷(V"
+
+÷ ÷(V
+""BLJ
+Hcom.google.android.libraries.cast.companionlibrary.cast.VideoCastManagerHX

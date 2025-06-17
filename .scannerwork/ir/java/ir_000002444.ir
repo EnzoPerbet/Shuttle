@@ -1,0 +1,16 @@
+\this5 5("Hcom.google.android.libraries.cast.companionlibrary.utils.FetchBitmapTask!preferredWidth5 5(-"int"preferredHeight5/ 5(B"int%allowedToScale5D 5(Z"boolean"À/
+-
+6 6((mPreferredWidth"#id#:Bint1
+/
+6 6(("#set-field# mPreferredWidth:0
+.
+7 7(*mPreferredHeight"#id#:Bint2
+0
+7 7(*"#set-field# mPreferredHeight:3
+1
+8 8((	mAllowedToScale"#id#:Bboolean1
+/
+8 8((
+"#set-field# mAllowedToScale:	
+
+9 9(*|C:/Users/enzo.perbet/Shuttle/libraries/ccl/src/com/google/android/libraries/cast/companionlibrary/utils/FetchBitmapTask.java

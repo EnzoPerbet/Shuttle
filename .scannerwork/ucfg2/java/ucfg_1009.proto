@@ -1,0 +1,60 @@
+
+mcom.simplecity.amp_library.format.PrefixHighlighter#apply(Ljava/lang/CharSequence;[C)Ljava/lang/CharSequence;q
+gC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/format/PrefixHighlighter.java@ @("5*‚
+2F? F(C_
+]
+G4 G(I	
+%3int"__calculate*
+G: G(;
++*
+G4 G(9
+""*
+G< G(I
+"""
+H H(
+""*m
+4C C( Y
+W
+C C((
+%2"	__compare*
+C! C(#
+==*
+C C( 
+""*
+C$ C((
+""*
+2*¹
+5A A(+¿
+¼
+A A(9	
+%0int"bcom.simplecity.amp_library.format.PrefixHighlighter#indexOfWordPrefix(Ljava/lang/CharSequence;[C)I*S
+
+__unknown_file (7"5
+3com.simplecity.amp_library.format.PrefixHighlighter*<
+
+__unknown_file ( 
+
+textjava.lang.CharSequence*.
+
+__unknown_file (
+
+prefixchar[]`
+^
+B B(
+%1boolean"	__compare*
+B B(
+!=*
+B B(
+""*
+B B(2*
+4
+1*;
+1J J(",
+J J( 
+
+textjava.lang.CharSequence:*
+@ @(1
+textjava.lang.CharSequence:
+@2 @(?
+prefixchar[]B75
+3com.simplecity.amp_library.format.PrefixHighlighter

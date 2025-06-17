@@ -1,0 +1,163 @@
+
+1.0testepsi2_analyseepsiJavaFrontend"1750157048319*java2.Bï	
+Y
+Tapp/src/main/java/com/simplecity/amp_library/ui/appwidget/WidgetConfigureMedium.java2
+
+package4
+,
+'com.simplecity.amp_library.ui.appwidget5
+B
+=com.simplecity.amp_library.ui.appwidget.WidgetConfigureMedium7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+WidgetConfigureMedium12
+1
++Recovered#typeBindingLBaseWidgetConfigure;014
+
+unknown15
+
+extends16
+
+
+uses17
+G
+Acom.simplecity.amp_library.ui.appwidget.WidgetConfigureMedium.TAG19
+
+field20
+
+private21
+	
+TAG22
+X
+Rcom.simplecity.amp_library.ui.appwidget.WidgetConfigureMedium#getWidgetLayouts()[I24
+
+method25
+
+	protected26
+
+getWidgetLayouts27
+i
+ccom.simplecity.amp_library.ui.appwidget.WidgetConfigureMedium#getLayoutIdString()Ljava/lang/String;29
+
+getLayoutIdString30
+n
+hcom.simplecity.amp_library.ui.appwidget.WidgetConfigureMedium#getUpdateCommandString()Ljava/lang/String;32
+
+getUpdateCommandString33
+T
+Ncom.simplecity.amp_library.ui.appwidget.WidgetConfigureMedium#getRootViewId()I35
+
+getRootViewId36
+b
+\com.simplecity.amp_library.ui.appwidget.WidgetConfigureMedium#screenName()Ljava/lang/String;38
+
+
+screenName39
+
+
+references40J
+
+1
+12Z
+
+3	
+354j€
+
+13
+131415
+@
+23:
+232425 *
+1
+ 
+(26:3B
+	
+9
+26
+
+
+11
+27
+9
+64
+678 *
+1 (#:3B
+	
+9
+10
+
+
+11
+12
+@
+34:
+343525 *
+1 (26:3B
+	
+9
+26
+
+
+11
+36
+@
+18:
+181920 *
+1 (26:3B
+	
+9
+21
+
+
+11
+22
+@
+37:
+373825 *
+1 (26:3B
+	
+9
+26
+
+
+11
+39
+@
+31:
+313225 *
+1 (26:3B
+	
+9
+26
+
+
+11
+33
+@
+28:
+282925 *
+1 (26:3B
+	
+9
+26
+
+
+11
+30rO
+
+61316*
+1, (?
+
+61317*
+1, (?
+
+371840*
+1   (

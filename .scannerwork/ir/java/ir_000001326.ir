@@ -1,0 +1,67 @@
+Lthist t(%"8android.support.design.widget.CustomCollapsingTextHelper0viewt& t(/"Recovered#typeBindingLView;0"Ð(
+&
+u u(mView"#unknown-value#'
+%
+u u("#set-field# mView:C
+A
+v v(UmTitlePaint"#new-object#2ConstructorB	TextPaint!
+
+v$ v()"#unknown-value#;
+9
+v$ v(9"#get-field# ANTI_ALIAS_FLAG:B	!Unknown!!
+
+v$ v()"#unknown-value#;
+9
+v$ v(9	"#get-field# ANTI_ALIAS_FLAG:B	!Unknown!!
+
+v< v(A
+"#unknown-value#>
+<
+v< v(T" #get-field# SUBPIXEL_TEXT_FLAG:
+B	!Unknown!-
++
+v$ v(T"	#binop |#2|:	B	!Unknown!2
+0
+v v(U"#unknown-value#2Constructor:-
++
+v v(U"#set-field# mTitlePaint:A
+?
+w w(S	mSubPaint"#new-object#2ConstructorB	TextPaint!
+
+w" w('"#unknown-value#;
+9
+w" w(7"#get-field# ANTI_ALIAS_FLAG:B	!Unknown!!
+
+w" w('"#unknown-value#;
+9
+w" w(7"#get-field# ANTI_ALIAS_FLAG:B	!Unknown!!
+
+w: w(?"#unknown-value#>
+<
+w: w(R" #get-field# SUBPIXEL_TEXT_FLAG:B	!Unknown!-
++
+w" w(R"	#binop |#2|:B	!Unknown!2
+0
+w w(S"#unknown-value#2Constructor:+
+)
+w w(S"#set-field# mSubPaint:C
+A
+x x(%mCollapsedBounds"#new-object#2ConstructorBRect1
+/
+x x(%"#unknown-value#2Constructor:2
+0
+x x(%"#set-field# mCollapsedBounds:B
+@
+y y($mExpandedBounds"#new-object#2ConstructorBRect1
+/
+y y($"#unknown-value#2Constructor:1
+/
+y y($"#set-field# mExpandedBounds:B
+@
+z z($mCurrentBounds"#new-object#2ConstructorBRectF1
+/
+z z($ "#unknown-value#2Constructor:0
+.
+z z($!"#set-field# mCurrentBounds:
+
+{ {(*lC:/Users/enzo.perbet/Shuttle/app/src/main/java/android/support/design/widget/CustomCollapsingTextHelper.java

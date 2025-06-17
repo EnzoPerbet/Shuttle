@@ -1,0 +1,207 @@
+
+1.0testepsi2_analyseepsiJavaFrontend"1750157040375*java2.BÙ	
+I
+Dapp/src/main/java/com/simplecity/amp_library/ui/views/QueueView.java2
+
+package4
+(
+#com.simplecity.amp_library.ui.views5
+2
+-com.simplecity.amp_library.ui.views.QueueView7
+
+	interface8
+
+access9
+
+public10
+
+simple name11
+
+	QueueView12
+P
+Jcom.simplecity.amp_library.ui.views.QueueView#loadData(Ljava/util/List;I)V14
+
+method15
+
+loadData16
+'
+!Recovered#typeBindingLViewModel;018
+
+unknown19
+
+
+uses20
+L
+Fcom.simplecity.amp_library.ui.views.QueueView#updateQueuePosition(IZ)V22
+
+updateQueuePosition23
+S
+Mcom.simplecity.amp_library.ui.views.QueueView#showToast(Ljava/lang/String;I)V25
+
+	showToast26
+U
+Ocom.simplecity.amp_library.ui.views.QueueView#startDrag(LSongView/ViewHolder;)V28
+
+	startDrag29
+&
+ Recovered#typeBindingLSongView;031
+
+	has param32
+
+is type33
+U
+Ocom.simplecity.amp_library.ui.views.QueueView#showTaggerDialog(LTaggerDialog;)V35
+
+showTaggerDialog36
+*
+$Recovered#typeBindingLTaggerDialog;038
+G
+Acom.simplecity.amp_library.ui.views.QueueView#removeFromQueue(I)V40
+
+removeFromQueue41
+F
+@com.simplecity.amp_library.ui.views.QueueView#moveQueueItem(II)V43
+
+moveQueueItem44
+H
+Bcom.simplecity.amp_library.ui.views.QueueView#showUpgradeDialog()V46
+
+showUpgradeDialog47J
+
+1
+12Z
+
+3	
+354já
+
+37
+373819
+@
+21:
+212215 *
+1 (	26:3B
+	
+9
+10
+
+
+11
+23
+
+30
+303119
+9
+64
+678 *
+1	 	(:3B
+	
+9
+10
+
+
+11
+12
+@
+27:
+272815 *
+1 (	26:3B
+	
+9
+10
+
+
+11
+29
+@
+45:
+454615 *
+1 (	26:3B
+	
+9
+10
+
+
+11
+47
+@
+24:
+242515 *
+1 (	26:3B
+	
+9
+10
+
+
+11
+26
+@
+13:
+131415 *
+1 (	26:3B
+	
+9
+10
+
+
+11
+16
+@
+42:
+424315 *
+1 (	26:3B
+	
+9
+10
+
+
+11
+44
+
+17
+171819
+@
+39:
+394015 *
+1 (	26:3B
+	
+9
+10
+
+
+11
+41
+@
+34:
+343515 *
+1 (	26:3B
+	
+9
+10
+
+
+11
+36rÿ
+
+131720*
+1 (!
+
+273032*
+1 (
+
+273033*
+1( (.
+
+273020*
+1 (
+
+273020*
+1 ('
+
+343732*
+1 ('
+
+343733*
+1( (4
+
+343720*
+1 ('

@@ -1,0 +1,211 @@
+
+1.0testepsi2_analyseepsiJavaFrontend"1750157057490*java2.B 
+F
+Aapp/src/main/java/com/android/vending/billing/utils/Security.java2
+
+package4
+&
+!com.android.vending.billing.utils5
+/
+*com.android.vending.billing.utils.Security7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+Security12
+4
+.com.android.vending.billing.utils.Security.TAG14
+
+field15
+
+private16
+	
+TAG17
+F
+@com.android.vending.billing.utils.Security.KEY_FACTORY_ALGORITHM19
+
+KEY_FACTORY_ALGORITHM20
+D
+>com.android.vending.billing.utils.Security.SIGNATURE_ALGORITHM22
+
+SIGNATURE_ALGORITHM23
+x
+rcom.android.vending.billing.utils.Security#verifyPurchase(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Z25
+
+method26
+
+verifyPurchase27
+
+
+references28
+o
+icom.android.vending.billing.utils.Security#generatePublicKey(Ljava/lang/String;)Ljava/security/PublicKey;30
+
+unknown31
+
+calls32
+
+
+uses33
+w
+qcom.android.vending.billing.utils.Security#verify(Ljava/security/PublicKey;Ljava/lang/String;Ljava/lang/String;)Z35
+
+generatePublicKey36
+4
+.Recovered#typeBindingLBase64DecoderException;038
+
+is type39
+
+verify40J
+
+1
+12Z
+
+3	
+354j€
+@
+21:
+212215 *
+1- -(26:3B
+	
+9
+16
+
+
+11
+23
+@
+34:
+343526 *
+1c c(26:3B
+	
+9
+10
+
+
+11
+40
+
+37
+373831
+@
+24:
+242526 *
+18 8(26:3B
+	
+9
+10
+
+
+11
+27
+9
+64
+678 *
+1) )(:3B
+	
+9
+10
+
+
+11
+12
+@
+18:
+181915 *
+1, ,(26:3B
+	
+9
+16
+
+
+11
+20
+@
+13:
+131415 *
+1* *(26:3B
+	
+9
+16
+
+
+11
+17
+@
+29:
+293026 *
+1J J(26:3B
+	
+9
+10
+
+
+11
+36rò
+
+241328*
+1; ;(
+
+24628*
+1? ?(!
+
+242932*
+1?" ?(3
+
+24633*
+1? ?(!
+
+24628*
+1@ @(
+
+243432*
+1@ @(
+
+24633*
+1@ @(
+
+291828*
+1M< M(Q
+
+291328*
+1R R(
+
+293739*
+1T) T(*
+
+293733*
+1T T((
+
+291328*
+1U U(
+
+342128*
+1f) f(<
+
+341328*
+1j j(
+
+341328*
+1o o(
+
+341328*
+1q q(
+
+341328*
+1s s(
+
+343739*
+1t) t(*
+
+343733*
+1t t((
+
+341328*
+1u u(

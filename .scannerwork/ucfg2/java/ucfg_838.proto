@@ -1,0 +1,96 @@
+
+[com.simplecity.amp_library.utils.SettingsManager#getAlbumColumnCountKey()Ljava/lang/String;p
+dC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.java¹ ¹()"8*â
+2
+¿/ ¿(Lg
+e
+
+¿/ ¿(L
+%4java.lang.String"__id*9
+
+__unknown_file (
+album_column_count_tabletc
+a
+
+¿) ¿(L
+keyjava.lang.String"__id*4
+
+__unknown_file (
+
+%4java.lang.String*
+1*g
+4
+½ ½(lQ
+O
+
+½ ½(l
+keyjava.lang.String"__id*"
+
+__unknown_file (
+
+%1*
+1*Í
+5
+½Q ½(le
+c
+
+½Q ½(l
+%3java.lang.String"__id*7
+
+__unknown_file (
+album_column_count_landP
+N
+
+½Q ½(l
+%1"__id*4
+
+__unknown_file (
+
+%3java.lang.String*
+4*Ô
+6
+½, ½(Nl
+j
+
+½, ½(N
+%2java.lang.String"__id*>
+
+__unknown_file (" 
+album_column_count_tablet_landP
+N
+
+½, ½(N
+%1"__id*4
+
+__unknown_file (
+
+%2java.lang.String*
+4*ä
+8
+º º(+`
+^
+
+º º(+
+%0java.lang.String"__id*2
+
+__unknown_file (
+album_column_countc
+a
+
+º º(,
+keyjava.lang.String"__id*4
+
+__unknown_file (
+
+%0java.lang.String*
+2
+5
+6
+1*8
+1
+Â Â("'
+
+Â Â(
+
+keyjava.lang.StringB42
+0com.simplecity.amp_library.utils.SettingsManager

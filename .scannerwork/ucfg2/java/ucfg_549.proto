@@ -1,0 +1,54 @@
+
+Ecom.simplecity.amp_library.model.Album#getSortKey()Ljava/lang/String;f
+ZC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Album.javaƒ ƒ("3*æ
+2
+∆ ∆(ß§
+
+∆ ∆(
+
+%2void"4com.simplecity.amp_library.model.Album#setSortKey()V*F
+
+__unknown_file (*(
+&com.simplecity.amp_library.model.Album2setSortKey()*
+1*ô
+3
+≈ ≈(Å
+
+
+≈ ≈(
+%0java.lang.String"__id*S
+
+__unknown_file (7*5(
+&com.simplecity.amp_library.model.Album"	
+sortKey|
+z
+
+≈ ≈(
+%1boolean"	__compare*
+
+≈ ≈(
+==*&
+
+≈ ≈(
+
+%0java.lang.String*
+
+≈ ≈(
+""*
+2
+1*ª
+1
+» »(Å
+
+
+» »(
+%3java.lang.String"__id*S
+
+__unknown_file (7*5(
+&com.simplecity.amp_library.model.Album"	
+sortKey"&
+
+» »(
+
+%3java.lang.StringB*(
+&com.simplecity.amp_library.model.AlbumH

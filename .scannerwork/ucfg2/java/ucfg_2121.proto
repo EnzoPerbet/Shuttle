@@ -1,0 +1,79 @@
+
+9com.simplecity.amp_library.model.InclExclItem#hashCode()Ik
+aC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/InclExclItem.java6 6("1*˙
+17 7(`
+^
+7" 7(+
+
+%0long"__calculate*
+7% 7((
+>>>*
+7" 7($
+""*
+7) 7(+2 f
+d
+7 7(,
+
+%1long"__calculate*
+7 7( 
+^*
+7 7(
+""*
+7! 7(,
+
+
+%0long]
+[
+8 8(	
+%2int"__calculate*
+8 8(
+**
+8 8(2*
+8 8(
+""Ñ
+Å
+8 8(#
+%3java.lang.String"__id*W
+
+__unknown_file (;*9/
+-com.simplecity.amp_library.model.InclExclItem"
+pathwu
+8 8(.	
+%4int"java.lang.String#hashCode()I*4
+
+__unknown_file (
+
+%3java.lang.String2
+hashCode()i
+g
+8 8(.	
+%5int"__calculate*
+8 8(
++*
+8 8(
+	
+%2int*
+8 8(.
+	
+%4int]
+[
+9 9(	
+%6int"__calculate*
+9 9(
+**
+9 9(2*
+9 9(
+""d
+b
+9 9(#	
+%7int"__calculate*
+9 9(
++*
+9 9(
+	
+%6int*
+9 9(#
+"""
+: :(
+""B1/
+-com.simplecity.amp_library.model.InclExclItemHX

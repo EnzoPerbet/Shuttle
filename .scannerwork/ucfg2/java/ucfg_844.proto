@@ -1,0 +1,28 @@
+
+_com.simplecity.amp_library.utils.SettingsManager#getFolderBrowserInitialDir()Ljava/lang/String;p
+dC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaç ç(,"1*µ
+1
+è è(h
+f
+
+è è(7
+%0java.lang.String"__id*:
+
+__unknown_file (
+folder_browser_initial_dir‘
+Ž
+
+è è(8
+%1java.lang.String"`com.simplecity.amp_library.utils.SettingsManager#getString(Ljava/lang/String;)Ljava/lang/String;*P
+
+__unknown_file (42
+0com.simplecity.amp_library.utils.SettingsManager*4
+
+__unknown_file (
+
+%0java.lang.String"&
+
+è è(9
+
+%1java.lang.StringB42
+0com.simplecity.amp_library.utils.SettingsManagerH

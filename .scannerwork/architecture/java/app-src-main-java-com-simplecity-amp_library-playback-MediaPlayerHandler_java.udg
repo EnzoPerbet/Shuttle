@@ -1,0 +1,251 @@
+
+1.0testepsi2_analyseepsiJavaFrontend"1750157031717*java2.B≥
+R
+Mapp/src/main/java/com/simplecity/amp_library/playback/MediaPlayerHandler.java2
+
+package4
+(
+#com.simplecity.amp_library.playback5
+;
+6com.simplecity.amp_library.playback.MediaPlayerHandler7
+
+
+class8
+
+access9
+
+	protected10
+
+simple name11
+
+MediaPlayerHandler12
+%
+Recovered#typeBindingLHandler;014
+
+unknown15
+
+extends16
+
+
+uses17
+@
+:com.simplecity.amp_library.playback.MediaPlayerHandler.TAG19
+
+field20
+
+private21
+	
+TAG22
+E
+?com.simplecity.amp_library.playback.MediaPlayerHandler.mService24
+
+mService25
+*
+$Recovered#typeBindingLMusicService;027
+K
+Ecom.simplecity.amp_library.playback.MediaPlayerHandler.mCurrentVolume29
+
+mCurrentVolume30
+\
+Vcom.simplecity.amp_library.playback.MediaPlayerHandler#<init>(LMusicService;LLooper;)V32
+
+method33
+
+	has param34
+$
+Recovered#typeBindingLLooper;036
+
+calls37
+
+is type38
+
+
+references39
+V
+Pcom.simplecity.amp_library.playback.MediaPlayerHandler#handleMessage(LMessage;)V41
+
+public42
+
+handleMessage43
+%
+Recovered#typeBindingLMessage;045J
+
+1
+12Z
+
+3	
+354j’
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+@
+28:
+282920 *
+1 (26:3B
+	
+9
+21
+
+
+11
+30
+
+44
+444515
+@
+31:
+313233 *
+1 (26:3B
+	
+9
+10
+
+
+11
+12
+
+35
+353615
+
+13
+131415
+
+26
+262715
+@
+18:
+181920 *
+1 (26:3B
+	
+9
+21
+
+
+11
+22
+@
+40:
+404133 *
+1 (26:3B
+	
+9
+42
+
+
+11
+43
+@
+23:
+232420 *
+1 (26:3B
+	
+9
+21
+
+
+11
+25rﬂ
+
+61316*
+1( (/
+
+61317*
+1( (/
+
+232617*
+1! (-
+
+312634*
+1 (*
+
+313534*
+1: (@
+
+31637*
+1 (
+
+312638*
+1+ (2
+
+312617*
+1 (*
+
+313538*
+1A (G
+
+313517*
+1: (@
+
+312339*
+1	 (
+
+404434*
+1 (&
+
+404438*
+1' (*
+
+404417*
+1 (&
+
+402638*
+1 (#
+
+402617*
+1 (
+
+402339*
+1& (.
+
+402339*
+1& (.
+
+402839*
+1   (
+
+402839*
+1! !(#
+
+402839*
+1$ $(#
+
+402839*
+1&* &(8
+
+402839*
+1) )(
+
+402839*
+1* *(#
+
+402839*
+1- -(#
+
+402839*
+10. 0(<
+
+402839*
+1n n(+
+
+402839*
+1o6 o(D
+
+401839*
+1w w("
+
+402839*
+1| |(
+
+402839*
+1} }(#
+
+402839*
+1Ç* Ç(8

@@ -1,0 +1,332 @@
+
+1.0testepsi2_analyseepsiJavaFrontend"1750157079572*java2.B›
+T
+Oapp/src/main/java/com/simplecity/amp_library/dagger/component/AppComponent.java2
+
+package4
+0
++com.simplecity.amp_library.dagger.component5
+=
+8com.simplecity.amp_library.dagger.component.AppComponent7
+
+	interface8
+
+access9
+
+public10
+
+simple name11
+
+AppComponent12
+
+	Singleton14
+
+unknown15
+
+annotated by16
+'
+!Recovered#typeBindingLSingleton;018
+
+
+uses19
+
+	Component21
+'
+!Recovered#typeBindingLComponent;023
+'
+!Recovered#typeBindingLAppModule;025
+*
+$Recovered#typeBindingLModelsModule;027
+.
+(Recovered#typeBindingLMultiSheetModule;029
+*
+$Recovered#typeBindingLDrawerModule;031
+h
+bcom.simplecity.amp_library.dagger.component.AppComponent#plus(LFragmentModule;)LFragmentComponent;33
+
+method34
+
+
+plus35
+
+FragmentComponent37
+
+returns38
+,
+&Recovered#typeBindingLFragmentModule;040
+
+	has param41
+
+is type42
+h
+bcom.simplecity.amp_library.dagger.component.AppComponent#plus(LActivityModule;)LActivityComponent;44
+
+ActivityComponent46
+,
+&Recovered#typeBindingLActivityModule;048
+V
+Pcom.simplecity.amp_library.dagger.component.AppComponent#inject(LMainActivity;)V50
+
+inject51
+*
+$Recovered#typeBindingLMainActivity;053
+^
+Xcom.simplecity.amp_library.dagger.component.AppComponent#inject(LCustomMultiSheetView;)V55
+2
+,Recovered#typeBindingLCustomMultiSheetView;057
+X
+Rcom.simplecity.amp_library.dagger.component.AppComponent#inject(LMainController;)V59
+,
+&Recovered#typeBindingLMainController;061
+ƒ
+}com.simplecity.amp_library.dagger.component.AppComponent#inject(Lcom/simplecity/amp_library/ui/fragments/LibraryController;)V63
+?
+9com.simplecity.amp_library.ui.fragments.LibraryController65
+T
+Ncom.simplecity.amp_library.dagger.component.AppComponent#inject(LUpNextView;)V67
+(
+"Recovered#typeBindingLUpNextView;069J
+
+1
+12Z
+
+3	
+354jÝ
+
+52
+525315
+@
+43:
+434434 *
+1 (26:3B
+	
+9
+10
+
+
+11
+35
+
+26
+262715
+
+45
+454615
+
+24
+242515
+
+28
+282915
+
+64
+646515
+
+36
+363715
+
+47
+474815
+
+20
+202115
+@
+32:
+323334 *
+1 (26:3B
+	
+9
+10
+
+
+11
+35
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+@
+66:
+666734 *
+1) )(	26:3B
+	
+9
+10
+
+
+11
+51
+
+22
+222315
+@
+62:
+626334 *
+1' '(	26:3B
+	
+9
+10
+
+
+11
+51
+
+60
+606115
+
+30
+303115
+
+39
+394015
+@
+54:
+545534 *
+1# #(	26:3B
+	
+9
+10
+
+
+11
+51
+
+13
+131415
+
+56
+565715
+@
+58:
+585934 *
+1% %(	26:3B
+	
+9
+10
+
+
+11
+51
+
+68
+686915
+
+17
+171815
+@
+49:
+495034 *
+1! !(	26:3B
+	
+9
+10
+
+
+11
+51ró
+
+61316*
+1 (
+
+61719*
+1 (
+
+62016*
+1 (
+
+62219*
+1 (
+
+62419*
+1	 (
+
+62619*
+1	 (
+
+62819*
+1	 (
+
+63019*
+1	 (
+
+323638*
+1 (
+
+323941*
+1 (*
+
+323619*
+1 (
+
+323942*
+1+ (1
+
+323919*
+1 (*
+
+434538*
+1 (
+
+434741*
+1 (*
+
+434519*
+1 (
+
+434742*
+1+ (1
+
+434719*
+1 (*
+
+495241*
+1! !(
+
+495242*
+1! !($
+
+495219*
+1! !(
+
+545641*
+1# #(%
+
+545642*
+1#& #(,
+
+545619*
+1# #(%
+
+586041*
+1% %(
+
+586042*
+1%  %(&
+
+586019*
+1% %(
+
+626441*
+1' '("
+
+626442*
+1'# '()
+
+626419*
+1' '("
+
+666841*
+1) )(
+
+666842*
+1) )("
+
+666819*
+1) )(

@@ -1,0 +1,92 @@
+
+/com.simplecity.amp_library.model.Song#delete()Ze
+YC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Song.javaœ œ("5*‰
+2
+¤ ¤(sq
+
+¤ ¤(#
+%6boolean"java.io.File#delete()Z*2
+
+__unknown_file (
+
+filejava.io.File2delete()*
+1*Å
+3
+   (}
+{
+
+¢ ¢(!
+%2java.lang.String"__id*O
+
+__unknown_file (3*1'
+%com.simplecity.amp_library.model.Song"
+path0.
+
+¢ ¢(
+%3java.io.File"java.io.File§
+¤
+
+¢ ¢("
+%4"(java.io.File#<init>(Ljava/lang/String;)V*0
+
+__unknown_file (
+
+%3java.io.File*4
+
+__unknown_file (
+
+%2java.lang.String\
+Z
+
+¢ ¢(#
+filejava.io.File"__id*0
+
+__unknown_file (
+
+%3java.io.Filesq
+
+£ £(
+%5boolean"java.io.File#exists()Z*2
+
+__unknown_file (
+
+filejava.io.File2exists()*
+2
+1*%
+4
+ž! ž(&"
+
+ž ž('
+""*”
+5
+ž ž(}
+{
+
+ž ž(
+%0java.lang.String"__id*O
+
+__unknown_file (3*1'
+%com.simplecity.amp_library.model.Song"
+path|
+z
+
+ž ž(
+%1boolean"	__compare*
+
+ž ž(
+==*&
+
+ž ž(
+
+%0java.lang.String*
+
+ž ž(
+""*
+3
+4*%
+1
+§ §("
+
+§ §(
+""B)'
+%com.simplecity.amp_library.model.SongHX

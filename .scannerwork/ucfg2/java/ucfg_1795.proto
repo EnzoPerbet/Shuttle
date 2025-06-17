@@ -1,0 +1,84 @@
+
+Jcom.simplecity.amp_library.model.Song#getDurationLabel()Ljava/lang/String;e
+YC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Song.javaá á(""3*‚
+2
+ã ã('g
+e
+
+ãY ã(h
+
+%2long"__calculate*
+
+ãb ã(c
+/*
+
+ãY ã(a
+""*
+
+ãd ã(h2èŒ
+‰
+
+ã ã(i
+%3"Ycom.simplecity.amp_library.utils.StringUtils#makeTimeString(LContext;J)Ljava/lang/String;*L
+
+__unknown_file (0".
+,com.simplecity.amp_library.utils.StringUtils*"
+
+__unknown_file (
+""*(
+
+__unknown_file (
+
+
+%2longt
+r
+
+ã ã(i:'
+%com.simplecity.amp_library.model.Song"
+durationLabel"__id*"
+
+__unknown_file (
+
+%3*
+1*Ÿ
+3
+â â(‡
+„
+
+â â(
+%0java.lang.String"__id*X
+
+__unknown_file (<*:'
+%com.simplecity.amp_library.model.Song"
+durationLabel|
+z
+
+â â(!
+%1boolean"	__compare*
+
+â â(
+==*&
+
+â â(
+
+%0java.lang.String*
+
+â â(!
+""*
+2
+1*Á
+1
+å å(‡
+„
+
+å å(
+%4java.lang.String"__id*X
+
+__unknown_file (<*:'
+%com.simplecity.amp_library.model.Song"
+durationLabel"&
+
+å å(
+
+%4java.lang.StringB)'
+%com.simplecity.amp_library.model.SongH

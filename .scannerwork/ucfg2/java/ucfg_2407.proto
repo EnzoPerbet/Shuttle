@@ -1,0 +1,33 @@
+
+Šcom.simplecity.amp_library.ui.fragments.SongFragment#newInstance(Ljava/lang/String;)Lcom/simplecity/amp_library/ui/fragments/SongFragment;r
+hC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/fragments/SongFragment.javaM M(*"1*—
+1N  N(2~|
+N$ N(0:
+%04com.simplecity.amp_library.ui.fragments.SongFragment"4com.simplecity.amp_library.ui.fragments.SongFragment­
+ª
+N  N(2
+%1">com.simplecity.amp_library.ui.fragments.SongFragment#<init>()V*X
+
+__unknown_file (<
+:
+%04com.simplecity.amp_library.ui.fragments.SongFragment¯
+¬
+N N(3@
+fragment4com.simplecity.amp_library.ui.fragments.SongFragment"__id*X
+
+__unknown_file (<
+:
+%04com.simplecity.amp_library.ui.fragments.SongFragmentV
+T
+P P(%
+%2java.lang.String"__id**
+
+__unknown_file (
+
+page_title"N
+R R(B
+@
+fragment4com.simplecity.amp_library.ui.fragments.SongFragment:)
+M+ M(;
+	pageTitlejava.lang.StringB8"6
+4com.simplecity.amp_library.ui.fragments.SongFragmentH

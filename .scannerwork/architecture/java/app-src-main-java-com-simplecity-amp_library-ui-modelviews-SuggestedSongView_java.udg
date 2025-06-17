@@ -1,0 +1,869 @@
+
+1.0testepsi2_analyseepsiJavaFrontend"1750157025734*java2.B≥
+V
+Qapp/src/main/java/com/simplecity/amp_library/ui/modelviews/SuggestedSongView.java2
+
+package4
+-
+(com.simplecity.amp_library.ui.modelviews5
+?
+:com.simplecity.amp_library.ui.modelviews.SuggestedSongView7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+SuggestedSongView12
++
+%Recovered#typeBindingLMultiItemView;014
+
+unknown15
+
+extends16
+
+
+uses17
+K
+Ecom.simplecity.amp_library.ui.modelviews.SuggestedSongView$ViewHolder19
+
+
+references20
+"
+Recovered#typeBindingLSong;022
+N
+Hcom.simplecity.amp_library.ui.modelviews.SuggestedSongView$ClickListener24
+
+	interface25
+
+ClickListener26
+´
+§com.simplecity.amp_library.ui.modelviews.SuggestedSongView$ClickListener#onSongClick(LSong;Lcom/simplecity/amp_library/ui/modelviews/SuggestedSongView$ViewHolder;)V28
+
+method29
+
+onSongClick30
+
+	has param31
+
+is type32
+g
+acom.simplecity.amp_library.ui.modelviews.SuggestedSongView$ClickListener#onSongLongClick(LSong;)Z34
+
+onSongLongClick35
+s
+mcom.simplecity.amp_library.ui.modelviews.SuggestedSongView$ClickListener#onSongOverflowClicked(LView;LSong;)V37
+
+onSongOverflowClicked38
+"
+Recovered#typeBindingLView;040
+E
+?com.simplecity.amp_library.ui.modelviews.SuggestedSongView.song42
+
+field43
+
+
+song44
+
+
+Song46
+O
+Icom.simplecity.amp_library.ui.modelviews.SuggestedSongView.requestManager48
+
+private49
+
+requestManager50
+
+RequestManager52
+I
+Ccom.simplecity.amp_library.ui.modelviews.SuggestedSongView.listener54
+
+listener55
+
+Nullable57
+
+annotated by58
+&
+ Recovered#typeBindingLNullable;060
+`
+Zcom.simplecity.amp_library.ui.modelviews.SuggestedSongView#<init>(LSong;LRequestManager;)V62
+,
+&Recovered#typeBindingLRequestManager;064
+
+calls65
+ó
+êcom.simplecity.amp_library.ui.modelviews.SuggestedSongView#onItemClick(Lcom/simplecity/amp_library/ui/modelviews/SuggestedSongView$ViewHolder;)V67
+
+onItemClick68
+Y
+Scom.simplecity.amp_library.ui.modelviews.SuggestedSongView#onOverflowClick(LView;)V70
+
+onOverflowClick71
+ü
+òcom.simplecity.amp_library.ui.modelviews.SuggestedSongView#setClickListener(Lcom/simplecity/amp_library/ui/modelviews/SuggestedSongView$ClickListener;)V73
+
+setClickListener74
+R
+Lcom.simplecity.amp_library.ui.modelviews.SuggestedSongView#getLayoutResId()I76
+
+getLayoutResId77
+O
+Icom.simplecity.amp_library.ui.modelviews.SuggestedSongView#getViewType()I79
+
+getViewType80
+5
+/com.simplecity.amp_library.ui.adapters.ViewType82
+D
+>com.simplecity.amp_library.ui.adapters.ViewType.SUGGESTED_SONG84
+î
+çcom.simplecity.amp_library.ui.modelviews.SuggestedSongView#bindView(Lcom/simplecity/amp_library/ui/modelviews/SuggestedSongView$ViewHolder;)V86
+
+bindView87
+
+MultiItemView89
+
+Drawable91
+
+returns92
+:
+4com.simplecity.amp_library.utils.PlaceholderProvider94
+p
+jcom.simplecity.amp_library.utils.PlaceholderProvider#getPlaceHolderDrawable(Ljava/lang/String;Z)LDrawable;96
+~
+xcom.simplecity.amp_library.utils.PlaceholderProvider#getInstance()Lcom/simplecity/amp_library/utils/PlaceholderProvider;98
+ß
+ücom.simplecity.amp_library.ui.modelviews.SuggestedSongView#createViewHolder(LViewGroup;)Lcom/simplecity/amp_library/ui/modelviews/SuggestedSongView$ViewHolder;100
+
+createViewHolder101
+(
+!Recovered#typeBindingLViewGroup;0103
+]
+Vcom.simplecity.amp_library.ui.modelviews.SuggestedSongView#equals(Ljava/lang/Object;)Z105
+
+equals106
+M
+Fcom.simplecity.amp_library.ui.modelviews.SuggestedSongView#hashCode()I108
+
+hashCode109
+
+
+ViewHolder110
+\
+Ucom.simplecity.amp_library.ui.modelviews.SuggestedSongView$ViewHolder#<init>(LView;)V112J
+
+1
+12Z
+
+3	
+354jˆ
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+
+95
+959615
+@
+41:
+414243 *
+1 (26:3B
+	
+9
+10
+
+
+11
+44
+
+81
+818215
+
+21
+212215
+@
+53:
+535443 *
+1 (26:3B
+	
+9
+49
+
+
+11
+55
+A
+27;
+272829 *
+1	 (223:3B
+	
+9
+10
+
+
+11
+30
+
+102
+10210315
+
+45
+454615
+
+51
+515215
+
+59
+596015
+
+39
+394015
+@
+61:
+616229 *
+1   (26:3B
+	
+9
+10
+
+
+11
+12
+
+93
+939415
+@
+72:
+727329 *
+11 1(26:3B
+	
+9
+10
+
+
+11
+74
+
+97
+979815
+D
+104=
+10410529 *
+1Z Z(26:3B
+	
+9
+10
+
+11
+106
+A
+36;
+363729 *
+1	 (223:3B
+	
+9
+10
+
+
+11
+38
+@
+75:
+757629 *
+15 5(26:3B
+	
+9
+10
+
+
+11
+77
+@
+85:
+858629 *
+1? ?(26:3B
+	
+9
+10
+
+
+11
+87
+
+90
+909115
+A
+33;
+333429 *
+1	 (223:3B
+	
+9
+10
+
+
+11
+35
+
+88
+888915
+
+13
+131415
+@
+18:
+18198 *
+1i i(#26:3B
+	
+9
+10
+
+11
+110
+@
+69:
+697029 *
+1+ +(26:3B
+	
+9
+49
+
+
+11
+71
+
+63
+636415
+@
+78:
+787929 *
+1: :(26:3B
+	
+9
+10
+
+
+11
+80
+B
+99<
+9910029 *
+1U U(26:3B
+	
+9
+10
+
+11
+101
+E
+111>
+11111229 *
+1k	 k(218:3B
+	
+9
+10
+
+11
+110
+D
+107=
+10710829 *
+1d d(26:3B
+	
+9
+10
+
+11
+109
+@
+23:
+232425 *
+1 (#26:3B
+	
+9
+10
+
+
+11
+26
+@
+66:
+666729 *
+1% %(26:3B
+	
+9
+49
+
+
+11
+68
+
+83
+838415
+@
+47:
+474843 *
+1 (26:3B
+	
+9
+49
+
+
+11
+50
+
+56
+565715r§
+
+61316*
+1( (5
+
+61317*
+1( (5
+
+61817*
+1H (R
+
+61820*
+1H (R
+
+62117*
+1T (X
+
+272131*
+1 (
+
+271831*
+1% (/
+
+272132*
+1 (#
+
+272117*
+1 (
+
+271832*
+10 (6
+
+271817*
+1% (/
+
+271820*
+1% (/
+
+332131*
+1! (%
+
+332132*
+1& (*
+
+332117*
+1! (%
+
+363931*
+1$ ((
+
+362131*
+1, (0
+
+363932*
+1) (*
+
+363917*
+1$ ((
+
+362132*
+11 (5
+
+362117*
+1, (0
+
+414532*
+1 (
+
+414517*
+1 (
+
+414517*
+1 (
+
+475132*
+1 (
+
+475117*
+1 (
+
+475117*
+1 (*
+
+532332*
+1 (
+
+535658*
+1 (
+
+535917*
+1 (
+
+532317*
+1 (
+
+532320*
+1 (
+
+532317*
+1 (#
+
+612131*
+1   ("
+
+616331*
+1 )  (7
+
+61665*
+1   (
+
+612132*
+1 #  ('
+
+612117*
+1   ("
+
+616332*
+1 8  (F
+
+616317*
+1 )  (7
+
+61617*
+1!	 !(
+
+61620*
+1!	 !(
+
+614517*
+1! !(
+
+614120*
+1! !(
+
+61617*
+1"	 "(
+
+61620*
+1"	 "(
+
+615117*
+1" "(
+
+614720*
+1" "(
+
+661831*
+1% %((
+
+661832*
+1%) %(/
+
+661817*
+1% %((
+
+661820*
+1% %((
+
+662317*
+1& &(
+
+665320*
+1& &(
+
+662320*
+1' '(
+
+662765*
+1' '(!
+
+665320*
+1' '(
+
+662317*
+1' '(
+
+665320*
+1' '(
+
+664517*
+1'" '(&
+
+664120*
+1'" '(&
+
+693931*
+1+" +(&
+
+693932*
+1+' +((
+
+693917*
+1+" +(&
+
+692317*
+1, ,(
+
+695320*
+1, ,(
+
+692320*
+1- -(
+
+693665*
+1- -(+
+
+695320*
+1- -(
+
+692317*
+1- -(
+
+695320*
+1- -(
+
+694517*
+1-/ -(3
+
+694120*
+1-/ -(3
+
+722331*
+11, 1(9
+
+722332*
+11: 1(B
+
+725658*
+11" 1(#
+
+725917*
+11# 1(+
+
+722317*
+11, 1(9
+
+722320*
+11, 1(9
+
+72617*
+12	 2(
+
+72620*
+12	 2(
+
+722317*
+12 2(
+
+725320*
+12 2(
+
+788117*
+1< <(
+
+788320*
+1< <('
+
+851831*
+1@  @(*
+
+851832*
+1@+ @(1
+
+851817*
+1@  @(*
+
+851820*
+1@  @(*
+
+85620*
+1A	 A(
+
+858817*
+1A	 A(
+
+85620*
+1A	 A(
+
+854517*
+1C  C($
+
+854120*
+1C  C($
+
+854517*
+1D  D($
+
+854120*
+1D  D($
+
+854720*
+1M	 M(
+
+855117*
+1M	 M(
+
+854720*
+1M	 M(
+
+854517*
+1M M(!
+
+854120*
+1M M(!
+
+859092*
+1O O(1
+
+859320*
+1O O(1
+
+859565*
+1O@ O(V
+
+859392*
+1O O(1
+
+859320*
+1O O(1
+
+859765*
+1O2 O(=
+
+859317*
+1O O(1
+
+854517*
+1OW O([
+
+854120*
+1OW O([
+
+854517*
+1Rt R(x
+
+854120*
+1Rt R(x
+
+991892*
+1V V(
+
+9910231*
+1V( V(1
+
+991817*
+1V V(
+
+991820*
+1V V(
+
+9910232*
+1V2 V(8
+
+9910217*
+1V( V(1
+
+991865*
+1W W(
+
+104617*
+1\ \(
+
+104620*
+1\ \(
+
+104632*
+1_ _(
+
+104617*
+1_	 _(
+
+104617*
+1_# _(4
+
+1044517*
+1a a(
+
+1044120*
+1a a(
+
+1044120*
+1a a(#
+
+1044517*
+1a a(#
+
+1044120*
+1a a(#
+
+1044517*
+1a0 a(4
+
+1044120*
+1a0 a(4
+
+1044517*
+1a= a(A
+
+1044120*
+1a= a(A
+
+1074517*
+1f f(
+
+1074120*
+1f f(
+
+1074120*
+1f f(#
+
+1074517*
+1f f(#
+
+1074120*
+1f f(#
+
+181316*
+1i, i(9
+
+181317*
+1i, i(9
+
+181317*
+1i: i(D
+
+18617*
+1iE i(V
+
+1113931*
+1k k(
+
+1111865*
+1k k(
+
+1113932*
+1k  k((
+
+1113917*
+1k k(
+
+1111817*
+1nD n(H
+
+1111820*
+1nD n(H

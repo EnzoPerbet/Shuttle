@@ -1,0 +1,263 @@
+
+1.0testepsi2_analyseepsiJavaFrontend"1750157046387*java2.B½
+
+Q
+Lapp/src/main/java/com/simplecity/amp_library/ui/dialog/TabChooserDialog.java2
+
+package4
+)
+$com.simplecity.amp_library.ui.dialog5
+:
+5com.simplecity.amp_library.ui.dialog.TabChooserDialog7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+TabChooserDialog12
+E
+?com.simplecity.amp_library.ui.dialog.TabChooserDialog#<init>()V14
+
+method15
+
+private16
+
+calls17
+a
+[com.simplecity.amp_library.ui.dialog.TabChooserDialog#getDialog(LActivity;)LMaterialDialog;19
+
+	getDialog20
+
+MaterialDialog22
+
+unknown23
+
+returns24
+&
+ Recovered#typeBindingLActivity;026
+
+	has param27
+
+
+uses28
+
+is type29
+/
+)Recovered#typeBindingLSharedPreferences;031
+.
+(Recovered#typeBindingLViewModelAdapter;033
+D
+>com.simplecity.amp_library.ui.adapters.LoggingViewModelAdapter35
+-
+'Recovered#typeBindingLItemTouchHelper;037
+*
+$Recovered#typeBindingLTabViewModel;039
+=
+7com.simplecity.amp_library.ui.dialog.TabChooserDialog$141
+
+	protected42
+e
+_com.simplecity.amp_library.ui.dialog.TabChooserDialog$1#onStartDrag(LTabViewModel/ViewHolder;)V44
+
+onStartDrag45
+w
+qcom.simplecity.amp_library.ui.dialog.TabChooserDialog$1#onFolderChecked(LTabViewModel;LTabViewModel/ViewHolder;)V47
+
+onFolderChecked48
+*
+$Recovered#typeBindingLRecyclerView;050
+,
+&Recovered#typeBindingLMaterialDialog;052J
+
+1
+12Z
+
+3	
+354j¯
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+
+21
+212223
+@
+18:
+181915 *
+1! !(26:3B
+	
+9
+10
+
+
+11
+20
+
+34
+343523
+@
+13:
+131415 *
+1 (26:3B
+	
+9
+16
+
+
+11
+12
+
+49
+495023
+
+25
+252623
+A
+43;
+434415 *
+11 1(240:3B
+	
+9
+10
+
+
+11
+45
+
+36
+363723
+4
+40.
+40418 *
+10F 0(G218:3B
+	
+9
+42
+
+51
+515223
+
+32
+323323
+A
+46;
+464715 *
+16 6(240:3B
+	
+9
+10
+
+
+11
+48
+
+30
+303123
+
+38
+383923rÄ
+
+13617*
+1 (
+
+182124*
+1! !(!
+
+182527*
+1!, !(4
+
+182128*
+1! !(!
+
+182529*
+1!5 !(=
+
+182528*
+1!, !(4
+
+183029*
+1# #(,
+
+183028*
+1#	 #(
+
+183229*
+1% %(!
+
+183228*
+1%	 %(
+
+183417*
+1%( %(?
+
+183629*
+1' '((
+
+183628*
+1'	 '(
+
+183829*
+10 0('
+
+183828*
+10	 0(
+
+183828*
+10 0(
+
+183828*
+10. 0(:
+
+433827*
+12% 2(1
+
+433829*
+12= 2(C
+
+433828*
+12% 2(1
+
+433828*
+122 2(<
+
+463827*
+17) 7(5
+
+463827*
+17D 7(P
+
+463829*
+176 7(B
+
+463828*
+17) 7(5
+
+463829*
+17\ 7(f
+
+463828*
+17D 7(P
+
+463828*
+17Q 7([
+
+184929*
+1I I("
+
+184928*
+1I	 I(
+
+185128*
+1O O("

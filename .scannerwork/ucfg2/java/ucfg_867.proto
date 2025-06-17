@@ -1,0 +1,30 @@
+
+Ccom.simplecity.amp_library.utils.SettingsManager#getPrimaryColor()Ip
+dC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaÿ ÿ("1*Ÿ
+1
+Ÿ Ÿ(õ
+ò
+
+Ÿ Ÿ(,
+%0java.lang.String"__id*l
+
+__unknown_file (P*N2
+0com.simplecity.amp_library.utils.SettingsManager"
+KEY_PREF_PRIMARY_COLORì
+ê
+
+Ÿ Ÿ(1	
+%1int"Mcom.simplecity.amp_library.utils.SettingsManager#getInt(Ljava/lang/String;I)I*P
+
+__unknown_file (42
+0com.simplecity.amp_library.utils.SettingsManager*4
+
+__unknown_file (
+
+%0java.lang.String* 
+
+__unknown_file (2"
+
+Ÿ Ÿ(2
+""B42
+0com.simplecity.amp_library.utils.SettingsManagerHX

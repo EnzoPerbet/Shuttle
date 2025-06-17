@@ -1,0 +1,37 @@
+
+fcom.google.android.libraries.cast.companionlibrary.cast.tracks.TracksPreferenceManager#getFontScale()F—
+ŠC:/Users/enzo.perbet/Shuttle/libraries/ccl/src/com/google/android/libraries/cast/companionlibrary/cast/tracks/TracksPreferenceManager.javaž ž("1*Ø
+1
+Ÿ Ÿ(-›
+˜
+
+¡ ¡(A
+%0".java.lang.String#valueOf([C)Ljava/lang/String;*0
+
+__unknown_file ("
+java.lang.String*"
+
+__unknown_file (
+""V
+T
+
+Ÿ ¡(C
+scaleStrjava.lang.String"__id*"
+
+__unknown_file (
+""º
+·
+
+¢ ¢()
+%1float"/java.lang.Float#parseFloat(Ljava/lang/String;)F*/
+
+__unknown_file ("
+java.lang.Float*:
+
+__unknown_file (
+
+scaleStrjava.lang.String"
+
+¢ ¢(*
+""BZX
+Vcom.google.android.libraries.cast.companionlibrary.cast.tracks.TracksPreferenceManagerHX

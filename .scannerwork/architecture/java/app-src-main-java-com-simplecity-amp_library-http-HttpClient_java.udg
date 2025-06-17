@@ -1,0 +1,372 @@
+
+1.0testepsi2_analyseepsiJavaFrontend"1750157033180*java2.Bž
+F
+Aapp/src/main/java/com/simplecity/amp_library/http/HttpClient.java2
+
+package4
+$
+com.simplecity.amp_library.http5
+/
+*com.simplecity.amp_library.http.HttpClient7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+
+HttpClient12
+4
+.com.simplecity.amp_library.http.HttpClient.TAG14
+
+field15
+	
+TAG16
+<
+6com.simplecity.amp_library.http.HttpClient.URL_LAST_FM18
+
+private19
+
+URL_LAST_FM20
+;
+5com.simplecity.amp_library.http.HttpClient.URL_ITUNES22
+
+
+URL_ITUNES23
+:
+4com.simplecity.amp_library.http.HttpClient.sInstance25
+
+	sInstance26
+
+is type27
+
+
+uses28
+=
+7com.simplecity.amp_library.http.HttpClient.okHttpClient30
+
+okHttpClient31
+
+OkHttpClient33
+
+unknown34
+>
+8com.simplecity.amp_library.http.HttpClient.lastFmService36
+
+lastFmService37
+
+LastFmService39
+>
+8com.simplecity.amp_library.http.HttpClient.itunesService41
+
+itunesService42
+
+ItunesService44
+<
+6com.simplecity.amp_library.http.HttpClient.TAG_ARTWORK46
+
+TAG_ARTWORK47
+j
+dcom.simplecity.amp_library.http.HttpClient#getInstance()Lcom/simplecity/amp_library/http/HttpClient;49
+
+method50
+
+getInstance51
+
+returns52
+
+
+references53
+
+calls54
+:
+4com.simplecity.amp_library.http.HttpClient#<init>()V56
+*
+$Recovered#typeBindingLOkHttpClient;058
+&
+ Recovered#typeBindingLRetrofit;060
++
+%Recovered#typeBindingLLastFmService;062
++
+%Recovered#typeBindingLItunesService;064J
+
+1
+12Z
+
+3	
+354jÛ
+@
+55:
+555650 *
+1# #(26:3B
+	
+9
+19
+
+
+11
+12
+
+32
+323334
+
+59
+596034
+
+63
+636434
+@
+21:
+212215 *
+1 (26:3B
+	
+9
+19
+
+
+11
+23
+
+61
+616234
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+@
+40:
+404115 *
+1 (26:3B
+	
+9
+10
+
+
+11
+42
+@
+17:
+171815 *
+1 (26:3B
+	
+9
+19
+
+
+11
+20
+@
+45:
+454615 *
+1 (26:3B
+	
+9
+10
+
+
+11
+47
+
+43
+434434
+
+38
+383934
+@
+29:
+293015 *
+1 (26:3B
+	
+9
+10
+
+
+11
+31
+@
+48:
+484950 *
+1 (26:3B
+	
+9
+10
+
+
+11
+51
+@
+13:
+131415 *
+1 (26:3B
+	
+9
+10
+
+
+11
+16
+@
+35:
+353615 *
+1 (26:3B
+	
+9
+10
+
+
+11
+37
+@
+24:
+242515 *
+1 (26:3B
+	
+9
+19
+
+
+11
+26
+
+57
+575834rÿ
+
+24627*
+1 (
+
+24628*
+1 (
+
+24628*
+1 ((
+
+293227*
+1 (
+
+293228*
+1 (
+
+293228*
+1 (%
+
+353827*
+1 (
+
+353828*
+1 (
+
+353828*
+1 ('
+
+404327*
+1 (
+
+404328*
+1 (
+
+404328*
+1 ('
+
+48652*
+1  (*
+
+48628*
+1  (*
+
+48628*
+1 (
+
+482453*
+1 (
+
+48628*
+1 (
+
+482453*
+1 (
+
+48654*
+1 ('
+
+48628*
+1   (
+
+482453*
+1   (
+
+55654*
+1# #(
+
+553228*
+1%	 %(
+
+552953*
+1%	 %(
+
+555728*
+1% %((
+
+555927*
+1) )(#
+
+555928*
+1)	 )(
+
+555928*
+1)* )(2
+
+551753*
+1* *(%
+
+553228*
+1+ +(%
+
+552953*
+1+ +(%
+
+553828*
+1.	 .(
+
+553553*
+1.	 .(
+
+556128*
+1.2 .(?
+
+555927*
+10 0(#
+
+555928*
+10	 0(
+
+555928*
+10* 0(2
+
+552153*
+11 1($
+
+553228*
+12 2(%
+
+552953*
+12 2(%
+
+554328*
+15	 5(
+
+554053*
+15	 5(
+
+556328*
+152 5(?

@@ -1,0 +1,358 @@
+
+1.0testepsi2_analyseepsiJavaFrontend"1750157077712*java2.Bº
+H
+Capp/src/main/java/com/android/vending/billing/utils/SkuDetails.java2
+
+package4
+&
+!com.android.vending.billing.utils5
+1
+,com.android.vending.billing.utils.SkuDetails7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+
+SkuDetails12
+<
+6com.android.vending.billing.utils.SkuDetails.mItemType14
+
+field15
+
+	protected16
+
+	mItemType17
+7
+1com.android.vending.billing.utils.SkuDetails.mSku19
+
+
+mSku20
+8
+2com.android.vending.billing.utils.SkuDetails.mType22
+
+mType23
+9
+3com.android.vending.billing.utils.SkuDetails.mPrice25
+
+mPrice26
+9
+3com.android.vending.billing.utils.SkuDetails.mTitle28
+
+mTitle29
+?
+9com.android.vending.billing.utils.SkuDetails.mDescription31
+
+mDescription32
+8
+2com.android.vending.billing.utils.SkuDetails.mJson34
+
+mJson35
+N
+Hcom.android.vending.billing.utils.SkuDetails#<init>(Ljava/lang/String;)V37
+
+method38
+
+calls39
+
+JSONException41
+
+unknown42
+
+
+uses43
+
+
+references44
+`
+Zcom.android.vending.billing.utils.SkuDetails#<init>(Ljava/lang/String;Ljava/lang/String;)V46
+(
+"Recovered#typeBindingLJSONObject;048
+
+is type49
+M
+Gcom.android.vending.billing.utils.SkuDetails#getSku()Ljava/lang/String;51
+
+getSku52
+N
+Hcom.android.vending.billing.utils.SkuDetails#getType()Ljava/lang/String;54
+
+getType55
+O
+Icom.android.vending.billing.utils.SkuDetails#getPrice()Ljava/lang/String;57
+
+getPrice58
+O
+Icom.android.vending.billing.utils.SkuDetails#getTitle()Ljava/lang/String;60
+
+getTitle61
+U
+Ocom.android.vending.billing.utils.SkuDetails#getDescription()Ljava/lang/String;63
+
+getDescription64
+O
+Icom.android.vending.billing.utils.SkuDetails#toString()Ljava/lang/String;66
+
+toString67J
+
+1
+12Z
+
+3	
+354jÁ
+@
+36:
+363738 *
+1! !(26:3B
+	
+9
+10
+
+
+11
+12
+@
+13:
+131415 *
+1 (26:3B
+	
+9
+16
+
+
+11
+17
+@
+18:
+181915 *
+1 (26:3B
+	
+9
+16
+
+
+11
+20
+@
+27:
+272815 *
+1 (26:3B
+	
+9
+16
+
+
+11
+29
+@
+50:
+505138 *
+10 0(26:3B
+	
+9
+10
+
+
+11
+52
+@
+21:
+212215 *
+1 (26:3B
+	
+9
+16
+
+
+11
+23
+@
+62:
+626338 *
+14 4(26:3B
+	
+9
+10
+
+
+11
+64
+
+40
+404142
+
+47
+474842
+@
+53:
+535438 *
+11 1(26:3B
+	
+9
+10
+
+
+11
+55
+@
+45:
+454638 *
+1% %(26:3B
+	
+9
+10
+
+
+11
+12
+@
+56:
+565738 *
+12 2(26:3B
+	
+9
+10
+
+
+11
+58
+@
+33:
+333415 *
+1 (26:3B
+	
+9
+16
+
+
+11
+35
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+@
+24:
+242515 *
+1 (26:3B
+	
+9
+16
+
+
+11
+26
+@
+65:
+656638 *
+16 6(26:3B
+	
+9
+10
+
+
+11
+67
+@
+59:
+596038 *
+13 3(26:3B
+	
+9
+10
+
+
+11
+61
+@
+30:
+303115 *
+1 (26:3B
+	
+9
+16
+
+
+11
+32rè
+
+36639*
+1! !(
+
+364043*
+1!5 !(B
+
+36644*
+1"	 "(
+
+36639*
+1"	 "(
+
+36639*
+1"	 "(
+
+45639*
+1% %(
+
+454043*
+1%F %(S
+
+451344*
+1&	 &(
+
+453344*
+1'	 '(
+
+454749*
+1( ((
+
+454743*
+1(	 ((
+
+453344*
+1(' ((,
+
+451844*
+1)	 )(
+
+452144*
+1*	 *(
+
+452444*
+1+	 +(
+
+452744*
+1,	 ,(
+
+453044*
+1-	 -(
+
+501844*
+10% 0()
+
+532144*
+11& 1(+
+
+562444*
+12' 2(-
+
+592744*
+13' 3(-
+
+623044*
+14- 4(9
+
+653344*
+18  8(%

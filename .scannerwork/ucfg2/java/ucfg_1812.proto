@@ -1,0 +1,106 @@
+
+Bcom.simplecity.amp_library.model.Song#toString()Ljava/lang/String;e
+YC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Song.javaŽ Ž("1*…	
+1
+ (e
+c
+
+ (
+%0java.lang.String"__concat*
+
+ (	
+\nSong{*
+
+ (
+
+\nid='n
+l
+
+ (
+%1java.lang.String"__concat*&
+
+ (
+
+%0java.lang.String*
+
+ (
+""t
+r
+
+ ‘(
+%2java.lang.String"__concat*&
+
+ (
+
+%1java.lang.String*
+
+‘ ‘(
+
+\nname='}
+{
+
+‘ ‘(!
+%3java.lang.String"__id*O
+
+__unknown_file (3*1'
+%com.simplecity.amp_library.model.Song"
+name€
+~
+
+ ‘(!
+%4java.lang.String"__concat*&
+
+ ‘(
+
+%2java.lang.String*&
+
+‘ ‘(!
+
+%3java.lang.String
+}
+
+ ’(%
+%5java.lang.String"__concat*&
+
+ ‘(!
+
+%4java.lang.String*%
+
+’ ’(%
+\nalbumArtistName='‰
+†
+
+’( ’(7
+%6java.lang.String"__id*Z
+
+__unknown_file (>*<'
+%com.simplecity.amp_library.model.Song"
+albumArtistName€
+~
+
+ ’(7
+%7java.lang.String"__concat*&
+
+ ’(%
+
+%5java.lang.String*&
+
+’( ’(7
+
+%6java.lang.Stringm
+k
+
+ “(
+%8java.lang.String"__concat*&
+
+ ’(7
+
+%7java.lang.String*
+
+“ “(
+}"&
+
+ “(
+
+%8java.lang.StringB)'
+%com.simplecity.amp_library.model.SongH

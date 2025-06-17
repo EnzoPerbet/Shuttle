@@ -1,0 +1,50 @@
+
+%", lastPlayed="java.lang.String
+"", artists="java.lang.String
+	", year="java.lang.String
++
+", albumArtistName='"java.lang.String
+$", dateAdded="java.lang.String
+'}'char
+ 
+", name='"java.lang.String
+#", numSongs="java.lang.String
+ 
+", paths="java.lang.String
+"id="java.lang.String
+"Album{"java.lang.String
+'\''char<this
+µ µ("&com.simplecity.amp_library.model.Album"­+
+)
+
+· ·("#get-field# id:Blong9
+7
+
+¸ ¸(!"#get-field# name:Bjava.lang.String#
+!
+
+¹ ¹(&	"#unknown-value#D
+B
+
+º( º(7"#get-field# albumArtistName:Bjava.lang.String,
+*
+
+» »( "#get-field# year:Bint0
+.
+
+¼  ¼(("#get-field# numSongs:Bint3
+1
+
+½" ½(,"#get-field# lastPlayed:Blong2
+0
+
+¾! ¾(*"#get-field# dateAdded:Blong8
+6
+
+¿ ¿(""#get-field# paths:Bjava.util.ListC
+A
+
+¶ À("	#binop +#2+:	
+B	!Unknown!
+
+¶ À(*ZC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Album.java

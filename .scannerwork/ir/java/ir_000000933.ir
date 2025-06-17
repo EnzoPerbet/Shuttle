@@ -1,0 +1,21 @@
+=thisI I(")com.simplecity.amp_library.model.PlaylisttypeI I(""intidI$ I(+"long$nameI- I(8"java.lang.StringcanEditI: I(I"booleancanClearIK I(["boolean 	canDeleteI] I(n"boolean!	canRename	Ip I(Å"boolean 	canSort
+IÉ I(í"boolean"‡&
+$
+J J(
+"#set-field# type:$
+"
+K K("#set-field# id:&
+$
+L L("#set-field# name:)
+'
+M M("#set-field# canEdit:*
+(
+N N( "#set-field# canClear:+
+)
+O O(""#set-field# canDelete:+
+)
+P P(""#set-field# canRename:)
+'
+Q Q("#set-field# canSort:	
+
+R R(*]C:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Playlist.java

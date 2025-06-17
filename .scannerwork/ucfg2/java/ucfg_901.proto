@@ -1,0 +1,134 @@
+
+Xcom.simplecity.amp_library.ui.modelviews.SuggestedHeaderView#equals(Ljava/lang/Object;)Zz
+pC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/SuggestedHeaderView.javab b("startingBlock*«
+2hX h(\Y
+W
+hX h(t
+%8"	__compare*
+hm h(o
+==*
+hX h(l
+""*
+hp h(t
+""<
+:
+hX h(t
+%6"__id*"
+
+__unknown_file (
+
+%8*
+1*P
+3h) h(8<
+:
+h) h(U
+%6"__id*"
+
+__unknown_file (
+
+%7*
+1*€
+startingBlockb b(#ˆ
+…
+a a(
+%9"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+ojava.lang.ObjectU
+S
+b! b("
+ojava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%9*
+9*
+4f9 f(:Ž
+‹
+f f(;D
+that<com.simplecity.amp_library.ui.modelviews.SuggestedHeaderView"__id*3
+
+__unknown_file (
+
+ojava.lang.ObjectY
+W
+h h(&
+%5"	__compare*
+h h(!
+!=*
+h h(
+""*
+h" h(&
+""*
+2
+3*!
+5d< d(A"
+d5 d(B
+""*ò
+6d d(!¼¹
+d d(#
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*\
+
+__unknown_file (@>
+<com.simplecity.amp_library.ui.modelviews.SuggestedHeaderView2
+getClass()“
+d' d(3
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
+
+__unknown_file (
+
+ojava.lang.Object2
+getClass()…
+‚
+d d(3
+%4boolean"	__compare*
+d$ d(&
+!=*#
+d d(#
+
+%2java.lang.Class*#
+d' d(3
+
+%3java.lang.Class*
+4
+5*Š
+7d d(s
+q
+d d(
+%1boolean"	__compare*
+d d(
+==*#
+d d(
+
+ojava.lang.Object*
+d d(
+""*
+5
+6*!
+8c c(""
+c c(#
+""*Æ
+9c c(®
+«
+c c(
+%0boolean"	__compare*
+c c(
+==*L
+c c(@>
+<com.simplecity.amp_library.ui.modelviews.SuggestedHeaderView*#
+c c(
+
+ojava.lang.Object*
+7
+8*!
+1h h(u"
+h h(u
+"":!
+b b("
+ojava.lang.ObjectB@>
+<com.simplecity.amp_library.ui.modelviews.SuggestedHeaderViewHX

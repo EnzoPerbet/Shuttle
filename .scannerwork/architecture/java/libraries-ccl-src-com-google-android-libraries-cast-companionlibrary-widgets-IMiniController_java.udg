@@ -1,0 +1,312 @@
+
+1.0testepsi2_analyseepsiJavaFrontend"1750157040579*java2.Bü
+f
+alibraries/ccl/src/com/google/android/libraries/cast/companionlibrary/widgets/IMiniController.java2
+
+package4
+?
+:com.google.android.libraries.cast.companionlibrary.widgets5
+O
+Jcom.google.android.libraries.cast.companionlibrary.widgets.IMiniController7
+
+	interface8
+
+access9
+
+public10
+
+simple name11
+
+IMiniController12
+`
+Zcom.google.android.libraries.cast.companionlibrary.widgets.IMiniController#setIcon(LUri;)V14
+
+method15
+
+setIcon16
+!
+Recovered#typeBindingLUri;018
+
+unknown19
+
+	has param20
+
+is type21
+
+
+uses22
+c
+]com.google.android.libraries.cast.companionlibrary.widgets.IMiniController#setIcon(LBitmap;)V24
+$
+Recovered#typeBindingLBitmap;026
+n
+hcom.google.android.libraries.cast.companionlibrary.widgets.IMiniController#setTitle(Ljava/lang/String;)V28
+
+setTitle29
+q
+kcom.google.android.libraries.cast.companionlibrary.widgets.IMiniController#setSubtitle(Ljava/lang/String;)V31
+
+setSubtitle32
+g
+acom.google.android.libraries.cast.companionlibrary.widgets.IMiniController#setPlaybackStatus(II)V34
+
+setPlaybackStatus35
+b
+\com.google.android.libraries.cast.companionlibrary.widgets.IMiniController#setVisibility(I)V37
+
+setVisibility38
+]
+Wcom.google.android.libraries.cast.companionlibrary.widgets.IMiniController#isVisible()Z40
+
+	isVisible41
+˜
+‘com.google.android.libraries.cast.companionlibrary.widgets.IMiniController#setOnMiniControllerChangedListener(LOnMiniControllerChangedListener;)V43
+(
+"setOnMiniControllerChangedListener44
+=
+7Recovered#typeBindingLOnMiniControllerChangedListener;046
+b
+\com.google.android.libraries.cast.companionlibrary.widgets.IMiniController#setStreamType(I)V48
+
+setStreamType49
+a
+[com.google.android.libraries.cast.companionlibrary.widgets.IMiniController#setProgress(II)V51
+
+setProgress52
+j
+dcom.google.android.libraries.cast.companionlibrary.widgets.IMiniController#setProgressVisibility(Z)V54
+
+setProgressVisibility55
+j
+dcom.google.android.libraries.cast.companionlibrary.widgets.IMiniController#setUpcomingVisibility(Z)V57
+
+setUpcomingVisibility58
+s
+mcom.google.android.libraries.cast.companionlibrary.widgets.IMiniController#setUpcomingItem(LMediaQueueItem;)V60
+
+setUpcomingItem61
+,
+&Recovered#typeBindingLMediaQueueItem;063
+i
+ccom.google.android.libraries.cast.companionlibrary.widgets.IMiniController#setCurrentVisibility(Z)V65
+
+setCurrentVisibility66J
+
+1
+12Z
+
+3	
+354j§
+
+62
+626319
+@
+59:
+596015 *
+1d d(	26:3B
+	
+9
+10
+
+
+11
+61
+@
+47:
+474815 *
+1P P(	26:3B
+	
+9
+10
+
+
+11
+49
+@
+27:
+272815 *
+1/ /(	26:3B
+	
+9
+10
+
+
+11
+29
+@
+36:
+363715 *
+1? ?(	26:3B
+	
+9
+10
+
+
+11
+38
+@
+39:
+394015 *
+1D D(26:3B
+	
+9
+10
+
+
+11
+41
+
+45
+454619
+@
+50:
+505115 *
+1U U(	26:3B
+	
+9
+10
+
+
+11
+52
+@
+42:
+424315 *
+1J J(	26:3B
+	
+9
+10
+
+
+11
+44
+@
+33:
+333415 *
+1: :(	26:3B
+	
+9
+10
+
+
+11
+35
+@
+13:
+131415 *
+1% %(	26:3B
+	
+9
+10
+
+
+11
+16
+
+17
+171819
+9
+64
+678 *
+1   (!:3B
+	
+9
+10
+
+
+11
+12
+@
+64:
+646515 *
+1i i(	26:3B
+	
+9
+10
+
+
+11
+66
+@
+56:
+565715 *
+1_ _(	26:3B
+	
+9
+10
+
+
+11
+58
+@
+23:
+232415 *
+1* *(	26:3B
+	
+9
+10
+
+
+11
+16
+@
+30:
+303115 *
+14 4(	26:3B
+	
+9
+10
+
+
+11
+32
+@
+53:
+535415 *
+1Z Z(	26:3B
+	
+9
+10
+
+
+11
+55
+
+25
+252619rÄ
+
+131720*
+1% %(
+
+131721*
+1% %(
+
+131722*
+1% %(
+
+232520*
+1* *(
+
+232521*
+1* *(
+
+232522*
+1* *(
+
+424520*
+1J- J(L
+
+424521*
+1JM J(U
+
+424522*
+1J- J(L
+
+596220*
+1d d((
+
+596221*
+1d) d(-
+
+596222*
+1d d((

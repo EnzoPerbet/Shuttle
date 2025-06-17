@@ -1,0 +1,1034 @@
+
+1.0testepsi2_analyseepsiJavaFrontend"1750157066768*java2.BŽ(
+G
+Bapp/src/main/java/com/simplecity/amp_library/utils/MusicUtils.java2
+
+package4
+%
+ com.simplecity.amp_library.utils5
+0
++com.simplecity.amp_library.utils.MusicUtils7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+
+MusicUtils12
+5
+/com.simplecity.amp_library.utils.MusicUtils.TAG14
+
+field15
+
+private16
+	
+TAG17
+6
+0com.simplecity.amp_library.utils.MusicUtils$Defs19
+
+	interface20
+
+
+Defs21
+F
+@com.simplecity.amp_library.utils.MusicUtils$Defs.ADD_TO_PLAYLIST23
+
+ADD_TO_PLAYLIST24
+H
+Bcom.simplecity.amp_library.utils.MusicUtils$Defs.PLAYLIST_SELECTED26
+
+PLAYLIST_SELECTED27
+C
+=com.simplecity.amp_library.utils.MusicUtils$Defs.NEW_PLAYLIST29
+
+NEW_PLAYLIST30
+T
+Ncom.simplecity.amp_library.utils.MusicUtils#playAll(LSingle;LUnsafeConsumer;)V32
+
+method33
+
+playAll34
+$
+Recovered#typeBindingLSingle;036
+
+unknown37
+
+	has param38
+,
+&Recovered#typeBindingLUnsafeConsumer;040
+
+SuppressLint42
+
+annotated by43
+*
+$Recovered#typeBindingLSuppressLint;045
+
+
+uses46
+
+is type47
+"
+Recovered#typeBindingLSong;049
+^
+Xcom.simplecity.amp_library.utils.MusicUtils#playAll(Ljava/util/List;IZLUnsafeConsumer;)V51
+
+
+references52
+D
+>com.simplecity.amp_library.utils.MusicUtils#setShuffleMode(I)V54
+
+calls55
+W
+Qcom.simplecity.amp_library.utils.MusicUtils#shuffleAll(LSingle;LUnsafeConsumer;)V57
+
+
+shuffleAll58
+B
+<com.simplecity.amp_library.utils.MusicUtils#playFile(LUri;)V60
+
+playFile61
+!
+Recovered#typeBindingLUri;063
+[
+Ucom.simplecity.amp_library.utils.MusicUtils#getIntPref(LContext;Ljava/lang/String;I)I65
+
+
+getIntPref66
+%
+Recovered#typeBindingLContext;068
+/
+)Recovered#typeBindingLSharedPreferences;070
+[
+Ucom.simplecity.amp_library.utils.MusicUtils#setIntPref(LContext;Ljava/lang/String;I)V72
+
+	protected73
+
+
+setIntPref74
+$
+Recovered#typeBindingLEditor;076
+Q
+Kcom.simplecity.amp_library.utils.MusicUtils#getFilePath()Ljava/lang/String;78
+
+getFilePath79
+>
+8com.simplecity.amp_library.utils.MusicUtils#isPlaying()Z81
+
+	isPlaying82
+C
+=com.simplecity.amp_library.utils.MusicUtils#getShuffleMode()I84
+
+getShuffleMode85
+
+setShuffleMode86
+B
+<com.simplecity.amp_library.utils.MusicUtils#getRepeatMode()I88
+
+getRepeatMode89
+9
+3com.simplecity.amp_library.utils.MusicUtils#next()V91
+
+
+next92
+>
+8com.simplecity.amp_library.utils.MusicUtils#previous(Z)V94
+
+previous95
+@
+:com.simplecity.amp_library.utils.MusicUtils#getPosition()J97
+<
+6com.simplecity.amp_library.utils.MusicUtils#seekTo(J)V99
+A
+:com.simplecity.amp_library.utils.MusicUtils#playOrPause()V101
+
+playOrPause102
+G
+@com.simplecity.amp_library.utils.MusicUtils#getAudioSessionId()I104
+
+getAudioSessionId105
+S
+Lcom.simplecity.amp_library.utils.MusicUtils#getAlbumName()Ljava/lang/String;107
+
+getAlbumName108
+Y
+Rcom.simplecity.amp_library.utils.MusicUtils#getAlbumArtistName()Ljava/lang/String;110
+
+getAlbumArtistName111
+R
+Kcom.simplecity.amp_library.utils.MusicUtils#getSongName()Ljava/lang/String;113
+
+getSongName114
+P
+Icom.simplecity.amp_library.utils.MusicUtils#getAlbumArtist()LAlbumArtist;116
+
+getAlbumArtist117
+
+AlbumArtist119
+
+returns120
+
+Song122
+B
+;com.simplecity.amp_library.utils.MusicUtils#getSong()LSong;124
+D
+=com.simplecity.amp_library.utils.MusicUtils#getAlbum()LAlbum;126
+
+getAlbum127
+
+Album129
+
+getSong130
+E
+>com.simplecity.amp_library.utils.MusicUtils#getGenre()LSingle;132
+
+getGenre133
+
+Single135
+$
+Recovered#typeBindingLGenre;0137
+
+getPosition138
+A
+:com.simplecity.amp_library.utils.MusicUtils#getDuration()J140
+
+getDuration141
+
+seekTo142
+E
+>com.simplecity.amp_library.utils.MusicUtils#moveQueueItem(II)V144
+
+moveQueueItem145
+G
+@com.simplecity.amp_library.utils.MusicUtils#toggleShuffleMode()V147
+
+toggleShuffleMode148
+A
+:com.simplecity.amp_library.utils.MusicUtils#cycleRepeat()V150
+
+cycleRepeat151
+`
+Ycom.simplecity.amp_library.utils.MusicUtils#addToQueue(Ljava/util/List;LUnsafeConsumer;)V153
+
+
+addToQueue154
+^
+Wcom.simplecity.amp_library.utils.MusicUtils#playNext(Ljava/util/List;LUnsafeConsumer;)V156
+
+playNext157
+G
+@com.simplecity.amp_library.utils.MusicUtils#setQueuePosition(I)V159
+
+setQueuePosition160
+@
+9com.simplecity.amp_library.utils.MusicUtils#clearQueue()V162
+
+
+clearQueue163
+M
+Fcom.simplecity.amp_library.utils.MusicUtils#getQueue()Ljava/util/List;165
+
+getQueue166
+F
+?com.simplecity.amp_library.utils.MusicUtils#getQueuePosition()I168
+
+getQueuePosition169
+F
+?com.simplecity.amp_library.utils.MusicUtils#removeFromQueue(I)V171
+
+removeFromQueue172
+U
+Ncom.simplecity.amp_library.utils.MusicUtils#removeFromQueue(Ljava/util/List;)V174
+D
+=com.simplecity.amp_library.utils.MusicUtils#toggleFavorite()V176
+
+toggleFavorite177
+N
+Gcom.simplecity.amp_library.utils.MusicUtils#closeEqualizerSessions(ZI)V179
+
+closeEqualizerSessions180
+L
+Ecom.simplecity.amp_library.utils.MusicUtils#openEqualizerSession(ZI)V182
+
+openEqualizerSession183
+E
+>com.simplecity.amp_library.utils.MusicUtils#updateEqualizer()V185
+
+updateEqualizer186J
+
+1
+12Z
+
+3	
+354j«
+B
+53<
+535433 *
+1¬ ¬(26:3B
+	
+9
+10
+
+
+11
+86
+F
+123?
+12312433 *
+1   (26:3B
+	
+9
+10
+
+11
+130
+
+128
+12812937
+
+48
+484937
+B
+93<
+939433 *
+1Ê Ê(26:3B
+	
+9
+10
+
+
+11
+95
+
+121
+12112237
+F
+178?
+17817933 *
+1§ §(26:3B
+	
+9
+10
+
+11
+180
+@
+59:
+596033 *
+1Z Z(26:3B
+	
+9
+10
+
+
+11
+61
+B
+77<
+777833 *
+1Ž Ž(26:3B
+	
+9
+10
+
+
+11
+79
+@
+50:
+505133 *
+10 0(26:3B
+	
+9
+10
+
+
+11
+34
+
+69
+697037
+A
+22;
+222315 *
+1	 (218:3B
+	
+9
+10
+
+
+11
+24
+
+75
+757637
+F
+125?
+12512633 *
+1— —(26:3B
+	
+9
+10
+
+11
+127
+F
+143?
+14314433 *
+1Ù Ù(26:3B
+	
+9
+10
+
+11
+145
+B
+71<
+717233 *
+1„ „(26:3B
+	
+9
+73
+
+
+11
+74
+F
+106?
+10610733 *
+1î î(26:3B
+	
+9
+10
+
+11
+108
+F
+164?
+16416533 *
+1‡ ‡(26:3B
+	
+9
+10
+
+11
+166
+@
+31:
+313233 *
+1& &(26:3B
+	
+9
+10
+
+
+11
+34
+@
+56:
+565733 *
+1I I(26:3B
+	
+9
+10
+
+
+11
+58
+B
+83<
+838433 *
+1¢ ¢(26:3B
+	
+9
+10
+
+
+11
+85
+F
+100?
+10010133 *
+1Ú Ú(26:3B
+	
+9
+10
+
+11
+102
+F
+155?
+15515633 *
+1õ õ(26:3B
+	
+9
+10
+
+11
+157
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+@
+18:
+181920 *
+1 (26:3B
+	
+9
+10
+
+
+11
+21
+A
+28;
+282915 *
+1 	  (218:3B
+	
+9
+10
+
+
+11
+30
+
+44
+444537
+F
+103?
+10310433 *
+1ç ç(26:3B
+	
+9
+10
+
+11
+105
+F
+158?
+15815933 *
+1ý ý(26:3B
+	
+9
+10
+
+11
+160
+F
+161?
+16116233 *
+1ƒ ƒ(26:3B
+	
+9
+10
+
+11
+163
+F
+181?
+18118233 *
+1­ ­(26:3B
+	
+9
+10
+
+11
+183
+
+67
+676837
+F
+152?
+15215333 *
+1í í(26:3B
+	
+9
+10
+
+11
+154
+A
+25;
+252615 *
+1	 (218:3B
+	
+9
+10
+
+
+11
+27
+
+136
+13613737
+B
+80<
+808133 *
+1˜ ˜(26:3B
+	
+9
+10
+
+
+11
+82
+C
+96=
+969733 *
+1µ µ(26:3B
+	
+9
+10
+
+11
+138
+B
+87<
+878833 *
+1µ µ(26:3B
+	
+9
+10
+
+
+11
+89
+F
+139?
+13914033 *
+1Ä Ä(26:3B
+	
+9
+10
+
+11
+141
+
+62
+626337
+B
+90<
+909133 *
+1¿ ¿(26:3B
+	
+9
+10
+
+
+11
+92
+F
+115?
+11511633 *
+1‰ ‰(26:3B
+	
+9
+10
+
+11
+117
+F
+167?
+16716833 *
+1Ž Ž(26:3B
+	
+9
+10
+
+11
+169
+
+39
+394037
+
+35
+353637
+F
+175?
+17517633 *
+1¡ ¡(26:3B
+	
+9
+10
+
+11
+177
+F
+170?
+17017133 *
+1• •(26:3B
+	
+9
+10
+
+11
+172
+F
+109?
+10911033 *
+1õ õ(26:3B
+	
+9
+10
+
+11
+111
+
+118
+11811937
+F
+149?
+14915033 *
+1æ æ(26:3B
+	
+9
+10
+
+11
+151
+F
+184?
+18418533 *
+1³ ³(26:3B
+	
+9
+10
+
+11
+186
+F
+173?
+17317433 *
+1› ›(26:3B
+	
+9
+10
+
+11
+172
+@
+64:
+646533 *
+1x x(26:3B
+	
+9
+10
+
+
+11
+66
+
+134
+13413537
+F
+112?
+11211333 *
+1ü ü(26:3B
+	
+9
+10
+
+11
+114
+
+41
+414237
+@
+13:
+131415 *
+1 (26:3B
+	
+9
+16
+
+
+11
+17
+C
+98=
+989933 *
+1Ó Ó(26:3B
+	
+9
+10
+
+11
+142
+F
+146?
+14614733 *
+1ß ß(26:3B
+	
+9
+10
+
+11
+148
+F
+131?
+13113233 *
+1§ §(26:3B
+	
+9
+10
+
+11
+133rÀ
+
+313538*
+1'  '(&
+
+313938*
+1'@ '(N
+
+314143*
+1& &(
+
+314446*
+1& &(
+
+313547*
+1'3 '(>
+
+313546*
+1'  '(&
+
+314846*
+1', '(0
+
+313947*
+1'W '(^
+
+313946*
+1'@ '(N
+
+503938*
+10Y 0(g
+
+504846*
+10% 0()
+
+503947*
+10p 0(w
+
+503946*
+10Y 0(g
+
+50652*
+13 3(
+
+505355*
+13 3(
+
+563538*
+1J# J()
+
+563938*
+1JC J(Q
+
+564143*
+1I I(
+
+564446*
+1I I(
+
+563547*
+1J6 J(A
+
+563546*
+1J# J()
+
+564846*
+1J/ J(3
+
+563947*
+1JZ J(a
+
+563946*
+1JC J(Q
+
+56652*
+1K	 K(
+
+565355*
+1K	 K(
+
+596238*
+1Z' Z(*
+
+596247*
+1Z+ Z(.
+
+596246*
+1Z' Z(*
+
+646738*
+1x" x()
+
+646747*
+1x* x(1
+
+646746*
+1x" x()
+
+646947*
+1y! y(&
+
+646946*
+1y y( 
+
+716738*
+1„ „(#
+
+716747*
+1„$ „(+
+
+716746*
+1„ „(#
+
+716947*
+1…! …(&
+
+716946*
+1… …( 
+
+717547*
+1† †(
+
+717546*
+1† †(
+
+93652*
+1Ë" Ë(-
+
+939655*
+1Ë" Ë(-
+
+93652*
+1Ì Ì(
+
+939855*
+1Ì Ì(
+
+115118120*
+1‰ ‰(
+
+11511846*
+1‰ ‰(
+
+115121120*
+1‹ ‹(
+
+115652*
+1‹ ‹(
+
+11512355*
+1‹ ‹(
+
+115121120*
+1Œ Œ(
+
+115652*
+1Œ Œ(
+
+11512355*
+1Œ Œ(
+
+125128120*
+1— —(
+
+12512846*
+1— —(
+
+125121120*
+1™ ™(
+
+125652*
+1™ ™(
+
+12512355*
+1™ ™(
+
+125121120*
+1š š(
+
+125652*
+1š š(
+
+12512355*
+1š š(
+
+123121120*
+1   (
+
+12312146*
+1   (
+
+131134120*
+1§ §(
+
+13113446*
+1§ §(
+
+13113646*
+1§ §(
+
+131121120*
+1© ©(
+
+131652*
+1© ©(
+
+13112355*
+1© ©(
+
+131121120*
+1ª ª(
+
+131652*
+1ª ª(
+
+13112355*
+1ª ª(
+
+1523938*
+1í5 í(C
+
+1524846*
+1í( í(,
+
+1523947*
+1íL í(S
+
+1523946*
+1í5 í(C
+
+1553938*
+1õ3 õ(A
+
+1554846*
+1õ& õ(*
+
+1553947*
+1õJ õ(Q
+
+1553946*
+1õ3 õ(A
+
+1644846*
+1‡ ‡(
+
+1734846*
+1›3 ›(7

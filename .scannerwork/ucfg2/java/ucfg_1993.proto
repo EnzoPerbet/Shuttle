@@ -1,0 +1,206 @@
+
+Bcom.simplecity.amp_library.model.Genre#equals(Ljava/lang/Object;)Zd
+ZC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Genre.java6 6("startingBlock*³
+137 7(˜
+•
+7 7(
+%0boolean"	__compare*
+7 7(
+==*6
+7 7(*(
+&com.simplecity.amp_library.model.Genre*#
+7 7(
+
+ojava.lang.Object*
+11
+12*!
+1> >(K"
+> >(K
+""*ã
+2>8 >(=…
+‚
+>8 >(B
+%14java.lang.String"__id*W
+
+__unknown_file (;*9
+/
+genre&com.simplecity.amp_library.model.Genre"
+namev
+t
+>8 >(J
+%11boolean"	__compare*
+>C >(E
+==*%
+>8 >(B
+
+%14java.lang.String*
+>F >(J
+""O
+M
+>8 >(J
+%9boolean"__id*,
+
+__unknown_file (
+
+%11boolean*
+1*Â
+3> >("}
+{
+> >("
+%12java.lang.String"__id*P
+
+__unknown_file (4*2(
+&com.simplecity.amp_library.model.Genre"
+name…
+‚
+>* >(4
+%13java.lang.String"__id*W
+
+__unknown_file (;*9
+/
+genre&com.simplecity.amp_library.model.Genre"
+nameÕÒ
+> >(5
+%10boolean",java.lang.String#equals(Ljava/lang/Object;)Z*5
+
+__unknown_file (
+
+%12java.lang.String*5
+
+__unknown_file (
+
+%13java.lang.String2equals(Ljava/lang/Object;)O
+M
+> >(5
+%9boolean"__id*,
+
+__unknown_file (
+
+%10boolean*
+1*ƒ
+startingBlock6 6(#‰
+†
+5 5(
+%15"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+ojava.lang.ObjectV
+T
+6! 6("
+ojava.lang.Object"__annotation*#
+
+__unknown_file (
+
+%15*
+13*‰
+4> >(|
+z
+> >(
+%7java.lang.String"__id*P
+
+__unknown_file (4*2(
+&com.simplecity.amp_library.model.Genre"
+namet
+r
+> >(
+%8boolean"	__compare*
+> >(
+!=*$
+> >(
+
+%7java.lang.String*
+> >(
+""*
+2
+3*!
+5=/ =(4"
+=( =(5
+""*y
+6= =(b
+`
+= =(&
+%6boolean"	__compare*
+= =(
+!=*
+= =(
+""*
+= =(&
+""*
+4
+5*!
+7<# <(("
+< <()
+""*ó
+8: :(x
+v
+: :( /
+genre&com.simplecity.amp_library.model.Genre"__id*3
+
+__unknown_file (
+
+ojava.lang.Objectb
+`
+< <(
+%5boolean"	__compare*
+< <(
+!=*
+< <(
+""*
+< <(
+""*
+6
+7*!
+98< 8(A"
+85 8(B
+""*Ý
+108 8(!¦£
+8 8(#
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*F
+
+__unknown_file (*(
+&com.simplecity.amp_library.model.Genre2
+getClass()“
+8' 8(3
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
+
+__unknown_file (
+
+ojava.lang.Object2
+getClass()…
+‚
+8 8(3
+%4boolean"	__compare*
+8$ 8(&
+!=*#
+8 8(#
+
+%2java.lang.Class*#
+8' 8(3
+
+%3java.lang.Class*
+8
+9*Œ
+118 8(s
+q
+8 8(
+%1boolean"	__compare*
+8 8(
+==*#
+8 8(
+
+ojava.lang.Object*
+8 8(
+""*
+9
+10*"
+127 7(""
+7 7(#
+"":!
+6 6("
+ojava.lang.ObjectB*(
+&com.simplecity.amp_library.model.GenreHX

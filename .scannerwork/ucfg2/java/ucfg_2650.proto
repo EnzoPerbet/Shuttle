@@ -1,0 +1,39 @@
+
+\com.google.android.libraries.cast.companionlibrary.cast.BaseCastManager#isFeatureEnabled(I)Z‡
+{C:/Users/enzo.perbet/Shuttle/libraries/ccl/src/com/google/android/libraries/cast/companionlibrary/cast/BaseCastManager.javaÌ Ì()"1*ÿ
+1
+Í Í(g
+e
+
+Í Í('	
+%0int"__calculate*
+
+Í Í(
+&*
+
+Í Í(
+""*
+
+Í Í('
+""o
+m
+
+Í Í(3
+%1boolean"	__compare*
+
+Í) Í(+
+==*
+
+Í Í((
+	
+%0int*
+
+Í, Í(3
+"""
+
+Í Í(4
+"": 
+
+__unknown_file (
+""BKI
+Gcom.google.android.libraries.cast.companionlibrary.cast.BaseCastManagerHX

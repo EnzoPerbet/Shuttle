@@ -1,0 +1,20 @@
+
+Ocom.simplecity.amp_library.ui.drawer.MiniPlayerLockManager#canShowMiniPlayer()Zx
+nC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/drawer/MiniPlayerLockManager.java ($"1*µ
+1 (š
+—
+ (
+%0java.util.List"__id*o
+
+__unknown_file (S*Q<
+:com.simplecity.amp_library.ui.drawer.MiniPlayerLockManager"
+miniPlayerLocksus
+ ((
+%1boolean"java.util.List#isEmpty()Z*2
+
+__unknown_file (
+
+%0java.util.List2	isEmpty()"
+ ()
+""B><
+:com.simplecity.amp_library.ui.drawer.MiniPlayerLockManagerHX

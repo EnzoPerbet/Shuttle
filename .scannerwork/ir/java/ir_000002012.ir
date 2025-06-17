@@ -1,0 +1,10 @@
+6context39 3(N"Recovered#typeBindingLContext;0*
+artistName3P 3(a"java.lang.String)	albumName3c 3(s"java.lang.String@<com.simplecity.amp_library.ui.dialog.BiographyDialog$BioType"¤!
+
+4" 4()"#unknown-value#+
+)
+4+ 4(8"#get-field# ALBUM:BintÁ
+¾
+4 4(P"Š
+4com.simplecity.amp_library.ui.dialog.BiographyDialogRgetBiographyDialog(LContext;ILjava/lang/String;Ljava/lang/String;)LMaterialDialog;2getBiographyDialog:B	!Unknown!
+4 4(Q*hC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/dialog/BiographyDialog.java

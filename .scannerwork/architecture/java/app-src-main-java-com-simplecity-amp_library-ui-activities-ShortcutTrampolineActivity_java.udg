@@ -1,0 +1,195 @@
+
+1.0testepsi2_analyseepsiJavaFrontend"1750157068739*java2.BÞ
+_
+Zapp/src/main/java/com/simplecity/amp_library/ui/activities/ShortcutTrampolineActivity.java2
+
+package4
+-
+(com.simplecity.amp_library.ui.activities5
+H
+Ccom.simplecity.amp_library.ui.activities.ShortcutTrampolineActivity7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+ 
+ShortcutTrampolineActivity12
+/
+)Recovered#typeBindingLAppCompatActivity;014
+
+unknown15
+
+extends16
+
+
+uses17
+M
+Gcom.simplecity.amp_library.ui.activities.ShortcutTrampolineActivity.TAG19
+
+field20
+
+private21
+	
+TAG22
+]
+Wcom.simplecity.amp_library.ui.activities.ShortcutTrampolineActivity#onCreate(LBundle;)V24
+
+method25
+
+	protected26
+
+onCreate27
+$
+Recovered#typeBindingLBundle;029
+
+	has param30
+
+is type31
+
+Nullable33
+
+annotated by34
+&
+ Recovered#typeBindingLNullable;036
+
+
+references37
+
+AppCompatActivity39
+$
+Recovered#typeBindingLIntent;041
+*
+$Recovered#typeBindingLMusicService;043
+*
+$Recovered#typeBindingLMainActivity;045J
+
+1
+12Z
+
+3	
+354jß
+@
+18:
+181920 *
+1 (26:3B
+	
+9
+21
+
+
+11
+22
+
+44
+444515
+
+28
+282915
+
+35
+353615
+
+40
+404115
+
+38
+383915
+
+13
+131415
+
+42
+424315
+9
+64
+678 *
+1 ((:3B
+	
+9
+10
+
+
+11
+12
+@
+23:
+232425 *
+1 (26:3B
+	
+9
+26
+
+
+11
+27
+
+32
+323315r­
+
+61316*
+11 (B
+
+61317*
+11 (B
+
+232830*
+1' (-
+
+232831*
+1. (@
+
+233234*
+1 (
+
+233517*
+1 (&
+
+232817*
+1' (-
+
+23637*
+1	 (
+
+233817*
+1	 (
+
+23637*
+1	 (
+
+234031*
+1 (
+
+234017*
+1 (
+
+23617*
+1, (0
+
+23637*
+1, (0
+
+234217*
+12 (>
+
+23617*
+1#% #()
+
+23637*
+1#% #()
+
+234417*
+1#+ #(7
+
+23617*
+1)% )()
+
+23637*
+1)% )()
+
+234417*
+1)+ )(7

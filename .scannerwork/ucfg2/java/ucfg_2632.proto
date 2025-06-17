@@ -1,0 +1,136 @@
+
+Icom.simplecity.amp_library.model.CategoryItem#equals(Ljava/lang/Object;)Zm
+aC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/CategoryItem.javaõ õ("startingBlock*%
+2
+ù< ù(A"
+
+ù5 ù(B
+""*Ò
+3
+ù ù(!Ø¨
+
+ù ù(#
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*M
+
+__unknown_file (1/
+-com.simplecity.amp_library.model.CategoryItem2
+getClass()ïí
+
+ù' ù(3
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
+
+__unknown_file (
+
+ojava.lang.Object2
+getClass()ç
+ä
+
+ù ù(3
+%4boolean"	__compare*
+
+ù$ ù(&
+!=*%
+
+ù ù(#
+
+%2java.lang.Class*%
+
+ù' ù(3
+
+%3java.lang.Class*
+2
+1*Ü
+startingBlock
+õ õ(#ä
+á
+
+ö ö(
+%6"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+ojava.lang.ObjectW
+U
+
+õ! õ("
+ojava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%6*
+6*î
+4
+ù ù({
+y
+
+ù ù(
+%1boolean"	__compare*
+
+ù ù(
+==*%
+
+ù ù(
+
+ojava.lang.Object*
+
+ù ù(
+""*
+2
+3*%
+5
+ú ú(""
+
+ú ú(#
+""*¡
+6
+ú ú(ß
+§
+
+ú ú(
+%0boolean"	__compare*
+
+ú ú(
+==*?
+
+ú ú(1/
+-com.simplecity.amp_library.model.CategoryItem*%
+
+ú ú(
+
+ojava.lang.Object*
+4
+5*î
+1
+ü+ ü(,Ä
+~
+
+ü ü(-5
+that-com.simplecity.amp_library.model.CategoryItem"__id*3
+
+__unknown_file (
+
+ojava.lang.Objectj
+h
+
+° °( 
+%5boolean"	__compare*
+
+° °(
+==*
+
+° °(
+""*
+
+° °( 
+"""
+
+° °(!
+"":#
+
+õ õ("
+ojava.lang.ObjectB1/
+-com.simplecity.amp_library.model.CategoryItemHX

@@ -1,0 +1,120 @@
+
+2com.simplecity.amp_library.model.Genre#hashCode()Id
+ZC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Genre.javaC C("4*Z
+2EA E(BF
+D
+EA E(B	
+%5int"__id*'
+
+__unknown_file (
+	
+%7int*
+1*Ñ
+3E/ E(3|
+z
+E/ E(3
+%8java.lang.String"__id*P
+
+__unknown_file (4*2(
+&com.simplecity.amp_library.model.Genre"
+namewu
+E/ E(>	
+%6int"java.lang.String#hashCode()I*4
+
+__unknown_file (
+
+%8java.lang.String2
+hashCode()F
+D
+E/ E(>	
+%5int"__id*'
+
+__unknown_file (
+	
+%6int*
+1*²
+4D D(`
+^
+D" D(+
+
+%0long"__calculate*
+D% D((
+>>>*
+D" D($
+""*
+D) D(+2 f
+d
+D D(,
+
+%1long"__calculate*
+D D( 
+^*
+D D(
+""*
+D! D(,
+
+
+%0long]
+[
+E E(	
+%2int"__calculate*
+E E(
+**
+E E(2*
+E E(
+""|
+z
+E  E($
+%3java.lang.String"__id*P
+
+__unknown_file (4*2(
+&com.simplecity.amp_library.model.Genre"
+namet
+r
+E  E(,
+%4boolean"	__compare*
+E% E('
+!=*$
+E  E($
+
+%3java.lang.String*
+E( E(,
+""*
+2
+3*Ô
+1E E(Ci
+g
+E E(C	
+%9int"__calculate*
+E E(
++*
+E E(
+	
+%2int*
+E E(C
+	
+%5int^
+\
+F F(
+
+%10int"__calculate*
+F F(
+**
+F F(2*
+F F(
+""f
+d
+F F('
+
+%11int"__calculate*
+F F(
++*
+F F(
+
+
+%10int*
+F F('
+"""
+G G(
+""B*(
+&com.simplecity.amp_library.model.GenreHX

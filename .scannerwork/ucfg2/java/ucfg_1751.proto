@@ -1,0 +1,57 @@
+
+vcom.simplecity.amp_library.playback.PlaybackMonitor#getInstance()Lcom/simplecity/amp_library/playback/PlaybackMonitor;q
+gC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/playback/PlaybackMonitor.java" (-"3*ò
+2 (,|z
+ (*9
+%23com.simplecity.amp_library.playback.PlaybackMonitor"3com.simplecity.amp_library.playback.PlaybackMonitor«
+¨
+ (,
+%3"=com.simplecity.amp_library.playback.PlaybackMonitor#<init>()V*W
+
+__unknown_file (;
+9
+%23com.simplecity.amp_library.playback.PlaybackMonitor±
+®
+ (,C5
+3com.simplecity.amp_library.playback.PlaybackMonitor"
+
+instance"__id*W
+
+__unknown_file (;
+9
+%23com.simplecity.amp_library.playback.PlaybackMonitor*
+1*ä
+3 (±
+®
+ (9
+%03com.simplecity.amp_library.playback.PlaybackMonitor"__id*a
+
+__unknown_file (E*C5
+3com.simplecity.amp_library.playback.PlaybackMonitor"
+
+instance˜
+•
+ (
+%1boolean"	__compare*
+ (
+==*G
+ (;
+9
+%03com.simplecity.amp_library.playback.PlaybackMonitor*
+ (
+""*
+2
+1*Š
+1 (±
+®
+ (9
+%43com.simplecity.amp_library.playback.PlaybackMonitor"__id*a
+
+__unknown_file (E*C5
+3com.simplecity.amp_library.playback.PlaybackMonitor"
+
+instance"G
+ (;
+9
+%43com.simplecity.amp_library.playback.PlaybackMonitorB7"5
+3com.simplecity.amp_library.playback.PlaybackMonitorH

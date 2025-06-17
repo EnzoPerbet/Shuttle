@@ -1,0 +1,175 @@
+
+Ncom.simplecity.amp_library.ui.modelviews.GenreView#equals(Ljava/lang/Object;)Zr
+fC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/GenreView.java„ „("startingBlock*·
+2
+Š? Š(Ha
+_
+
+Š? Š(V
+%8"	__compare*
+
+ŠO Š(Q
+==*
+
+Š? Š(N
+""*
+
+ŠR Š(V
+"">
+<
+
+Š? Š(V
+%6"__id*"
+
+__unknown_file (
+
+%8*
+1*T
+3
+Š Š($>
+<
+
+Š Š(<
+%6"__id*"
+
+__unknown_file (
+
+%7*
+1*†
+startingBlock
+„ „(#Š
+‡
+
+ƒ ƒ(
+%9"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+ojava.lang.ObjectW
+U
+
+„! „("
+ojava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%9*
+9*ˆ
+4
+ˆ* ˆ(+‹
+ˆ
+
+ˆ ˆ(,?
+	genreView2com.simplecity.amp_library.ui.modelviews.GenreView"__id*3
+
+__unknown_file (
+
+ojava.lang.Objecta
+_
+
+Š Š(
+%5"	__compare*
+
+Š Š(
+!=*
+
+Š Š(
+""*
+
+Š Š(
+""*
+2
+3*%
+5
+†< †(A"
+
+†5 †(B
+""*ö
+6
+† †(!´±
+
+† †(#
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*R
+
+__unknown_file (64
+2com.simplecity.amp_library.ui.modelviews.GenreView2
+getClass()•’
+
+†' †(3
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
+
+__unknown_file (
+
+ojava.lang.Object2
+getClass()
+Š
+
+† †(3
+%4boolean"	__compare*
+
+†$ †(&
+!=*%
+
+† †(#
+
+%2java.lang.Class*%
+
+†' †(3
+
+%3java.lang.Class*
+4
+5*”
+7
+† †({
+y
+
+† †(
+%1boolean"	__compare*
+
+† †(
+==*%
+
+† †(
+
+ojava.lang.Object*
+
+† †(
+""*
+5
+6*%
+8
+… …(""
+
+… …(#
+""*Æ
+9
+… …(¬
+©
+
+… …(
+%0boolean"	__compare*
+
+… …(
+==*D
+
+… …(64
+2com.simplecity.amp_library.ui.modelviews.GenreView*%
+
+… …(
+
+ojava.lang.Object*
+7
+8*%
+1
+Š Š(W"
+
+Š Š(W
+"":#
+
+„ „("
+ojava.lang.ObjectB64
+2com.simplecity.amp_library.ui.modelviews.GenreViewHX

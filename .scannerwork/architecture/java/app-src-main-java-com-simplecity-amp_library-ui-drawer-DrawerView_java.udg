@@ -1,0 +1,133 @@
+
+1.0testepsi2_analyseepsiJavaFrontend"1750157023426*java2.Bæ
+K
+Fapp/src/main/java/com/simplecity/amp_library/ui/drawer/DrawerView.java2
+
+package4
+)
+$com.simplecity.amp_library.ui.drawer5
+4
+/com.simplecity.amp_library.ui.drawer.DrawerView7
+
+	interface8
+
+access9
+
+public10
+
+simple name11
+
+
+DrawerView12
+*
+$Recovered#typeBindingLPurchaseView;014
+
+unknown15
+
+
+implements16
+
+
+uses17
+Y
+Scom.simplecity.amp_library.ui.drawer.DrawerView#setPlaylistItems(Ljava/util/List;)V19
+
+method20
+
+setPlaylistItems21
+6
+0com.simplecity.amp_library.ui.drawer.DrawerChild23
+D
+>com.simplecity.amp_library.ui.drawer.DrawerView#closeDrawer()V25
+
+closeDrawer26
+O
+Icom.simplecity.amp_library.ui.drawer.DrawerView#setDrawerItemSelected(I)V28
+
+setDrawerItemSelected29
+
+DrawerParent.Type31
+
+annotated by32
+*
+$Recovered#typeBindingLDrawerParent;034J
+
+1
+12Z
+
+3	
+354j—
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+
+22
+222315
+@
+24:
+242520 *
+1 (	26:3B
+	
+9
+10
+
+
+11
+26
+
+30
+303115
+@
+27:
+272820 *
+1 (	26:3B
+	
+9
+10
+
+
+11
+29
+
+13
+131415
+@
+18:
+181920 *
+1	 	(	26:3B
+	
+9
+10
+
+
+11
+21
+
+33
+333415r†
+
+61316*
+1% (1
+
+61317*
+1% (1
+
+182217*
+1	  	(+
+
+273032*
+1  (!
+
+273317*
+1! (-
+
+273317*
+1. (2

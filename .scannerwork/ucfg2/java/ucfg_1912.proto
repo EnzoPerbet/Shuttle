@@ -1,0 +1,63 @@
+
+Ucom.simplecity.amp_library.http.itunes.ItunesResult$Result#getUrl()Ljava/lang/String;q
+gC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/http/itunes/ItunesResult.java ("3*Å
+2 (ê
+ç
+ (
+%2java.lang.String"__id*c
+
+__unknown_file (G*E<
+:com.simplecity.amp_library.http.itunes.ItunesResult$Result"
+url∆√
+ (7
+%3java.lang.String"\java.lang.String#replace(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Ljava/lang/String;*4
+
+__unknown_file (
+
+%2java.lang.String*'
+
+__unknown_file (	
+100x100*'
+
+__unknown_file (	
+600x60029replace(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)ê
+ç
+ (7E<
+:com.simplecity.amp_library.http.itunes.ItunesResult$Result"
+url"__id*4
+
+__unknown_file (
+
+%3java.lang.String*
+1*Ä
+3 (ê
+ç
+ (
+%0java.lang.String"__id*c
+
+__unknown_file (G*E<
+:com.simplecity.amp_library.http.itunes.ItunesResult$Result"
+url’“
+ ('
+%1boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*4
+
+__unknown_file (
+
+%0java.lang.String*'
+
+__unknown_file (	
+100x1002"contains(Ljava/lang/CharSequence;)*
+2
+1*∆
+1 (ê
+ç
+ (
+%4java.lang.String"__id*c
+
+__unknown_file (G*E<
+:com.simplecity.amp_library.http.itunes.ItunesResult$Result"
+url"$
+ (
+
+%4java.lang.StringB><
+:com.simplecity.amp_library.http.itunes.ItunesResult$Result

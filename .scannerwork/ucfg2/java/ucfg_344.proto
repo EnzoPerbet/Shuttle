@@ -1,0 +1,33 @@
+
+±com.simplecity.amp_library.ui.detail.PlaylistDetailFragment#newInstance(Lcom/simplecity/amp_library/model/Playlist;)Lcom/simplecity/amp_library/ui/detail/PlaylistDetailFragment;y
+oC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/detail/PlaylistDetailFragment.java,) ,(4"1*è
+1- -("ö
+ó
+. .()
+%0java.lang.String"__id*m
+
+__unknown_file (Q*O=
+;com.simplecity.amp_library.ui.detail.PlaylistDetailFragment"
+ARG_PLAYLISTçä
+/. /(DA
+%1;com.simplecity.amp_library.ui.detail.PlaylistDetailFragment";com.simplecity.amp_library.ui.detail.PlaylistDetailFragmentª
+∏
+/* /(F
+%2"Ecom.simplecity.amp_library.ui.detail.PlaylistDetailFragment#<init>()V*_
+
+__unknown_file (C
+A
+%1;com.simplecity.amp_library.ui.detail.PlaylistDetailFragmentΩ
+∫
+/ /(GG
+fragment;com.simplecity.amp_library.ui.detail.PlaylistDetailFragment"__id*_
+
+__unknown_file (C
+A
+%1;com.simplecity.amp_library.ui.detail.PlaylistDetailFragment"U
+1 1(I
+G
+fragment;com.simplecity.amp_library.ui.detail.PlaylistDetailFragment:A
+,5 ,(F5
+playlist)com.simplecity.amp_library.model.PlaylistB?"=
+;com.simplecity.amp_library.ui.detail.PlaylistDetailFragmentH

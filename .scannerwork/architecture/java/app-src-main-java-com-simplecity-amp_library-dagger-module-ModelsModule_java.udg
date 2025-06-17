@@ -1,0 +1,107 @@
+
+1.0testepsi2_analyseepsiJavaFrontend"1750157080060*java2.Bì
+Q
+Lapp/src/main/java/com/simplecity/amp_library/dagger/module/ModelsModule.java2
+
+package4
+-
+(com.simplecity.amp_library.dagger.module5
+:
+5com.simplecity.amp_library.dagger.module.ModelsModule7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+ModelsModule12
+c
+]com.simplecity.amp_library.dagger.module.ModelsModule#providePlaylistsModel()LPlaylistsModel;14
+
+method15
+
+providePlaylistsModel16
+
+PlaylistsModel18
+
+unknown19
+
+returns20
+
+Provides22
+
+annotated by23
+&
+ Recovered#typeBindingLProvides;025
+
+
+uses26
+
+NonNull28
+%
+Recovered#typeBindingLNonNull;030J
+
+1
+12Z
+
+3	
+354já
+
+24
+242519
+
+27
+272819
+@
+13:
+131415 *
+1 (26:3B
+	
+9
+10
+
+
+11
+16
+
+17
+171819
+
+21
+212219
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+
+29
+293019r¢
+
+131720*
+1 (
+
+132123*
+1 (
+
+132426*
+1 (
+
+132723*
+1 (
+
+132926*
+1 (
+
+131726*
+1 (

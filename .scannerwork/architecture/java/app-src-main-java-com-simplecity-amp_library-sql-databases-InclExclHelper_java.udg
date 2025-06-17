@@ -1,0 +1,293 @@
+
+1.0testepsi2_analyseepsiJavaFrontend"1750157070771*java2.B‚
+S
+Napp/src/main/java/com/simplecity/amp_library/sql/databases/InclExclHelper.java2
+
+package4
+-
+(com.simplecity.amp_library.sql.databases5
+<
+7com.simplecity.amp_library.sql.databases.InclExclHelper7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+InclExclHelper12
+A
+;com.simplecity.amp_library.sql.databases.InclExclHelper.TAG14
+
+field15
+
+private16
+	
+TAG17
+G
+Acom.simplecity.amp_library.sql.databases.InclExclHelper#<init>()V19
+
+method20
+
+calls21
+\
+Vcom.simplecity.amp_library.sql.databases.InclExclHelper#addToInclExcl(LInclExclItem;)V23
+
+addToInclExcl24
+*
+$Recovered#typeBindingLInclExclItem;026
+
+unknown27
+
+	has param28
+
+is type29
+
+
+uses30
++
+%Recovered#typeBindingLContentValues;032
+^
+Xcom.simplecity.amp_library.sql.databases.InclExclHelper#addToInclExcl(Ljava/util/List;)V34
++
+%Recovered#typeBindingLBriteDatabase;036
+a
+[com.simplecity.amp_library.sql.databases.InclExclHelper#deleteInclExclItem(LInclExclItem;)V38
+
+deleteInclExclItem39
+P
+Jcom.simplecity.amp_library.sql.databases.InclExclHelper#deleteAllItems(I)V41
+
+deleteAllItems42
+
+InclExclItem.Type44
+
+annotated by45
+U
+Ocom.simplecity.amp_library.sql.databases.InclExclHelper#addToInclExcl(LSong;I)V47
+"
+Recovered#typeBindingLSong;049
+
+
+references50
+_
+Ycom.simplecity.amp_library.sql.databases.InclExclHelper#addToInclExcl(Ljava/util/List;I)V52J
+
+1
+12Z
+
+3	
+354j¯
+@
+51:
+515220 *
+1: :(26:3B
+	
+9
+10
+
+
+11
+24
+
+35
+353627
+@
+22:
+222320 *
+1 (26:3B
+	
+9
+10
+
+
+11
+24
+@
+18:
+181920 *
+1 (26:3B
+	
+9
+16
+
+
+11
+12
+
+48
+484927
+@
+40:
+404120 *
+12 2(26:3B
+	
+9
+10
+
+
+11
+42
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+@
+33:
+333420 *
+1 (26:3B
+	
+9
+10
+
+
+11
+24
+
+25
+252627
+@
+13:
+131415 *
+1 (26:3B
+	
+9
+16
+
+
+11
+17
+
+43
+434427
+@
+37:
+373820 *
+1, ,(26:3B
+	
+9
+10
+
+
+11
+39
+
+31
+313227
+@
+46:
+464720 *
+16 6(26:3B
+	
+9
+10
+
+
+11
+24rÝ
+
+18621*
+1 (
+
+222528*
+1& (2
+
+222529*
+13 (?
+
+222530*
+1& (2
+
+223129*
+1 (
+
+223130*
+1	 (
+
+332530*
+1+ (7
+
+333529*
+1 (
+
+333530*
+1	 (
+
+333529*
+1# (.
+
+333530*
+1	 (
+
+333530*
+1 ("
+
+372528*
+1,+ ,(7
+
+372529*
+1,8 ,(D
+
+372530*
+1,+ ,(7
+
+404345*
+12' 2((
+
+402530*
+12( 2(4
+
+402530*
+125 2(9
+
+464828*
+16& 6(*
+
+464829*
+16+ 6(/
+
+464830*
+16& 6(*
+
+464345*
+161 6(2
+
+462530*
+162 6(>
+
+462530*
+16? 6(C
+
+46650*
+17	 7(
+
+462221*
+17	 7(
+
+514830*
+1:+ :(/
+
+514345*
+1:8 :(9
+
+512530*
+1:9 :(E
+
+512530*
+1:F :(J
+
+51650*
+1;	 ;(
+
+512221*
+1;	 ;(

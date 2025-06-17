@@ -1,0 +1,32 @@
+
+"Query{"java.lang.String
+%"\nPROJECTION="java.lang.String
+ 
+"\nsort='"java.lang.String
+%"\nselection='"java.lang.String
+"\nuri="java.lang.String
+	"\nargs="java.lang.String
+
+'\''char
+'}'char:this@ @("&com.simplecity.amp_library.model.Query"Ï!
+
+B B("#unknown-value#?
+=
+C2 C(<"#get-field# projection:Bjava.lang.String[]u
+s
+C" C(="C
+java.util.Arrays/toString([Ljava/lang/Object;)Ljava/lang/String;*2toString:Bjava.lang.String<
+:
+D" D(+	"#get-field# selection:Bjava.lang.String9
+7
+E, E(0"#get-field# args:Bjava.lang.String[]u
+s
+E E(1"C
+java.util.Arrays/toString([Ljava/lang/Object;)Ljava/lang/String;*2toString:Bjava.lang.String7
+5
+F F(!"#get-field# sort:Bjava.lang.String9
+7
+A G("	#binop +#2+:	
+
+B	!Unknown!
+A G(*ZC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Query.java

@@ -1,0 +1,535 @@
+
+1.0testepsi2_analyseepsiJavaFrontend"1750157055650*java2.BÅ
+_
+Zapp/src/main/java/com/simplecity/amp_library/ui/views/multisheet/CustomMultiSheetView.java2
+
+package4
+3
+.com.simplecity.amp_library.ui.views.multisheet5
+H
+Ccom.simplecity.amp_library.ui.views.multisheet.CustomMultiSheetView7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+CustomMultiSheetView12
+,
+&Recovered#typeBindingLMultiSheetView;014
+
+unknown15
+
+extends16
+
+
+uses17
+M
+Gcom.simplecity.amp_library.ui.views.multisheet.CustomMultiSheetView.TAG19
+
+field20
+
+private21
+	
+TAG22
+^
+Xcom.simplecity.amp_library.ui.views.multisheet.CustomMultiSheetView.multiSheetEventRelay24
+
+	protected25
+
+multiSheetEventRelay26
+I
+Ccom.simplecity.amp_library.ui.views.multisheet.MultiSheetEventRelay28
+
+is type29
+
+Inject31
+
+annotated by32
+$
+Recovered#typeBindingLInject;034
+c
+]com.simplecity.amp_library.ui.views.multisheet.CustomMultiSheetView.multiSheetSlideEventRelay36
+
+multiSheetSlideEventRelay37
+
+MultiSheetSlideEventRelay39
+U
+Ocom.simplecity.amp_library.ui.views.multisheet.CustomMultiSheetView.disposables41
+
+disposables42
+
+CompositeDisposable44
+T
+Ncom.simplecity.amp_library.ui.views.multisheet.CustomMultiSheetView.sheet1Lock46
+
+
+sheet1Lock47
+"
+DrawerLockManager.DrawerLock49
+/
+)Recovered#typeBindingLDrawerLockManager;051
+T
+Ncom.simplecity.amp_library.ui.views.multisheet.CustomMultiSheetView.sheet2Lock53
+
+
+sheet2Lock54
+j
+dcom.simplecity.amp_library.ui.views.multisheet.CustomMultiSheetView#<init>(LContext;LAttributeSet;)V56
+
+method57
+%
+Recovered#typeBindingLContext;059
+
+	has param60
+*
+$Recovered#typeBindingLAttributeSet;062
+
+calls63
+
+NonNull65
+%
+Recovered#typeBindingLNonNull;067
+
+Nullable69
+&
+ Recovered#typeBindingLNullable;071
+
+
+references72
+K
+Ecom.simplecity.amp_library.ui.views.multisheet.CustomMultiSheetView$174
+d
+^com.simplecity.amp_library.ui.views.multisheet.CustomMultiSheetView$1#onSheetStateChanged(II)V76
+
+onSheetStateChanged77
+X
+Rcom.simplecity.amp_library.ui.views.multisheet.CustomMultiSheetView$1#onSlide(IF)V79
+
+onSlide80
+7
+1Recovered#typeBindingLMultiSheetSlideEventRelay;082
+_
+Ycom.simplecity.amp_library.ui.views.multisheet.CustomMultiSheetView#onAttachedToWindow()V84
+
+onAttachedToWindow85
+
+MultiSheetView87
+
+
+Observable89
+
+returns90
+a
+[com.simplecity.amp_library.ui.views.multisheet.MultiSheetEventRelay#getEvents()LObservable;92
+a
+[com.simplecity.amp_library.ui.views.multisheet.CustomMultiSheetView#onDetachedFromWindow()V94
+
+onDetachedFromWindow95J
+
+1
+12Z
+
+3	
+354j±	
+
+48
+484915
+
+58
+585915
+@
+35:
+353620 *
+1 (26:3B
+	
+9
+25
+
+
+11
+37
+@
+52:
+525320 *
+1 (26:3B
+	
+9
+21
+
+
+11
+54
+@
+45:
+454620 *
+1 (26:3B
+	
+9
+21
+
+
+11
+47
+@
+18:
+181920 *
+1 (26:3B
+	
+9
+21
+
+
+11
+22
+A
+75;
+757657 *
+1& &(273:3B
+	
+9
+10
+
+
+11
+77
+
+50
+505115
+
+27
+272815
+@
+23:
+232420 *
+1 (26:3B
+	
+9
+25
+
+
+11
+26
+@
+55:
+555657 *
+1   (26:3B
+	
+9
+10
+
+
+11
+12
+
+70
+707115
+
+64
+646515
+
+81
+818215
+
+30
+303115
+
+86
+868715
+@
+93:
+939457 *
+1Y Y(26:3B
+	
+9
+10
+
+
+11
+95
+
+33
+333415
+9
+64
+678 *
+1 (":3B
+	
+9
+10
+
+
+11
+12
+
+38
+383915
+4
+73.
+73748 *
+1%D %(E255:3B
+	
+9
+25
+
+88
+888915
+A
+78;
+787957 *
+1= =(273:3B
+	
+9
+10
+
+
+11
+80
+
+91
+919215
+
+13
+131415
+@
+40:
+404120 *
+1 (26:3B
+	
+9
+21
+
+
+11
+42
+@
+83:
+838457 *
+1D D(26:3B
+	
+9
+10
+
+
+11
+85
+
+43
+434415
+
+66
+666715
+
+68
+686915
+
+61
+616215r£
+
+61316*
+1+ (9
+
+61317*
+1+ (9
+
+232729*
+1 (!
+
+233032*
+1 (
+
+233317*
+1 (
+
+232717*
+1 (!
+
+232717*
+1" (6
+
+353829*
+1 (&
+
+353032*
+1 (
+
+353317*
+1 (
+
+353817*
+1 (&
+
+353817*
+1' (@
+
+404329*
+1 ( 
+
+404317*
+1 ( 
+
+404317*
+1! (,
+
+454829*
+1 (
+
+455017*
+1 (
+
+454817*
+1 ()
+
+454817*
+1* (4
+
+524829*
+1 (
+
+525017*
+1 (
+
+524817*
+1 ()
+
+524817*
+1* (4
+
+555860*
+1 *  (1
+
+556160*
+1 E  (Q
+
+55663*
+1   ( 
+
+555829*
+1 2  (9
+
+556432*
+1 !  ("
+
+556617*
+1 "  ()
+
+555817*
+1 *  (1
+
+556129*
+1 R  (W
+
+556832*
+1 ;  (<
+
+557017*
+1 <  (D
+
+556117*
+1 E  (Q
+
+554317*
+1#	 #(
+
+554072*
+1#	 #(
+
+754817*
+1+N +(X
+
+754572*
+1+N +(X
+
+754817*
+1.N .(X
+
+755272*
+1.N .(X
+
+754817*
+14K 4(U
+
+754572*
+14K 4(U
+
+754817*
+17K 7(U
+
+755272*
+17K 7(U
+
+783572*
+1? ?(*
+
+783817*
+1? ?(*
+
+783572*
+1? ?(*
+
+788117*
+1?9 ?(R
+
+83672*
+1F	 F(
+
+838617*
+1F	 F(
+
+83672*
+1F	 F(
+
+83617*
+1HC H(G
+
+83672*
+1HC H(G
+
+834072*
+1J	 J(
+
+834317*
+1J	 J(
+
+834072*
+1J	 J(
+
+838890*
+1J J(-
+
+832772*
+1J J(-
+
+839163*
+1J. J(7
+
+832372*
+1J J(-
+
+832717*
+1J J(-
+
+832372*
+1J J(-
+
+93672*
+1[	 [(
+
+938617*
+1[	 [(
+
+93672*
+1[	 [(
+
+934072*
+1]	 ](
+
+934317*
+1]	 ](
+
+934072*
+1]	 ](

@@ -1,0 +1,16 @@
+
+0.001ffloatvalue
+Å# Å(."float"targetValue
+Å0 Å(A"float"∑0
+.
+
+Ç Ç(+"#dependent-value#:Bfloat=
+;
+
+Ç Ç(,"
+java.lang.Mathabs(F)F*2abs:Bfloat2
+0
+
+Ç Ç(5"#dependent-value#:Bboolean
+
+Ç Ç(6*lC:/Users/enzo.perbet/Shuttle/app/src/main/java/android/support/design/widget/CustomCollapsingTextHelper.java

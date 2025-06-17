@@ -1,0 +1,46 @@
+=thisa a(")com.simplecity.amp_library.model.Playlist-)com.simplecity.amp_library.model.Playlist"<*
+(
+b b("#get-field# type:Bint
+b l(	"áU
+S
+c c("#get-field# Type:B.com.simplecity.amp_library.model.Playlist$Type/
+-
+c c(("#get-field# FAVORITES:Bint-
++
+c c()"
+#binop ==#2==:Bboolean&"$
+c c() *c c(2f f("ãU
+S
+f f("#get-field# Type:B.com.simplecity.amp_library.model.Playlist$Type1
+/
+f f(*"#get-field# MOST_PLAYED:Bint-
++
+f f(+	"
+#binop ==#2==:Bboolean&"$
+f f(+	 *f f(2i i("ÚU
+S
+i i(
+"#get-field# Type:B.com.simplecity.amp_library.model.Playlist$Type2
+0
+i i(+"#get-field# USER_CREATED:
+Bint-
++
+i i(,"
+#binop ==#2==:Bboolean"
+i i(, *i i("}i
+g
+d d(."C
+.com.simplecity.amp_library.utils.PlaylistUtilsclearFavorites()V2clearFavoritesBvoid
+e e("k
+i
+g g(/"D
+.com.simplecity.amp_library.utils.PlaylistUtilsclearMostPlayed()V2clearMostPlayedBvoid
+h h("ª)
+'
+j, j(."#get-field# id:Blongk
+i
+j j(/"C
+.com.simplecity.amp_library.utils.PlaylistUtilsclearPlaylist(J)V2clearPlaylist:Bvoid
+k k("
+
+m m(*]C:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Playlist.java

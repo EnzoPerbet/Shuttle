@@ -1,0 +1,54 @@
+
+7com.simplecity.amp_library.model.Song#getElapsedTime()Je
+YC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Song.javaÙ Ù("1"2*%
+2
+Û Û("
+
+Û Û(
+""*ú
+1
+Ý Ý(s
+q
+
+Ý! Ý(;
+
+%0long"%java.lang.System#currentTimeMillis()J*0
+
+__unknown_file ("
+java.lang.Systemn
+l
+
+Ý Ý(;
+
+%1long"__calculate*
+
+Ý Ý( 
++*
+
+Ý Ý(
+""*
+
+Ý! Ý(;
+
+
+%0longn
+l
+
+Ý Ý(G
+
+%2long"__calculate*
+
+Ý< Ý(=
+-*
+
+Ý Ý(;
+
+
+%1long*
+
+Ý> Ý(G
+"""
+
+Ý Ý(H
+""B)'
+%com.simplecity.amp_library.model.SongX

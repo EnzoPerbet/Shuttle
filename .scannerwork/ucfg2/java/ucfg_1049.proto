@@ -1,0 +1,26 @@
+
+qcom.google.android.libraries.cast.companionlibrary.utils.LogUtils#makeLogTag(Ljava/lang/Class;)Ljava/lang/String;
+uC:/Users/enzo.perbet/Shuttle/libraries/ccl/src/com/google/android/libraries/cast/companionlibrary/utils/LogUtils.java1 1(#"1*Š
+12 2(Ÿœ
+2 2(-
+%0java.lang.String"1java.lang.Class#getSimpleName()Ljava/lang/String;*4
+
+__unknown_file (
+
+clsjava.lang.Class2getSimpleName()²
+¯
+2 2(.
+%1java.lang.String"rcom.google.android.libraries.cast.companionlibrary.utils.LogUtils#makeLogTag(Ljava/lang/String;)Ljava/lang/String;*a
+
+__unknown_file (E"C
+Acom.google.android.libraries.cast.companionlibrary.utils.LogUtils*4
+
+__unknown_file (
+
+%0java.lang.String"$
+2 2(/
+
+%1java.lang.String:"
+1$ 1(0
+clsjava.lang.ClassBE"C
+Acom.google.android.libraries.cast.companionlibrary.utils.LogUtilsH

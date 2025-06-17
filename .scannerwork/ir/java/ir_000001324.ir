@@ -1,0 +1,10 @@
+
+"):"java.lang.String
+*"PurchaseInfo(type:"java.lang.String>this> >("*com.android.vending.billing.utils.Purchase"È<
+:
+>= >(F"#get-field# mItemType:Bjava.lang.String@
+>
+>P >(]"#get-field# mOriginalJson:Bjava.lang.String6
+4
+>& >(]"	#binop +#2+:Bjava.lang.String
+> >(^*^C:/Users/enzo.perbet/Shuttle/app/src/main/java/com/android/vending/billing/utils/Purchase.java

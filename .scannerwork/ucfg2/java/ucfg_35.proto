@@ -1,0 +1,44 @@
+
+>com.android.vending.billing.utils.Inventory#%field_initializer
+__unknown_file ("1*„	
+1 (‡„
+i
+_C:/Users/enzo.perbet/Shuttle/app/src/main/java/com/android/vending/billing/utils/Inventory.java) (C
+%0"java.util.HashMap¥
+¢
+i
+_C:/Users/enzo.perbet/Shuttle/app/src/main/java/com/android/vending/billing/utils/Inventory.java% (E
+%1"java.util.HashMap#<init>()V*
+ (
+
+%0Ä
+Á
+i
+_C:/Users/enzo.perbet/Shuttle/app/src/main/java/com/android/vending/billing/utils/Inventory.java (F:-
++com.android.vending.billing.utils.Inventory"	
+mSkuMap"__id*
+ (
+
+%0‡„
+i
+_C:/Users/enzo.perbet/Shuttle/app/src/main/java/com/android/vending/billing/utils/Inventory.java, (D
+%2"java.util.HashMap¥
+¢
+i
+_C:/Users/enzo.perbet/Shuttle/app/src/main/java/com/android/vending/billing/utils/Inventory.java( (F
+%3"java.util.HashMap#<init>()V*
+ (
+
+%2É
+Æ
+i
+_C:/Users/enzo.perbet/Shuttle/app/src/main/java/com/android/vending/billing/utils/Inventory.java (G?-
++com.android.vending.billing.utils.Inventory"
+mPurchaseMap"__id*
+ (
+
+%2"~
+g
+_C:/Users/enzo.perbet/Shuttle/app/src/main/java/com/android/vending/billing/utils/Inventory.java [(
+implicit returnB/-
++com.android.vending.billing.utils.Inventory

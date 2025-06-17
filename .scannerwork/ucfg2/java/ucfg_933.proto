@@ -1,0 +1,73 @@
+
+scom.simplecity.amp_library.tagger.CheckDocumentPermissionsTask#doInBackground([Ljava/lang/Void;)Ljava/lang/Boolean;|
+rC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/tagger/CheckDocumentPermissionsTask.java ($"startingBlock*Ò
+2 (”
+‘
+E (J
+%2java.util.List"__id*i
+
+__unknown_file (M*K@
+>com.simplecity.amp_library.tagger.CheckDocumentPermissionsTask"
+paths¦
+£
+ (K
+%3"jcom.simplecity.amp_library.tagger.TaggerUtils#hasDocumentTreePermission(Ljava/util/List;Ljava/util/List;)Z*M
+
+__unknown_file (1"/
+-com.simplecity.amp_library.tagger.TaggerUtils*"
+
+__unknown_file (
+""*2
+
+__unknown_file (
+
+%2java.util.List*
+1*”
+startingBlock$ (4
+Œ
+ (
+%4"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*:
+
+__unknown_file (
+
+paramsjava.lang.Void[]\
+Z
+- (3
+paramsjava.lang.Void[]"__annotation*"
+
+__unknown_file (
+
+%4*	
+2
+4
+1*£
+4 (”
+‘
+0 (5
+%0java.util.List"__id*i
+
+__unknown_file (M*K@
+>com.simplecity.amp_library.tagger.CheckDocumentPermissionsTask"
+pathsô
+ñ
+ (6
+%1boolean"Scom.simplecity.amp_library.tagger.TaggerUtils#requiresPermission(Ljava/util/List;)Z*M
+
+__unknown_file (1"/
+-com.simplecity.amp_library.tagger.TaggerUtils*2
+
+__unknown_file (
+
+%0java.util.List*
+2
+1*!
+1 (L"
+ (L
+"":(
+% (3
+paramsjava.lang.Void[]BB@
+>com.simplecity.amp_library.tagger.CheckDocumentPermissionsTask

@@ -1,0 +1,38 @@
+
+Ncom.simplecity.amp_library.utils.SettingsManager#getBool(Ljava/lang/String;Z)Zn
+dC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.java\ \("startingBlock*÷
+startingBlock\ \(F~
+|
+\ \($
+%1"
+__annotate*'
+
+__unknown_file (	
+NonNull*5
+
+__unknown_file (
+
+keyjava.lang.StringW
+U
+\, \(/
+keyjava.lang.String"__annotation*"
+
+__unknown_file (
+
+%1*
+1*å
+1] ](#Á
+¾
+] ](%
+%0"Zcom.simplecity.amp_library.utils.SettingsManager#getSharedPreferences()LSharedPreferences;*P
+
+__unknown_file (42
+0com.simplecity.amp_library.utils.SettingsManager"
+] ](D
+"":#
+\ \(0
+keyjava.lang.String: 
+
+__unknown_file (
+""B42
+0com.simplecity.amp_library.utils.SettingsManagerX

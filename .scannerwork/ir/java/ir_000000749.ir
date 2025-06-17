@@ -1,0 +1,43 @@
+@this> >(",com.simplecity.amp_library.tagger.TaggerTask 	showAlbum> >('"boolean 	showTrack>) >(:"boolean#paths>< >(N"java.util.List+documentFiles? ?(6"java.util.List)	titleText?8 ?(H"java.lang.String)	albumText?J ?(Z"java.lang.String*
+artistText@ @('"java.lang.String/	albumArtistText@) @(?"java.lang.String(
+yearText@A @(P"java.lang.String)	trackText@R @(b"java.lang.String.trackTotalTextA A(+"java.lang.String(discTextA- A(<"java.lang.String-discTotalTextA> A(R"java.lang.String*
+lyricsTextAT A(e"java.lang.String+commentTextB B(("java.lang.String)	genreTextB* B(:"java.lang.StringZlistenerC C(4"Bcom.simplecity.amp_library.tagger.TaggerTask$TagCompletionListener"Ë+
+)
+E E(""#set-field# showAlbum:+
+)
+F F(""#set-field# showTrack:'
+%
+G G("#set-field# paths:!
+
+H H(*"#unknown-value#/
+-
+H H(*"#set-field# documentFiles:+
+)
+I I(""#set-field# titleText:+
+)
+J J(""#set-field# albumText:,
+*
+K K($"#set-field# artistText:1
+/
+L L(."#set-field# albumArtistText:	*
+(
+M M( "#set-field# yearText:
++
+)
+N N(""#set-field# trackText:0
+.
+O O(,"#set-field# trackTotalText:*
+(
+P P( "#set-field# discText:/
+-
+Q Q(* "#set-field# discTotalText:,
+*
+R R($!"#set-field# lyricsText:-
++
+S S(&""#set-field# commentText:+
+)
+T T("#"#set-field# genreText:7
+5
+U U(-$"#!#set-field# tagCompletionListener:
+
+V V(*`C:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/tagger/TaggerTask.java

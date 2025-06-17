@@ -1,0 +1,106 @@
+
+Jcom.simplecity.amp_library.model.Song#getFileSizeLabel()Ljava/lang/String;e
+YC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Song.javaö ö(""4*µ
+2
+ù% ù()}
+{
+
+ù% ù()
+%3java.lang.String"__id*O
+
+__unknown_file (3*1'
+%com.simplecity.amp_library.model.Song"
+path0.
+
+ù  ù($
+%4java.io.File"java.io.Fileß
+§
+
+ù ù(*
+%5"(java.io.File#<init>(Ljava/lang/String;)V*0
+
+__unknown_file (
+
+%4java.io.File*4
+
+__unknown_file (
+
+%3java.lang.String\
+Z
+
+ù ù(+
+filejava.io.File"__id*0
+
+__unknown_file (
+
+%4java.io.Filepn
+
+û@ û(M
+
+%6long"java.io.File#length()J*2
+
+__unknown_file (
+
+filejava.io.File2length()t
+r
+
+û û(N:'
+%com.simplecity.amp_library.model.Song"
+fileSizeLabel"__id*"
+
+__unknown_file (
+""*
+1*ñ
+3
+ú ú(}
+{
+
+ú# ú('
+%2java.lang.String"__id*O
+
+__unknown_file (3*1'
+%com.simplecity.amp_library.model.Song"
+path*
+2
+1*ü
+4
+õ õ(á
+Ñ
+
+õ õ(
+%0java.lang.String"__id*X
+
+__unknown_file (<*:'
+%com.simplecity.amp_library.model.Song"
+fileSizeLabel|
+z
+
+õ õ(!
+%1boolean"	__compare*
+
+õ õ(
+==*&
+
+õ õ(
+
+%0java.lang.String*
+
+õ õ(!
+""*
+3
+1*¡
+1
+° °(á
+Ñ
+
+° °(
+%7java.lang.String"__id*X
+
+__unknown_file (<*:'
+%com.simplecity.amp_library.model.Song"
+fileSizeLabel"&
+
+° °(
+
+%7java.lang.StringB)'
+%com.simplecity.amp_library.model.SongH

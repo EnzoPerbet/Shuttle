@@ -1,0 +1,59 @@
+
+?com.simplecity.amp_library.ui.modelviews.FolderView#hashCode()Is
+gC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/FolderView.java¾ ¾("1*Ï
+1
+¿ ¿([
+Y
+
+¿ ¿(%	
+%0int"java.lang.Object#hashCode()I*"
+
+__unknown_file (
+""e
+c
+
+À À(	
+%1int"__calculate*
+
+À À(
+**
+
+À À(2*
+
+À À(
+""µ
+²
+
+À À(-5
+%2/com.simplecity.amp_library.model.BaseFileObject"__id*g
+
+__unknown_file (K*I5
+3com.simplecity.amp_library.ui.modelviews.FolderView"
+baseFileObject¸µ
+
+À À(8	
+%3int";com.simplecity.amp_library.model.BaseFileObject#hashCode()I*S
+
+__unknown_file (7
+5
+%2/com.simplecity.amp_library.model.BaseFileObject2
+hashCode()q
+o
+
+À À(8	
+%4int"__calculate*
+
+À À(
++*
+
+À À(
+	
+%1int*
+
+À À(8
+	
+%3int"
+
+Á Á(
+""B75
+3com.simplecity.amp_library.ui.modelviews.FolderViewHX

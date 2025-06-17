@@ -1,0 +1,33 @@
+
+Qcom.simplecity.amp_library.tagger.TaggerUtils#getDocumentTree()Ljava/lang/String;k
+aC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/tagger/TaggerUtils.java$ $(%"7*8
+3(T (([")
+(M ((\
+
+treeUrijava.lang.String*õ
+7% %("‰
+†
+% %(06
+%00com.simplecity.amp_library.utils.SettingsManager"pcom.simplecity.amp_library.utils.SettingsManager#getInstance()Lcom/simplecity/amp_library/utils/SettingsManager;*P
+
+__unknown_file (4"2
+0com.simplecity.amp_library.utils.SettingsManagerêç
+% %(E
+%1java.lang.String"Wcom.simplecity.amp_library.utils.SettingsManager#getDocumentTreeUri()Ljava/lang/String;*T
+
+__unknown_file (8
+6
+%00com.simplecity.amp_library.utils.SettingsManager2getDocumentTreeUri()e
+c
+% %(F
+treeUrijava.lang.String"__id*4
+
+__unknown_file (
+
+%1java.lang.String*
+3
+1*!
+1*	 *("
+* *(
+""B1"/
+-com.simplecity.amp_library.tagger.TaggerUtilsH

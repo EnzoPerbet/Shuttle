@@ -1,0 +1,547 @@
+
+1.0testepsi2_analyseepsiJavaFrontend"1750157070938*java2.Bà
+P
+Kapp/src/main/java/com/simplecity/amp_library/ui/modelviews/ShuffleView.java2
+
+package4
+-
+(com.simplecity.amp_library.ui.modelviews5
+9
+4com.simplecity.amp_library.ui.modelviews.ShuffleView7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+ShuffleView12
++
+%Recovered#typeBindingLBaseViewModel;014
+
+unknown15
+
+extends16
+
+
+uses17
+E
+?com.simplecity.amp_library.ui.modelviews.ShuffleView$ViewHolder19
+
+
+references20
+O
+Icom.simplecity.amp_library.ui.modelviews.ShuffleView$ShuffleClickListener22
+
+	interface23
+
+ShuffleClickListener24
+e
+_com.simplecity.amp_library.ui.modelviews.ShuffleView$ShuffleClickListener#onShuffleItemClick()V26
+
+method27
+
+onShuffleItemClick28
+E
+?com.simplecity.amp_library.ui.modelviews.ShuffleView.titleResId30
+
+field31
+
+private32
+
+
+titleResId33
+
+	StringRes35
+
+annotated by36
+'
+!Recovered#typeBindingLStringRes;038
+L
+Fcom.simplecity.amp_library.ui.modelviews.ShuffleView#setTitleResId(I)V40
+
+setTitleResId41
+C
+=com.simplecity.amp_library.ui.modelviews.ShuffleView.listener43
+
+listener44
+
+is type45
+
+Nullable47
+&
+ Recovered#typeBindingLNullable;049
+ö
+ìcom.simplecity.amp_library.ui.modelviews.ShuffleView#setClickListener(Lcom/simplecity/amp_library/ui/modelviews/ShuffleView$ShuffleClickListener;)V51
+
+setClickListener52
+
+	has param53
+I
+Ccom.simplecity.amp_library.ui.modelviews.ShuffleView#getViewType()I55
+
+getViewType56
+L
+Fcom.simplecity.amp_library.ui.modelviews.ShuffleView#getLayoutResId()I58
+
+getLayoutResId59
+ö
+ìcom.simplecity.amp_library.ui.modelviews.ShuffleView#createViewHolder(LViewGroup;)Lcom/simplecity/amp_library/ui/modelviews/ShuffleView$ViewHolder;61
+
+createViewHolder62
+
+returns63
+'
+!Recovered#typeBindingLViewGroup;065
+
+calls66
+à
+Åcom.simplecity.amp_library.ui.modelviews.ShuffleView#bindView(Lcom/simplecity/amp_library/ui/modelviews/ShuffleView$ViewHolder;)V68
+
+bindView69
+
+BaseViewModel71
+
+TextView73
+K
+Ecom.simplecity.amp_library.ui.modelviews.ShuffleView$ViewHolder.title75
+I
+Ccom.simplecity.amp_library.ui.modelviews.ShuffleView#onItemClick()V77
+
+onItemClick78
+
+
+ViewHolder79
+,
+&Recovered#typeBindingLBaseViewHolder;081
+
+	protected82
+
+title83
+
+BindView85
+&
+ Recovered#typeBindingLBindView;087
+U
+Ocom.simplecity.amp_library.ui.modelviews.ShuffleView$ViewHolder#<init>(LView;)V89
+"
+Recovered#typeBindingLView;091
+b
+\com.simplecity.amp_library.ui.modelviews.ShuffleView$ViewHolder#toString()Ljava/lang/String;93
+
+toString94J
+
+1
+12Z
+
+3	
+354jå
+
+@
+39:
+394027 *
+1 (26:3B
+	
+9
+10
+
+
+11
+41
+@
+67:
+676827 *
+14 4(26:3B
+	
+9
+10
+
+
+11
+69
+@
+76:
+767727 *
+1; ;(26:3B
+	
+9
+32
+
+
+11
+78
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+A
+25;
+252627 *
+1	 (221:3B
+	
+9
+10
+
+
+11
+28
+
+34
+343515
+@
+57:
+575827 *
+1* *(26:3B
+	
+9
+10
+
+
+11
+59
+@
+54:
+545527 *
+1% %(26:3B
+	
+9
+10
+
+
+11
+56
+?
+189
+18198 *
+1A A(#26:3B
+	
+9
+10
+
+
+11
+79
+@
+60:
+606127 *
+1/ /(26:3B
+	
+9
+10
+
+
+11
+62
+
+64
+646515
+
+37
+373815
+
+48
+484915
+
+90
+909115
+A
+74;
+747531 *
+1C	 C(
+218:3B
+	
+9
+82
+
+
+11
+83
+
+72
+727315
+A
+92;
+929327 *
+1N	 N(
+218:3B
+	
+9
+10
+
+
+11
+94
+@
+42:
+424331 *
+1 (26:3B
+	
+9
+32
+
+
+11
+44
+
+80
+808115
+@
+50:
+505127 *
+1! !(26:3B
+	
+9
+10
+
+
+11
+52
+@
+21:
+212223 *
+1 (*26:3B
+	
+9
+10
+
+
+11
+24
+
+70
+707115
+A
+88;
+888927 *
+1F	 F(218:3B
+	
+9
+10
+
+
+11
+79
+
+84
+848515
+@
+29:
+293031 *
+1 (26:3B
+	
+9
+32
+
+
+11
+33
+
+13
+131415
+
+46
+464715
+
+86
+868715rö
+
+61316*
+1" (/
+
+61317*
+1" (/
+
+61817*
+1< (F
+
+61820*
+1< (F
+
+293436*
+1 (
+
+293717*
+1 (
+
+39617*
+1	 (
+
+39620*
+1	 (
+
+392920*
+1 (
+
+422145*
+1 (!
+
+424636*
+1 (
+
+424817*
+1 (
+
+422117*
+1 (!
+
+422120*
+1 (!
+
+422117*
+1" (*
+
+502153*
+1!, !(@
+
+502145*
+1!A !(I
+
+504636*
+1!" !(#
+
+504817*
+1!# !(+
+
+502117*
+1!, !(@
+
+502120*
+1!, !(@
+
+50617*
+1"	 "(
+
+50620*
+1"	 "(
+
+502117*
+1" "(
+
+504220*
+1" "(
+
+601863*
+10 0(
+
+606453*
+10( 0(1
+
+601817*
+10 0(
+
+601820*
+10 0(
+
+606445*
+102 0(8
+
+606417*
+10( 0(1
+
+601866*
+11 1(
+
+671853*
+15 5($
+
+671845*
+15% 5(+
+
+671817*
+15 5($
+
+671820*
+15 5($
+
+67620*
+16	 6(
+
+677017*
+16	 6(
+
+67620*
+16	 6(
+
+677217*
+18 8(
+
+677420*
+18 8(
+
+672920*
+18 8((
+
+762117*
+1< <(
+
+764220*
+1< <(
+
+762120*
+1= =(
+
+762566*
+1= =((
+
+764220*
+1= =(
+
+762117*
+1= =(
+
+764220*
+1= =(
+
+188016*
+1A, A(:
+
+188017*
+1A, A(:
+
+18617*
+1A; A(F
+
+747245*
+1D	 D(
+
+748436*
+1C	 C(
+
+
+748617*
+1C
+ C(
+
+747217*
+1D	 D(
+
+747217*
+1D D(
+
+889053*
+1F F(
+
+881866*
+1F F(
+
+889045*
+1F  F((
+
+889017*
+1F F(
+
+881817*
+1I I("
+
+881820*
+1I I("

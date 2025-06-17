@@ -1,0 +1,77 @@
+
+Wcom.simplecity.amp_library.ui.modelviews.SongView#areContentsEqual(Ljava/lang/Object;)Zq
+eC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/SongView.javaõ õ(#"startingBlock*%
+2
+ù û(H"
+
+ù û(H
+""*Ã
+3
+û û(Å
+
+
+û% û(+
+%0char[]"__id*]
+
+__unknown_file (A*?3
+1com.simplecity.amp_library.ui.modelviews.SongView"
+prefixg
+e
+
+û- û(F
+%1char[]"__id*C
+
+__unknown_file ('*%
+
+otherjava.lang.Object"
+prefix»
+≈
+
+û û(G
+%2boolean"java.util.Arrays#equals([C[C)Z*0
+
+__unknown_file ("
+java.util.Arrays**
+
+__unknown_file (
+
+%0char[]**
+
+__unknown_file (
+
+%1char[]*
+2*î
+startingBlock
+õ# õ(1é
+ã
+
+ö ö(
+%3"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*7
+
+__unknown_file (
+
+otherjava.lang.Object[
+Y
+
+õ+ õ(0
+otherjava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%3*	
+2
+3
+1*%
+1
+† †("
+
+† †(
+"":'
+
+õ$ õ(0
+otherjava.lang.ObjectB53
+1com.simplecity.amp_library.ui.modelviews.SongViewHX

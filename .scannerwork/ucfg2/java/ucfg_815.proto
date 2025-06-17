@@ -1,0 +1,47 @@
+
+vcom.simplecity.amp_library.ui.appwidget.BaseWidgetConfigure$WidgetPagerAdapter#getPageTitle(I)Ljava/lang/CharSequence;{
+oC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/appwidget/BaseWidgetConfigure.java   (("1*Ç
+1
+¡ ¡(e
+c
+
+¡. ¡(:	
+%0int"__calculate*
+
+¡7 ¡(8
++*
+
+¡. ¡(6
+""*
+
+¡9 ¡(:2±
+®
+
+¡ ¡(;
+%1java.lang.String"-java.lang.String#valueOf(I)Ljava/lang/String;*0
+
+__unknown_file ("
+java.lang.String*'
+
+__unknown_file (
+	
+%0ints
+q
+
+¡ ¡(;
+%2java.lang.String"__concat*
+
+¡ ¡(	
+Layout *&
+
+¡ ¡(;
+
+%1java.lang.String"&
+
+¡ ¡(<
+
+%2java.lang.String: 
+
+__unknown_file (
+""BRP
+Ncom.simplecity.amp_library.ui.appwidget.BaseWidgetConfigure$WidgetPagerAdapterH

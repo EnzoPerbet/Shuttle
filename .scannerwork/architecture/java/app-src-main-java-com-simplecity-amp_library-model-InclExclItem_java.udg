@@ -1,0 +1,426 @@
+
+1.0testepsi2_analyseepsiJavaFrontend"1750157067362*java2.Bê
+I
+Dapp/src/main/java/com/simplecity/amp_library/model/InclExclItem.java2
+
+package4
+%
+ com.simplecity.amp_library.model5
+2
+-com.simplecity.amp_library.model.InclExclItem7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+InclExclItem12
+8
+2com.simplecity.amp_library.model.InclExclItem$Type14
+
+
+annotation15
+
+
+Type16
+@
+:com.simplecity.amp_library.model.InclExclItem$Type.INCLUDE18
+
+field19
+
+INCLUDE20
+@
+:com.simplecity.amp_library.model.InclExclItem$Type.EXCLUDE22
+
+EXCLUDE23
+6
+0com.simplecity.amp_library.model.InclExclItem.id25
+
+id26
+8
+2com.simplecity.amp_library.model.InclExclItem.path28
+
+
+path29
+
+NonNull31
+
+unknown32
+
+annotated by33
+%
+Recovered#typeBindingLNonNull;035
+
+
+uses36
+8
+2com.simplecity.amp_library.model.InclExclItem.type38
+
+
+type39
+
+
+references40
+E
+?com.simplecity.amp_library.model.InclExclItem#<init>(LCursor;)V42
+
+method43
+$
+Recovered#typeBindingLCursor;045
+
+	has param46
+
+calls47
+
+is type48
+C
+=com.simplecity.amp_library.sql.databases.InclExclDbOpenHelper50
+M
+Gcom.simplecity.amp_library.sql.databases.InclExclDbOpenHelper.COLUMN_ID52
+O
+Icom.simplecity.amp_library.sql.databases.InclExclDbOpenHelper.COLUMN_PATH54
+O
+Icom.simplecity.amp_library.sql.databases.InclExclDbOpenHelper.COLUMN_TYPE56
+P
+Jcom.simplecity.amp_library.model.InclExclItem#<init>(Ljava/lang/String;I)V58
+P
+Jcom.simplecity.amp_library.model.InclExclItem#toString()Ljava/lang/String;60
+
+toString61
+O
+Icom.simplecity.amp_library.model.InclExclItem#equals(Ljava/lang/Object;)Z63
+
+equals64
+?
+9com.simplecity.amp_library.model.InclExclItem#hashCode()I66
+
+hashCode67J
+
+1
+12Z
+
+3	
+354jü
+
+55
+555632
+@
+27:
+272819 *
+1 (26:3B
+	
+9
+10
+
+
+11
+29
+@
+41:
+414243 *
+1 (26:3B
+	
+9
+10
+
+
+11
+12
+
+49
+495032
+@
+62:
+626343 *
+1) )(26:3B
+	
+9
+10
+
+
+11
+64
+@
+37:
+373819 *
+1 (26:3B
+	
+9
+10
+
+
+11
+39
+@
+24:
+242519 *
+1 (26:3B
+	
+9
+10
+
+
+11
+26
+@
+65:
+656643 *
+15 5(26:3B
+	
+9
+10
+
+
+11
+67
+@
+13:
+131415 *
+1 (26:3B
+	
+9
+10
+
+
+11
+16
+@
+57:
+575843 *
+1 (26:3B
+	
+9
+10
+
+
+11
+12
+A
+17;
+171819 *
+1	 (213:3B
+	
+9
+10
+
+
+11
+20
+
+51
+515232
+@
+59:
+596043 *
+1   (26:3B
+	
+9
+10
+
+
+11
+61
+A
+21;
+212219 *
+1	 (213:3B
+	
+9
+10
+
+
+11
+23
+
+30
+303132
+
+44
+444532
+9
+64
+678 *
+1
+ 
+(:3B
+	
+9
+10
+
+
+11
+12
+
+34
+343532
+
+53
+535432r°
+
+273033*
+1 (
+
+273436*
+1 (
+
+371333*
+1 (
+
+371336*
+1 (
+
+
+371340*
+1 (
+
+
+414446*
+1 (
+
+41647*
+1 (
+
+414448*
+1  (&
+
+414436*
+1 (
+
+41636*
+1	 (
+
+41640*
+1	 (
+
+412440*
+1 (
+
+414936*
+18 (L
+
+415140*
+1M (V
+
+41636*
+1	 (
+
+41640*
+1	 (
+
+412740*
+1 (
+
+414936*
+1< (P
+
+415340*
+1Q (\
+
+41636*
+1	 (
+
+41640*
+1	 (
+
+413740*
+1 (
+
+414936*
+19 (M
+
+415540*
+1N (Y
+
+57647*
+1 (
+
+571333*
+1& ('
+
+571336*
+1' (+
+
+571340*
+1' (+
+
+57636*
+1	 (
+
+57640*
+1	 (
+
+572740*
+1 (
+
+57636*
+1	 (
+
+57640*
+1	 (
+
+573740*
+1 (
+
+592440*
+1# #(
+
+592740*
+1$ $("
+
+593740*
+1% %(!
+
+62636*
+1+ +(
+
+62640*
+1+ +(
+
+62648*
+1. .(
+
+62636*
+1.	 .(
+
+62636*
+1. .(*
+
+622440*
+10 0(
+
+622440*
+10 0(
+
+623740*
+11 1(
+
+623740*
+11 1(
+
+622740*
+12 2(
+
+622740*
+12 2(
+
+622740*
+12! 2(%
+
+652440*
+17 7(
+
+652440*
+17# 7(%
+
+652740*
+18  8($
+
+652740*
+18  8($
+
+653740*
+19  9($

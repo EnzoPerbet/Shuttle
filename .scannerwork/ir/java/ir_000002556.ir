@@ -1,0 +1,165 @@
+
+
+88int
+
+2int
+$Q"album_artist"java.lang.String
+D10int
+
+>9int
+
+3int
+J11int
+
+ 4int
+P12int
+S13int
+
+&5int
+
+,6int
+
+0int
+
+27int
+
+1int
+14int"ˆB
+@
+R a(	"#new-object#2Constructor:Bjava.lang.String[]!
+
+S S("#unknown-value#1
+/
+S S( "#get-field# Audio:B	!Unknown!1
+/
+S S(&"#get-field# Media:B	!Unknown!/
+-
+S S(*"#get-field# _ID:B	!Unknown!$
+"
+R a(	"#array-write#:!
+
+T T(	"#unknown-value#1
+/
+T T( 
+"#get-field# Audio:	B	!Unknown!1
+/
+T T(&"#get-field# Media:
+B	!Unknown!0
+.
+T T(+"#get-field# DATA:B	!Unknown!$
+"
+R a(	"#array-write#:!
+
+U U("#unknown-value#1
+/
+U U( "#get-field# Audio:B	!Unknown!1
+/
+U U(&"#get-field# Media:B	!Unknown!1
+/
+U U(,"#get-field# TITLE:B	!Unknown!$
+"
+R a(	"#array-write#:!
+
+V V("#unknown-value#1
+/
+V V( "#get-field# Audio:B	!Unknown!1
+/
+V V(&"#get-field# Media:B	!Unknown!5
+3
+V V(0"#get-field# ARTIST_ID:B	!Unknown!$
+"
+R a(	"#array-write#:!
+
+W W("#unknown-value#1
+/
+W W( "#get-field# Audio:B	!Unknown!1
+/
+W W(&"#get-field# Media:B	!Unknown!2
+0
+W W(-"#get-field# ARTIST:B	!Unknown!$
+"
+R a(	"#array-write#: !
+
+X X(!"#unknown-value#1
+/
+X X( ""#get-field# Audio:!B	!Unknown!1
+/
+X X(&#"#get-field# Media:"B	!Unknown!4
+2
+X X(/$"#get-field# ALBUM_ID:#B	!Unknown!$
+"
+R a(	%"#array-write#:&$!
+
+Y Y('"#unknown-value#1
+/
+Y Y( ("#get-field# Audio:'B	!Unknown!1
+/
+Y Y(&)"#get-field# Media:(B	!Unknown!1
+/
+Y Y(,*"#get-field# ALBUM:)B	!Unknown!$
+"
+R a(	+"#array-write#:,*!
+
+Z Z(-"#unknown-value#1
+/
+Z Z( ."#get-field# Audio:-B	!Unknown!1
+/
+Z Z(&/"#get-field# Media:.B	!Unknown!4
+2
+Z Z(/0"#get-field# DURATION:/B	!Unknown!$
+"
+R a(	1"#array-write#:20!
+
+[ [(3"#unknown-value#1
+/
+[ [( 4"#get-field# Audio:3B	!Unknown!1
+/
+[ [(&5"#get-field# Media:4B	!Unknown!0
+.
+[ [(+6"#get-field# YEAR:5B	!Unknown!$
+"
+R a(	7"#array-write#:86!
+
+\ \(9"#unknown-value#1
+/
+\ \( :"#get-field# Audio:9B	!Unknown!1
+/
+\ \(&;"#get-field# Media::B	!Unknown!1
+/
+\ \(,<"#get-field# TRACK:;B	!Unknown!$
+"
+R a(	="#array-write#:><!
+
+] ](?"#unknown-value#1
+/
+] ]( @"#get-field# Audio:?B	!Unknown!1
+/
+] ](&A"#get-field# Media:@B	!Unknown!6
+4
+] ](1B"#get-field# DATE_ADDED:AB	!Unknown!$
+"
+R a(	C"#array-write#:DB!
+
+^ ^(E"#unknown-value#1
+/
+^ ^( F"#get-field# Audio:EB	!Unknown!1
+/
+^ ^(&G"#get-field# Media:FB	!Unknown!6
+4
+^ ^(1H"#get-field# IS_PODCAST:GB	!Unknown!$
+"
+R a(	I"#array-write#:JH!
+
+_ _(K"#unknown-value#1
+/
+_ _( L"#get-field# Audio:KB	!Unknown!1
+/
+_ _(&M"#get-field# Media:LB	!Unknown!4
+2
+_ _(/N"#get-field# BOOKMARK:MB	!Unknown!$
+"
+R a(	O"#array-write#:PN$
+"
+R a(	R"#array-write#:SQ
+R a(
+*YC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Song.java

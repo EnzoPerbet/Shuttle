@@ -1,0 +1,50 @@
+
+ècom.simplecity.amp_library.ui.fragments.FolderFragment#newInstance(Ljava/lang/String;Z)Lcom/simplecity/amp_library/ui/fragments/FolderFragment;v
+jC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/fragments/FolderFragment.javaã! ã(,"1*î
+1
+å" å(6ÖÇ
+
+å& å(4<
+%06com.simplecity.amp_library.ui.fragments.FolderFragment"6com.simplecity.amp_library.ui.fragments.FolderFragment≥
+∞
+
+å" å(6
+%1"@com.simplecity.amp_library.ui.fragments.FolderFragment#<init>()V*Z
+
+__unknown_file (>
+<
+%06com.simplecity.amp_library.ui.fragments.FolderFragmentµ
+≤
+
+å å(7B
+fragment6com.simplecity.amp_library.ui.fragments.FolderFragment"__id*Z
+
+__unknown_file (>
+<
+%06com.simplecity.amp_library.ui.fragments.FolderFragmentX
+V
+
+é é(%
+%2java.lang.String"__id**
+
+__unknown_file (
+
+page_title_
+]
+
+è è(-
+%3java.lang.String"__id*1
+
+__unknown_file (
+displayed_in_tabs"R
+
+ë ë(D
+B
+fragment6com.simplecity.amp_library.ui.fragments.FolderFragment:+
+
+ã- ã(>
+	pageTitlejava.lang.String: 
+
+__unknown_file (
+""B:"8
+6com.simplecity.amp_library.ui.fragments.FolderFragmentH

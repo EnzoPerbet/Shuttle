@@ -1,0 +1,78 @@
+
+9com.simplecity.amp_library.model.ArtworkModel#hashCode()Ik
+aC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/ArtworkModel.java3 3("4*Z
+25A 5(BF
+D
+5A 5(B	
+%3int"__id*'
+
+__unknown_file (
+	
+%5int*
+1*Ì
+35/ 5(3
+}
+5/ 5(3
+%6java.io.File"__id*W
+
+__unknown_file (;*9/
+-com.simplecity.amp_library.model.ArtworkModel"
+fileom
+5/ 5(>	
+%4int"java.io.File#hashCode()I*0
+
+__unknown_file (
+
+%6java.io.File2
+hashCode()F
+D
+5/ 5(>	
+%3int"__id*'
+
+__unknown_file (
+	
+%4int*
+1*ç
+44 4(]
+[
+5 5(	
+%0int"__calculate*
+5 5(
+**
+5 5(2*
+5 5(
+""
+}
+5  5($
+%1java.io.File"__id*W
+
+__unknown_file (;*9/
+-com.simplecity.amp_library.model.ArtworkModel"
+filep
+n
+5  5(,
+%2boolean"	__compare*
+5% 5('
+!=* 
+5  5($
+
+%1java.io.File*
+5( 5(,
+""*
+2
+3*Œ
+15 5(Ci
+g
+5 5(C	
+%7int"__calculate*
+5 5(
++*
+5 5(
+	
+%0int*
+5 5(C
+	
+%3int"
+6 6(
+""B1/
+-com.simplecity.amp_library.model.ArtworkModelHX

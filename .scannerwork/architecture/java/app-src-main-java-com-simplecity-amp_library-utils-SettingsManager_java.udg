@@ -1,0 +1,3018 @@
+
+1.0testepsi2_analyseepsiJavaFrontend"1750157042600*java2.BíÉ
+L
+Gapp/src/main/java/com/simplecity/amp_library/utils/SettingsManager.java2
+
+package4
+%
+ com.simplecity.amp_library.utils5
+5
+0com.simplecity.amp_library.utils.SettingsManager7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+SettingsManager12
+:
+4com.simplecity.amp_library.utils.SettingsManager.TAG14
+
+field15
+
+private16
+	
+TAG17
+I
+Ccom.simplecity.amp_library.utils.SettingsManager.KEY_PREF_CHANGELOG19
+
+KEY_PREF_CHANGELOG20
+C
+=com.simplecity.amp_library.utils.SettingsManager.KEY_PREF_FAQ22
+
+KEY_PREF_FAQ23
+D
+>com.simplecity.amp_library.utils.SettingsManager.KEY_PREF_HELP25
+
+KEY_PREF_HELP26
+D
+>com.simplecity.amp_library.utils.SettingsManager.KEY_PREF_RATE28
+
+KEY_PREF_RATE29
+Q
+Kcom.simplecity.amp_library.utils.SettingsManager.KEY_PREF_RESTORE_PURCHASES31
+ 
+KEY_PREF_RESTORE_PURCHASES32
+K
+Ecom.simplecity.amp_library.utils.SettingsManager.KEY_PREF_TAB_CHOOSER34
+
+KEY_PREF_TAB_CHOOSER35
+L
+Fcom.simplecity.amp_library.utils.SettingsManager.KEY_PREF_DEFAULT_PAGE37
+
+KEY_PREF_DEFAULT_PAGE38
+Q
+Kcom.simplecity.amp_library.utils.SettingsManager.KEY_DISPLAY_REMAINING_TIME40
+ 
+KEY_DISPLAY_REMAINING_TIME41
+J
+Dcom.simplecity.amp_library.utils.SettingsManager.KEY_PREF_THEME_BASE43
+
+KEY_PREF_THEME_BASE44
+M
+Gcom.simplecity.amp_library.utils.SettingsManager.KEY_PREF_PRIMARY_COLOR46
+
+KEY_PREF_PRIMARY_COLOR47
+L
+Fcom.simplecity.amp_library.utils.SettingsManager.KEY_PREF_ACCENT_COLOR49
+
+KEY_PREF_ACCENT_COLOR50
+G
+Acom.simplecity.amp_library.utils.SettingsManager.KEY_PREF_NAV_BAR52
+
+KEY_PREF_NAV_BAR53
+G
+Acom.simplecity.amp_library.utils.SettingsManager.KEY_PREF_PALETTE55
+
+KEY_PREF_PALETTE56
+X
+Rcom.simplecity.amp_library.utils.SettingsManager.KEY_PREF_PALETTE_NOW_PLAYING_ONLY58
+'
+!KEY_PREF_PALETTE_NOW_PLAYING_ONLY59
+P
+Jcom.simplecity.amp_library.utils.SettingsManager.KEY_PREF_DOWNLOAD_ARTWORK61
+
+KEY_PREF_DOWNLOAD_ARTWORK62
+N
+Hcom.simplecity.amp_library.utils.SettingsManager.KEY_PREF_DELETE_ARTWORK64
+
+KEY_PREF_DELETE_ARTWORK65
+R
+Lcom.simplecity.amp_library.utils.SettingsManager.KEY_PREF_DOWNLOAD_SCROBBLER67
+!
+KEY_PREF_DOWNLOAD_SCROBBLER68
+I
+Ccom.simplecity.amp_library.utils.SettingsManager.KEY_PREF_BLACKLIST70
+
+KEY_PREF_BLACKLIST71
+I
+Ccom.simplecity.amp_library.utils.SettingsManager.KEY_PREF_WHITELIST73
+
+KEY_PREF_WHITELIST74
+P
+Jcom.simplecity.amp_library.utils.SettingsManager.KEY_PREF_REMEMBER_SHUFFLE76
+
+KEY_PREF_REMEMBER_SHUFFLE77
+G
+Acom.simplecity.amp_library.utils.SettingsManager.KEY_PREF_UPGRADE79
+
+KEY_PREF_UPGRADE80
+@
+:com.simplecity.amp_library.utils.SettingsManager.sInstance82
+
+	sInstance83
+
+is type84
+
+
+uses85
+v
+pcom.simplecity.amp_library.utils.SettingsManager#getInstance()Lcom/simplecity/amp_library/utils/SettingsManager;87
+
+method88
+
+getInstance89
+
+returns90
+
+
+references91
+
+calls92
+J
+Dcom.simplecity.amp_library.utils.SettingsManager.hasSeenRateSnackbar94
+
+hasSeenRateSnackbar95
+@
+:com.simplecity.amp_library.utils.SettingsManager#<init>()V97
+`
+Zcom.simplecity.amp_library.utils.SettingsManager#getSharedPreferences()LSharedPreferences;99
+
+getSharedPreferences100
+
+SharedPreferences102
+
+unknown103
+g
+`com.simplecity.amp_library.utils.SettingsManager#getString(Ljava/lang/String;)Ljava/lang/String;105
+
+	getString106
+
+Nullable108
+
+annotated by109
+'
+ Recovered#typeBindingLNullable;0111
+
+NonNull113
+&
+Recovered#typeBindingLNonNull;0115
+y
+rcom.simplecity.amp_library.utils.SettingsManager#getString(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;117
+h
+acom.simplecity.amp_library.utils.SettingsManager#setString(Ljava/lang/String;Ljava/lang/String;)V119
+
+	setString120
+0
+)Recovered#typeBindingLSharedPreferences;0122
+U
+Ncom.simplecity.amp_library.utils.SettingsManager#getBool(Ljava/lang/String;Z)Z124
+
+getBool125
+U
+Ncom.simplecity.amp_library.utils.SettingsManager#setBool(Ljava/lang/String;Z)V127
+
+setBool128
+T
+Mcom.simplecity.amp_library.utils.SettingsManager#getInt(Ljava/lang/String;I)I130
+
+getInt131
+T
+Mcom.simplecity.amp_library.utils.SettingsManager#setInt(Ljava/lang/String;I)V133
+
+setInt134
+S
+Lcom.simplecity.amp_library.utils.SettingsManager.KEY_SHOW_LOCKSCREEN_ARTWORK136
+"
+KEY_SHOW_LOCKSCREEN_ARTWORK137
+P
+Icom.simplecity.amp_library.utils.SettingsManager#showLockscreenArtwork()Z139
+
+showLockscreenArtwork140
+J
+Ccom.simplecity.amp_library.utils.SettingsManager.KEY_KEEP_SCREEN_ON142
+
+KEY_KEEP_SCREEN_ON143
+G
+@com.simplecity.amp_library.utils.SettingsManager#keepScreenOn()Z145
+
+keepScreenOn146
+O
+Hcom.simplecity.amp_library.utils.SettingsManager#displayRemainingTime()Z148
+
+displayRemainingTime149
+N
+Gcom.simplecity.amp_library.utils.SettingsManager.KEY_ALBUM_DISPLAY_TYPE151
+
+KEY_ALBUM_DISPLAY_TYPE152
+O
+Hcom.simplecity.amp_library.utils.SettingsManager#setAlbumDisplayType(I)V154
+
+setAlbumDisplayType155
+N
+Gcom.simplecity.amp_library.utils.SettingsManager#getAlbumDisplayType()I157
+
+getAlbumDisplayType158
+
+ViewType160
+'
+ Recovered#typeBindingLViewType;0162
+O
+Hcom.simplecity.amp_library.utils.SettingsManager.KEY_ARTIST_DISPLAY_TYPE164
+
+KEY_ARTIST_DISPLAY_TYPE165
+P
+Icom.simplecity.amp_library.utils.SettingsManager#setArtistDisplayType(I)V167
+
+setArtistDisplayType168
+O
+Hcom.simplecity.amp_library.utils.SettingsManager#getArtistDisplayType()I170
+
+getArtistDisplayType171
+O
+Hcom.simplecity.amp_library.utils.SettingsManager.KEY_ARTIST_COLUMN_COUNT173
+
+KEY_ARTIST_COLUMN_COUNT174
+T
+Mcom.simplecity.amp_library.utils.SettingsManager.KEY_ARTIST_COLUMN_COUNT_LAND176
+#
+KEY_ARTIST_COLUMN_COUNT_LAND177
+V
+Ocom.simplecity.amp_library.utils.SettingsManager.KEY_ARTIST_COLUMN_COUNT_TABLET179
+%
+KEY_ARTIST_COLUMN_COUNT_TABLET180
+[
+Tcom.simplecity.amp_library.utils.SettingsManager.KEY_ARTIST_COLUMN_COUNT_TABLET_LAND182
+*
+#KEY_ARTIST_COLUMN_COUNT_TABLET_LAND183
+c
+\com.simplecity.amp_library.utils.SettingsManager#getArtistColumnCountKey()Ljava/lang/String;185
+
+getArtistColumnCountKey186
+P
+Icom.simplecity.amp_library.utils.SettingsManager#setArtistColumnCount(I)V188
+
+setArtistColumnCount189
+Z
+Scom.simplecity.amp_library.utils.SettingsManager#getArtistColumnCount(LResources;)I191
+
+getArtistColumnCount192
+(
+!Recovered#typeBindingLResources;0194
+
+	has param195
+N
+Gcom.simplecity.amp_library.utils.SettingsManager.KEY_ALBUM_COLUMN_COUNT197
+
+KEY_ALBUM_COLUMN_COUNT198
+S
+Lcom.simplecity.amp_library.utils.SettingsManager.KEY_ALBUM_COLUMN_COUNT_LAND200
+"
+KEY_ALBUM_COLUMN_COUNT_LAND201
+U
+Ncom.simplecity.amp_library.utils.SettingsManager.KEY_ALBUM_COLUMN_COUNT_TABLET203
+$
+KEY_ALBUM_COLUMN_COUNT_TABLET204
+Z
+Scom.simplecity.amp_library.utils.SettingsManager.KEY_ALBUM_COLUMN_COUNT_TABLET_LAND206
+)
+"KEY_ALBUM_COLUMN_COUNT_TABLET_LAND207
+b
+[com.simplecity.amp_library.utils.SettingsManager#getAlbumColumnCountKey()Ljava/lang/String;209
+
+getAlbumColumnCountKey210
+O
+Hcom.simplecity.amp_library.utils.SettingsManager#setAlbumColumnCount(I)V212
+
+setAlbumColumnCount213
+Y
+Rcom.simplecity.amp_library.utils.SettingsManager#getAlbumColumnCount(LResources;)I215
+
+getAlbumColumnCount216
+N
+Gcom.simplecity.amp_library.utils.SettingsManager#getEqualizerEnabled()Z218
+
+getEqualizerEnabled219
+I
+Bcom.simplecity.amp_library.utils.SettingsManager.DOCUMENT_TREE_URI221
+
+DOCUMENT_TREE_URI222
+_
+Xcom.simplecity.amp_library.utils.SettingsManager#setDocumentTreeUri(Ljava/lang/String;)V224
+
+setDocumentTreeUri225
+^
+Wcom.simplecity.amp_library.utils.SettingsManager#getDocumentTreeUri()Ljava/lang/String;227
+
+getDocumentTreeUri228
+V
+Ocom.simplecity.amp_library.utils.SettingsManager.KEY_FOLDER_BROWSER_INITIAL_DIR230
+%
+KEY_FOLDER_BROWSER_INITIAL_DIR231
+g
+`com.simplecity.amp_library.utils.SettingsManager#setFolderBrowserInitialDir(Ljava/lang/String;)V233
+!
+setFolderBrowserInitialDir234
+f
+_com.simplecity.amp_library.utils.SettingsManager#getFolderBrowserInitialDir()Ljava/lang/String;236
+!
+getFolderBrowserInitialDir237
+[
+Tcom.simplecity.amp_library.utils.SettingsManager.KEY_FOLDER_BROWSER_FILES_SORT_ORDER239
+*
+#KEY_FOLDER_BROWSER_FILES_SORT_ORDER240
+k
+dcom.simplecity.amp_library.utils.SettingsManager#setFolderBrowserFilesSortOrder(Ljava/lang/String;)V242
+%
+setFolderBrowserFilesSortOrder243
+j
+ccom.simplecity.amp_library.utils.SettingsManager#getFolderBrowserFilesSortOrder()Ljava/lang/String;245
+%
+getFolderBrowserFilesSortOrder246
+Z
+Scom.simplecity.amp_library.utils.SettingsManager.KEY_FOLDER_BROWSER_FILES_ASCENDING248
+)
+"KEY_FOLDER_BROWSER_FILES_ASCENDING249
+Z
+Scom.simplecity.amp_library.utils.SettingsManager#setFolderBrowserFilesAscending(Z)V251
+%
+setFolderBrowserFilesAscending252
+Y
+Rcom.simplecity.amp_library.utils.SettingsManager#getFolderBrowserFilesAscending()Z254
+%
+getFolderBrowserFilesAscending255
+]
+Vcom.simplecity.amp_library.utils.SettingsManager.KEY_FOLDER_BROWSER_FOLDERS_SORT_ORDER257
+,
+%KEY_FOLDER_BROWSER_FOLDERS_SORT_ORDER258
+m
+fcom.simplecity.amp_library.utils.SettingsManager#setFolderBrowserFoldersSortOrder(Ljava/lang/String;)V260
+'
+ setFolderBrowserFoldersSortOrder261
+l
+ecom.simplecity.amp_library.utils.SettingsManager#getFolderBrowserFoldersSortOrder()Ljava/lang/String;263
+'
+ getFolderBrowserFoldersSortOrder264
+\
+Ucom.simplecity.amp_library.utils.SettingsManager.KEY_FOLDER_BROWSER_FOLDERS_ASCENDING266
++
+$KEY_FOLDER_BROWSER_FOLDERS_ASCENDING267
+\
+Ucom.simplecity.amp_library.utils.SettingsManager#setFolderBrowserFoldersAscending(Z)V269
+'
+ setFolderBrowserFoldersAscending270
+[
+Tcom.simplecity.amp_library.utils.SettingsManager#getFolderBrowserFoldersAscending()Z272
+'
+ getFolderBrowserFoldersAscending273
+Y
+Rcom.simplecity.amp_library.utils.SettingsManager.KEY_FOLDER_BROWSER_SHOW_FILENAMES275
+(
+!KEY_FOLDER_BROWSER_SHOW_FILENAMES276
+Y
+Rcom.simplecity.amp_library.utils.SettingsManager#setFolderBrowserShowFileNames(Z)V278
+$
+setFolderBrowserShowFileNames279
+X
+Qcom.simplecity.amp_library.utils.SettingsManager#getFolderBrowserShowFileNames()Z281
+$
+getFolderBrowserShowFileNames282
+H
+Acom.simplecity.amp_library.utils.SettingsManager.KEY_LAUNCH_COUNT284
+
+KEY_LAUNCH_COUNT285
+O
+Hcom.simplecity.amp_library.utils.SettingsManager#incrementLaunchCount()V287
+
+incrementLaunchCount288
+I
+Bcom.simplecity.amp_library.utils.SettingsManager#getLaunchCount()I290
+
+getLaunchCount291
+L
+Ecom.simplecity.amp_library.utils.SettingsManager.KEY_NAG_MESSAGE_READ293
+
+KEY_NAG_MESSAGE_READ294
+L
+Ecom.simplecity.amp_library.utils.SettingsManager#setNagMessageRead()V296
+
+setNagMessageRead297
+L
+Ecom.simplecity.amp_library.utils.SettingsManager#getNagMessageRead()Z299
+
+getNagMessageRead300
+E
+>com.simplecity.amp_library.utils.SettingsManager.KEY_HAS_RATED302
+
+KEY_HAS_RATED303
+F
+?com.simplecity.amp_library.utils.SettingsManager#setHasRated()V305
+
+setHasRated306
+F
+?com.simplecity.amp_library.utils.SettingsManager#getHasRated()Z308
+
+getHasRated309
+V
+Ocom.simplecity.amp_library.utils.SettingsManager.KEY_BLUETOOTH_PAUSE_DISCONNECT311
+%
+KEY_BLUETOOTH_PAUSE_DISCONNECT312
+T
+Mcom.simplecity.amp_library.utils.SettingsManager.KEY_BLUETOOTH_RESUME_CONNECT314
+#
+KEY_BLUETOOTH_RESUME_CONNECT315
+V
+Ocom.simplecity.amp_library.utils.SettingsManager#getBluetoothPauseDisconnect()Z317
+"
+getBluetoothPauseDisconnect318
+T
+Mcom.simplecity.amp_library.utils.SettingsManager#getBluetoothResumeConnect()Z320
+ 
+getBluetoothResumeConnect321
+H
+Acom.simplecity.amp_library.utils.SettingsManager#getUsePalette()Z323
+
+getUsePalette324
+V
+Ocom.simplecity.amp_library.utils.SettingsManager#getUsePaletteNowPlayingOnly()Z326
+"
+getUsePaletteNowPlayingOnly327
+H
+Acom.simplecity.amp_library.utils.SettingsManager#getTintNavBar()Z329
+
+getTintNavBar330
+M
+Fcom.simplecity.amp_library.utils.SettingsManager#storePrimaryColor(I)V332
+
+storePrimaryColor333
+J
+Ccom.simplecity.amp_library.utils.SettingsManager#getPrimaryColor()I335
+
+getPrimaryColor336
+L
+Ecom.simplecity.amp_library.utils.SettingsManager#storeAccentColor(I)V338
+
+storeAccentColor339
+I
+Bcom.simplecity.amp_library.utils.SettingsManager#getAccentColor()I341
+
+getAccentColor342
+J
+Ccom.simplecity.amp_library.utils.SettingsManager.KEY_PREFER_LAST_FM344
+
+KEY_PREFER_LAST_FM345
+R
+Kcom.simplecity.amp_library.utils.SettingsManager.KEY_DOWNLOAD_AUTOMATICALLY347
+!
+KEY_DOWNLOAD_AUTOMATICALLY348
+R
+Kcom.simplecity.amp_library.utils.SettingsManager.KEY_USE_GMAIL_PLACEHOLDERS350
+!
+KEY_USE_GMAIL_PLACEHOLDERS351
+I
+Bcom.simplecity.amp_library.utils.SettingsManager.KEY_QUEUE_ARTWORK353
+
+KEY_QUEUE_ARTWORK354
+H
+Acom.simplecity.amp_library.utils.SettingsManager.KEY_CROP_ARTWORK356
+
+KEY_CROP_ARTWORK357
+Q
+Jcom.simplecity.amp_library.utils.SettingsManager.KEY_IGNORE_MEDIASTORE_ART359
+ 
+KEY_IGNORE_MEDIASTORE_ART360
+S
+Lcom.simplecity.amp_library.utils.SettingsManager.KEY_IGNORE_EMBEDDED_ARTWORK362
+"
+KEY_IGNORE_EMBEDDED_ARTWORK363
+Q
+Jcom.simplecity.amp_library.utils.SettingsManager.KEY_IGNORE_FOLDER_ARTWORK365
+ 
+KEY_IGNORE_FOLDER_ARTWORK366
+S
+Lcom.simplecity.amp_library.utils.SettingsManager.KEY_PREFER_EMBEDDED_ARTWORK368
+"
+KEY_PREFER_EMBEDDED_ARTWORK369
+Z
+Scom.simplecity.amp_library.utils.SettingsManager#canDownloadArtworkAutomatically()Z371
+&
+canDownloadArtworkAutomatically372
+G
+@com.simplecity.amp_library.utils.SettingsManager#preferLastFM()Z374
+
+preferLastFM375
+P
+Icom.simplecity.amp_library.utils.SettingsManager#preferEmbeddedArtwork()Z377
+
+preferEmbeddedArtwork378
+O
+Hcom.simplecity.amp_library.utils.SettingsManager#useGmailPlaceholders()Z380
+
+useGmailPlaceholders381
+M
+Fcom.simplecity.amp_library.utils.SettingsManager#showArtworkInQueue()Z383
+
+showArtworkInQueue384
+F
+?com.simplecity.amp_library.utils.SettingsManager#cropArtwork()Z386
+
+cropArtwork387
+R
+Kcom.simplecity.amp_library.utils.SettingsManager#ignoreMediaStoreArtwork()Z389
+
+ignoreMediaStoreArtwork390
+N
+Gcom.simplecity.amp_library.utils.SettingsManager#ignoreFolderArtwork()Z392
+
+ignoreFolderArtwork393
+P
+Icom.simplecity.amp_library.utils.SettingsManager#ignoreEmbeddedArtwork()Z395
+
+ignoreEmbeddedArtwork396
+V
+Ocom.simplecity.amp_library.utils.SettingsManager.KEY_PLAYLIST_IGNORE_DUPLICATES398
+%
+KEY_PLAYLIST_IGNORE_DUPLICATES399
+K
+Dcom.simplecity.amp_library.utils.SettingsManager#ignoreDuplicates()Z401
+
+ignoreDuplicates402
+O
+Hcom.simplecity.amp_library.utils.SettingsManager#setIgnoreDuplicates(Z)V404
+
+setIgnoreDuplicates405
+H
+Acom.simplecity.amp_library.utils.SettingsManager.KEY_SEARCH_FUZZY407
+
+KEY_SEARCH_FUZZY408
+J
+Ccom.simplecity.amp_library.utils.SettingsManager#setSearchFuzzy(Z)V410
+
+setSearchFuzzy411
+I
+Bcom.simplecity.amp_library.utils.SettingsManager#getSearchFuzzy()Z413
+
+getSearchFuzzy414
+J
+Ccom.simplecity.amp_library.utils.SettingsManager.KEY_SEARCH_ARTISTS416
+
+KEY_SEARCH_ARTISTS417
+L
+Ecom.simplecity.amp_library.utils.SettingsManager#setSearchArtists(Z)V419
+
+setSearchArtists420
+K
+Dcom.simplecity.amp_library.utils.SettingsManager#getSearchArtists()Z422
+
+getSearchArtists423
+I
+Bcom.simplecity.amp_library.utils.SettingsManager.KEY_SEARCH_ALBUMS425
+
+KEY_SEARCH_ALBUMS426
+K
+Dcom.simplecity.amp_library.utils.SettingsManager#setSearchAlbums(Z)V428
+
+setSearchAlbums429
+J
+Ccom.simplecity.amp_library.utils.SettingsManager#getSearchAlbums()Z431
+
+getSearchAlbums432
+H
+Acom.simplecity.amp_library.utils.SettingsManager.KEY_VERSION_CODE434
+
+KEY_VERSION_CODE435
+I
+Bcom.simplecity.amp_library.utils.SettingsManager#setVersionCode()V437
+
+setVersionCode438
+O
+Hcom.simplecity.amp_library.utils.SettingsManager#getStoredVersionCode()I440
+
+getStoredVersionCode441
+T
+Mcom.simplecity.amp_library.utils.SettingsManager.KEY_CHANGELOG_SHOW_ON_LAUNCH443
+#
+KEY_CHANGELOG_SHOW_ON_LAUNCH444
+T
+Mcom.simplecity.amp_library.utils.SettingsManager#setShowChangelogOnLaunch(Z)V446
+
+setShowChangelogOnLaunch447
+S
+Lcom.simplecity.amp_library.utils.SettingsManager#getShowChangelogOnLaunch()Z449
+
+getShowChangelogOnLaunch450
+M
+Fcom.simplecity.amp_library.utils.SettingsManager#getRememberShuffle()Z452
+
+getRememberShuffle453
+N
+Gcom.simplecity.amp_library.utils.SettingsManager#setRememberShuffle(Z)V455
+
+setRememberShuffle456
+H
+Acom.simplecity.amp_library.utils.SettingsManager.KEY_DEFAULT_PAGE458
+
+KEY_DEFAULT_PAGE459
+M
+Fcom.simplecity.amp_library.utils.SettingsManager#getDefaultPageType()I461
+
+getDefaultPageType462
+
+CategoryItem.Type464
++
+$Recovered#typeBindingLCategoryItem;0466
+N
+Gcom.simplecity.amp_library.utils.SettingsManager#setDefaultPageType(I)V468
+
+setDefaultPageType469J
+
+1
+12Z
+
+3	
+354j˙P
+F
+349?
+34935015 *
+1Ë Ë(26:3B
+	
+9
+16
+
+11
+351
+F
+156?
+15615788 *
+1Ü Ü(26:3B
+	
+9
+10
+
+11
+158
+@
+86:
+868788 *
+1: :(26:3B
+	
+9
+10
+
+
+11
+89
+F
+467?
+46746888 *
+1Ë Ë(26:3B
+	
+9
+10
+
+11
+469
+@
+36:
+363715 *
+1 (26:3B
+	
+9
+10
+
+
+11
+38
+@
+96:
+969788 *
+1D D(26:3B
+	
+9
+16
+
+
+11
+12
+F
+325?
+32532688 *
+1Ã Ã(26:3B
+	
+9
+10
+
+11
+327
+F
+346?
+34634715 *
+1Á Á(26:3B
+	
+9
+16
+
+11
+348
+@
+27:
+272815 *
+1 (26:3B
+	
+9
+10
+
+
+11
+29
+F
+295?
+29529688 *
+1© ©(26:3B
+	
+9
+10
+
+11
+297
+F
+385?
+38538688 *
+1Ñ Ñ(26:3B
+	
+9
+10
+
+11
+387
+@
+54:
+545515 *
+1$ $(26:3B
+	
+9
+10
+
+
+11
+56
+@
+48:
+484915 *
+1" "(26:3B
+	
+9
+10
+
+
+11
+50
+
+112
+112113103
+F
+379?
+37938088 *
+1¸ ¸(26:3B
+	
+9
+10
+
+11
+381
+@
+93:
+939415 *
+1B B(26:3B
+	
+9
+10
+
+
+11
+95
+
+121
+121122103
+F
+190?
+19019188 *
+1´ ´(26:3B
+	
+9
+10
+
+11
+192
+
+161
+161162103
+F
+394?
+39439588 *
+1ê ê(26:3B
+	
+9
+10
+
+11
+396
+F
+403?
+40340488 *
+1ö ö(26:3B
+	
+9
+10
+
+11
+405
+F
+433?
+43343415 *
+1¡ ¡(26:3B
+	
+9
+16
+
+11
+435
+F
+229?
+22923015 *
+1· ·(26:3B
+	
+9
+16
+
+11
+231
+F
+187?
+18718888 *
+1ß ß(26:3B
+	
+9
+10
+
+11
+189
+F
+373?
+37337488 *
+1Ù Ù(26:3B
+	
+9
+10
+
+11
+375
+F
+448?
+44844988 *
+1— —(26:3B
+	
+9
+10
+
+11
+450
+F
+334?
+33433588 *
+1ÿ ÿ(26:3B
+	
+9
+10
+
+11
+336
+F
+352?
+35235315 *
+1È È(26:3B
+	
+9
+16
+
+11
+354
+F
+418?
+41841988 *
+1¨ ¨(26:3B
+	
+9
+10
+
+11
+420
+F
+265?
+26526615 *
+1â â(26:3B
+	
+9
+16
+
+11
+267
+F
+337?
+33733888 *
+1‹ ‹(26:3B
+	
+9
+10
+
+11
+339
+
+465
+465466103
+
+193
+193194103
+F
+310?
+31031115 *
+1ª ª(26:3B
+	
+9
+16
+
+11
+312
+F
+400?
+40040188 *
+1ñ ñ(26:3B
+	
+9
+10
+
+11
+402
+F
+181?
+18118215 *
+1ô ô(26:3B
+	
+9
+16
+
+11
+183
+F
+454?
+45445588 *
+1€ €(26:3B
+	
+9
+10
+
+11
+456
+@
+69:
+697015 *
+1/ /(26:3B
+	
+9
+10
+
+
+11
+71
+@
+57:
+575815 *
+1% %(26:3B
+	
+9
+10
+
+
+11
+59
+F
+150?
+15015115 *
+1Ä Ä(26:3B
+	
+9
+16
+
+11
+152
+F
+169?
+16917088 *
+1ë ë(26:3B
+	
+9
+10
+
+11
+171
+F
+397?
+39739815 *
+1î î(26:3B
+	
+9
+16
+
+11
+399
+D
+116=
+11611788 *
+1Q Q(26:3B
+	
+9
+16
+
+11
+106
+F
+358?
+35835915 *
+1Î Î(26:3B
+	
+9
+10
+
+11
+360
+@
+13:
+131415 *
+1 (26:3B
+	
+9
+16
+
+
+11
+17
+F
+298?
+29829988 *
+1≠ ≠(26:3B
+	
+9
+10
+
+11
+300
+F
+271?
+27127288 *
+1è è(26:3B
+	
+9
+10
+
+11
+273
+F
+289?
+28929088 *
+1£ £(26:3B
+	
+9
+10
+
+11
+291
+F
+307?
+30730888 *
+1∑ ∑(26:3B
+	
+9
+10
+
+11
+309
+@
+45:
+454615 *
+1! !(26:3B
+	
+9
+10
+
+
+11
+47
+F
+427?
+42742888 *
+1∂ ∂(26:3B
+	
+9
+10
+
+11
+429
+F
+244?
+24424588 *
+1Ò Ò(26:3B
+	
+9
+10
+
+11
+246
+F
+439?
+43944088 *
+1« «(26:3B
+	
+9
+10
+
+11
+441
+F
+226?
+22622788 *
+1› ›(26:3B
+	
+9
+10
+
+11
+228
+F
+153?
+15315488 *
+1Ç Ç(26:3B
+	
+9
+10
+
+11
+155
+F
+214?
+21421588 *
+1… …(26:3B
+	
+9
+10
+
+11
+216
+F
+328?
+32832988 *
+1– –(26:3B
+	
+9
+10
+
+11
+330
+@
+75:
+757615 *
+13 3(26:3B
+	
+9
+10
+
+
+11
+77
+F
+232?
+23223388 *
+1„ „(26:3B
+	
+9
+10
+
+11
+234
+F
+391?
+39139288 *
+1å å(26:3B
+	
+9
+10
+
+11
+393
+F
+286?
+28628788 *
+1ü ü(26:3B
+	
+9
+10
+
+11
+288
+F
+421?
+42142288 *
+1∞ ∞(26:3B
+	
+9
+10
+
+11
+423
+F
+388?
+38838988 *
+1à à(26:3B
+	
+9
+10
+
+11
+390
+F
+436?
+43643788 *
+1√ √(26:3B
+	
+9
+10
+
+11
+438
+@
+30:
+303115 *
+1 (26:3B
+	
+9
+10
+
+
+11
+32
+
+101
+101102103
+F
+415?
+41541615 *
+1™ ™(26:3B
+	
+9
+16
+
+11
+417
+F
+247?
+24724815 *
+1ı ı(26:3B
+	
+9
+16
+
+11
+249
+F
+253?
+25325488 *
+1˚ ˚(26:3B
+	
+9
+10
+
+11
+255
+F
+301?
+30130215 *
+1± ±(26:3B
+	
+9
+16
+
+11
+303
+A
+98;
+989988 *
+1H H(26:3B
+	
+9
+16
+
+11
+100
+@
+63:
+636415 *
+1) )(26:3B
+	
+9
+10
+
+
+11
+65
+@
+78:
+787915 *
+16 6(26:3B
+	
+9
+10
+
+
+11
+80
+F
+382?
+38238388 *
+1Ä Ä(26:3B
+	
+9
+10
+
+11
+384
+F
+355?
+35535615 *
+1Í Í(26:3B
+	
+9
+16
+
+11
+357
+F
+241?
+24124288 *
+1Ì Ì(26:3B
+	
+9
+10
+
+11
+243
+@
+81:
+818215 *
+18 8(26:3B
+	
+9
+16
+
+
+11
+83
+D
+147=
+14714888 *
+1| |(26:3B
+	
+9
+10
+
+11
+149
+F
+292?
+29229315 *
+1ß ß(26:3B
+	
+9
+16
+
+11
+294
+@
+24:
+242515 *
+1 (26:3B
+	
+9
+10
+
+
+11
+26
+D
+135=
+13513615 *
+1p p(26:3B
+	
+9
+10
+
+11
+137
+
+114
+114115103
+@
+18:
+181915 *
+1 (26:3B
+	
+9
+10
+
+
+11
+20
+F
+223?
+22322488 *
+1Ÿ Ÿ(26:3B
+	
+9
+10
+
+11
+225
+F
+340?
+34034188 *
+1‡ ‡(26:3B
+	
+9
+10
+
+11
+342
+F
+283?
+28328415 *
+1ù ù(26:3B
+	
+9
+16
+
+11
+285
+F
+322?
+32232388 *
+1» »(26:3B
+	
+9
+10
+
+11
+324
+@
+60:
+606115 *
+1( ((26:3B
+	
+9
+10
+
+
+11
+62
+F
+220?
+22022115 *
+1◊ ◊(26:3B
+	
+9
+16
+
+11
+222
+@
+39:
+394015 *
+1 (26:3B
+	
+9
+10
+
+
+11
+41
+F
+331?
+33133288 *
+1‘ ‘(26:3B
+	
+9
+10
+
+11
+333
+D
+129=
+12913088 *
+1f f(26:3B
+	
+9
+16
+
+11
+131
+@
+42:
+424315 *
+1   (26:3B
+	
+9
+10
+
+
+11
+44
+D
+118=
+11811988 *
+1V V(26:3B
+	
+9
+16
+
+11
+120
+F
+211?
+21121288 *
+1≈ ≈(26:3B
+	
+9
+10
+
+11
+213
+F
+262?
+26226388 *
+1Ö Ö(26:3B
+	
+9
+10
+
+11
+264
+F
+412?
+41241388 *
+1¶ ¶(26:3B
+	
+9
+10
+
+11
+414
+F
+172?
+17217315 *
+1ñ ñ(26:3B
+	
+9
+16
+
+11
+174
+F
+409?
+40941088 *
+1¢ ¢(26:3B
+	
+9
+10
+
+11
+411
+F
+268?
+26826988 *
+1ã ã(26:3B
+	
+9
+10
+
+11
+270
+F
+163?
+16316415 *
+1ã ã(26:3B
+	
+9
+16
+
+11
+165
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+F
+424?
+42442515 *
+1¥ ¥(26:3B
+	
+9
+16
+
+11
+426
+@
+33:
+333415 *
+1 (26:3B
+	
+9
+10
+
+
+11
+35
+F
+316?
+31631788 *
+1æ æ(26:3B
+	
+9
+10
+
+11
+318
+F
+343?
+34334415 *
+1Ê Ê(26:3B
+	
+9
+10
+
+11
+345
+F
+202?
+20220315 *
+1∂ ∂(26:3B
+	
+9
+16
+
+11
+204
+D
+144=
+14414588 *
+1x x(26:3B
+	
+9
+10
+
+11
+146
+D
+123=
+12312488 *
+1\ \(26:3B
+	
+9
+16
+
+11
+125
+F
+361?
+36136215 *
+1Ï Ï(26:3B
+	
+9
+10
+
+11
+363
+F
+442?
+44244315 *
+1À À(26:3B
+	
+9
+16
+
+11
+444
+@
+51:
+515215 *
+1# #(26:3B
+	
+9
+10
+
+
+11
+53
+
+107
+107108103
+
+159
+159160103
+F
+445?
+44544688 *
+1Õ Õ(26:3B
+	
+9
+10
+
+11
+447
+F
+184?
+18418588 *
+1õ õ(26:3B
+	
+9
+16
+
+11
+186
+F
+406?
+40640715 *
+1† †(26:3B
+	
+9
+16
+
+11
+408
+F
+313?
+31331415 *
+1º º(26:3B
+	
+9
+16
+
+11
+315
+F
+217?
+21721888 *
+1“ “(26:3B
+	
+9
+10
+
+11
+219
+F
+259?
+25926088 *
+1Å Å(26:3B
+	
+9
+10
+
+11
+261
+F
+256?
+25625715 *
+1ˇ ˇ(26:3B
+	
+9
+16
+
+11
+258
+F
+277?
+27727888 *
+1ï ï(26:3B
+	
+9
+10
+
+11
+279
+F
+178?
+17817915 *
+1ò ò(26:3B
+	
+9
+16
+
+11
+180
+
+463
+463464103
+F
+208?
+20820988 *
+1π π(26:3B
+	
+9
+16
+
+11
+210
+D
+141=
+14114215 *
+1v v(26:3B
+	
+9
+16
+
+11
+143
+
+110
+110111103
+F
+364?
+36436515 *
+1Ì Ì(26:3B
+	
+9
+10
+
+11
+366
+F
+274?
+27427515 *
+1ì ì(26:3B
+	
+9
+16
+
+11
+276
+@
+72:
+727315 *
+10 0(26:3B
+	
+9
+10
+
+
+11
+74
+F
+370?
+37037188 *
+1 (26:3B
+	
+9
+10
+
+11
+372
+F
+280?
+28028188 *
+1ô ô(26:3B
+	
+9
+10
+
+11
+282
+F
+304?
+30430588 *
+1≥ ≥(26:3B
+	
+9
+10
+
+11
+306
+F
+250?
+25025188 *
+1˜ ˜(26:3B
+	
+9
+10
+
+11
+252
+F
+457?
+45745815 *
+1· ·(26:3B
+	
+9
+16
+
+11
+459
+F
+238?
+23823915 *
+1Î Î(26:3B
+	
+9
+16
+
+11
+240
+F
+451?
+45145288 *
+1◊ ◊(26:3B
+	
+9
+10
+
+11
+453
+D
+138=
+13813988 *
+1r r(26:3B
+	
+9
+10
+
+11
+140
+@
+21:
+212215 *
+1 (26:3B
+	
+9
+10
+
+
+11
+23
+D
+104=
+10410588 *
+1L L(26:3B
+	
+9
+16
+
+11
+106
+D
+126=
+12612788 *
+1` `(26:3B
+	
+9
+16
+
+11
+128
+F
+199?
+19920015 *
+1µ µ(26:3B
+	
+9
+16
+
+11
+201
+F
+319?
+31932088 *
+1¬ ¬(26:3B
+	
+9
+10
+
+11
+321
+F
+376?
+37637788 *
+1¯ ¯(26:3B
+	
+9
+10
+
+11
+378
+@
+66:
+666715 *
+1, ,(26:3B
+	
+9
+10
+
+
+11
+68
+F
+196?
+19619715 *
+1¥ ¥(26:3B
+	
+9
+16
+
+11
+198
+F
+205?
+20520615 *
+1∑ ∑(26:3B
+	
+9
+16
+
+11
+207
+F
+430?
+43043188 *
+1∫ ∫(26:3B
+	
+9
+10
+
+11
+432
+F
+367?
+36736815 *
+1Ó Ó(26:3B
+	
+9
+10
+
+11
+369
+F
+166?
+16616788 *
+1ç ç(26:3B
+	
+9
+10
+
+11
+168
+F
+175?
+17517615 *
+1ó ó(26:3B
+	
+9
+16
+
+11
+177
+F
+460?
+46046188 *
+1„ „(26:3B
+	
+9
+10
+
+11
+462
+D
+132=
+13213388 *
+1j j(26:3B
+	
+9
+16
+
+11
+134
+F
+235?
+23523688 *
+1Á Á(26:3B
+	
+9
+10
+
+11
+237rúE
+
+81684*
+18 8(#
+
+81685*
+18 8(#
+
+81685*
+18$ 8(-
+
+86690*
+1: :("
+
+86685*
+1: :("
+
+86685*
+1; ;(
+
+868191*
+1; ;(
+
+86685*
+1< <(
+
+868191*
+1< <(
+
+86692*
+1< <(,
+
+86685*
+1> >(
+
+868191*
+1> >(
+
+96692*
+1D D(
+
+9810190*
+1H H(
+
+9810185*
+1H H(
+
+104107109*
+1L L(
+
+10411085*
+1L L(
+
+104112109*
+1M M(
+
+10411485*
+1M M(&
+
+104691*
+1N N(
+
+10411692*
+1N N(
+
+116112109*
+1Q Q(
+
+11611485*
+1Q Q(
+
+116112109*
+1R R(
+
+11611485*
+1R R(&
+
+116112109*
+1R3 R(4
+
+11611485*
+1R4 R(;
+
+11610190*
+1S S($
+
+116691*
+1S S($
+
+1169892*
+1S S($
+
+118112109*
+1V V(
+
+11811485*
+1V V($
+
+118107109*
+1V1 V(2
+
+11811085*
+1V2 V(:
+
+11812184*
+1W( W(.
+
+11812185*
+1W W( 
+
+11812185*
+1W! W('
+
+11810190*
+1W1 W(E
+
+118691*
+1W1 W(E
+
+1189892*
+1W1 W(E
+
+123112109*
+1\ \(
+
+12311485*
+1\ \(%
+
+12310190*
+1] ]($
+
+123691*
+1] ]($
+
+1239892*
+1] ]($
+
+126112109*
+1` `(
+
+12611485*
+1` `("
+
+12612184*
+1a( a(.
+
+12612185*
+1a a( 
+
+12612185*
+1a! a('
+
+12610190*
+1a1 a(E
+
+126691*
+1a1 a(E
+
+1269892*
+1a1 a(E
+
+129112109*
+1f f(
+
+12911485*
+1f f( 
+
+12910190*
+1g g($
+
+129691*
+1g g($
+
+1299892*
+1g g($
+
+132112109*
+1j j(
+
+13211485*
+1j j(!
+
+13212184*
+1k( k(.
+
+13212185*
+1k k( 
+
+13212185*
+1k! k('
+
+13210190*
+1k1 k(E
+
+132691*
+1k1 k(E
+
+1329892*
+1k1 k(E
+
+138691*
+1s s(
+
+13812392*
+1s s(
+
+13813591*
+1s s(3
+
+144691*
+1y y(
+
+14412392*
+1y y(
+
+14414191*
+1y y(*
+
+147691*
+1} }(
+
+14712392*
+1} }(
+
+1473991*
+1} }(2
+
+153691*
+1É	 É(
+
+15313292*
+1É	 É(
+
+15315091*
+1É É(&
+
+156159109*
+1Ü Ü(
+
+15616185*
+1Ü Ü(
+
+156691*
+1à à(
+
+15612992*
+1à à(
+
+15615091*
+1à à(-
+
+166691*
+1é	 é(
+
+16613292*
+1é	 é(
+
+16616391*
+1é é('
+
+169159109*
+1ë ë(
+
+16916185*
+1ë ë(
+
+169691*
+1ì ì(
+
+16912992*
+1ì ì(
+
+16916391*
+1ì ì(.
+
+18417291*
+1ú ú(-
+
+18418191*
+1ü- ü(P
+
+18417591*
+1üS ü(o
+
+18417891*
+1°0 °(N
+
+187691*
+1®	 ®(
+
+18713292*
+1®	 ®(
+
+187691*
+1® ®('
+
+18718492*
+1® ®('
+
+190193195*
+1´% ´(.
+
+19019384*
+1´/ ´(2
+
+19019385*
+1´% ´(.
+
+190691*
+1¨! ¨(5
+
+19016992*
+1¨! ¨(5
+
+190691*
+1± ±(
+
+19012992*
+1± ±(
+
+190691*
+1± ±(.
+
+19018492*
+1± ±(.
+
+20819691*
+1∫ ∫(,
+
+20820591*
+1Ω- Ω(O
+
+20819991*
+1ΩR Ω(m
+
+20820291*
+1ø0 ø(M
+
+211691*
+1∆	 ∆(
+
+21113292*
+1∆	 ∆(
+
+211691*
+1∆ ∆(&
+
+21120892*
+1∆ ∆(&
+
+214193195*
+1…$ …(-
+
+21419384*
+1…. …(1
+
+21419385*
+1…$ …(-
+
+214691*
+1    (3
+
+21415692*
+1    (3
+
+214691*
+1œ œ(
+
+21412992*
+1œ œ(
+
+214691*
+1œ œ(-
+
+21420892*
+1œ œ(-
+
+217691*
+1” ”(
+
+21712392*
+1” ”(
+
+223691*
+1⁄	 ⁄(
+
+22311892*
+1⁄	 ⁄(
+
+22322091*
+1⁄ ⁄($
+
+226691*
+1ﬁ ﬁ(
+
+22610492*
+1ﬁ ﬁ(
+
+22622091*
+1ﬁ ﬁ(+
+
+232691*
+1‰	 ‰(
+
+23211892*
+1‰	 ‰(
+
+23222991*
+1‰ ‰(1
+
+235691*
+1Ë Ë(
+
+23510492*
+1Ë Ë(
+
+23522991*
+1Ë Ë(8
+
+241691*
+1Ó	 Ó(
+
+24111892*
+1Ó	 Ó(
+
+24123891*
+1Ó Ó(6
+
+244691*
+1Ú Ú(
+
+24411692*
+1Ú Ú(
+
+24423891*
+1Ú Ú(=
+
+250691*
+1¯	 ¯(
+
+25012692*
+1¯	 ¯(
+
+25024791*
+1¯ ¯(3
+
+253691*
+1¸ ¸(
+
+25312392*
+1¸ ¸(
+
+25324791*
+1¸ ¸(:
+
+259691*
+1Ç	 Ç(
+
+25911892*
+1Ç	 Ç(
+
+25925691*
+1Ç Ç(8
+
+262691*
+1Ü Ü(
+
+26211692*
+1Ü Ü(
+
+26225691*
+1Ü Ü(?
+
+268691*
+1å	 å(
+
+26812692*
+1å	 å(
+
+26826591*
+1å å(5
+
+271691*
+1ê ê(
+
+27112392*
+1ê ê(
+
+27126591*
+1ê ê(<
+
+277691*
+1ñ	 ñ(
+
+27712692*
+1ñ	 ñ(
+
+27727491*
+1ñ ñ(2
+
+280691*
+1ö ö(
+
+28012392*
+1ö ö(
+
+28027491*
+1ö ö(9
+
+286691*
+1†	 †(
+
+28613292*
+1†	 †(
+
+28628391*
+1† †( 
+
+286691*
+1†" †(0
+
+28628992*
+1†" †(0
+
+289691*
+1§ §(
+
+28912992*
+1§ §(
+
+28928391*
+1§ §('
+
+295691*
+1™	 ™(
+
+29512692*
+1™	 ™(
+
+29529291*
+1™ ™(%
+
+298691*
+1Æ Æ(
+
+29812392*
+1Æ Æ(
+
+29829291*
+1Æ Æ(,
+
+304691*
+1¥	 ¥(
+
+30412692*
+1¥	 ¥(
+
+30430191*
+1¥ ¥(
+
+307691*
+1∏ ∏(
+
+30712392*
+1∏ ∏(
+
+30730191*
+1∏ ∏(%
+
+316691*
+1ø ø(
+
+31612392*
+1ø ø(
+
+31631091*
+1ø ø(6
+
+319691*
+1√ √(
+
+31912392*
+1√ √(
+
+31931391*
+1√ √(4
+
+322691*
+1… …(
+
+32212392*
+1… …(
+
+3225491*
+1… …((
+
+325691*
+1Õ Õ(
+
+32512392*
+1Õ Õ(
+
+3255791*
+1Õ Õ(9
+
+328691*
+1— —(
+
+32812392*
+1— —(
+
+3285191*
+1— —((
+
+331691*
+1’	 ’(
+
+33113292*
+1’	 ’(
+
+3314591*
+1’ ’(&
+
+334691*
+1Ÿ Ÿ(
+
+33412992*
+1Ÿ Ÿ(
+
+3344591*
+1Ÿ Ÿ(-
+
+337691*
+1›	 ›(
+
+33713292*
+1›	 ›(
+
+3374891*
+1› ›(%
+
+340691*
+1· ·(
+
+34012992*
+1· ·(
+
+3404891*
+1· ·(,
+
+370691*
+1Ò Ò(
+
+37012392*
+1Ò Ò(
+
+37034691*
+1Ò Ò(2
+
+373691*
+1ı ı(
+
+37312392*
+1ı ı(
+
+37334391*
+1ı ı(*
+
+376691*
+1˘ ˘(
+
+37612392*
+1˘ ˘(
+
+37636791*
+1˘ ˘(3
+
+379691*
+1˝ ˝(
+
+37912392*
+1˝ ˝(
+
+37934991*
+1˝ ˝(2
+
+382691*
+1Å Å(
+
+38212392*
+1Å Å(
+
+38235291*
+1Å Å()
+
+385691*
+1Ö Ö(
+
+38512392*
+1Ö Ö(
+
+38535591*
+1Ö Ö((
+
+388691*
+1â â(
+
+38812392*
+1â â(
+
+38835891*
+1â â(1
+
+391691*
+1ç ç(
+
+39112392*
+1ç ç(
+
+39136491*
+1ç ç(1
+
+394691*
+1ë ë(
+
+39412392*
+1ë ë(
+
+39436191*
+1ë ë(3
+
+400691*
+1ó ó(
+
+40012392*
+1ó ó(
+
+40039791*
+1ó ó(6
+
+403691*
+1õ	 õ(
+
+40312692*
+1õ	 õ(
+
+40339791*
+1õ õ(/
+
+409691*
+1£	 £(
+
+40912692*
+1£	 £(
+
+40940691*
+1£ £(!
+
+412691*
+1ß ß(
+
+41212392*
+1ß ß(
+
+41240691*
+1ß ß((
+
+418691*
+1≠	 ≠(
+
+41812692*
+1≠	 ≠(
+
+41841591*
+1≠ ≠(#
+
+421691*
+1± ±(
+
+42112392*
+1± ±(
+
+42141591*
+1± ±(*
+
+427691*
+1∑	 ∑(
+
+42712692*
+1∑	 ∑(
+
+42742491*
+1∑ ∑("
+
+430691*
+1ª ª(
+
+43012392*
+1ª ª(
+
+43042491*
+1ª ª()
+
+436691*
+1ƒ	 ƒ(
+
+43613292*
+1ƒ	 ƒ(
+
+43643391*
+1ƒ ƒ( 
+
+439691*
+1» »(
+
+43912992*
+1» »(
+
+43943391*
+1» »('
+
+445691*
+1Œ	 Œ(
+
+44512692*
+1Œ	 Œ(
+
+44544291*
+1Œ Œ(-
+
+448691*
+1“ “(
+
+44812392*
+1“ “(
+
+44844291*
+1“ “(4
+
+451691*
+1ÿ ÿ(
+
+45112392*
+1ÿ ÿ(
+
+4517591*
+1ÿ ÿ(1
+
+454691*
+1‹	 ‹(
+
+45412692*
+1‹	 ‹(
+
+4547591*
+1‹ ‹(*
+
+460463109*
+1„ „(
+
+46046585*
+1„ „(
+
+46046585*
+1„ „(
+
+460691*
+1Â Â(
+
+46012992*
+1Â Â(
+
+46045791*
+1Â Â('
+
+467463109*
+1Ë$ Ë(%
+
+46746585*
+1Ë% Ë(1
+
+46746585*
+1Ë2 Ë(6
+
+467691*
+1È	 È(
+
+46713292*
+1È	 È(
+
+46745791*
+1È È( 

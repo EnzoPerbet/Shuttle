@@ -1,0 +1,29 @@
+
+Öcom.simplecity.amp_library.ui.fragments.SuggestedFragment$SongClickListener#onSongLongClick(Lcom/simplecity/amp_library/model/Song;)Zw
+mC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/fragments/SuggestedFragment.javaU U(&"startingBlock*∞
+startingBlockU& U(1†
+ù
+T T(
+%0"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*K
+
+__unknown_file (/
+-
+song%com.simplecity.amp_library.model.Songm
+k
+U, U(0-
+song%com.simplecity.amp_library.model.Song"__annotation*"
+
+__unknown_file (
+
+%0*
+1*!
+1V V("
+V V(
+"":9
+U' U(0-
+song%com.simplecity.amp_library.model.SongBOM
+Kcom.simplecity.amp_library.ui.fragments.SuggestedFragment$SongClickListenerHX

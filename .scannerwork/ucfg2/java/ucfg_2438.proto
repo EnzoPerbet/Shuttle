@@ -1,0 +1,54 @@
+
+hcom.simplecity.amp_library.utils.SortManager#getInstance()Lcom/simplecity/amp_library/utils/SortManager;j
+`C:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/SortManager.java ()"3*…
+2 ()nl
+ ('2
+%2,com.simplecity.amp_library.utils.SortManager",com.simplecity.amp_library.utils.SortManagerù
+ö
+ ()
+%3"6com.simplecity.amp_library.utils.SortManager#<init>()V*P
+
+__unknown_file (4
+2
+%2,com.simplecity.amp_library.utils.SortManager§
+°
+ ()=.
+,com.simplecity.amp_library.utils.SortManager"
+	sInstance"__id*P
+
+__unknown_file (4
+2
+%2,com.simplecity.amp_library.utils.SortManager*
+1*–
+3 (§
+°
+ (2
+%0,com.simplecity.amp_library.utils.SortManager"__id*[
+
+__unknown_file (?*=.
+,com.simplecity.amp_library.utils.SortManager"
+	sInstanceë
+é
+ (
+%1boolean"	__compare*
+ (
+==*@
+ (4
+2
+%0,com.simplecity.amp_library.utils.SortManager*
+ (
+""*
+2
+1*ˆ
+1 (§
+°
+ (2
+%4,com.simplecity.amp_library.utils.SortManager"__id*[
+
+__unknown_file (?*=.
+,com.simplecity.amp_library.utils.SortManager"
+	sInstance"@
+ (4
+2
+%4,com.simplecity.amp_library.utils.SortManagerB0".
+,com.simplecity.amp_library.utils.SortManagerH

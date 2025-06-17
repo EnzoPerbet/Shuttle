@@ -1,0 +1,9 @@
+Gthis; ;("3com.simplecity.amp_library.ui.modelviews.FolderViewMbaseFileObject; ;(<"/com.simplecity.amp_library.model.BaseFileObject"whitelisted;> ;(Q"boolean"blacklisted;S ;(f"boolean"¢0
+.
+< <(,"#set-field# baseFileObject:/
+-
+= =(("#set-field# isWhitelisted:/
+-
+> >(("#set-field# isBlacklisted:
+
+? ?(*gC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/FolderView.java

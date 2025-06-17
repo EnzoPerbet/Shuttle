@@ -1,0 +1,74 @@
+
+Icom.simplecity.amp_library.model.AlbumArtist#toString()Ljava/lang/String;j
+`C:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/AlbumArtist.javag g("1*ƒ
+1h h(d
+b
+h i(
+%0java.lang.String"__concat*
+h h(
+AlbumArtist{*
+i i(
+
+name='ƒ
+€
+i i(
+%1java.lang.String"__id*V
+
+__unknown_file (:*8.
+,com.simplecity.amp_library.model.AlbumArtist"
+name~
+|
+h i(
+%2"__calculate*
+i i(
++*$
+h i(
+
+%0java.lang.String*$
+i i(
+
+%1java.lang.StringZ
+X
+h i("
+%3"__calculate*
+i i(
++*
+h i(
+
+%2*
+i i("
+\'a
+_
+h j(
+%4"__calculate*
+i" i(#
++*
+h i("
+
+%3*
+j j(
+	, albums=Z
+X
+h j("
+%5"__calculate*
+j j(
++*
+h j(
+
+%4*
+j j("
+""Y
+W
+h k(
+%6"__calculate*
+j" j(#
++*
+h j("
+
+%5*
+k k(
+}"
+h k(
+
+%6B0.
+,com.simplecity.amp_library.model.AlbumArtistH

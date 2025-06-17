@@ -1,0 +1,87 @@
+
+Scom.simplecity.amp_library.tagger.TaggerUtils#requiresPermission(Ljava/util/List;)Zm
+aC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/tagger/TaggerUtils.javaÑ Ñ(%"2*˛
+2
+Ü Ü(R
+P
+
+Ü Ü(
+pathjava.lang.String"__id*"
+
+__unknown_file (
+""ê
+ç
+
+Ü Ü(
+pathjava.lang.String"
+__arrayGet*5
+
+__unknown_file (
+
+pathsjava.util.List*"
+
+__unknown_file (
+""*
+4
+1*‚
+4
+á! á(%0.
+
+á á( 
+%0java.io.File"java.io.File©
+¶
+
+á á(&
+%1"(java.io.File#<init>(Ljava/lang/String;)V*0
+
+__unknown_file (
+
+%0java.io.File*6
+
+__unknown_file (
+
+pathjava.lang.String\
+Z
+
+á á('
+filejava.io.File"__id*0
+
+__unknown_file (
+
+%0java.io.Fileé
+ã
+
+à! à(9
+%2java.lang.String"bcom.simplecity.amp_library.tagger.TaggerUtils#getExtSdCardFolder(Ljava/io/File;)Ljava/lang/String;*M
+
+__unknown_file (1"/
+-com.simplecity.amp_library.tagger.TaggerUtils*2
+
+__unknown_file (
+
+filejava.io.File|
+z
+
+à! à(A
+%3boolean"	__compare*
+
+à: à(<
+!=*&
+
+à! à(9
+
+%2java.lang.String*
+
+à= à(A
+""*
+2
+1*%
+1
+é é(!"
+
+é é("
+"":%
+
+Ñ& Ñ(8
+pathsjava.util.ListB1"/
+-com.simplecity.amp_library.tagger.TaggerUtilsX

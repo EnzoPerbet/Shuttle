@@ -1,0 +1,348 @@
+
+1.0testepsi2_analyseepsiJavaFrontend"1750157066182*java2.Bò
+Q
+Lapp/src/main/java/com/simplecity/amp_library/ui/views/PlayerViewAdapter.java2
+
+package4
+(
+#com.simplecity.amp_library.ui.views5
+:
+5com.simplecity.amp_library.ui.views.PlayerViewAdapter7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+PlayerViewAdapter12
+(
+"Recovered#typeBindingLPlayerView;014
+
+unknown15
+
+
+implements16
+
+
+uses17
+O
+Icom.simplecity.amp_library.ui.views.PlayerViewAdapter#setSeekProgress(I)V19
+
+method20
+
+setSeekProgress21
+\
+Vcom.simplecity.amp_library.ui.views.PlayerViewAdapter#currentTimeVisibilityChanged(Z)V23
+"
+currentTimeVisibilityChanged24
+R
+Lcom.simplecity.amp_library.ui.views.PlayerViewAdapter#currentTimeChanged(J)V26
+
+currentTimeChanged27
+P
+Jcom.simplecity.amp_library.ui.views.PlayerViewAdapter#totalTimeChanged(J)V29
+
+totalTimeChanged30
+M
+Gcom.simplecity.amp_library.ui.views.PlayerViewAdapter#queueChanged(II)V32
+
+queueChanged33
+O
+Icom.simplecity.amp_library.ui.views.PlayerViewAdapter#playbackChanged(Z)V35
+
+playbackChanged36
+N
+Hcom.simplecity.amp_library.ui.views.PlayerViewAdapter#shuffleChanged(I)V38
+
+shuffleChanged39
+M
+Gcom.simplecity.amp_library.ui.views.PlayerViewAdapter#repeatChanged(I)V41
+
+repeatChanged42
+O
+Icom.simplecity.amp_library.ui.views.PlayerViewAdapter#favoriteChanged(Z)V44
+
+favoriteChanged45
+U
+Ocom.simplecity.amp_library.ui.views.PlayerViewAdapter#trackInfoChanged(LSong;)V47
+
+trackInfoChanged48
+"
+Recovered#typeBindingLSong;050
+
+	has param51
+
+is type52
+
+Nullable54
+
+annotated by55
+&
+ Recovered#typeBindingLNullable;057
+[
+Ucom.simplecity.amp_library.ui.views.PlayerViewAdapter#showToast(Ljava/lang/String;I)V59
+
+	showToast60
+_
+Ycom.simplecity.amp_library.ui.views.PlayerViewAdapter#showLyricsDialog(LMaterialDialog;)V62
+
+showLyricsDialog63
+,
+&Recovered#typeBindingLMaterialDialog;065
+]
+Wcom.simplecity.amp_library.ui.views.PlayerViewAdapter#showTaggerDialog(LTaggerDialog;)V67
+
+showTaggerDialog68
+*
+$Recovered#typeBindingLTaggerDialog;070
+a
+[com.simplecity.amp_library.ui.views.PlayerViewAdapter#showSongInfoDialog(LMaterialDialog;)V72
+
+showSongInfoDialog73J
+
+1
+12Z
+
+3	
+354jÏ
+@
+58:
+585920 *
+1> >(26:3B
+	
+9
+10
+
+
+11
+60
+@
+25:
+252620 *
+1 (26:3B
+	
+9
+10
+
+
+11
+27
+@
+22:
+222320 *
+1 (26:3B
+	
+9
+10
+
+
+11
+24
+
+69
+697015
+
+49
+495015
+
+13
+131415
+@
+28:
+282920 *
+1 (26:3B
+	
+9
+10
+
+
+11
+30
+@
+37:
+373820 *
+1* *(26:3B
+	
+9
+10
+
+
+11
+39
+@
+46:
+464720 *
+19 9(26:3B
+	
+9
+10
+
+
+11
+48
+@
+66:
+666720 *
+1H H(26:3B
+	
+9
+10
+
+
+11
+68
+@
+31:
+313220 *
+1   (26:3B
+	
+9
+10
+
+
+11
+33
+
+56
+565715
+@
+71:
+717220 *
+1M M(26:3B
+	
+9
+10
+
+
+11
+73
+
+64
+646515
+9
+64
+678 *
+1
+ 
+((:3B
+	
+9
+10
+
+
+11
+12
+@
+18:
+181920 *
+1 (26:3B
+	
+9
+10
+
+
+11
+21
+@
+34:
+343520 *
+1% %(26:3B
+	
+9
+10
+
+
+11
+36
+@
+40:
+404120 *
+1/ /(26:3B
+	
+9
+10
+
+
+11
+42
+@
+43:
+434420 *
+14 4(26:3B
+	
+9
+10
+
+
+11
+45
+
+53
+535415
+@
+61:
+616220 *
+1C C(26:3B
+	
+9
+10
+
+
+11
+63r®
+
+61316*
+1
+4 
+(>
+
+61317*
+1
+4 
+(>
+
+464951*
+1:, :(0
+
+464952*
+1:1 :(5
+
+465355*
+1:" :(#
+
+465617*
+1:# :(+
+
+464917*
+1:, :(0
+
+616451*
+1D" D(0
+
+616452*
+1D1 D(7
+
+616417*
+1D" D(0
+
+666951*
+1I" I(.
+
+666952*
+1I/ I(;
+
+666917*
+1I" I(.
+
+716451*
+1N$ N(2
+
+716452*
+1N3 N(9
+
+716417*
+1N$ N(2

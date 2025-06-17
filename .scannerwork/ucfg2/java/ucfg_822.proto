@@ -1,0 +1,59 @@
+
+`com.simplecity.amp_library.utils.SettingsManager#getString(Ljava/lang/String;)Ljava/lang/String;n
+dC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaM M("startingBlock*œ
+startingBlockM M(1
+}
+L L(
+%1"
+__annotate*(
+
+__unknown_file (
+
+Nullable*5
+
+__unknown_file (
+
+keyjava.lang.String~
+|
+M M(%
+%2"
+__annotate*'
+
+__unknown_file (	
+NonNull*5
+
+__unknown_file (
+
+keyjava.lang.String{
+y
+M- M(0
+keyjava.lang.String"__annotation*"
+
+__unknown_file (
+
+%1*"
+
+__unknown_file (
+
+%2*
+1*ü
+1N N(Æ
+Ã
+N N(#
+%0java.lang.String"rcom.simplecity.amp_library.utils.SettingsManager#getString(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*P
+
+__unknown_file (42
+0com.simplecity.amp_library.utils.SettingsManager*5
+
+__unknown_file (
+
+keyjava.lang.String*"
+
+__unknown_file (
+"""$
+N N($
+
+%0java.lang.String:#
+M M(0
+keyjava.lang.StringB42
+0com.simplecity.amp_library.utils.SettingsManager

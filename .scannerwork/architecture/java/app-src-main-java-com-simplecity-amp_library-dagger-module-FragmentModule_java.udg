@@ -1,0 +1,276 @@
+
+1.0testepsi2_analyseepsiJavaFrontend"1750157031063*java2.Bç	
+S
+Napp/src/main/java/com/simplecity/amp_library/dagger/module/FragmentModule.java2
+
+package4
+-
+(com.simplecity.amp_library.dagger.module5
+<
+7com.simplecity.amp_library.dagger.module.FragmentModule7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+FragmentModule12
+F
+@com.simplecity.amp_library.dagger.module.FragmentModule.fragment14
+
+field15
+
+private16
+
+fragment17
+
+Fragment19
+
+unknown20
+
+is type21
+
+
+uses22
+Q
+Kcom.simplecity.amp_library.dagger.module.FragmentModule#<init>(LFragment;)V24
+
+method25
+&
+ Recovered#typeBindingLFragment;027
+
+	has param28
+
+calls29
+
+
+references30
+Y
+Scom.simplecity.amp_library.dagger.module.FragmentModule#provideFragment()LFragment;32
+
+	protected33
+
+provideFragment34
+
+returns35
+
+Provides37
+
+annotated by38
+&
+ Recovered#typeBindingLProvides;040
+
+FragmentScope42
++
+%Recovered#typeBindingLFragmentScope;044
+e
+_com.simplecity.amp_library.dagger.module.FragmentModule#provideRequestManager()LRequestManager;46
+
+provideRequestManager47
+
+RequestManager49
+k
+ecom.simplecity.amp_library.dagger.module.FragmentModule#providePrefixHighlighter()LPrefixHighlighter;51
+
+providePrefixHighlighter52
+
+PrefixHighlighter54J
+
+1
+12Z
+
+3	
+354j¥
+@
+50:
+505125 *
+1" "(26:3B
+	
+9
+33
+
+
+11
+52
+
+39
+394020
+@
+31:
+313225 *
+1 (26:3B
+	
+9
+33
+
+
+11
+34
+
+26
+262720
+@
+23:
+232425 *
+1 (26:3B
+	
+9
+10
+
+
+11
+12
+
+36
+363720
+
+18
+181920
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+
+48
+484920
+
+53
+535420
+@
+45:
+454625 *
+1 (26:3B
+	
+9
+33
+
+
+11
+47
+
+41
+414220
+@
+13:
+131415 *
+1 (26:3B
+	
+9
+16
+
+
+11
+17
+
+43
+434420rø
+
+131821*
+1 (
+
+131822*
+1 (
+
+131822*
+1 (
+
+232628*
+1 (#
+
+23629*
+1 (
+
+232621*
+1$ (,
+
+232622*
+1 (#
+
+23622*
+1	 (
+
+23630*
+1	 (
+
+231822*
+1 (
+
+231330*
+1 (
+
+311835*
+1 (
+
+313638*
+1 (
+
+313922*
+1 (
+
+314138*
+1 (
+
+314322*
+1 (
+
+311822*
+1 (
+
+311822*
+1 (
+
+311330*
+1 (
+
+454835*
+1 (
+
+453638*
+1 (
+
+453922*
+1 (
+
+454138*
+1 (
+
+454322*
+1 (
+
+454822*
+1 (
+
+451822*
+1 (#
+
+451330*
+1 (#
+
+505335*
+1$ $(
+
+503638*
+1" "(
+
+503922*
+1" "(
+
+504138*
+1# #(
+
+504322*
+1# #(
+
+505322*
+1$ $(

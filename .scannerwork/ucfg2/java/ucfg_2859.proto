@@ -1,0 +1,68 @@
+
+\com.simplecity.amp_library.http.HttpServer#getMimeType(Ljava/lang/String;)Ljava/lang/String;j
+^C:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/http/HttpServer.javaÅ Å("1*ç
+1
+Æ Æ(†
+ƒ
+
+Æ Æ(
+%0java.util.Map"__id*Z
+
+__unknown_file (>*<,
+*com.simplecity.amp_library.http.HttpServer"
+
+MIME_TYPESÍÊ
+
+Æ1 Æ(J	
+%1int"1java.lang.String#lastIndexOf(Ljava/lang/String;)I*:
+
+__unknown_file (
+
+filePathjava.lang.String*!
+
+__unknown_file (
+.2lastIndexOf(Ljava/lang/String;)j
+h
+
+Æ1 Æ(N	
+%2int"__calculate*
+
+ÆK Æ(L
++*
+
+Æ1 Æ(J
+	
+%1int*
+
+ÆM Æ(N2ËÈ
+
+Æ Æ(O
+%3java.lang.String"/java.lang.String#substring(I)Ljava/lang/String;*:
+
+__unknown_file (
+
+filePathjava.lang.String*'
+
+__unknown_file (
+	
+%2int2substring(I)š
+—
+
+Æ Æ(P
+%4java.lang.String"__mapGet*1
+
+__unknown_file (
+
+%0java.util.Map*4
+
+__unknown_file (
+
+%3java.lang.String"&
+
+Æ Æ(Q
+
+%4java.lang.String:*
+
+Å Å(&
+filePathjava.lang.StringB.,
+*com.simplecity.amp_library.http.HttpServer

@@ -1,0 +1,58 @@
+
+bandroid.support.design.widget.CustomCollapsingTextHelper#calculateIsRtl(Ljava/lang/CharSequence;)Zx
+lC:/Users/enzo.perbet/Shuttle/app/src/main/java/android/support/design/widget/CustomCollapsingTextHelper.javaÒ Ò(""4*T
+2
+× ×(/>
+<
+
+× ×(?
+%1"__id*"
+
+__unknown_file (
+
+%3*
+1*T
+3
+Ö Ö(/>
+<
+
+Ö Ö(?
+%1"__id*"
+
+__unknown_file (
+
+%2*
+1*z
+4
+Ó% Ó(/a
+_
+
+Ó% Ô(2
+%0"	__compare*
+
+Ô Ô(
+==*
+
+Ó% Ó(I
+""*
+
+Ô Ô(2
+""*
+2
+3*¬
+1
+×G ×(K„
+
+×P ×(]	
+%4int" java.lang.CharSequence#length()I*<
+
+__unknown_file ( 
+
+textjava.lang.CharSequence2length()"
+
+Õ ×(_
+"":,
+
+Ò# Ò(4
+textjava.lang.CharSequenceB<:
+8android.support.design.widget.CustomCollapsingTextHelperX

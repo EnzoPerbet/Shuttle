@@ -1,0 +1,210 @@
+
+1.0testepsi2_analyseepsiJavaFrontend"1750157033649*java2.B×	
+K
+Fapp/src/main/java/com/simplecity/amp_library/ui/detail/DetailView.java2
+
+package4
+)
+$com.simplecity.amp_library.ui.detail5
+4
+/com.simplecity.amp_library.ui.detail.DetailView7
+
+	interface8
+
+access9
+
+	protected10
+
+simple name11
+
+
+DetailView12
+T
+Ncom.simplecity.amp_library.ui.detail.DetailView#itemsLoaded(Ljava/util/List;)V14
+
+method15
+
+public16
+
+itemsLoaded17
+'
+!Recovered#typeBindingLViewModel;019
+
+unknown20
+
+
+uses21
+B
+<com.simplecity.amp_library.ui.detail.DetailView#setEmpty(Z)V23
+
+setEmpty24
+T
+Ncom.simplecity.amp_library.ui.detail.DetailView#showToast(Ljava/lang/String;)V26
+
+	showToast27
+W
+Qcom.simplecity.amp_library.ui.detail.DetailView#showTaggerDialog(LTaggerDialog;)V29
+
+showTaggerDialog30
+*
+$Recovered#typeBindingLTaggerDialog;032
+
+	has param33
+
+is type34
+Z
+Tcom.simplecity.amp_library.ui.detail.DetailView#showArtworkDialog(LMaterialDialog;)V36
+
+showArtworkDialog37
+,
+&Recovered#typeBindingLMaterialDialog;039
+W
+Qcom.simplecity.amp_library.ui.detail.DetailView#showInfoDialog(LMaterialDialog;)V41
+
+showInfoDialog42
+Z
+Tcom.simplecity.amp_library.ui.detail.DetailView#showUpgradeDialog(LMaterialDialog;)V44
+
+showUpgradeDialog45J
+
+1
+12Z
+
+3	
+354jÅ
+@
+25:
+252615 *
+1 (	26:3B
+	
+9
+16
+
+
+11
+27
+
+31
+313220
+@
+22:
+222315 *
+1 (	26:3B
+	
+9
+16
+
+
+11
+24
+9
+64
+678 *
+1	 	(:3B
+	
+9
+10
+
+
+11
+12
+
+38
+383920
+@
+43:
+434415 *
+1 (	26:3B
+	
+9
+16
+
+
+11
+45
+@
+35:
+353615 *
+1 (	26:3B
+	
+9
+16
+
+
+11
+37
+@
+13:
+131415 *
+1 (	26:3B
+	
+9
+16
+
+
+11
+17
+@
+40:
+404115 *
+1 (	26:3B
+	
+9
+16
+
+
+11
+42
+
+18
+181920
+@
+28:
+282915 *
+1 (	26:3B
+	
+9
+16
+
+
+11
+30rß
+
+131821*
+1 ($
+
+283133*
+1 ('
+
+283134*
+1( (4
+
+283121*
+1 ('
+
+353833*
+1 (*
+
+353834*
+1+ (8
+
+353821*
+1 (*
+
+403833*
+1 ('
+
+403834*
+1( (2
+
+403821*
+1 ('
+
+433833*
+1 (*
+
+433834*
+1+ (8
+
+433821*
+1 (*

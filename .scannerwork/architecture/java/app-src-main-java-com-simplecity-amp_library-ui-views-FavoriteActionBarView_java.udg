@@ -1,0 +1,400 @@
+
+1.0testepsi2_analyseepsiJavaFrontend"1750157056198*java2.BÎ
+U
+Papp/src/main/java/com/simplecity/amp_library/ui/views/FavoriteActionBarView.java2
+
+package4
+(
+#com.simplecity.amp_library.ui.views5
+>
+9com.simplecity.amp_library.ui.views.FavoriteActionBarView7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+FavoriteActionBarView12
+)
+#Recovered#typeBindingLFrameLayout;014
+
+unknown15
+
+extends16
+
+
+uses17
+I
+Ccom.simplecity.amp_library.ui.views.FavoriteActionBarView.imageView19
+
+field20
+
+	protected21
+
+	imageView22
+
+	ImageView24
+
+is type25
+
+BindView27
+
+annotated by28
+&
+ Recovered#typeBindingLBindView;030
+J
+Dcom.simplecity.amp_library.ui.views.FavoriteActionBarView.isFavorite32
+
+
+isFavorite33
+N
+Hcom.simplecity.amp_library.ui.views.FavoriteActionBarView.normalDrawable35
+
+private36
+
+normalDrawable37
+
+Drawable39
+P
+Jcom.simplecity.amp_library.ui.views.FavoriteActionBarView.selectedDrawable41
+
+selectedDrawable42
+`
+Zcom.simplecity.amp_library.ui.views.FavoriteActionBarView#<init>(LContext;LAttributeSet;)V44
+
+method45
+%
+Recovered#typeBindingLContext;047
+
+	has param48
+*
+$Recovered#typeBindingLAttributeSet;050
+
+calls51
+
+NonNull53
+%
+Recovered#typeBindingLNonNull;055
+
+Nullable57
+&
+ Recovered#typeBindingLNullable;059
+R
+Lcom.simplecity.amp_library.ui.views.FavoriteActionBarView#onFinishInflate()V61
+
+onFinishInflate62
+
+
+references63
+
+FrameLayout65
+Q
+Kcom.simplecity.amp_library.ui.views.FavoriteActionBarView#setIsFavorite(Z)V67
+
+setIsFavorite68
+I
+Ccom.simplecity.amp_library.ui.views.FavoriteActionBarView#toggle()V70
+
+toggle71J
+
+1
+12Z
+
+3	
+354j»
+
+46
+464715
+@
+69:
+697045 *
+12 2(26:3B
+	
+9
+10
+
+
+11
+71
+@
+43:
+434445 *
+1 (26:3B
+	
+9
+10
+
+
+11
+12
+@
+66:
+666745 *
+1+ +(26:3B
+	
+9
+10
+
+
+11
+68
+
+38
+383915
+9
+64
+678 *
+1 (#:3B
+	
+9
+10
+
+
+11
+12
+@
+31:
+313220 *
+1 (26:3B
+	
+9
+21
+
+
+11
+33
+@
+60:
+606145 *
+1 (26:3B
+	
+9
+21
+
+
+11
+62
+@
+34:
+343520 *
+1 (26:3B
+	
+9
+36
+
+
+11
+37
+
+58
+585915
+@
+18:
+181920 *
+1 (26:3B
+	
+9
+21
+
+
+11
+22
+
+52
+525315
+
+64
+646515
+
+26
+262715
+
+23
+232415
+
+13
+131415
+@
+40:
+404120 *
+1 (26:3B
+	
+9
+36
+
+
+11
+42
+
+29
+293015
+
+54
+545515
+
+56
+565715
+
+49
+495015rï
+
+
+61316*
+1, (7
+
+61317*
+1, (7
+
+182325*
+1 (
+
+182628*
+1 (
+
+182917*
+1 (
+
+182317*
+1 (
+
+182317*
+1 (
+
+343825*
+1 (
+
+343817*
+1 (
+
+343817*
+1 ($
+
+403825*
+1 (
+
+403817*
+1 (
+
+403817*
+1 (&
+
+434648*
+1+ (2
+
+434948*
+1F (R
+
+43651*
+1 (!
+
+434625*
+13 (:
+
+435228*
+1" (#
+
+435417*
+1# (*
+
+434617*
+1+ (2
+
+434925*
+1S (X
+
+435628*
+1< (=
+
+435817*
+1= (E
+
+434917*
+1F (R
+
+60663*
+1!	 !(
+
+606417*
+1!	 !(
+
+60663*
+1!	 !(
+
+60617*
+1# #(
+
+60663*
+1# #(
+
+603817*
+1%	 %(
+
+603463*
+1%	 %(
+
+603817*
+1&	 &(
+
+604063*
+1&	 &(
+
+60663*
+1(	 ((
+
+606651*
+1(	 ((
+
+603163*
+1( ((!
+
+66617*
+1, ,(
+
+66663*
+1, ,(
+
+663163*
+1,  ,(*
+
+66617*
+1- -(
+
+66663*
+1- -(
+
+663163*
+1- -(
+
+661863*
+1. .(
+
+662317*
+1. .(
+
+661863*
+1. .(
+
+663817*
+1.5 .(E
+
+664063*
+1.5 .(E
+
+663817*
+1.H .(V
+
+663463*
+1.H .(V
+
+69663*
+13	 3(
+
+696651*
+13	 3(
+
+693163*
+13 3("

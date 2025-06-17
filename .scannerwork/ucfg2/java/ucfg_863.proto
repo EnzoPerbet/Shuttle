@@ -1,0 +1,30 @@
+
+Acom.simplecity.amp_library.utils.SettingsManager#getUsePalette()Zp
+dC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaÈ È( "1*Ø
+1
+É É(•
+’
+
+É É('
+%0java.lang.String"__id*f
+
+__unknown_file (J*H2
+0com.simplecity.amp_library.utils.SettingsManager"
+KEY_PREF_PALETTE˜
+•
+
+É É(.
+%1boolean"Ncom.simplecity.amp_library.utils.SettingsManager#getBool(Ljava/lang/String;Z)Z*P
+
+__unknown_file (42
+0com.simplecity.amp_library.utils.SettingsManager*4
+
+__unknown_file (
+
+%0java.lang.String* 
+
+__unknown_file (2"
+
+É É(/
+""B42
+0com.simplecity.amp_library.utils.SettingsManagerHX

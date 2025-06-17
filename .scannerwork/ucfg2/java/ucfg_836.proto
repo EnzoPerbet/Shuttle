@@ -1,0 +1,96 @@
+
+\com.simplecity.amp_library.utils.SettingsManager#getArtistColumnCountKey()Ljava/lang/String;p
+dC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.java› ›(*"8*ã
+2
+¡/ ¡(Mh
+f
+
+¡/ ¡(M
+%4java.lang.String"__id*:
+
+__unknown_file (
+artist_column_count_tabletc
+a
+
+¡) ¡(M
+keyjava.lang.String"__id*4
+
+__unknown_file (
+
+%4java.lang.String*
+1*g
+4
+Ÿ Ÿ(nQ
+O
+
+Ÿ Ÿ(n
+keyjava.lang.String"__id*"
+
+__unknown_file (
+
+%1*
+1*Î
+5
+ŸR Ÿ(nf
+d
+
+ŸR Ÿ(n
+%3java.lang.String"__id*8
+
+__unknown_file (
+artist_column_count_landP
+N
+
+ŸR Ÿ(n
+%1"__id*4
+
+__unknown_file (
+
+%3java.lang.String*
+4*Õ
+6
+Ÿ, Ÿ(Om
+k
+
+Ÿ, Ÿ(O
+%2java.lang.String"__id*?
+
+__unknown_file (#!
+artist_column_count_tablet_landP
+N
+
+Ÿ, Ÿ(O
+%1"__id*4
+
+__unknown_file (
+
+%2java.lang.String*
+4*å
+8
+œ œ(,a
+_
+
+œ œ(,
+%0java.lang.String"__id*3
+
+__unknown_file (
+artist_column_countc
+a
+
+œ œ(-
+keyjava.lang.String"__id*4
+
+__unknown_file (
+
+%0java.lang.String*
+2
+5
+6
+1*8
+1
+¤ ¤("'
+
+¤ ¤(
+
+keyjava.lang.StringB42
+0com.simplecity.amp_library.utils.SettingsManager

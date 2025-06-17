@@ -1,0 +1,31 @@
+
+jcom.simplecity.amp_library.model.AlbumArtist$Builder#build()Lcom/simplecity/amp_library/model/AlbumArtist;j
+`C:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/AlbumArtist.javaU U( "1*é
+1V# V('‹
+ˆ
+V# V(,
+%0java.lang.String"__id*^
+
+__unknown_file (B*@6
+4com.simplecity.amp_library.model.AlbumArtist$Builder"
+namenl
+V V("2
+%1,com.simplecity.amp_library.model.AlbumArtist",com.simplecity.amp_library.model.AlbumArtist™
+–
+V V(:
+%2"Xcom.simplecity.amp_library.model.AlbumArtist#<init>(Ljava/lang/String;Ljava/util/List;)V*P
+
+__unknown_file (4
+2
+%1,com.simplecity.amp_library.model.AlbumArtist*4
+
+__unknown_file (
+
+%0java.lang.String*"
+
+__unknown_file (
+"""@
+V V(;4
+2
+%1,com.simplecity.amp_library.model.AlbumArtistB86
+4com.simplecity.amp_library.model.AlbumArtist$BuilderH

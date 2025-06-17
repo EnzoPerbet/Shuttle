@@ -1,0 +1,134 @@
+
+[com.simplecity.amp_library.ui.modelviews.HorizontalRecyclerView#equals(Ljava/lang/Object;)Z}
+sC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/HorizontalRecyclerView.javaM M("startingBlock*«
+2S[ S(_Y
+W
+S[ S(x
+%8"	__compare*
+Sq S(s
+==*
+S[ S(p
+""*
+St S(x
+""<
+:
+S[ S(x
+%6"__id*"
+
+__unknown_file (
+
+%8*
+1*P
+3S* S(:<
+:
+S* S(X
+%6"__id*"
+
+__unknown_file (
+
+%7*
+1*€
+startingBlockM M(#ˆ
+…
+L L(
+%9"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+ojava.lang.ObjectU
+S
+M! M("
+ojava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%9*
+9*„
+4Q? Q(@‘
+Ž
+Q Q(AG
+that?com.simplecity.amp_library.ui.modelviews.HorizontalRecyclerView"__id*3
+
+__unknown_file (
+
+ojava.lang.ObjectY
+W
+S S('
+%5"	__compare*
+S  S("
+!=*
+S S(
+""*
+S# S('
+""*
+2
+3*!
+5O< O(A"
+O5 O(B
+""*õ
+6O O(!¿¼
+O O(#
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*_
+
+__unknown_file (CA
+?com.simplecity.amp_library.ui.modelviews.HorizontalRecyclerView2
+getClass()“
+O' O(3
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
+
+__unknown_file (
+
+ojava.lang.Object2
+getClass()…
+‚
+O O(3
+%4boolean"	__compare*
+O$ O(&
+!=*#
+O O(#
+
+%2java.lang.Class*#
+O' O(3
+
+%3java.lang.Class*
+4
+5*Š
+7O O(s
+q
+O O(
+%1boolean"	__compare*
+O O(
+==*#
+O O(
+
+ojava.lang.Object*
+O O(
+""*
+5
+6*!
+8N N(""
+N N(#
+""*É
+9N N(±
+®
+N N(
+%0boolean"	__compare*
+N N(
+==*O
+N N(CA
+?com.simplecity.amp_library.ui.modelviews.HorizontalRecyclerView*#
+N N(
+
+ojava.lang.Object*
+7
+8*!
+1S S(y"
+S S(y
+"":!
+M M("
+ojava.lang.ObjectBCA
+?com.simplecity.amp_library.ui.modelviews.HorizontalRecyclerViewHX

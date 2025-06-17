@@ -1,0 +1,62 @@
+
+Lcom.simplecity.amp_library.ui.fragments.EqualizerFragment#%field_initializer
+__unknown_file ("1*Ú
+1 (Ì
+Í
+w
+mC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/fragments/EqualizerFragment.javaO O(#W;
+9com.simplecity.amp_library.ui.fragments.EqualizerFragment"
+eqCustomPresetPosition"__id*
+ (2Í
+Á
+w
+mC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/fragments/EqualizerFragment.javaS S(_R;
+9com.simplecity.amp_library.ui.fragments.EqualizerFragment"
+mEqualizerSeekBar"__id*
+ (
+""¥±
+w
+mC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/fragments/EqualizerFragment.javah. h(;
+%0java.lang.StringBuilder"java.lang.StringBuilder“
+œ
+w
+mC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/fragments/EqualizerFragment.javah* h(=
+%1"!java.lang.StringBuilder#<init>()V*+
+ (
+
+%0java.lang.StringBuilderˇ
+¸
+w
+mC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/fragments/EqualizerFragment.javah h(>N;
+9com.simplecity.amp_library.ui.fragments.EqualizerFragment"
+formatBuilder"__id*+
+ (
+
+%0java.lang.StringBuilder¨©
+w
+mC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/fragments/EqualizerFragment.javai& i(/
+%2java.util.Formatter"java.util.Formatteræ
+ª
+w
+mC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/fragments/EqualizerFragment.javai" i(S
+%3"Ejava.util.Formatter#<init>(Ljava/lang/Appendable;Ljava/util/Locale;)V*'
+ (
+
+%2java.util.Formatter*6
+ (*
+(
+formatBuilderjava.lang.StringBuilder*
+ (
+""˜
+Ù
+w
+mC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/fragments/EqualizerFragment.javai i(TJ;
+9com.simplecity.amp_library.ui.fragments.EqualizerFragment"
+	formatter"__id*'
+ (
+
+%2java.util.Formatter"ç
+v
+mC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/fragments/EqualizerFragment.java+ º(
+implicit returnB=;
+9com.simplecity.amp_library.ui.fragments.EqualizerFragment

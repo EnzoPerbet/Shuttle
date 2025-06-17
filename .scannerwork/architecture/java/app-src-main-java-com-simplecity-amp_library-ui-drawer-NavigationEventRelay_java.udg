@@ -1,0 +1,901 @@
+
+1.0testepsi2_analyseepsiJavaFrontend"1750157070188*java2.BÐ 
+U
+Papp/src/main/java/com/simplecity/amp_library/ui/drawer/NavigationEventRelay.java2
+
+package4
+)
+$com.simplecity.amp_library.ui.drawer5
+>
+9com.simplecity.amp_library.ui.drawer.NavigationEventRelay7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+NavigationEventRelay12
+T
+Ncom.simplecity.amp_library.ui.drawer.NavigationEventRelay.librarySelectedEvent14
+
+field15
+
+	protected16
+
+librarySelectedEvent17
+O
+Icom.simplecity.amp_library.ui.drawer.NavigationEventRelay$NavigationEvent19
+
+unknown20
+
+is type21
+
+
+uses22
+
+
+references23
+
+calls24
+T
+Ncom.simplecity.amp_library.ui.drawer.NavigationEventRelay$NavigationEvent$Type26
+e
+_com.simplecity.amp_library.ui.drawer.NavigationEventRelay$NavigationEvent$Type.LIBRARY_SELECTED28
+W
+Qcom.simplecity.amp_library.ui.drawer.NavigationEventRelay.sleepTimerSelectedEvent30
+
+sleepTimerSelectedEvent31
+i
+ccom.simplecity.amp_library.ui.drawer.NavigationEventRelay$NavigationEvent$Type.SLEEP_TIMER_SELECTED33
+V
+Pcom.simplecity.amp_library.ui.drawer.NavigationEventRelay.equalizerSelectedEvent35
+
+equalizerSelectedEvent36
+g
+acom.simplecity.amp_library.ui.drawer.NavigationEventRelay$NavigationEvent$Type.EQUALIZER_SELECTED38
+U
+Ocom.simplecity.amp_library.ui.drawer.NavigationEventRelay.settingsSelectedEvent40
+
+settingsSelectedEvent41
+f
+`com.simplecity.amp_library.ui.drawer.NavigationEventRelay$NavigationEvent$Type.SETTINGS_SELECTED43
+T
+Ncom.simplecity.amp_library.ui.drawer.NavigationEventRelay.supportSelectedEvent45
+
+supportSelectedEvent46
+e
+_com.simplecity.amp_library.ui.drawer.NavigationEventRelay$NavigationEvent$Type.SUPPORT_SELECTED48
+T
+Ncom.simplecity.amp_library.ui.drawer.NavigationEventRelay.foldersSelectedEvent50
+
+foldersSelectedEvent51
+e
+_com.simplecity.amp_library.ui.drawer.NavigationEventRelay$NavigationEvent$Type.FOLDERS_SELECTED53
+A
+;com.simplecity.amp_library.ui.drawer.NavigationEventRelay$155
+Q
+Kcom.simplecity.amp_library.ui.drawer.NavigationEventRelay$1#isActionable()Z57
+
+method58
+
+isActionable59
+E
+?com.simplecity.amp_library.ui.drawer.NavigationEventRelay.relay61
+
+private62
+
+relay63
+
+PublishRelay65
+I
+Ccom.simplecity.amp_library.ui.drawer.NavigationEventRelay#<init>()V67
+
+Inject69
+
+annotated by70
+$
+Recovered#typeBindingLInject;072
+˜
+‘com.simplecity.amp_library.ui.drawer.NavigationEventRelay#sendEvent(Lcom/simplecity/amp_library/ui/drawer/NavigationEventRelay$NavigationEvent;)V74
+
+	sendEvent75
+
+	has param76
+
+NonNull78
+%
+Recovered#typeBindingLNonNull;080
+W
+Qcom.simplecity.amp_library.ui.drawer.NavigationEventRelay#getEvents()LObservable;82
+
+	getEvents83
+
+
+Observable85
+
+returns86
+
+NavigationEvent87
+
+
+annotation88
+
+
+Type89
+
+LIBRARY_SELECTED90
+
+FOLDERS_SELECTED91
+
+SLEEP_TIMER_SELECTED92
+
+EQUALIZER_SELECTED93
+
+SETTINGS_SELECTED94
+
+SUPPORT_SELECTED95
+f
+`com.simplecity.amp_library.ui.drawer.NavigationEventRelay$NavigationEvent$Type.PLAYLIST_SELECTED97
+
+PLAYLIST_SELECTED98
+b
+[com.simplecity.amp_library.ui.drawer.NavigationEventRelay$NavigationEvent$Type.GO_TO_ARTIST100
+
+GO_TO_ARTIST101
+a
+Zcom.simplecity.amp_library.ui.drawer.NavigationEventRelay$NavigationEvent$Type.GO_TO_ALBUM103
+
+GO_TO_ALBUM104
+a
+Zcom.simplecity.amp_library.ui.drawer.NavigationEventRelay$NavigationEvent$Type.GO_TO_GENRE106
+
+GO_TO_GENRE107
+U
+Ncom.simplecity.amp_library.ui.drawer.NavigationEventRelay$NavigationEvent.type109
+
+type110
+U
+Ncom.simplecity.amp_library.ui.drawer.NavigationEventRelay$NavigationEvent.data112
+
+data113
+
+Nullable115
+'
+ Recovered#typeBindingLNullable;0117
+]
+Vcom.simplecity.amp_library.ui.drawer.NavigationEventRelay$NavigationEvent.isActionable119
+n
+gcom.simplecity.amp_library.ui.drawer.NavigationEventRelay$NavigationEvent#<init>(ILjava/lang/Object;Z)V121
+m
+fcom.simplecity.amp_library.ui.drawer.NavigationEventRelay$NavigationEvent#<init>(ILjava/lang/Object;)V123
+[
+Tcom.simplecity.amp_library.ui.drawer.NavigationEventRelay$NavigationEvent#<init>(I)V125
+`
+Ycom.simplecity.amp_library.ui.drawer.NavigationEventRelay$NavigationEvent#isActionable()Z127J
+
+1
+12Z
+
+3	
+354j†
+E
+105>
+10510615 *
+17 7(225:3B
+	
+9
+10
+
+11
+107
+E
+102>
+10210315 *
+16 6(225:3B
+	
+9
+10
+
+11
+104
+A
+52;
+525315 *
+1/ /(225:3B
+	
+9
+10
+
+
+11
+91
+?
+189
+18198 *
+1+ +((26:3B
+	
+9
+10
+
+
+11
+87
+A
+47;
+474815 *
+13 3(225:3B
+	
+9
+10
+
+
+11
+95
+E
+108>
+10810915 *
+1:	 :(
+218:3B
+	
+9
+10
+
+11
+110
+D
+124=
+12412558 *
+1Z	 Z(218:3B
+	
+9
+16
+
+
+11
+87
+A
+56;
+565758 *
+1	 (
+254:3B
+	
+9
+10
+
+
+11
+59
+@
+81:
+818258 *
+1& &(26:3B
+	
+9
+10
+
+
+11
+83
+@
+49:
+495015 *
+1 (26:3B
+	
+9
+16
+
+
+11
+51
+
+116
+11611720
+A
+27;
+272815 *
+1. .(225:3B
+	
+9
+10
+
+
+11
+90
+
+77
+777820
+C
+99=
+9910015 *
+15 5(225:3B
+	
+9
+10
+
+11
+101
+
+64
+646520
+@
+34:
+343515 *
+1 (26:3B
+	
+9
+16
+
+
+11
+36
+@
+44:
+444515 *
+1 (26:3B
+	
+9
+16
+
+
+11
+46
+
+68
+686920
+A
+32;
+323315 *
+10 0(225:3B
+	
+9
+10
+
+
+11
+92
+D
+120=
+12012158 *
+1H	 H(218:3B
+	
+9
+10
+
+
+11
+87
+A
+42;
+424315 *
+12 2(225:3B
+	
+9
+10
+
+
+11
+94
+
+71
+717220
+4
+54.
+54558 *
+1n (o249:3B
+	
+9
+16
+9
+64
+678 *
+1 (":3B
+	
+9
+10
+
+
+11
+12
+A
+37;
+373815 *
+11 1(225:3B
+	
+9
+10
+
+
+11
+93
+
+84
+848520
+D
+122=
+12212358 *
+1R	 R(218:3B
+	
+9
+10
+
+
+11
+87
+D
+118=
+11811915 *
+1@	 @(218:3B
+	
+9
+62
+
+
+11
+59
+@
+39:
+394015 *
+1 (26:3B
+	
+9
+16
+
+
+11
+41
+A
+25;
+252688 *
+1- -(218:3B
+	
+9
+10
+
+
+11
+89
+@
+29:
+293015 *
+1 (26:3B
+	
+9
+16
+
+
+11
+31
+@
+66:
+666758 *
+1 (26:3B
+	
+9
+10
+
+
+11
+12
+E
+111>
+11111215 *
+1=	 =(
+218:3B
+	
+9
+10
+
+11
+113
+@
+73:
+737458 *
+1" "(26:3B
+	
+9
+10
+
+
+11
+75
+A
+96;
+969715 *
+14 4(225:3B
+	
+9
+10
+
+
+11
+98
+D
+126=
+12612758 *
+1^	 ^(218:3B
+	
+9
+10
+
+
+11
+59
+@
+60:
+606115 *
+1 (26:3B
+	
+9
+62
+
+
+11
+63
+@
+13:
+131415 *
+1 (26:3B
+	
+9
+16
+
+
+11
+17
+
+79
+798020
+
+114
+11411520r±
+
+131821*
+1 (
+
+131822*
+1 (
+
+131823*
+1 (
+
+131822*
+1 (0
+
+131824*
+17 (F
+
+131822*
+1G (V
+
+131823*
+1G (V
+
+132522*
+1W ([
+
+132523*
+1W ([
+
+132723*
+1\ (l
+
+291821*
+1 (
+
+291822*
+1 (
+
+291823*
+1 (
+
+291822*
+1 (3
+
+291824*
+1: (I
+
+291822*
+1J (Y
+
+291823*
+1J (Y
+
+292522*
+1Z (^
+
+292523*
+1Z (^
+
+293223*
+1_ (s
+
+341821*
+1 (
+
+341822*
+1 (
+
+341823*
+1 (
+
+341822*
+1 (2
+
+341824*
+19 (H
+
+341822*
+1I (X
+
+341823*
+1I (X
+
+342522*
+1Y (]
+
+342523*
+1Y (]
+
+343723*
+1^ (p
+
+391821*
+1 (
+
+391822*
+1 (
+
+391823*
+1 (
+
+391822*
+1 (1
+
+391824*
+18 (G
+
+391822*
+1H (W
+
+391823*
+1H (W
+
+392522*
+1X (\
+
+392523*
+1X (\
+
+394223*
+1] (n
+
+441821*
+1 (
+
+441822*
+1 (
+
+441823*
+1 (
+
+441822*
+1 (0
+
+441824*
+17 (F
+
+441822*
+1G (V
+
+441823*
+1G (V
+
+442522*
+1W ([
+
+442523*
+1W ([
+
+444723*
+1\ (l
+
+491821*
+1 (
+
+491822*
+1 (
+
+491823*
+1 (
+
+491822*
+1 (0
+
+491824*
+17 (F
+
+491822*
+1G (V
+
+491823*
+1G (V
+
+492522*
+1W ([
+
+492523*
+1W ([
+
+495223*
+1\ (l
+
+606421*
+1 (
+
+606422*
+1 (
+
+601822*
+1 ()
+
+601823*
+1 ()
+
+606422*
+1+ (0
+
+666870*
+1 (
+
+667122*
+1 (
+
+66624*
+1 ( 
+
+731876*
+1"$ "(3
+
+731821*
+1"4 "(9
+
+737770*
+1" "(
+
+737922*
+1" "(#
+
+731822*
+1"$ "(3
+
+731823*
+1"$ "(3
+
+736023*
+1#	 #(
+
+736422*
+1#	 #(
+
+736023*
+1#	 #(
+
+818486*
+1& &(
+
+818422*
+1& &(
+
+811822*
+1& &(&
+
+811823*
+1& &(&
+
+816422*
+1( ((
+
+816023*
+1( ((
+
+1082570*
+1:	 :(
+
+
+1082522*
+1:
+ :(
+
+1082523*
+1:
+ :(
+
+11111470*
+1=	 =(
+
+
+11111622*
+1=
+ =(
+
+1201824*
+1H H(
+
+12011470*
+1H* H(+
+
+12011622*
+1H+ H(3
+
+1201822*
+1I I(
+
+1201823*
+1I I(
+
+12010823*
+1I I(
+
+1201822*
+1J J(
+
+1201823*
+1J J(
+
+12011123*
+1J J(
+
+1201822*
+1K K(
+
+1201823*
+1K K(
+
+12011823*
+1K K(
+
+1221824*
+1R R(
+
+12211470*
+1R* R(+
+
+12211622*
+1R+ R(3
+
+1221822*
+1S S(
+
+1221823*
+1S S(
+
+12210823*
+1S S(
+
+1221822*
+1T T(
+
+1221823*
+1T T(
+
+12211123*
+1T T(
+
+1241824*
+1Z	 Z(
+
+1241822*
+1[ [(
+
+1241823*
+1[ [(
+
+12410823*
+1[ [(
+
+12611823*
+1_ _( 

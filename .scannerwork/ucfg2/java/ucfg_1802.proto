@@ -1,0 +1,174 @@
+
+Acom.simplecity.amp_library.model.Song#equals(Ljava/lang/Object;)Ze
+YC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Song.javaÇ Ç("startingBlock*€
+2
+Í= Í(Dj
+h
+
+Í= Í(T
+%7boolean"	__compare*
+
+ÍE Í(G
+==*
+
+Í= Í(D
+""*
+
+ÍH Í(T
+""*
+1*‡
+startingBlock
+Ç Ç(#Š
+‡
+
+Æ Æ(
+%8"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+ojava.lang.ObjectW
+U
+
+Ç! Ç("
+ojava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%8*
+10*ƒ
+4
+Í  Í((j
+h
+
+Í  Í(9
+%6boolean"	__compare*
+
+Í) Í(+
+==*
+
+Í  Í((
+""*
+
+Í, Í(9
+""*
+2
+1*€
+5
+Ë Ë(x
+v
+
+Ë Ë(-
+song%com.simplecity.amp_library.model.Song"__id*3
+
+__unknown_file (
+
+ojava.lang.Objectj
+h
+
+Í Í(
+%5boolean"	__compare*
+
+Í Í(
+==*
+
+Í Í(
+""*
+
+Í Í(
+""*	
+2
+4
+1*%
+6
+É< É(A"
+
+É5 É(B
+""*é
+7
+É É(!§¤
+
+É É(#
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*E
+
+__unknown_file ()'
+%com.simplecity.amp_library.model.Song2
+getClass()•’
+
+É' É(3
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
+
+__unknown_file (
+
+ojava.lang.Object2
+getClass()
+Š
+
+É É(3
+%4boolean"	__compare*
+
+É$ É(&
+!=*%
+
+É É(#
+
+%2java.lang.Class*%
+
+É' É(3
+
+%3java.lang.Class*
+5
+6*”
+8
+É É({
+y
+
+É É(
+%1boolean"	__compare*
+
+É É(
+==*%
+
+É É(
+
+ojava.lang.Object*
+
+É É(
+""*
+6
+7*%
+9
+È È(""
+
+È È(#
+""*º
+10
+È È(Ÿ
+œ
+
+È È(
+%0boolean"	__compare*
+
+È È(
+==*7
+
+È È()'
+%com.simplecity.amp_library.model.Song*%
+
+È È(
+
+ojava.lang.Object*
+8
+9*%
+1
+Í Í(U"
+
+Í Í(U
+"":#
+
+Ç Ç("
+ojava.lang.ObjectB)'
+%com.simplecity.amp_library.model.SongHX

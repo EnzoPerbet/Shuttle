@@ -1,0 +1,220 @@
+
+1.0testepsi2_analyseepsiJavaFrontend"1750157032088*java2.B¶
+
+W
+Rapp/src/main/java/com/simplecity/amp_library/ui/modelviews/ArtworkLoadingView.java2
+
+package4
+-
+(com.simplecity.amp_library.ui.modelviews5
+@
+;com.simplecity.amp_library.ui.modelviews.ArtworkLoadingView7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+ArtworkLoadingView12
++
+%Recovered#typeBindingLBaseViewModel;014
+
+unknown15
+
+extends16
+
+
+uses17
+L
+Fcom.simplecity.amp_library.ui.modelviews.ArtworkLoadingView$ViewHolder19
+
+
+references20
+P
+Jcom.simplecity.amp_library.ui.modelviews.ArtworkLoadingView#getViewType()I22
+
+method23
+
+getViewType24
+S
+Mcom.simplecity.amp_library.ui.modelviews.ArtworkLoadingView#getLayoutResId()I26
+
+getLayoutResId27
+®
+°com.simplecity.amp_library.ui.modelviews.ArtworkLoadingView#createViewHolder(LViewGroup;)Lcom/simplecity/amp_library/ui/modelviews/ArtworkLoadingView$ViewHolder;29
+
+createViewHolder30
+
+returns31
+'
+!Recovered#typeBindingLViewGroup;033
+
+	has param34
+
+is type35
+
+calls36
+
+
+ViewHolder37
+,
+&Recovered#typeBindingLBaseViewHolder;039
+\
+Vcom.simplecity.amp_library.ui.modelviews.ArtworkLoadingView$ViewHolder#<init>(LView;)V41
+"
+Recovered#typeBindingLView;043
+i
+ccom.simplecity.amp_library.ui.modelviews.ArtworkLoadingView$ViewHolder#toString()Ljava/lang/String;45
+
+toString46J
+
+1
+12Z
+
+3	
+354jò
+A
+44;
+444523 *
+1#	 #(
+218:3B
+	
+9
+10
+
+
+11
+46
+9
+64
+678 *
+1 ( :3B
+	
+9
+10
+
+
+11
+12
+@
+28:
+282923 *
+1 (26:3B
+	
+9
+10
+
+
+11
+30
+
+42
+424315
+
+38
+383915
+A
+40;
+404123 *
+1	 (218:3B
+	
+9
+10
+
+
+11
+37
+
+13
+131415
+?
+189
+18198 *
+1 (#26:3B
+	
+9
+10
+
+
+11
+37
+@
+21:
+212223 *
+1 (26:3B
+	
+9
+10
+
+
+11
+24
+@
+25:
+252623 *
+1 (26:3B
+	
+9
+10
+
+
+11
+27
+
+32
+323315r«
+
+61316*
+1) (6
+
+61317*
+1) (6
+
+61817*
+1J (T
+
+61820*
+1J (T
+
+281831*
+1 (
+
+283234*
+1( (1
+
+281817*
+1 (
+
+281820*
+1 (
+
+283235*
+12 (8
+
+283217*
+1( (1
+
+281836*
+1 (
+
+183816*
+1, (:
+
+183817*
+1, (:
+
+404234*
+1 (
+
+401836*
+1 (
+
+404235*
+1  ((
+
+404217*
+1 (

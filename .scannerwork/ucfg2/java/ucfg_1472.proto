@@ -1,0 +1,134 @@
+
+Qcom.simplecity.amp_library.ui.modelviews.PlaylistView#equals(Ljava/lang/Object;)Zs
+iC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/PlaylistView.javad d("startingBlock*«
+2jC j(GY
+W
+jC j(X
+%8"	__compare*
+jQ j(S
+==*
+jC j(P
+""*
+jT j(X
+""<
+:
+jC j(X
+%6"__id*"
+
+__unknown_file (
+
+%8*
+1*P
+3j" j(*<
+:
+j" j(@
+%6"__id*"
+
+__unknown_file (
+
+%7*
+1*€
+startingBlockd d(#ˆ
+…
+c c(
+%9"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+ojava.lang.ObjectU
+S
+d! d("
+ojava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%9*
+9*ú
+4h+ h(,‡
+„
+h h(-=
+that5com.simplecity.amp_library.ui.modelviews.PlaylistView"__id*3
+
+__unknown_file (
+
+ojava.lang.ObjectY
+W
+j j(
+%5"	__compare*
+j j(
+!=*
+j j(
+""*
+j j(
+""*
+2
+3*!
+5f< f(A"
+f5 f(B
+""*ë
+6f f(!µ²
+f f(#
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*U
+
+__unknown_file (97
+5com.simplecity.amp_library.ui.modelviews.PlaylistView2
+getClass()“
+f' f(3
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
+
+__unknown_file (
+
+ojava.lang.Object2
+getClass()…
+‚
+f f(3
+%4boolean"	__compare*
+f$ f(&
+!=*#
+f f(#
+
+%2java.lang.Class*#
+f' f(3
+
+%3java.lang.Class*
+4
+5*Š
+7f f(s
+q
+f f(
+%1boolean"	__compare*
+f f(
+==*#
+f f(
+
+ojava.lang.Object*
+f f(
+""*
+5
+6*!
+8e e(""
+e e(#
+""*¿
+9e e(§
+¤
+e e(
+%0boolean"	__compare*
+e e(
+==*E
+e e(97
+5com.simplecity.amp_library.ui.modelviews.PlaylistView*#
+e e(
+
+ojava.lang.Object*
+7
+8*!
+1j j(Y"
+j j(Y
+"":!
+d d("
+ojava.lang.ObjectB97
+5com.simplecity.amp_library.ui.modelviews.PlaylistViewHX
