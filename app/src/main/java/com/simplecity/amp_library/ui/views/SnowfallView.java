@@ -164,20 +164,22 @@ public class SnowfallView extends View {
     }
 
     void addSnow(int numFlakes) {
-        for (int i = 0; i < numFlakes; i++) {
-            final double angle = toRadians(lerp(MIN_ANGLE, MAX_ANGLE, snowRng.nextDouble()));
-            final float speed = lerp(MIN_SPEED, MAX_SPEED, snowRng.nextFloat());
-            final float velX = (float) ((double) speed * cos(angle));
-            final float velY = (float) ((double) speed * sin(angle));
-            final float size = lerp(MIN_SIZE, MAX_SIZE, snowRng.nextFloat());
-            final float startX = lerp(0f, (float) getWidth(), snowRng.nextFloat());
-            float startY = lerp(0f, (float) getHeight(), snowRng.nextFloat());
-            startY -= (float) getHeight() - size;
-            final int alpha = (int) lerp((float) MIN_ALPHA, (float) MAX_ALPHA, snowRng.nextFloat());
-            snowflakes.add(new Snowflake(startX, startY, velX, velY, size, alpha));
-        }
-        invalidate();
+    for (int i = 0; i < numFlakes; i++) {
+        final double angle = toRadians(lerp(MIN_ANGLE, MAX_ANGLE, snowRng.nextDouble()));
+        final float speed = lerp(MIN_SPEED, MAX_SPEED, snowRng.nextFloat());
+        final float velX = (float) (speed * cos(angle));
+        final float velY = (float) (speed * sin(angle));
+        final float size = lerp(MIN_SIZE, MAX_SIZE, snowRng.nextFloat());
+        final float startX = lerp(0f, (float) getWidth(), snowRng.nextFloat());
+        float startY = lerp(0f, (float) getHeight(), snowRng.nextFloat());
+        startY -= (float) getHeight() - size;
+        
+        final int alpha = snowRng.nextInt(MAX_ALPHA - MIN_ALPHA + 1) + MIN_ALPHA;
+
+        snowflakes.add(new Snowflake(startX, startY, velX, velY, size, alpha));
     }
+    invalidate();
+}
 
     public void removeSnow() {
         if (snowflakes.size() > 0) {
