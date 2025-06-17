@@ -1,45 +1,22 @@
 
-5com.simplecity.amp_library.utils.AnimUtils#lerp(FFF)Fh
-^C:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/AnimUtils.java ("1*Ø
-1 (a
-_
- (
-%0float"__calculate*
- (
--*
- (
-""*
- (
-""h
-f
- (
-%1float"__calculate*
- (
-**
- (
-
-%0float*
- (
-""h
-f
- (
-%2float"__calculate*
- (
-+*
- (
-""*
- (
-
-%1float"
- (
-"": 
+Rcom.simplecity.amp_library.http.lastfm.LastFmTrack#getImageUrl()Ljava/lang/String;p
+fC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/http/lastfm/LastFmTrack.java ("1* 
+1 (²
+¯
++ (0>
+%08com.simplecity.amp_library.http.lastfm.LastFmTrack$Track"__id*]
 
-__unknown_file (
-"": 
+__unknown_file (A*?4
+2com.simplecity.amp_library.http.lastfm.LastFmTrack"
+trackÇ
+Ä
++ (6I
+%1Ccom.simplecity.amp_library.http.lastfm.LastFmTrack$Track$TrackAlbum"__id*g
 
-__unknown_file (
-"": 
-
-__unknown_file (
-""B.",
-*com.simplecity.amp_library.utils.AnimUtilsHX
+__unknown_file (K*I
+>
+%08com.simplecity.amp_library.http.lastfm.LastFmTrack$Track"
+album"
+ (?
+""B64
+2com.simplecity.amp_library.http.lastfm.LastFmTrackH

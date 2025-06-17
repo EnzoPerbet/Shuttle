@@ -1,7 +1,8 @@
 Othis
-Ä Ä("9com.simplecity.amp_library.ui.screens.drawer.DrawerParent"J6
-4
+À À( "9com.simplecity.amp_library.ui.screens.drawer.DrawerParent#timeRemaining
+À! À(3"long"C1
+/
 
-Å Å("#get-field# selectable:Bboolean
+Á Á(*"#set-field# timeRemaining:
 
-Å Å(*mC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/drawer/DrawerParent.java
+Â Â(*mC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/drawer/DrawerParent.java

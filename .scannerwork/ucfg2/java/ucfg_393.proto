@@ -1,53 +1,46 @@
 
-Eandroid.support.design.widget.CustomCollapsingTextHelper#isClose(FF)Zx
-lC:/Users/enzo.perbet/Shuttle/app/src/main/java/android/support/design/widget/CustomCollapsingTextHelper.javaÇ Ç(""1*î
-1
-É É(i
-g
-
-É É(+
-%0float"__calculate*
-
-É É(
--*
-
-É É(
-""*
-
-É  É(+
-""è
-å
-
-É É(,
-%1float"java.lang.Math#abs(F)F*.
-
-__unknown_file ("
-java.lang.Math*)
-
-__unknown_file (
-
-%0floatp
-n
-
-É É(5
-%2boolean"	__compare*
-
-É- É(.
-<*
-
-É É(,
-
-%1float*
-
-É/ É(5
-"""
-
-É É(6
-"": 
-
-__unknown_file (
-"": 
-
-__unknown_file (
-""B<":
-8android.support.design.widget.CustomCollapsingTextHelperX
+Kandroid.support.design.widget.CustomCollapsingTextHelper#%field_initializer
+__unknown_file ("1*ù
+1 (Î
+Ë
+v
+lC:/Users/enzo.perbet/Shuttle/app/src/main/java/android/support/design/widget/CustomCollapsingTextHelper.javaE E(?T:
+8android.support.design.widget.CustomCollapsingTextHelper"
+mExpandedTextGravity"__id*
+ (
+""Ï
+È
+v
+lC:/Users/enzo.perbet/Shuttle/app/src/main/java/android/support/design/widget/CustomCollapsingTextHelper.javaF F(@U:
+8android.support.design.widget.CustomCollapsingTextHelper"
+mCollapsedTextGravity"__id*
+ (
+""Ê
+„
+v
+lC:/Users/enzo.perbet/Shuttle/app/src/main/java/android/support/design/widget/CustomCollapsingTextHelper.javaG G()Q:
+8android.support.design.widget.CustomCollapsingTextHelper"
+mExpandedTextSize"__id*
+ (2Á
+‰
+v
+lC:/Users/enzo.perbet/Shuttle/app/src/main/java/android/support/design/widget/CustomCollapsingTextHelper.javaH H(*R:
+8android.support.design.widget.CustomCollapsingTextHelper"
+mCollapsedTextSize"__id*
+ (2Â
+‚
+v
+lC:/Users/enzo.perbet/Shuttle/app/src/main/java/android/support/design/widget/CustomCollapsingTextHelper.javak k((P:
+8android.support.design.widget.CustomCollapsingTextHelper"
+mExpandedSubSize"__id*
+ (22Ê
+„
+v
+lC:/Users/enzo.perbet/Shuttle/app/src/main/java/android/support/design/widget/CustomCollapsingTextHelper.javap p()Q:
+8android.support.design.widget.CustomCollapsingTextHelper"
+mCollapsedSubSize"__id*
+ (2"å
+u
+lC:/Users/enzo.perbet/Shuttle/app/src/main/java/android/support/design/widget/CustomCollapsingTextHelper.java, Ÿ(
+implicit returnB<:
+8android.support.design.widget.CustomCollapsingTextHelper

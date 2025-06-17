@@ -1,21 +1,21 @@
 
-äcom.simplecity.amp_library.ui.screens.tagger.TaggerTask#genre(Ljava/lang/String;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;w
-kC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.javaó ó("1*˘
+åcom.simplecity.amp_library.ui.screens.tagger.TaggerTask#comment(Ljava/lang/String;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;w
+kC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.javaí í("1*˝
 1
-ò ò("ú
-ô
+ì ì(&†
+ù
 
-ò ò("H9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
-	genreText"__id*;
+ì ì(&J9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
+commentText"__id*=
 
-__unknown_file (
-
-	genreTextjava.lang.String"I
+__unknown_file (!
+
+commentTextjava.lang.String"I
 
-ô ô(;9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask:+
+î î(;9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask:-
 
-ó ó(,
-	genreTextjava.lang.StringB;9
+í í(0
+commentTextjava.lang.StringB;9
 7com.simplecity.amp_library.ui.screens.tagger.TaggerTaskH

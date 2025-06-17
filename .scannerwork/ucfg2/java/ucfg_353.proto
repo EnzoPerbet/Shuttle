@@ -1,17 +1,17 @@
 
-~com.simplecity.amp_library.model.Album$Builder#albumArtist(Ljava/lang/String;)Lcom/simplecity/amp_library/model/Album$Builder;d
-ZC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Album.java_ _(""1*í
-1`# `(2
-š
-` `(2E0
-.com.simplecity.amp_library.model.Album$Builder"
-albumArtistName"__id*A
+wcom.simplecity.amp_library.model.Album$Builder#name(Ljava/lang/String;)Lcom/simplecity/amp_library/model/Album$Builder;d
+ZC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Album.javaS S("1*×
+1T T(‡
+„
+T T(:0
+.com.simplecity.amp_library.model.Album$Builder"
+name"__id*6
 
-__unknown_file (%
-#
-albumArtistNamejava.lang.String">
-a a(20
-.com.simplecity.amp_library.model.Album$Builder:/
-_# _(9#
-albumArtistNamejava.lang.StringB20
+__unknown_file (
+
+namejava.lang.String">
+U U(20
+.com.simplecity.amp_library.model.Album$Builder:$
+S S('
+namejava.lang.StringB20
 .com.simplecity.amp_library.model.Album$BuilderH

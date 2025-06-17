@@ -1,152 +1,174 @@
 
-1com.simplecity.amp_library.model.Song#hashCode()Ie
-YC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Song.javaÇ Ç("1*é
+Acom.simplecity.amp_library.model.Song#equals(Ljava/lang/Object;)Ze
+YC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Song.java½ ½("startingBlock*€
+2
+Ã= Ã(Dj
+h
+
+Ã= Ã(T
+%7boolean"	__compare*
+
+ÃE Ã(G
+==*
+
+Ã= Ã(D
+""*
+
+ÃH Ã(T
+""*
+1*‡
+startingBlock
+½ ½(#Š
+‡
+
+¼ ¼(
+%8"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+ojava.lang.ObjectW
+U
+
+½! ½("
+ojava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%8*
+10*ƒ
+4
+Ã  Ã((j
+h
+
+Ã  Ã(9
+%6boolean"	__compare*
+
+Ã) Ã(+
+==*
+
+Ã  Ã((
+""*
+
+Ã, Ã(9
+""*
+2
+1*€
+5
+Á Á(x
+v
+
+Á Á(-
+song%com.simplecity.amp_library.model.Song"__id*3
+
+__unknown_file (
+
+ojava.lang.Objectj
+h
+
+Ã Ã(
+%5boolean"	__compare*
+
+Ã Ã(
+==*
+
+Ã Ã(
+""*
+
+Ã Ã(
+""*	
+2
+4
+1*%
+6
+¿< ¿(A"
+
+¿5 ¿(B
+""*é
+7
+¿ ¿(!§¤
+
+¿ ¿(#
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*E
+
+__unknown_file ()'
+%com.simplecity.amp_library.model.Song2
+getClass()•’
+
+¿' ¿(3
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
+
+__unknown_file (
+
+ojava.lang.Object2
+getClass()
+Š
+
+¿ ¿(3
+%4boolean"	__compare*
+
+¿$ ¿(&
+!=*%
+
+¿ ¿(#
+
+%2java.lang.Class*%
+
+¿' ¿(3
+
+%3java.lang.Class*
+5
+6*”
+8
+¿ ¿({
+y
+
+¿ ¿(
+%1boolean"	__compare*
+
+¿ ¿(
+==*%
+
+¿ ¿(
+
+ojava.lang.Object*
+
+¿ ¿(
+""*
+6
+7*%
+9
+¾ ¾(""
+
+¾ ¾(#
+""*º
+10
+¾ ¾(Ÿ
+œ
+
+¾ ¾(
+%0boolean"	__compare*
+
+¾ ¾(
+==*7
+
+¾ ¾()'
+%com.simplecity.amp_library.model.Song*%
+
+¾ ¾(
+
+ojava.lang.Object*
+8
+9*%
 1
-È È(h
-f
+Ã Ã(U"
 
-È" È(+
+Ã Ã(U
+"":#
 
-%0long"__calculate*
-
-È% È((
->>>*
-
-È" È($
-""*
-
-È) È(+2 n
-l
-
-È È(,
-
-%1long"__calculate*
-
-È È( 
-^*
-
-È È(
-""*
-
-È! È(,
-
-
-%0longe
-c
-
-É É(	
-%2int"__calculate*
-
-É É(
-**
-
-É É(2*
-
-É É(
-""h
-f
-
-É2 É(A
-
-%3long"__calculate*
-
-É; É(>
->>>*
-
-É2 É(:
-""*
-
-É? É(A2 n
-l
-
-É& É(B
-
-%4long"__calculate*
-
-É/ É(0
-^*
-
-É& É(.
-""*
-
-É1 É(B
-
-
-%3longr
-p
-
-É É(C	
-%5int"__calculate*
-
-É É(
-+*
-
-É É(
-	
-%2int*
-
-É É(C
-
-
-%4longe
-c
-
-Ê Ê(	
-%6int"__calculate*
-
-Ê Ê(
-**
-
-Ê Ê(2*
-
-Ê Ê(
-""h
-f
-
-Ê1 Ê(?
-
-%7long"__calculate*
-
-Ê9 Ê(<
->>>*
-
-Ê1 Ê(8
-""*
-
-Ê= Ê(?2 n
-l
-
-Ê& Ê(@
-
-%8long"__calculate*
-
-Ê. Ê(/
-^*
-
-Ê& Ê(-
-""*
-
-Ê0 Ê(@
-
-
-%7longr
-p
-
-Ê Ê(A	
-%9int"__calculate*
-
-Ê Ê(
-+*
-
-Ê Ê(
-	
-%6int*
-
-Ê Ê(A
-
-
-%8long"
-
-Ë Ë(
-""B)'
+½ ½("
+ojava.lang.ObjectB)'
 %com.simplecity.amp_library.model.SongHX

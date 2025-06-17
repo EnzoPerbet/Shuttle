@@ -1,10 +1,10 @@
 
-falsebooleanGthisX X( "3com.simplecity.amp_library.ui.modelviews.FolderView$showBlacklistX! X(6"boolean"O/
+falsebooleanGthisQ Q( "3com.simplecity.amp_library.ui.modelviews.FolderView$showWhitelistQ! Q(6"boolean"O/
 -
-Y Y(*"#set-field# showBlacklist:"
-Z Z( *Z Z(
+R R(*"#set-field# showWhitelist:"
+S S( *S S(
 "9/
 -
-[ [(&"#set-field# showWhitelist:"
+T T(&"#set-field# showBlacklist:"
 
-] ](*gC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/FolderView.java
+V V(*gC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/FolderView.java

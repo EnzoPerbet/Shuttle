@@ -1,8 +1,16 @@
-a (&"doubleb( (0"doublev2 (:"double"ž/
--
- ("#dependent-value#:Bdouble/
--
- ("#dependent-value#:Bdouble*
-(
- ("	#binop +#2+:Bdouble
- (*^C:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/AnimUtils.java
+a	 	( "intb	" 	('"intv	) 	(."int"‹'
+%
+
+ 
+("	#binop -#2-:Bint'
+%
+
+ 
+("	#binop *#2*:Bint'
+%
+
+ 
+("	#binop +#2+:Bint
+
+ 
+(*^C:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/AnimUtils.java

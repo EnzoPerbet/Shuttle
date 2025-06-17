@@ -973,13 +973,14 @@ Fcom.simplecityapps.recycler_adapter.recyclerview.AttachStateViewHolderjava.la
 4com.simplecity.amp_library.glide.utils.BitmapAndSizejava.lang.Objectn
 equals(Ljava/lang/Object;)Pcom.simplecity.amp_library.glide.utils.BitmapAndSize#equals(Ljava/lang/Object;)ZN
 
-hashCode()@com.simplecity.amp_library.glide.utils.BitmapAndSize#hashCode()IŒ
+hashCode()@com.simplecity.amp_library.glide.utils.BitmapAndSize#hashCode()IÕ
 +com.simplecity.amp_library.glide.utils.Sizejava.lang.ObjectE
 
 <init>(II)7com.simplecity.amp_library.glide.utils.Size#<init>(II)Ve
 equals(Ljava/lang/Object;)Gcom.simplecity.amp_library.glide.utils.Size#equals(Ljava/lang/Object;)ZE
 
-hashCode()7com.simplecity.amp_library.glide.utils.Size#hashCode()IV
+hashCode()7com.simplecity.amp_library.glide.utils.Size#hashCode()IG
+setSize(II)8com.simplecity.amp_library.glide.utils.Size#setSize(II)VV
 
 toString()Hcom.simplecity.amp_library.glide.utils.Size#toString()Ljava/lang/String;(
 AestheticKeyProviderjava.lang.Object%
@@ -5770,9 +5771,7 @@ saveTags()Ecom.simplecity.amp_library.ui.screens.tagger.TaggerDialog#saveTags()
 serveAudio(Ljava/lang/String;)Jcom.simplecity.amp_library.http.HttpServer#serveAudio(Ljava/lang/String;)VL
 serveImage([B):com.simplecity.amp_library.http.HttpServer#serveImage([B)V>
 start()3com.simplecity.amp_library.http.HttpServer#start()V<
-stop()2com.simplecity.amp_library.http.HttpServer#stop()VÞ
-,com.simplecity.amp_library.http.HttpServer$1java.util.HashMapš
-4<init>(Lcom/simplecity/amp_library/http/HttpServer;)bcom.simplecity.amp_library.http.HttpServer$1#<init>(Lcom/simplecity/amp_library/http/HttpServer;)V
+stop()2com.simplecity.amp_library.http.HttpServer#stop()V
 	NanoHTTPDjava.lang.Objectè
 5com.simplecity.amp_library.http.HttpServer$NanoServer	NanoHTTPD£
 4<init>(Lcom/simplecity/amp_library/http/HttpServer;)kcom.simplecity.amp_library.http.HttpServer$NanoServer#<init>(Lcom/simplecity/amp_library/http/HttpServer;)Vò
@@ -7039,7 +7038,9 @@ Icom.simplecity.amp_library.ui.drawer.NavigationEventRelay$NavigationEventjava
 <init>()Dcom.simplecity.amp_library.http.itunes.ItunesResult$Result#<init>()Va
 getUrl()Ucom.simplecity.amp_library.http.itunes.ItunesResult$Result#getUrl()Ljava/lang/String;Ò
 =com.simplecity.amp_library.ui.fragments.AlbumArtistFragment$1 ContextualToolbarHelper.Callbacko
-notifyDatasetChanged()Ucom.simplecity.amp_library.ui.fragments.AlbumArtistFragment$1#notifyDatasetChanged()V½
+notifyDatasetChanged()Ucom.simplecity.amp_library.ui.fragments.AlbumArtistFragment$1#notifyDatasetChanged()VÞ
+,com.simplecity.amp_library.http.HttpServer$1java.util.HashMapš
+4<init>(Lcom/simplecity/amp_library/http/HttpServer;)bcom.simplecity.amp_library.http.HttpServer$1#<init>(Lcom/simplecity/amp_library/http/HttpServer;)V½
 8com.simplecity.amp_library.ui.detail.GenreDetailFragmentBaseDetailFragmentN
 <init>()Bcom.simplecity.amp_library.ui.detail.GenreDetailFragment#<init>()Vb
 canPlaySlideshow()Lcom.simplecity.amp_library.ui.detail.GenreDetailFragment#canPlaySlideshow()ZZ

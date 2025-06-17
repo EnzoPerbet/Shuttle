@@ -1,5 +1,5 @@
 
-1.0testepsi2_analyseepsiJavaFrontend"1750162851991*java2.B™
+1.0testepsi2_analyseepsiJavaFrontend"1750165051953*java2.Bó
 G
 Bapp/src/main/java/com/simplecity/amp_library/glide/utils/Size.java2
 
@@ -36,32 +36,40 @@ Bapp/src/main/java/com/simplecity/amp_library/glide/utils/Size.java2
 method22
 
 calls23
-
-
-uses24
 
 
-references25
-M
-Gcom.simplecity.amp_library.glide.utils.Size#equals(Ljava/lang/Object;)Z27
-
-equals28
+references24
+>
+8com.simplecity.amp_library.glide.utils.Size#setSize(II)V26
 
-is type29
+unknown27
+
+private28
+
+setSize29
+
+
+uses30
+M
+Gcom.simplecity.amp_library.glide.utils.Size#equals(Ljava/lang/Object;)Z32
+
+equals33
+
+is type34
 =
-7com.simplecity.amp_library.glide.utils.Size#hashCode()I31
+7com.simplecity.amp_library.glide.utils.Size#hashCode()I36
 
-hashCode32
+hashCode37
 N
-Hcom.simplecity.amp_library.glide.utils.Size#toString()Ljava/lang/String;34
+Hcom.simplecity.amp_library.glide.utils.Size#toString()Ljava/lang/String;39
 
-toString35J
+toString40J
 
 1
 12Z
 
 3	
-354j«
+354jâ
 9
 64
 678 *
@@ -74,16 +82,16 @@ Hcom.simplecity.amp_library.glide.utils.Size#toString()Ljava/lang/String;34
 11
 12
 @
-26:
-262722 *
-1 (26:3B
+31:
+313222 *
+1 (26:3B
 	
 9
 10
 
 
 11
-28
+33
 @
 20:
 202122 *
@@ -107,27 +115,38 @@ Hcom.simplecity.amp_library.glide.utils.Size#toString()Ljava/lang/String;34
 11
 19
 @
-33:
-333422 *
-1   (26:3B
+38:
+383922 *
+1# #(26:3B
 	
 9
 10
 
 
 11
-35
+40
 @
-30:
-303122 *
-1 (26:3B
+25:
+252622 *
+1 (26:3B
+	
+9
+28
+
+
+11
+29
+@
+35:
+353622 *
+1 (26:3B
 	
 9
 10
 
 
 11
-32
+37
 @
 13:
 131415 *
@@ -138,70 +157,70 @@ Hcom.simplecity.amp_library.glide.utils.Size#toString()Ljava/lang/String;34
 
 
 11
-16rí
+16r«
 
 20623*
 1 (
 
 20624*
-1
- 
-(
+1		 	(
+
+202523*
+1		 	(
 
-20625*
-1
- 
-(
-
-201325*
-1
- 
-(
+25630*
+1	 (
 
-20624*
-1 (
+25624*
+1	 (
+
+251324*
+1 (
 
-20625*
-1 (
-
-201725*
-1 (
+25630*
+1	 (
 
-26624*
-1 (
+25624*
+1	 (
+
+251724*
+1 (
 
-26625*
-1 (
+31630*
+1 (
 
-26629*
-1 (
+31624*
+1 (
 
-26624*
-1	 (
+31634*
+1 (
 
-26624*
-1 (
+31630*
+1	 (
+
+31630*
+1 (
 
-261325*
-1 (
+311324*
+1 (
 
-261325*
-1 (#
+311324*
+1 (#
 
-261725*
-1' (-
+311724*
+1' (-
 
-261725*
-16 (<
+311724*
+16 (<
 
-301325*
-1 (
+351324*
+1 (
 
-301725*
-1  (&
+351724*
+1  (&
 
-331325*
-1"( "(-
+381324*
+1%( %(-
 
-331725*
-1"/ "(5
+381724*
+1%/ %(5

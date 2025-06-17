@@ -1,33 +1,27 @@
 Gthis
-í í("1com.simplecity.amp_library.ui.modelviews.SongView"d4
+ç ç("1com.simplecity.amp_library.ui.modelviews.SongView"d4
 2
 
-ì ì("#get-field# editable:Bboolean,"*
+é é("#get-field# editable:Bboolean,"*
 
-ì ì( *
-ì ì(2
-ì2 ì(3"≠#
+é é( *
+é é(2
+é1 é(2"v#
 !
 
-ì ì("#unknown-value#4
-2
+é é(""#unknown-value#;
+9
 
-ì ì(""#get-field# layout:B	!Unknown!<
-:
+é é(0"#get-field# SONG_EDITABLE:B	!Unknown!
 
-ì ì(1"#get-field# list_item_edit:B	!Unknown!
-
-ì ì(1"≤#
+é é(0"m#
 !
 
-ì4 ì(5"#unknown-value#4
-2
+é3 é(;"#unknown-value#2
+0
 
-ì4 ì(<"#get-field# layout:B	!Unknown!A
-?
+é3 é(@"#get-field# SONG:B	!Unknown!
 
-ì4 ì(P"!#get-field# list_item_two_lines:B	!Unknown!
+é3 é(@"&*
 
-ì4 ì(P"&*	
-
-ì ì(Q	*eC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/SongView.java
+é é(A*eC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/SongView.java

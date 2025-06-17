@@ -1,21 +1,22 @@
 
-Šcom.simplecity.amp_library.ui.screens.tagger.TaggerTask#track(Ljava/lang/String;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;w
-kC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.javaù ù("1*ù
+‰com.simplecity.amp_library.ui.screens.tagger.TaggerTask#year(Ljava/lang/String;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;w
+kC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.javaô ô("1*÷
 1
-ú ú("œ
-™
+õ õ( š
+—
 
-ú ú("H9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
-	trackText"__id*;
+õ õ( G9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
+
+yearText"__id*:
 
-__unknown_file (
-
-	trackTextjava.lang.String"I
+__unknown_file (
+
+yearTextjava.lang.String"I
 
-û û(;9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask:+
+ö ö(;9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask:*
 
-ù ù(,
-	trackTextjava.lang.StringB;9
+ô ô(*
+yearTextjava.lang.StringB;9
 7com.simplecity.amp_library.ui.screens.tagger.TaggerTaskH

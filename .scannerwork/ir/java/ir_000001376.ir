@@ -1,5 +1,7 @@
-Ethiso o(""1com.simplecity.amp_library.ui.modelviews.SongView&showTrackNumbero# o(:"boolean"A1
-/
-p p(."#set-field# showTrackNumber:
+Ethisj j("1com.simplecity.amp_library.ui.modelviews.SongViewTprefixHighlighterj j(="3com.simplecity.amp_library.format.PrefixHighlighterprefixj? j(L"char[]"m3
+1
+k k(2"#set-field# prefixHighlighter:(
+&
+l l("#set-field# prefix:
 
-q q(*eC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/SongView.java
+m m(*eC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/SongView.java

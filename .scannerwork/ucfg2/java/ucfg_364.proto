@@ -1,129 +1,244 @@
 
-2com.simplecity.amp_library.model.Album#hashCode()If
-ZC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Album.java¥ ¥("4*^
+Bcom.simplecity.amp_library.model.Album#equals(Ljava/lang/Object;)Zf
+ZC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Album.javaš š("startingBlock*ñ
 2
-§A §(BH
-F
+¡8 ¡(=‡
+„
 
-§A §(B	
-%5int"__id*'
+¡8 ¡(B
+%13java.lang.String"__id*W
 
-__unknown_file (
-	
-%7int*
-1*Ù
-3
-§/ §(3~
+__unknown_file (;*9
+/
+album&com.simplecity.amp_library.model.Album"
+name~
 |
 
-§/ §(3
-%8java.lang.String"__id*P
+¡8 ¡(J
+%10boolean"	__compare*
+
+¡C ¡(E
+==*'
+
+¡8 ¡(B
+
+%13java.lang.String*
+
+¡F ¡(J
+""Q
+O
+
+¡8 ¡(J
+%8boolean"__id*,
+
+__unknown_file (
+
+%10boolean*
+1*Ê
+3
+¡ ¡("
+}
+
+¡ ¡("
+%11java.lang.String"__id*P
 
 __unknown_file (4*2(
 &com.simplecity.amp_library.model.Album"
-nameyw
+name‡
+„
 
-§/ §(>	
-%6int"java.lang.String#hashCode()I*4
+¡* ¡(4
+%12java.lang.String"__id*W
 
-__unknown_file (
-
-%8java.lang.String2
-hashCode()H
-F
+__unknown_file (;*9
+/
+album&com.simplecity.amp_library.model.Album"
+nameÖÓ
 
-§/ §(>	
-%5int"__id*'
+¡ ¡(5
+%9boolean",java.lang.String#equals(Ljava/lang/Object;)Z*5
 
-__unknown_file (
-	
-%6int*
-1*Ö
+__unknown_file (
+
+%11java.lang.String*5
+
+__unknown_file (
+
+%12java.lang.String2equals(Ljava/lang/Object;)P
+N
+
+¡ ¡(5
+%8boolean"__id*+
+
+__unknown_file (
+
+%9boolean*
+1*‰
+startingBlock
+š š(#‹
+ˆ
+
+™ ™(
+%14"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+ojava.lang.ObjectX
+V
+
+š! š("
+ojava.lang.Object"__annotation*#
+
+__unknown_file (
+
+%14*
+11*•
 4
-¦ ¦(h
-f
-
-¦" ¦(+
-
-%0long"__calculate*
-
-¦% ¦((
->>>*
-
-¦" ¦($
-""*
-
-¦) ¦(+2 n
-l
-
-¦ ¦(,
-
-%1long"__calculate*
-
-¦ ¦( 
-^*
-
-¦ ¦(
-""*
-
-¦! ¦(,
-
-
-%0longe
-c
-
-§ §(	
-%2int"__calculate*
-
-§ §(
-**
-
-§ §(2*
-
-§ §(
-""~
+¡ ¡(~
 |
 
-§  §($
-%3java.lang.String"__id*P
+¡ ¡(
+%6java.lang.String"__id*P
 
 __unknown_file (4*2(
 &com.simplecity.amp_library.model.Album"
 name|
 z
 
-§  §(,
-%4boolean"	__compare*
+¡ ¡(
+%7boolean"	__compare*
 
-§% §('
+¡ ¡(
 !=*&
 
-§  §($
+¡ ¡(
 
-%3java.lang.String*
+%6java.lang.String*
 
-§( §(,
+¡ ¡(
 ""*
 2
-3*˜
+3*%
+5
+ #  (("
+
+   ()
+""*ÿ
+6
+ž ž(z
+x
+
+ž ž( /
+album&com.simplecity.amp_library.model.Album"__id*3
+
+__unknown_file (
+
+ojava.lang.Objectj
+h
+
+   (
+%5boolean"	__compare*
+
+   (
+!=*
+
+   (
+""*
+
+   (
+""*
+4
+5*%
+7
+œ< œ(A"
+
+œ5 œ(B
+""*ê
+8
+œ œ(!¨¥
+
+œ œ(#
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*F
+
+__unknown_file (*(
+&com.simplecity.amp_library.model.Album2
+getClass()•’
+
+œ' œ(3
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
+
+__unknown_file (
+
+ojava.lang.Object2
+getClass()
+Š
+
+œ œ(3
+%4boolean"	__compare*
+
+œ$ œ(&
+!=*%
+
+œ œ(#
+
+%2java.lang.Class*%
+
+œ' œ(3
+
+%3java.lang.Class*
+6
+7*”
+9
+œ œ({
+y
+
+œ œ(
+%1boolean"	__compare*
+
+œ œ(
+==*%
+
+œ œ(
+
+ojava.lang.Object*
+
+œ œ(
+""*
+7
+8*&
+10
+› ›(""
+
+› ›(#
+""*¼
+11
+› ›( 
+
+
+› ›(
+%0boolean"	__compare*
+
+› ›(
+==*8
+
+› ›(*(
+&com.simplecity.amp_library.model.Album*%
+
+› ›(
+
+ojava.lang.Object*
+9
+10*%
 1
-§ §(Cq
-o
+¡ ¡(K"
 
-§ §(C	
-%9int"__calculate*
+¡ ¡(K
+"":#
 
-§ §(
-+*
-
-§ §(
-	
-%2int*
-
-§ §(C
-	
-%5int"
-
-¨ ¨(
-""B*(
+š š("
+ojava.lang.ObjectB*(
 &com.simplecity.amp_library.model.AlbumHX

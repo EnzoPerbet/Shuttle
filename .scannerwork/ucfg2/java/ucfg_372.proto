@@ -1,16 +1,16 @@
 
-Kcom.simplecity.amp_library.model.Album#getTagArtwork()Ljava/io/InputStream;f
-ZC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Album.javaê ê($"1*â
+Ncom.simplecity.amp_library.model.Album#getFolderArtwork()Ljava/io/InputStream;f
+ZC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Album.javaå å('"1*â
 1
-ë ë(º
+æ æ(º
 ·
 
-ë* ë(:
+æ- æ(=
 %0java.lang.String"Icom.simplecity.amp_library.model.Album#getArtworkPath()Ljava/lang/String;*F
 
 __unknown_file (*(
 &com.simplecity.amp_library.model.Album"
 
-ë ë(<
+æ æ(?
 ""B*(
 &com.simplecity.amp_library.model.AlbumH

@@ -1,11 +1,11 @@
 
 \com.simplecity.amp_library.http.HttpServer#getMimeType(Ljava/lang/String;)Ljava/lang/String;j
-^C:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/http/HttpServer.javaË Ë("1*ç
+^C:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/http/HttpServer.javaÒ Ò("1*ç
 1
-Ì Ì(†
+Ó Ó(†
 ƒ
 
-Ì Ì(
+Ó Ó(
 %0java.util.Map"__id*Z
 
 __unknown_file (>*<,
@@ -13,7 +13,7 @@
 
 MIME_TYPESÍÊ
 
-Ì1 Ì(J	
+Ó1 Ó(J	
 %1int"1java.lang.String#lastIndexOf(Ljava/lang/String;)I*:
 
 __unknown_file (
@@ -24,19 +24,19 @@ MIME_TYPESÍÊ
 .2lastIndexOf(Ljava/lang/String;)j
 h
 
-Ì1 Ì(N	
+Ó1 Ó(N	
 %2int"__calculate*
 
-ÌK Ì(L
+ÓK Ó(L
 +*
 
-Ì1 Ì(J
+Ó1 Ó(J
 	
 %1int*
 
-ÌM Ì(N2ËÈ
+ÓM Ó(N2ËÈ
 
-Ì Ì(O
+Ó Ó(O
 %3java.lang.String"/java.lang.String#substring(I)Ljava/lang/String;*:
 
 __unknown_file (
@@ -48,7 +48,7 @@ h
 %2int2substring(I)š
 —
 
-Ì Ì(P
+Ó Ó(P
 %4java.lang.String"__mapGet*1
 
 __unknown_file (
@@ -59,10 +59,10 @@ h
 
 %3java.lang.String"&
 
-Ì Ì(Q
+Ó Ó(Q
 
 %4java.lang.String:*
 
-Ë Ë(&
+Ò Ò(&
 filePathjava.lang.StringB.,
 *com.simplecity.amp_library.http.HttpServer

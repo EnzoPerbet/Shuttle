@@ -1,16 +1,8 @@
-a	 	( "intb	" 	('"intv	) 	(."int"‹'
-%
-
- 
-("	#binop -#2-:Bint'
-%
-
- 
-("	#binop *#2*:Bint'
-%
-
- 
-("	#binop +#2+:Bint
-
- 
-(*^C:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/AnimUtils.java
+a ($"floatb& (-"floatv/ (6"float"›.
+,
+ ("#dependent-value#:Bfloat.
+,
+ ("#dependent-value#:Bfloat)
+'
+ ("	#binop +#2+:Bfloat
+ (*^C:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/AnimUtils.java

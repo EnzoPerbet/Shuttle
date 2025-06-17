@@ -1,19 +1,21 @@
 
-ccom.afollestad.aesthetic.Aesthetic#textColorSecondaryInverse(I)Lcom/afollestad/aesthetic/Aesthetic;r
-fC:/Users/enzo.perbet/Shuttle/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/Aesthetic.java¶ ¶(,"1*«
+dcom.afollestad.aesthetic.Aesthetic#textColorPrimaryInverseRes(I)Lcom/afollestad/aesthetic/Aesthetic;r
+fC:/Users/enzo.perbet/Shuttle/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/Aesthetic.java¨ ¨(-"1*¤
 1
-· ·(
-d
-b
+© ©("üù
 
-· ·(2
-%0java.lang.String"__id*6
+© ©(J
+%0"acom.afollestad.aesthetic.Aesthetic#textColorPrimaryInverse(I)Lcom/afollestad/aesthetic/Aesthetic;*B
 
-__unknown_file (
-secondary_text_inverse"4
+__unknown_file (&$
+"com.afollestad.aesthetic.Aesthetic*"
+
+__unknown_file (
+""2textColorPrimaryInverse(I)"
 
-¸ ¸(&$
-"com.afollestad.aesthetic.Aesthetic: 
+© ©(K
+
+%0: 
 
 __unknown_file (
 ""B&$

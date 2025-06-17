@@ -1,8 +1,8 @@
 Mthis
-ú ú("7com.simplecity.amp_library.ui.screens.tagger.TaggerTaskglistener
-ú ú(="Mcom.simplecity.amp_library.ui.screens.tagger.TaggerTask$TagCompletionListener"M9
-7
+ó ó("7com.simplecity.amp_library.ui.screens.tagger.TaggerTask+	genreText
+ó ó(,"java.lang.String"A-
++
 
-ù ù(-"#!#set-field# tagCompletionListener:
+ò ò(""#set-field# genreText:
 
-û û(*kC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java
+ô ô(*kC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java

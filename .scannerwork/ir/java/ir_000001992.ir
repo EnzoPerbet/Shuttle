@@ -1,18 +1,31 @@
 
-falseboolean;this
-Ë Ë("%com.simplecity.amp_library.model.Song"€a
-_
+trueboolean;this
+Ã Ã("%com.simplecity.amp_library.model.Song"Æ4
+2
 
-Ì Ì(.	startTime"(
-java.lang.SystemcurrentTimeMillis()J*2currentTimeMillisBlong-
-+
+Ä Ä(!"#get-field# elapsedTime:BlongV
+T
 
-Ì Ì(."#set-field# startTime:.
+Ä$ Ä(>"(
+java.lang.SystemcurrentTimeMillis()J*2currentTimeMillisBlong*
+(
+
+Ä Ä(>"	#binop +#2+:Blong2
+0
+
+ÄA Ä(J"#get-field# startTime:Blong7
+5
+
+Ä Ä(JelapsedTime"	#binop -#2-:Blong/
+-
+
+Ä Ä(J"#set-field# elapsedTime:.
 ,
 
-Í Í(isPaused"#id#:Bboolean,
+Å Å(	isPaused"#id#:Bboolean,
 *
 
-Í Í("#set-field# isPaused:
+Å Å(
+"#set-field# isPaused:	
 
-Î Î(*YC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Song.java
+Æ Æ(*YC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Song.java

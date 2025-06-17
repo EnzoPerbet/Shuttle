@@ -1,9 +1,4 @@
-
-
-0int
-falseboolean?this ("+com.simplecity.amp_library.utils.SleepTimer"k+
-)
- (%"#set-field# playToEnd:/
--
- (""#set-field# timeRemaining:	
- ž(*_C:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/SleepTimer.java
+\this (-"Hcom.simplecity.amp_library.ui.screens.album.list.AlbumListFragmentModule"
+
+
+ (*|C:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/album/list/AlbumListFragmentModule.java

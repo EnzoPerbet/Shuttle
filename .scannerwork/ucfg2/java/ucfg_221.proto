@@ -1,34 +1,40 @@
 
-Ccom.simplecity.amp_library.utils.color.ColorHelper#isColorLight(I)Zr
-fC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/color/ColorHelper.javaÙ Ù("1*û
+Mcom.simplecity.amp_library.utils.color.ColorHelper#satisfiesTextContrast(II)Zr
+fC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/color/ColorHelper.javaÕ Õ(0"1* 
 1
-Ú Ú(!à
-Ý
+Ö Ö(„
+
 
-Ú Ú(2
-%0double"Icom.simplecity.amp_library.utils.color.ColorHelper#calculateLuminance(I)D*R
+Ö Ö(N
+%0double"Icom.simplecity.amp_library.utils.color.ColorHelper#calculateContrast(II)D*R
 
 __unknown_file (6"4
 2com.simplecity.amp_library.utils.color.ColorHelper*"
 
 __unknown_file (
-""q
-o
+""*"
+
+__unknown_file (
+""r
+p
 
-Ú Ú(9
-%1boolean"	__compare*
+Ö Ö(U
+%1boolean"	__compare*
 
-Ú3 Ú(4
->*
+ÖO Ö(Q
+>=*
 
-Ú Ú(2
+Ö Ö(N
 
 %0double*
 
-Ú5 Ú(9
+ÖR Ö(U
 """
 
-Ú Ú(:
+Ö Ö(V
+"": 
+
+__unknown_file (
 "": 
 
 __unknown_file (

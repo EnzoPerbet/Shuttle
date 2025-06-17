@@ -1,20 +1,17 @@
 
-^com.simplecity.amp_library.model.Query$Builder#build()Lcom/simplecity/amp_library/model/Query;d
-ZC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Query.java9 9("1*Á
-1: :(!b`
-: :(,
-%0&com.simplecity.amp_library.model.Query"&com.simplecity.amp_library.model.Query‘
-Ž
-: :("
-%1"`com.simplecity.amp_library.model.Query#<init>(Lcom/simplecity/amp_library/model/Query$Builder;)V*J
+wcom.simplecity.amp_library.model.Query$Builder#sort(Ljava/lang/String;)Lcom/simplecity/amp_library/model/Query$Builder;d
+ZC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Query.java4 4("1*Ö
+15 5(†
+ƒ
+5 5(:0
+.com.simplecity.amp_library.model.Query$Builder"
+sort"__id*5
 
-__unknown_file (.
-,
-%0&com.simplecity.amp_library.model.Query*N
-
-__unknown_file (20
-.com.simplecity.amp_library.model.Query$Builder":
-: :(#.
-,
-%0&com.simplecity.amp_library.model.QueryB20
+__unknown_file (
+
+valjava.lang.String">
+6 6(20
+.com.simplecity.amp_library.model.Query$Builder:#
+4 4(&
+valjava.lang.StringB20
 .com.simplecity.amp_library.model.Query$BuilderH

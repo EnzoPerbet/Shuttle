@@ -1,130 +1,83 @@
 
-]com.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#pivotXyzComponent(D)Dr
-fC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/color/ColorHelper.javaş ş(/"4*„
+Wcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#constrain(FFF)Fr
+fC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/color/ColorHelper.javaú ú(&"6*b
 2
- ( F
-D
+û@ û(FL
+J
 
- ( 
-%6double"__id*"
+û@ û(F
+%1float"__id*)
 
-__unknown_file (
-""r
-p
-
- (,
-%7double"__calculate*
-
-! ("
-**
-
- ( 
-
-%6double*
-
-# (,
-""p
-n
-
- (1
-%8double"__calculate*
-
-- (.
-+*
-
- (,
-
-%7double*
-
-/ (12p
-n
-
- (8
-%4double"__calculate*
-
-3 (4
-/*
-
- (2
-
-%8double*
-
-5 (82tN
-L
-
- (8
-%2double"__id**
-
-__unknown_file (
-
-%4double*
-1*‡
+__unknown_file (
+
+%6float*
+1*b
 3
-€ €(h
-f
+û9 û(=L
+J
 
-€* €(1
-%5double"__calculate*
-
-€, €(-
-/*
-
-€* €(+2*
-
-€. €(1
-""¶
-³
-
-€ €(2
-%3double"java.lang.Math#pow(DD)D*.
+û9 û(=
+%1float"__id*)
 
-__unknown_file ("
-java.lang.Math*"
-
-__unknown_file (
-""**
-
-__unknown_file (
-
-%5doubleN
-L
-
-€ €(2
-%2double"__id**
-
-__unknown_file (
-
-%3double*
-1*Ò
+__unknown_file (
+
+%5float*
+1*‚
 4
-ÿ ÿ(F
-D
+û) û(/i
+g
 
-ÿ ÿ(*
-%0double"__id*"
-
-__unknown_file (
-""q
-o
+û) û(6
+%4boolean"	__compare*
 
-ÿ ÿ(*
-%1boolean"	__compare*
-
-ÿ ÿ(
+û0 û(1
 >*
 
-ÿ ÿ(
-""*
+û) û(/
+""*
 
-ÿ ÿ(*
-
-%0double*
+û2 û(6
+""*
 2
-3*%
-1
-ÿ (9"
+3*b
+5
+û" û(%L
+J
 
-ÿ (9
+û" û(%
+%1float"__id*)
+
+__unknown_file (
+
+%2float*
+1*‚
+6
+û û(i
+g
+
+û û(
+%0boolean"	__compare*
+
+û û(
+<*
+
+û û(
+""*
+
+û û(
+""*
+4
+5*%
+1
+û û(H"
+
+û û(H
+"": 
+
+__unknown_file (
+"": 
+
+__unknown_file (
 "": 
 
 __unknown_file (

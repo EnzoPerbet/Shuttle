@@ -1,17 +1,17 @@
 
-Acom.simplecity.amp_library.utils.SettingsManager#getTintNavBar()Zp
-dC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.java£ £( "1*½
+Ocom.simplecity.amp_library.utils.SettingsManager#getUsePaletteNowPlayingOnly()Zp
+dC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaŸ Ÿ(."1*Î
 1
-¤ ¤(•
-’
+   (¦
+£
 
-¤ ¤('
-%0java.lang.String"__id*f
+   (8
+%0java.lang.String"__id*w
 
-__unknown_file (J*H2
-0com.simplecity.amp_library.utils.SettingsManager"
-KEY_PREF_NAV_BAR"
+__unknown_file ([*Y2
+0com.simplecity.amp_library.utils.SettingsManager"#
+!KEY_PREF_PALETTE_NOW_PLAYING_ONLY"
 
-¤ ¤(0
+   (A
 ""B42
 0com.simplecity.amp_library.utils.SettingsManagerHX

@@ -1,7 +1,7 @@
 
-ccom.simplecity.amp_library.ui.modelviews.ArtworkLoadingView$ViewHolder#toString()Ljava/lang/String;y
-oC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/ArtworkLoadingView.java# #("1*<
-1$ $(2"-
-$ $(3!
-ArtworkLoadingView.ViewHolderBJH
-Fcom.simplecity.amp_library.ui.modelviews.ArtworkLoadingView$ViewHolderH
+Mcom.simplecity.amp_library.ui.modelviews.ArtworkLoadingView#getLayoutResId()Iy
+oC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/ArtworkLoadingView.java ("1*!
+1 (("
+ ()
+""B?=
+;com.simplecity.amp_library.ui.modelviews.ArtworkLoadingViewHX
