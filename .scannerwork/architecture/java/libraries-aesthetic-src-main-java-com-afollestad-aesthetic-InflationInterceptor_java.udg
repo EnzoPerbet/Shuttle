@@ -1,0 +1,206 @@
+
+1.0testepsi2_analyseepsiJavaFrontend"1750157932835*java2.B°
+Y
+Tlibraries/aesthetic/src/main/java/com/afollestad/aesthetic/InflationInterceptor.java2
+
+package4
+
+com.afollestad.aesthetic5
+2
+-com.afollestad.aesthetic.InflationInterceptor7
+
+
+class8
+
+access9
+
+	protected10
+
+simple name11
+
+InflationInterceptor12
+3
+-Recovered#typeBindingLLayoutInflaterFactory;014
+
+unknown15
+
+
+implements16
+
+
+RestrictTo18
+
+annotated by19
+(
+"Recovered#typeBindingLRestrictTo;021
+
+
+uses22
+w
+qcom.afollestad.aesthetic.InflationInterceptor#onCreateView(LView;Ljava/lang/String;LContext;LAttributeSet;)LView;24
+
+method25
+
+public26
+
+onCreateView27
+
+
+View29
+
+returns30
+"
+Recovered#typeBindingLView;032
+
+	has param33
+%
+Recovered#typeBindingLContext;035
+*
+$Recovered#typeBindingLAttributeSet;037
+
+is type38
+4
+.com.afollestad.aesthetic.AestheticDrawerLayout40
+
+calls41
+*
+$Recovered#typeBindingLLinearLayout;043
+0
+*com.afollestad.aesthetic.AestheticListView45
+0
+*com.afollestad.aesthetic.AestheticCardView47
+9
+3com.afollestad.aesthetic.AestheticCoordinatorLayout49J
+
+1
+12Z
+
+3	
+354jí
+
+44
+444515
+
+13
+131415
+
+34
+343515
+
+39
+394015
+
+46
+464715
+
+17
+171815
+
+20
+202115
+
+28
+282915
+
+42
+424315
+
+31
+313215
+@
+23:
+232425 *
+1 (26:3B
+	
+9
+26
+
+
+11
+27
+
+48
+484915
+9
+64
+678 *
+1 (!:3B
+	
+9
+10
+
+
+11
+12
+
+36
+363715rÐ
+
+61316*
+1- (B
+
+61719*
+1 (
+
+62022*
+1 (
+
+61322*
+1- (B
+
+232830*
+1
+ (
+
+233133*
+1 ( 
+
+233433*
+1< (C
+
+233633*
+1M (Y
+
+232822*
+1
+ (
+
+233138*
+1! ('
+
+233122*
+1 ( 
+
+233438*
+1D (K
+
+233422*
+1< (C
+
+233638*
+1Z (_
+
+233622*
+1M (Y
+
+233138*
+1
+ (
+
+233122*
+1 (	
+
+233941*
+1   ()
+
+234222*
+1,! ,(-
+
+234441*
+1c c(%
+
+234641*
+1y y(%
+
+234841*
+1ˆ ˆ(.

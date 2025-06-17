@@ -1,0 +1,401 @@
+
+1.0testepsi2_analyseepsiJavaFrontend"1750157935164*java2.B¹
+Z
+Ulibraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticRecyclerView.java2
+
+package4
+
+com.afollestad.aesthetic5
+3
+.com.afollestad.aesthetic.AestheticRecyclerView7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+AestheticRecyclerView12
+*
+$Recovered#typeBindingLRecyclerView;014
+
+unknown15
+
+extends16
+
+
+uses17
+A
+;com.afollestad.aesthetic.AestheticRecyclerView.subscription19
+
+field20
+
+private21
+
+subscription22
+
+
+Disposable24
+
+is type25
+G
+Acom.afollestad.aesthetic.AestheticRecyclerView#<init>(LContext;)V27
+
+method28
+%
+Recovered#typeBindingLContext;030
+
+	has param31
+
+calls32
+U
+Ocom.afollestad.aesthetic.AestheticRecyclerView#<init>(LContext;LAttributeSet;)V34
+*
+$Recovered#typeBindingLAttributeSet;036
+V
+Pcom.afollestad.aesthetic.AestheticRecyclerView#<init>(LContext;LAttributeSet;I)V38
+I
+Ccom.afollestad.aesthetic.AestheticRecyclerView#invalidateColors(I)V40
+
+invalidateColors41
+
+
+references42
+J
+Dcom.afollestad.aesthetic.AestheticRecyclerView#onAttachedToWindow()V44
+
+	protected45
+
+onAttachedToWindow46
+
+RecyclerView48
+
+ObservableTransformer50
+
+returns51
+!
+com.afollestad.aesthetic.Rx53
+O
+Icom.afollestad.aesthetic.Rx#distinctToMainThread()LObservableTransformer;55
+6
+0com.afollestad.aesthetic.AestheticRecyclerView$157
+S
+Mcom.afollestad.aesthetic.AestheticRecyclerView$1#accept(Ljava/lang/Integer;)V59
+
+accept60
+
+NonNull62
+
+annotated by63
+%
+Recovered#typeBindingLNonNull;065
+
+Consumer67
+B
+<com.afollestad.aesthetic.Rx#onErrorLogAndRethrow()LConsumer;69
+L
+Fcom.afollestad.aesthetic.AestheticRecyclerView#onDetachedFromWindow()V71
+
+onDetachedFromWindow72J
+
+1
+12Z
+
+3	
+354jò
+
+23
+232415
+
+29
+293015
+@
+70:
+707128 *
+12 2(26:3B
+	
+9
+45
+
+
+11
+72
+@
+37:
+373828 *
+1 (	26:3B
+	
+9
+10
+
+
+11
+12
+A
+58;
+585928 *
+1* *(256:3B
+	
+9
+10
+
+
+11
+60
+
+52
+525315
+
+13
+131415
+@
+18:
+181920 *
+1 (
+26:3B
+	
+9
+21
+
+
+11
+22
+@
+33:
+333428 *
+1 (	26:3B
+	
+9
+10
+
+
+11
+12
+
+68
+686915
+
+54
+545515
+
+66
+666715
+9
+64
+678 *
+1 (#:3B
+	
+9
+10
+
+
+11
+12
+
+49
+495015
+
+61
+616215
+@
+26:
+262728 *
+1 (	26:3B
+	
+9
+10
+
+
+11
+12
+
+47
+474815
+4
+56.
+56578 *
+1)) )(*243:3B
+	
+9
+45
+@
+39:
+394028 *
+1 (
+26:3B
+	
+9
+21
+
+
+11
+41
+
+64
+646515
+
+35
+353615
+@
+43:
+434428 *
+1! !(26:3B
+	
+9
+45
+
+
+11
+46ré	
+
+61316*
+1, (8
+
+61317*
+1, (8
+
+182325*
+1 (
+
+182317*
+1 (
+
+182317*
+1 ("
+
+262931*
+1  ('
+
+26632*
+1
+ (
+
+262925*
+1( (/
+
+262917*
+1  ('
+
+332931*
+1  ('
+
+333531*
+11 (=
+
+33632*
+1
+ (
+
+332925*
+1( (/
+
+332917*
+1  ('
+
+333525*
+1> (C
+
+333517*
+11 (=
+
+372931*
+1  ('
+
+373531*
+11 (=
+
+37632*
+1
+ (
+
+372925*
+1( (/
+
+372917*
+1  ('
+
+373525*
+1> (C
+
+373517*
+11 (=
+
+39617*
+1# ('
+
+39642*
+1# ('
+
+43642*
+1# #(
+
+
+434717*
+1# #(
+
+
+43642*
+1# #(
+
+
+432317*
+1$ $(
+
+431842*
+1$ $(
+
+434951*
+1' '(
+
+435242*
+1' '(
+
+435432*
+1'" '(6
+
+435217*
+1' '(
+
+586163*
+1+& +('
+
+586417*
+1+' +(.
+
+58642*
+1, ,(%
+
+583932*
+1, ,(%
+
+436651*
+1/ /(%
+
+435242*
+1/ /(%
+
+436832*
+1/ /(%
+
+701842*
+14 4(
+
+702317*
+14 4(
+
+701842*
+14 4(
+
+70642*
+15 5(
+
+
+704717*
+15 5(
+
+
+70642*
+15 5(

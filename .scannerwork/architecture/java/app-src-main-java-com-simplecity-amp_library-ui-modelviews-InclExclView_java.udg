@@ -1,0 +1,786 @@
+
+1.0testepsi2_analyseepsiJavaFrontend"1750157935061*java2.Bﬁ
+Q
+Lapp/src/main/java/com/simplecity/amp_library/ui/modelviews/InclExclView.java2
+
+package4
+-
+(com.simplecity.amp_library.ui.modelviews5
+:
+5com.simplecity.amp_library.ui.modelviews.InclExclView7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+InclExclView12
+=
+7com.simplecityapps.recycler_adapter.model.BaseViewModel14
+
+unknown15
+
+extends16
+
+
+uses17
+F
+@com.simplecity.amp_library.ui.modelviews.InclExclView$ViewHolder19
+
+
+references20
+I
+Ccom.simplecity.amp_library.ui.modelviews.InclExclView$ClickListener22
+
+	interface23
+
+ClickListener24
+ç
+Ücom.simplecity.amp_library.ui.modelviews.InclExclView$ClickListener#onRemove(Lcom/simplecity/amp_library/ui/modelviews/InclExclView;)V26
+
+method27
+
+onRemove28
+
+	has param29
+
+is type30
+H
+Bcom.simplecity.amp_library.ui.modelviews.InclExclView.inclExclItem32
+
+field33
+
+inclExclItem34
+3
+-com.simplecity.amp_library.model.InclExclItem36
+t
+ncom.simplecity.amp_library.ui.modelviews.InclExclView#<init>(Lcom/simplecity/amp_library/model/InclExclItem;)V38
+
+calls39
+D
+>com.simplecity.amp_library.ui.modelviews.InclExclView.listener41
+
+	protected42
+
+listener43
+
+Nullable45
+
+annotated by46
+&
+ Recovered#typeBindingLNullable;048
+ï
+écom.simplecity.amp_library.ui.modelviews.InclExclView#setClickListener(Lcom/simplecity/amp_library/ui/modelviews/InclExclView$ClickListener;)V50
+
+setClickListener51
+G
+Acom.simplecity.amp_library.ui.modelviews.InclExclView#onRemove()V53
+J
+Dcom.simplecity.amp_library.ui.modelviews.InclExclView#getViewType()I55
+
+getViewType56
+M
+Gcom.simplecity.amp_library.ui.modelviews.InclExclView#getLayoutResId()I58
+
+getLayoutResId59
+ä
+Écom.simplecity.amp_library.ui.modelviews.InclExclView#bindView(Lcom/simplecity/amp_library/ui/modelviews/InclExclView$ViewHolder;)V61
+
+bindView62
+Y
+Scom.simplecityapps.recycler_adapter.model.BaseViewModel#bindView(LBaseViewHolder;)V64
+
+TextView66
+N
+Hcom.simplecity.amp_library.ui.modelviews.InclExclView$ViewHolder.lineOne68
+8
+2com.simplecity.amp_library.model.InclExclItem.path70
+ú
+ïcom.simplecity.amp_library.ui.modelviews.InclExclView#createViewHolder(LViewGroup;)Lcom/simplecity/amp_library/ui/modelviews/InclExclView$ViewHolder;72
+
+createViewHolder73
+
+returns74
+'
+!Recovered#typeBindingLViewGroup;076
+
+
+View78
+[
+Ucom.simplecityapps.recycler_adapter.model.BaseViewModel#createView(LViewGroup;)LView;80
+
+
+ViewHolder81
+,
+&Recovered#typeBindingLBaseViewHolder;083
+
+lineOne84
+
+BindView86
+&
+ Recovered#typeBindingLBindView;088
+O
+Icom.simplecity.amp_library.ui.modelviews.InclExclView$ViewHolder.overflow90
+
+overflow91
+
+OverflowButton93
+V
+Pcom.simplecity.amp_library.ui.modelviews.InclExclView$ViewHolder#<init>(LView;)V95
+"
+Recovered#typeBindingLView;097
+c
+]com.simplecity.amp_library.ui.modelviews.InclExclView$ViewHolder#toString()Ljava/lang/String;99
+
+toString100
+X
+Qcom.simplecity.amp_library.ui.modelviews.InclExclView#equals(Ljava/lang/Object;)Z102
+
+equals103
+P
+Icom.simplecity.amp_library.model.InclExclItem#equals(Ljava/lang/Object;)Z105
+H
+Acom.simplecity.amp_library.ui.modelviews.InclExclView#hashCode()I107
+
+hashCode108
+@
+9com.simplecity.amp_library.model.InclExclItem#hashCode()I110
+b
+[com.simplecity.amp_library.ui.modelviews.InclExclView#areContentsEqual(Ljava/lang/Object;)Z112
+
+areContentsEqual113J
+
+1
+12Z
+
+3	
+354jå
+@
+21:
+212223 *
+1 (#26:3B
+	
+9
+10
+
+
+11
+24
+
+69
+697015
+@
+31:
+313233 *
+1 (26:3B
+	
+9
+10
+
+
+11
+34
+@
+40:
+404133 *
+1 (26:3B
+	
+9
+42
+
+
+11
+43
+@
+49:
+495027 *
+1! !(26:3B
+	
+9
+10
+
+
+11
+51
+
+79
+798015
+A
+25;
+252627 *
+1	 (221:3B
+	
+9
+10
+
+
+11
+28
+
+75
+757615
+D
+111=
+11111227 *
+1j j(26:3B
+	
+9
+10
+
+11
+113
+@
+54:
+545527 *
+1+ +(26:3B
+	
+9
+10
+
+
+11
+56
+
+47
+474815
+
+96
+969715
+
+65
+656615
+A
+94;
+949527 *
+1I	 I(218:3B
+	
+9
+10
+
+
+11
+81
+?
+189
+18198 *
+1A A(#26:3B
+	
+9
+10
+
+
+11
+81
+
+92
+929315
+D
+106=
+10610727 *
+1e e(26:3B
+	
+9
+10
+
+11
+108
+B
+98<
+989927 *
+1U	 U(
+218:3B
+	
+9
+10
+
+11
+100
+D
+101=
+10110227 *
+1[ [(26:3B
+	
+9
+10
+
+11
+103
+
+104
+10410515
+
+82
+828315
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+
+109
+10911015
+@
+60:
+606127 *
+15 5(26:3B
+	
+9
+10
+
+
+11
+62
+
+77
+777815
+A
+67;
+676833 *
+1C	 C(
+218:3B
+	
+9
+10
+
+
+11
+84
+
+63
+636415
+A
+89;
+899033 *
+1F	 F(
+218:3B
+	
+9
+10
+
+
+11
+91
+
+85
+858615
+@
+57:
+575827 *
+10 0(26:3B
+	
+9
+10
+
+
+11
+59
+@
+52:
+525327 *
+1% %(	26:3B
+	
+9
+42
+
+
+11
+28
+
+35
+353615
+
+44
+444515
+
+87
+878815
+
+13
+131415
+@
+37:
+373827 *
+1 (26:3B
+	
+9
+10
+
+
+11
+12
+@
+71:
+717227 *
+1< <(26:3B
+	
+9
+10
+
+
+11
+73r⁄
+
+61316*
+1# (0
+
+61317*
+1# (0
+
+61817*
+1> (H
+
+61820*
+1> (H
+
+25629*
+1 (#
+
+25630*
+1$ (0
+
+25617*
+1 (#
+
+313530*
+1 (
+
+313517*
+1 (
+
+313517*
+1 (%
+
+373529*
+1 (%
+
+37639*
+1 (
+
+373530*
+1& (2
+
+373517*
+1 (%
+
+37617*
+1	 (
+
+37620*
+1	 (
+
+373517*
+1 (
+
+373120*
+1 (
+
+402130*
+1 (
+
+404446*
+1 (
+
+404717*
+1 (
+
+402117*
+1 (
+
+402120*
+1 (
+
+402117*
+1 (
+
+492129*
+1!, !(9
+
+492130*
+1!: !(B
+
+494446*
+1!" !(#
+
+494717*
+1!# !(+
+
+492117*
+1!, !(9
+
+492120*
+1!, !(9
+
+49617*
+1"	 "(
+
+49620*
+1"	 "(
+
+492117*
+1" "(
+
+494020*
+1" "(
+
+522117*
+1& &(
+
+524020*
+1& &(
+
+522120*
+1' '(
+
+522539*
+1' '(
+
+524020*
+1' '(
+
+522117*
+1' '(
+
+524020*
+1' '(
+
+52617*
+1' '(#
+
+52620*
+1' '(#
+
+601829*
+16 6($
+
+601830*
+16% 6(+
+
+601817*
+16 6($
+
+601820*
+16 6($
+
+601320*
+17	 7(
+
+606339*
+17 7(
+
+60620*
+17	 7(
+
+601317*
+17	 7(
+
+60620*
+17	 7(
+
+606517*
+19 9(
+
+606720*
+19 9(
+
+603517*
+19  9(,
+
+603120*
+19  9(,
+
+606920*
+19- 9(1
+
+711874*
+1= =(
+
+717529*
+1=( =(1
+
+711817*
+1= =(
+
+711820*
+1= =(
+
+717530*
+1=2 =(8
+
+717517*
+1=( =(1
+
+711839*
+1> >(
+
+717774*
+1> >()
+
+711320*
+1> >()
+
+717939*
+1> >()
+
+188216*
+1A, A(:
+
+188217*
+1A, A(:
+
+18617*
+1A; A(G
+
+676530*
+1D D(
+
+678546*
+1C	 C(
+
+
+678717*
+1C
+ C(
+
+676517*
+1D D(
+
+676517*
+1D D( 
+
+899230*
+1G G(
+
+898546*
+1F	 F(
+
+
+898717*
+1F
+ F(
+
+899217*
+1G G(
+
+899217*
+1G G('
+
+949629*
+1I I(
+
+941839*
+1I I(
+
+949630*
+1I  I((
+
+949617*
+1I I(
+
+941817*
+1L L("
+
+941820*
+1L L("
+
+946720*
+1N N(
+
+946517*
+1N N(
+
+946720*
+1N N(
+
+949217*
+1P P(
+
+948920*
+1P P(
+
+948920*
+1R R(
+
+949217*
+1R R(
+
+948920*
+1R R(
+
+101617*
+1] ](
+
+101620*
+1] ](
+
+101630*
+1` `(
+
+101617*
+1`	 `(
+
+101617*
+1` `(*
+
+1013517*
+1b b(
+
+1013120*
+1b b(
+
+1013520*
+1b' b(3
+
+10110439*
+1b4 b(:
+
+1013120*
+1b' b(3
+
+1013517*
+1b' b(3
+
+1013120*
+1b' b(3
+
+1013517*
+1b@ b(L
+
+1013120*
+1b@ b(L
+
+1013517*
+1bU b(a
+
+1013120*
+1bU b(a
+
+1063517*
+1g g(
+
+1063120*
+1g g(
+
+1063520*
+1g' g(3
+
+10610939*
+1g4 g(<
+
+1063120*
+1g' g(3
+
+1063517*
+1g' g(3
+
+1063120*
+1g' g(3

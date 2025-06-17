@@ -1,0 +1,14 @@
+;this
+◊ ◊("%com.simplecity.amp_library.model.Song"ê9
+7
+
+ÿ% ÿ()"#get-field# name:Bjava.lang.Stringï
+í
+
+ÿ ÿ(*sortKey"\
+,com.simplecity.amp_library.utils.StringUtils,keyFor(Ljava/lang/String;)Ljava/lang/String;2keyFor:Bjava.lang.String+
+)
+
+ÿ ÿ(*"#set-field# sortKey:
+
+Ÿ Ÿ(*YC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Song.java

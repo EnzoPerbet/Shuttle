@@ -1,0 +1,62 @@
+
+Xcom.simplecity.amp_library.model.Song#getQuery()Lcom/simplecity/amp_library/model/Query;c
+YC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Song.java\ \( "1*‘
+1] ]("rp
+] ]( 4
+%0.com.simplecity.amp_library.model.Query$Builder".com.simplecity.amp_library.model.Query$Builder¡
+ž
+] ]("
+%1"8com.simplecity.amp_library.model.Query$Builder#<init>()V*R
+
+__unknown_file (6
+4
+%0.com.simplecity.amp_library.model.Query$Builder‚ÿ
+] ^(A
+%2"icom.simplecity.amp_library.model.Query$Builder#uri(LUri;)Lcom/simplecity/amp_library/model/Query$Builder;*R
+
+__unknown_file (6
+4
+%0.com.simplecity.amp_library.model.Query$Builder*"
+
+__unknown_file (
+""2
+uri(LUri;)¸
+µ
+_ _(0
+%3java.lang.String[]"Hcom.simplecity.amp_library.model.Song#getProjection()[Ljava/lang/String;*E
+
+__unknown_file ()"'
+%com.simplecity.amp_library.model.Song^
+\
+` `(E
+%4"__calculate*
+`; `(<
++*
+` `(:
+""*
+`= `(E
+
+=1 OR Z
+X
+` `(i
+%5"__calculate*
+`F `(G
++*
+` `(E
+
+%4*
+`H `(i
+""Z
+X
+` `(p
+%6"__calculate*
+`j `(k
++*
+` `(i
+
+%5*
+`l `(p
+=1"
+] c(
+""B)"'
+%com.simplecity.amp_library.model.SongH
