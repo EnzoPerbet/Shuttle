@@ -1,9 +1,9 @@
 Mthis
-ç ç("7com.simplecity.amp_library.ui.screens.tagger.TaggerTask,
+î î("7com.simplecity.amp_library.ui.screens.tagger.TaggerTask,
 lyricsText
-ç ç(."java.lang.String"B.
+î î(."java.lang.String"B.
 ,
 
-é é($"#set-field# lyricsText:
+ï ï($"#set-field# lyricsText:
 
-è è(*kC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java
+ñ ñ(*kC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java

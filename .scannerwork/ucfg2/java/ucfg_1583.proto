@@ -1,35 +1,33 @@
 
 Ncom.simplecity.amp_library.utils.LetterDrawable#pickColor(Ljava/lang/String;)Im
-cC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/LetterDrawable.javaC C("1*ˆ
-1F F(xv
-F# F(1	
+cC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/LetterDrawable.javaC C("1*ß
+1D D(xv
+D D(!	
 %0int"java.lang.String#hashCode()I*5
 
 __unknown_file (
 
 keyjava.lang.String2
-hashCode()‰
-†
-F F(2	
-%1int"java.lang.Math#abs(I)I*.
-
-__unknown_file ("
-java.lang.Math*'
-
-__unknown_file (
-	
-%0int_
+hashCode()a
+_
+E E(&	
+%1int"__calculate*
+E E(
+&*
+E E(
+""*
+E E(&2ÿÿÿÿ_
 ]
-F F(E
+E E(:
 %2"__calculate*
-F3 F(4
+E( E()
 %*
-F F(2
+E E('
 	
 %1int*
-F5 F(E
+E* E(:
 """
-G G(4
+F F(4
 "":#
 C C($
 keyjava.lang.StringB31

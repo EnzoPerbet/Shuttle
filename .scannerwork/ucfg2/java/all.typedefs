@@ -3284,7 +3284,12 @@ Mcom.simplecity.amp_library.ui.screens.tagger.TaggerTask$TagCompletionListener
 	write(IZ)#java.io.FileOutputStream#write(IZ)V0
 	write([B)#java.io.FileOutputStream#write([B)V4
 write([BII)%java.io.FileOutputStream#write([BII)V@
-writeBytes([BIIZ)+java.io.FileOutputStream#writeBytes([BIIZ)VP
+writeBytes([BIIZ)+java.io.FileOutputStream#writeBytes([BIIZ)Vò
+java.io.IOExceptionjava.lang.Exception)
+<init>()java.io.IOException#<init>()VM
+<init>(Ljava/lang/String;)/java.io.IOException#<init>(Ljava/lang/String;)Vw
+/<init>(Ljava/lang/String;Ljava/lang/Throwable;)Djava.io.IOException#<init>(Ljava/lang/String;Ljava/lang/Throwable;)VS
+<init>(Ljava/lang/Throwable;)2java.io.IOException#<init>(Ljava/lang/Throwable;)VP
 <com.simplecityapps.recycler_adapter.model.ContentsComparatorjava.lang.ObjectA
 -com.afollestad.aesthetic.AestheticKeyProviderjava.lang.Objectc
 ;com.simplecity.amp_library.sql.sqlbrite.QueryToListOperatorObservableOperatorjava.lang.ObjectÁ
@@ -4063,12 +4068,14 @@ toString()7java.security.SecureRandom#toString()Ljava/lang/String;‚
 toIntExact(J)#java.lang.StrictMath#toIntExact(J)I2
 toRadians(D)"java.lang.StrictMath#toRadians(D)D&
 ulp(D)java.lang.StrictMath#ulp(D)D&
-ulp(F)java.lang.StrictMath#ulp(F)Fœ
+ulp(F)java.lang.StrictMath#ulp(F)F¨
 :com.simplecity.amp_library.ui.views.SnowfallView$Snowflakejava.lang.Object\
-<init>(FFFFFI)Jcom.simplecity.amp_library.ui.views.SnowfallView$Snowflake#<init>(FFFFFI)VN
-reset()Ccom.simplecity.amp_library.ui.views.SnowfallView$Snowflake#reset()VN
-snowX()Ccom.simplecity.amp_library.ui.views.SnowfallView$Snowflake#snowX()FN
-snowY()Ccom.simplecity.amp_library.ui.views.SnowfallView$Snowflake#snowY()F‚
+<init>(FFFFFI)Jcom.simplecity.amp_library.ui.views.SnowfallView$Snowflake#<init>(FFFFFI)VT
+
+getSnowX()Fcom.simplecity.amp_library.ui.views.SnowfallView$Snowflake#getSnowX()FT
+
+getSnowY()Fcom.simplecity.amp_library.ui.views.SnowfallView$Snowflake#getSnowY()FN
+reset()Ccom.simplecity.amp_library.ui.views.SnowfallView$Snowflake#reset()V‚
 +com.simplecity.amp_library.constants.Configjava.lang.ObjectA
 <init>()5com.simplecity.amp_library.constants.Config#<init>()V—
 3com.afollestad.aesthetic.AestheticCoordinatorLayout$AppBarLayout.OnOffsetChangedListenerCoordinatorLayout]
@@ -5774,12 +5781,7 @@ saveTags()Ecom.simplecity.amp_library.ui.screens.tagger.TaggerDialog#saveTags()
 stop()2com.simplecity.amp_library.http.HttpServer#stop()V
 	NanoHTTPDjava.lang.Objectè
 5com.simplecity.amp_library.http.HttpServer$NanoServer	NanoHTTPD£
-4<init>(Lcom/simplecity/amp_library/http/HttpServer;)kcom.simplecity.amp_library.http.HttpServer$NanoServer#<init>(Lcom/simplecity/amp_library/http/HttpServer;)Vò
-java.io.IOExceptionjava.lang.Exception)
-<init>()java.io.IOException#<init>()VM
-<init>(Ljava/lang/String;)/java.io.IOException#<init>(Ljava/lang/String;)Vw
-/<init>(Ljava/lang/String;Ljava/lang/Throwable;)Djava.io.IOException#<init>(Ljava/lang/String;Ljava/lang/Throwable;)VS
-<init>(Ljava/lang/Throwable;)2java.io.IOException#<init>(Ljava/lang/Throwable;)Vá
+4<init>(Lcom/simplecity/amp_library/http/HttpServer;)kcom.simplecity.amp_library.http.HttpServer$NanoServer#<init>(Lcom/simplecity/amp_library/http/HttpServer;)Vá
 9com.simplecity.amp_library.ui.widgets.WidgetProviderSmallBaseWidgetProviderO
 <init>()Ccom.simplecity.amp_library.ui.widgets.WidgetProviderSmall#<init>()Vv
 getLayoutIdString()_com.simplecity.amp_library.ui.widgets.WidgetProviderSmall#getLayoutIdString()Ljava/lang/String;]

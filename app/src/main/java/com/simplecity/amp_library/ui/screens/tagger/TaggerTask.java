@@ -145,16 +145,20 @@ public class TaggerTask extends AsyncTask<Object, Integer, Boolean> {
                     if (requiresPermission && temp != null) {
                         DocumentFile documentFile = documentFiles.get(i);
                         if (documentFile != null) {
-                            ParcelFileDescriptor pfd = applicationContext.getContentResolver().openFileDescriptor(documentFile.getUri(), "w");
-                            if (pfd != null) {
-                                FileOutputStream fileOutputStream = new FileOutputStream(pfd.getFileDescriptor());
-                                TaggerUtils.copyFile(temp, fileOutputStream);
-                                pfd.close();
-                            }
-                            if (temp.delete()) {
-                                if (tempFiles.contains(temp)) {
-                                    tempFiles.remove(temp);
+                            try (ParcelFileDescriptor pfd = applicationContext.getContentResolver().openFileDescriptor(documentFile.getUri(), "w")) {
+                                if (pfd != null) {
+                                    try (FileOutputStream fileOutputStream = new FileOutputStream(pfd.getFileDescriptor())) {
+                                        TaggerUtils.copyFile(temp, fileOutputStream);
+                                    }
                                 }
+                            } catch (IOException e) {
+                                e.printStackTrace(); // Gestion d'erreur
+                            }
+
+                            if (temp.delete()) {
+                                tempFiles.remove(temp);
+                            } else {
+                                Log.w(TAG, "Failed to delete temp file: " + temp.getAbsolutePath());
                             }
                         }
                     }
@@ -169,7 +173,10 @@ public class TaggerTask extends AsyncTask<Object, Integer, Boolean> {
                 if (tempFiles != null && tempFiles.size() != 0) {
                     for (int j = tempFiles.size() - 1; j >= 0; j--) {
                         File file = tempFiles.get(j);
-                        file.delete();
+                        boolean deleted = file.delete();
+                        if (!deleted) {
+                            Log.w(TAG, "Failed to delete file: " + file.getAbsolutePath());
+                        }
                         tempFiles.remove(j);
                     }
                 }

@@ -11,10 +11,10 @@ public class LastFmArtist implements LastFmResult {
     public Artist artist;
 
     public static class Artist {
-        public String name;
+        private String name;
         @SerializedName("image")
         public List<LastFmImage> images = new ArrayList<>();
-        public Bio bio;
+        private Bio bio;
     }
 
     @Override
@@ -26,6 +26,6 @@ public class LastFmArtist implements LastFmResult {
     }
 
     public static class Bio {
-        public String summary;
+        private String summary;
     }
 }

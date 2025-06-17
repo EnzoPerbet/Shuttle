@@ -248,16 +248,16 @@ public class QCircleActivity extends BaseActivity {
     }
 
     public void setPauseButtonImage() {
-
-        if (pauseBtn == null) {
-            return;
-        }
-        if (MusicServiceConnectionUtils.serviceBinder != null && mediaManager.isPlaying()) {
-
-        } else {
-
-        }
+    if (pauseBtn == null) {
+        return;
     }
+    if (MusicServiceConnectionUtils.serviceBinder != null && mediaManager.isPlaying()) {
+        pauseBtn.setImageResource(R.drawable.ic_pause);
+    } else {
+        pauseBtn.setImageResource(R.drawable.ic_play);
+    }
+}
+
 
     private void initializeBackButton() {
         backBtn = findViewById(R.id.back_btn);

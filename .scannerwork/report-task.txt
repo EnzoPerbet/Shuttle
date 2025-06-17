@@ -1,7 +1,0 @@
-organization=testepsi2
-projectKey=testepsi2_analyseepsi
-serverUrl=https://sonarcloud.io
-serverVersion=8.0.0.64554
-dashboardUrl=https://sonarcloud.io/dashboard?id=testepsi2_analyseepsi
-ceTaskId=AZd9-VT0gleoA53iC1D7
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZd9-VT0gleoA53iC1D7

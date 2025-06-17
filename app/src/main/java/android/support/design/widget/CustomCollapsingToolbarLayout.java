@@ -1240,12 +1240,18 @@ public class CustomCollapsingToolbarLayout extends FrameLayout {
                         offsetHelper.setTopAndBottomOffset(
                                 MathUtils.clamp(-verticalOffset, 0, getMaxOffsetForPinChild(child)));
                         break;
+
                     case LayoutParams.COLLAPSE_MODE_PARALLAX:
                         offsetHelper.setTopAndBottomOffset(
                                 Math.round(-verticalOffset * lp.mParallaxMult));
                         break;
+
+                    default:
+                        offsetHelper.setTopAndBottomOffset(0); // comportement par défaut
+                        break;
                 }
             }
+
 
             // Show or hide the scrims if needed
             updateScrimVisibility();
