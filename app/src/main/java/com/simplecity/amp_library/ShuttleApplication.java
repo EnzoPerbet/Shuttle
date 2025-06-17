@@ -106,7 +106,6 @@ public class ShuttleApplication extends DaggerApplication {
         RxDogTag.install();
 
         if (BuildConfig.DEBUG) {
-            // enableStrictMode();
         }
 
         refWatcher = LeakCanary.install(this);

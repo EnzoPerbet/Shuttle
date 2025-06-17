@@ -296,8 +296,11 @@ internal class MediaPlayerPlayback(context: Context) : LocalPlayback(context), M
     }
 
     override fun updateLastKnownStreamPosition() {
-
+        // Cette méthode est volontairement laissée vide
+        // car la mise à jour de la position du flux
+        // est gérée ailleurs ou n'est pas nécessaire dans cette classe.
     }
+
 
     private fun createMediaPlayer(context: Context): MediaPlayer {
         val mediaPlayer = MediaPlayer()
