@@ -257,12 +257,13 @@ public class EqualizerFragment extends BaseFragment implements
                 public void onProgressChanged(final SeekBar seekBar, final int progress, final boolean fromUser) {
 
                     if (fromUser) {
-                        //Determine which band changed
                         int seekbarId = seekBar.getId();
-                        int band = 0;
+                        int band = -1;
+
                         for (int i = 0; i < eqViewElementIds.length; i++) {
                             if (eqViewElementIds[i][1] == seekbarId) {
                                 band = i;
+                                break;
                             }
                         }
 

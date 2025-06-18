@@ -1,8 +1,8 @@
 Mthis
-ö ö(!"7com.simplecity.amp_library.ui.screens.tagger.TaggerTask1albumArtistText
-ö" ö(8"java.lang.String"G3
-1
+ú ú("7com.simplecity.amp_library.ui.screens.tagger.TaggerTask*yearText
+ú ú(*"java.lang.String"@,
+*
 
-÷ ÷(."#set-field# albumArtistText:
+û û( "#set-field# yearText:
 
-ø ø(*kC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java
+ü ü(*kC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java

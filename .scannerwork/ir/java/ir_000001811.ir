@@ -1,8 +1,8 @@
 Mthis
-Ý Ý("7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"	showAlbum
-Ý  Ý(1"boolean"A-
+á á("7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"	showTrack
+á  á(1"boolean"A-
 +
 
-Þ Þ(""#set-field# showAlbum:
+â â(""#set-field# showTrack:
 
-ß ß(*kC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java
+ã ã(*kC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java

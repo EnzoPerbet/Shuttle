@@ -1,5 +1,5 @@
-EthisR R("1com.simplecity.amp_library.ui.modelviews.SongVieweditableR R(,"boolean":*
-(
-S S( "#set-field# editable:
+EthisV V("1com.simplecity.amp_library.ui.modelviews.SongView#showAlbumArtV V(1"boolean">.
+,
+W W(("#set-field# showAlbumArt:
 
-T T(*eC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/SongView.java
+X X(*eC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/SongView.java

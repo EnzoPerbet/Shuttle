@@ -1,7 +1,12 @@
 Othis
-´ ´("9com.simplecity.amp_library.ui.screens.drawer.DrawerParent"J6
-4
+¸ ¸("9com.simplecity.amp_library.ui.screens.drawer.DrawerParent!selected
+¸ ¸(,"boolean"r0
+.
 
-µ µ("#get-field# isSelected:Bboolean
+¹ ¹(
+isSelected"#id#:Bboolean.
+,
 
-µ µ(*mC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/drawer/DrawerParent.java
+¹ ¹("#set-field# isSelected:
+
+º º(*mC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/drawer/DrawerParent.java

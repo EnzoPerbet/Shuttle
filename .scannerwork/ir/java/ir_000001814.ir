@@ -1,8 +1,9 @@
 Mthis
-ì ì("7com.simplecity.amp_library.ui.screens.tagger.TaggerTask+	albumText
-ì ì(,"java.lang.String"A-
-+
+ð ð("7com.simplecity.amp_library.ui.screens.tagger.TaggerTask,
+artistText
+ð ð(."java.lang.String"B.
+,
 
-í í(""#set-field# albumText:
+ñ ñ($"#set-field# artistText:
 
-î î(*kC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java
+ò ò(*kC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java

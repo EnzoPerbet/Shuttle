@@ -1,19 +1,6 @@
-
-
-1int
-
-0int[this
-
- 
-("Gcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityExtraLarge"‹5
-3
- (?"#new-object#2Constructor:Bint[]!
+[this ("Gcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityExtraLarge"z!
 
- ("#unknown-value#2
-0
- (#"#get-field# layout:B	!Unknown!E
+ ('"#unknown-value#E
 C
- (="'%#get-field# widget_layout_extra_large:B	!Unknown!$
-"
- (?"#array-write#:
- (@*{C:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetConfigureActivityExtraLarge.java
+ (A"'%#get-field# ARG_EXTRA_LARGE_LAYOUT_ID:B	!Unknown!
+ (B*{C:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetConfigureActivityExtraLarge.java

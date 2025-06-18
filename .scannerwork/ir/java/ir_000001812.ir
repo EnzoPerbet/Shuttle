@@ -1,8 +1,8 @@
 Mthis
-â â("7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"	showTrack
-â  â(1"boolean"A-
+æ æ("7com.simplecity.amp_library.ui.screens.tagger.TaggerTask+	titleText
+æ æ(,"java.lang.String"A-
 +
 
-ã ã(""#set-field# showTrack:
+ç ç(""#set-field# titleText:
 
-ä ä(*kC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java
+è è(*kC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java

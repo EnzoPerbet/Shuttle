@@ -1,11 +1,8 @@
 Mthis
-Ø Ø(&"7com.simplecity.amp_library.ui.screens.tagger.TaggerTask-documentFiles
-Ø' Ø(G"java.util.List"j#
-!
+Ü Ü("7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"	showAlbum
+Ü  Ü(1"boolean"A-
++
 
-Ù Ù(*"#unknown-value#1
-/
+Ý Ý(""#set-field# showAlbum:
 
-Ù Ù(*"#set-field# documentFiles:
-
-Ú Ú(*kC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java
+Þ Þ(*kC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java

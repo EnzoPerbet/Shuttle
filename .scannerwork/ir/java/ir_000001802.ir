@@ -1,9 +1,14 @@
-Hthis	 	("4com.simplecity.amp_library.model.UserSelectedArtworktype	 	(="int$path	? 	(J"java.lang.String"^&
-$
-
- 
-("#set-field# type:&
-$
- ("#set-field# path:
 
- (*hC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/UserSelectedArtwork.java
+'}'char
+,"UserSelectedArtwork{"java.lang.String
+"type="java.lang.String
+ 
+", path='"java.lang.String
+'\''charHthis ("4com.simplecity.amp_library.model.UserSelectedArtwork"°*
+(
+ ("#get-field# type:Bint7
+5
+ (!"#get-field# path:Bjava.lang.String9
+7
+ (	"	#binop +#2+:Bjava.lang.String
+ (	*hC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/UserSelectedArtwork.java

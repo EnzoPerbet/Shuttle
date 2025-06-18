@@ -1476,51 +1476,11 @@ Q
 ô/ ô(^,
 
 completionkotlin.jvm.functions.Function2B86
-4com.simplecity.amp_library.androidauto.MediaIdHelperH®
+4com.simplecity.amp_library.androidauto.MediaIdHelperHﬁ
 ácom.simplecity.amp_library.androidauto.MediaIdHelper#getSongListForMediaId(Ljava/lang/String;Lkotlin/jvm/functions/Function2;)V$lambda0v
-jC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/androidauto/AndroidAutoHelper.ktù% ù(w"0*V
-2
-ùI ù(M@
->
-
-__unknown_file (
-%3"__id*
-
-ùI ù(M
-true*
-1*Ú
-3
-ùS ù(u⁄
-◊
-
-ùn ù(u
-%4java.lang.Long"Wcom.simplecity.amp_library.androidauto.MediaIdWrapper$Song#getAlbumId()Ljava/lang/Long;*Z
-
-ùa ù(mL
-J
-mediaWrapper:com.simplecity.amp_library.androidauto.MediaIdWrapper$Songµ≤
-
-ùS ù(u
-%5boolean"&kotlin.Any#equals(Ljava/lang/Object;)Z*+
-
-ùV ù(]
-
-albumIdjava.lang.Object*$
-
-ùn ù(u
-
-%4java.lang.Long2equals(Ljava/lang/Object;)G
-E
-
-__unknown_file (
-%3"__id*
-
-ùS ù(u
-
-%5boolean*
-1*Æ	
+jC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/androidauto/AndroidAutoHelper.ktù% ù(k"0*Ê
 0
-ù% ù(wë
+ù% ù(kë
 é
 
 __unknown_file (
@@ -1560,29 +1520,43 @@ completionkotlin.jvm.functions.Function2"__id*R
 completionkotlin.jvm.functions.Function2⁄
 ◊
 
-ù8 ù(?
+ù4 ù(;
 %1java.lang.Long"Wcom.simplecity.amp_library.androidauto.MediaIdWrapper$Song#getAlbumId()Ljava/lang/Long;*Z
 
-ù+ ù(7L
+ù' ù(3L
 J
 mediaWrapper:com.simplecity.amp_library.androidauto.MediaIdWrapper$Songõò
 
-ù+ ù(G
+ù' ù(C
 %2boolean"'kotlin.Long#equals(Ljava/lang/Object;)Z*$
 
-ù8 ù(?
+ù4 ù(;
 
 %1java.lang.Long*
 
-ùC ù(G 2equals(Ljava/lang/Object;)*
-2
-3*3
-1
-ùS ù(u""
+ù? ù(C 2equals(Ljava/lang/Object;)⁄
+◊
+
+ùb ù(i
+%3java.lang.Long"Wcom.simplecity.amp_library.androidauto.MediaIdWrapper$Song#getAlbumId()Ljava/lang/Long;*Z
+
+ùU ù(aL
+J
+mediaWrapper:com.simplecity.amp_library.androidauto.MediaIdWrapper$Songµ≤
+
+ùG ù(i
+%4boolean"&kotlin.Any#equals(Ljava/lang/Object;)Z*+
+
+ùJ ù(Q
+
+albumIdjava.lang.Object*$
+
+ùb ù(i
+
+%3java.lang.Long2equals(Ljava/lang/Object;)")
 
-__unknown_file (
-
-%3:2
+__unknown_file (
+	<unknown>:2
 
 __unknown_file (
 itjava.lang.ObjectB86

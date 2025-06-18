@@ -19,6 +19,8 @@ import org.jaudiotagger.audio.exceptions.InvalidAudioFrameException;
 import org.jaudiotagger.audio.exceptions.ReadOnlyFileException;
 import org.jaudiotagger.tag.Tag;
 import org.jaudiotagger.tag.TagException;
+import java.nio.file.Files;
+import java.nio.file.Path;
 
 public class TaggerTask extends AsyncTask<Object, Integer, Boolean> {
 
@@ -152,13 +154,15 @@ public class TaggerTask extends AsyncTask<Object, Integer, Boolean> {
                                     }
                                 }
                             } catch (IOException e) {
-                                e.printStackTrace(); // Gestion d'erreur
+                                e.printStackTrace();
                             }
 
-                            if (temp.delete()) {
+                            try {
+                                Path tempPath = temp.toPath();
+                                Files.delete(tempPath);
                                 tempFiles.remove(temp);
-                            } else {
-                                Log.w(TAG, "Failed to delete temp file: " + temp.getAbsolutePath());
+                            } catch (IOException e) {
+                                Log.w(TAG, "Failed to delete temp file: " + temp.getAbsolutePath(), e);
                             }
                         }
                     }

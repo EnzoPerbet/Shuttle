@@ -1,16 +1,11 @@
 
 Ycom.simplecity.amp_library.ui.modelviews.FolderView#areContentsEqual(Ljava/lang/Object;)Zs
-gC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/FolderView.java‘ ‘(#"startingBlock*%
+gC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/FolderView.java‘ ‘(#"startingBlock*ú
 2
-ŸP Ÿ(U"
-
-ŸI Ÿ(V
-""*ü
-3
-Ÿ Ÿ(µ
+Ÿ Ÿ(!µ
 ≤
 
-Ÿ Ÿ(5
+Ÿ Ÿ(!5
 %5/com.simplecity.amp_library.model.BaseFileObject"__id*g
 
 __unknown_file (K*I5
@@ -18,7 +13,7 @@ gC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/mo
 baseFileObjectô
 ñ
 
-Ÿ# Ÿ(F5
+Ÿ) Ÿ(L5
 %6/com.simplecity.amp_library.model.BaseFileObject"__id*K
 
 __unknown_file (/*-
@@ -26,7 +21,7 @@ gC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/mo
 otherjava.lang.Object"
 baseFileObject±Æ
 
-Ÿ Ÿ(G
+Ÿ Ÿ(M
 %7boolean"Kcom.simplecity.amp_library.model.BaseFileObject#equals(Ljava/lang/Object;)Z*S
 
 __unknown_file (7
@@ -35,9 +30,8 @@ gC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/mo
 
 __unknown_file (7
 5
-%6/com.simplecity.amp_library.model.BaseFileObject2equals(Ljava/lang/Object;)*
-2
-1*è
+%6/com.simplecity.amp_library.model.BaseFileObject2equals(Ljava/lang/Object;)*
+1*é
 startingBlock
 ‘# ‘(1é
 ã
@@ -59,29 +53,19 @@ Y
 
 __unknown_file (
 
-%8*
-10*%
-4
-◊3 ◊(8"
-
-◊, ◊(9
-""*%
+%8*
+8*˚
 6
-÷D ÷(I"
+◊ ◊(µ≤
 
-÷= ÷(J
-""*˛
-7
-÷ ÷(%µ≤
-
-÷ ÷('
+◊ ◊(
 %2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*S
 
 __unknown_file (75
 3com.simplecity.amp_library.ui.modelviews.FolderView2
 getClass()ôñ
 
-÷+ ÷(;
+◊! ◊(1
 %3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*7
 
 __unknown_file (
@@ -90,67 +74,62 @@ getClass()ôñ
 getClass()ç
 ä
 
-÷ ÷(;
+◊ ◊(1
 %4boolean"	__compare*
 
-÷( ÷(*
-!=*%
+◊ ◊( 
+==*%
 
-÷ ÷('
+◊ ◊(
 
 %2java.lang.Class*%
 
-÷+ ÷(;
+◊! ◊(1
 
-%3java.lang.Class*	
-3
-4
-6*ò
-8
-÷ ÷(
+%3java.lang.Class*
+2
+1*õ
+7
+÷ ÷(
 }
 
-÷ ÷(
+÷ ÷(
 %1boolean"	__compare*
 
-÷ ÷(
-==*)
+÷ ÷(
+!=*)
 
-÷ ÷(
+÷ ÷(
 
 otherjava.lang.Object*
 
-÷ ÷(
-""*
+÷ ÷(
+""*	
+2
 6
-7*%
-9
-’" ’(&"
-
-’ ’('
-""*Ã
-10
-’ ’(±
+1*À
+8
+’ ’(±
 Æ
 
-’ ’(
+’ ’(
 %0boolean"	__compare*
 
-’ ’(
+’ ’(
 ==*E
 
-’ ’(75
+’ ’(75
 3com.simplecity.amp_library.ui.modelviews.FolderView*)
 
-’ ’(
+’ ’(
 
 otherjava.lang.Object*
-8
-9*%
+7
+1*%
 1
-€ €("
+’ Ÿ(O"
 
-€ €(
+’ Ÿ(O
 "":'
 
 ‘$ ‘(0

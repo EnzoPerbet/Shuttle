@@ -1,5 +1,5 @@
-Ethis^ ^("1com.simplecity.amp_library.ui.modelviews.SongView$showPlayCount^ ^(3"boolean"?/
--
-_ _(*"#set-field# showPlayCount:
+Ethisb b("1com.simplecity.amp_library.ui.modelviews.SongView%showArtistNameb b(5"boolean"@0
+.
+c c(,"#set-field# showArtistName:
 
-` `(*eC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/SongView.java
+d d(*eC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/SongView.java

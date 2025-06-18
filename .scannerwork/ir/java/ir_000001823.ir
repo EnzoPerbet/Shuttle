@@ -1,8 +1,8 @@
 Mthis
-ô ô("7com.simplecity.amp_library.ui.screens.tagger.TaggerTask-commentText
-ô ô(0"java.lang.String"C/
--
+ù ù("7com.simplecity.amp_library.ui.screens.tagger.TaggerTask+	genreText
+ù ù(,"java.lang.String"A-
++
 
-ö ö(&"#set-field# commentText:
+û û(""#set-field# genreText:
 
-õ õ(*kC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java
+ü ü(*kC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java
