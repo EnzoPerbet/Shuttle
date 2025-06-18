@@ -17,14 +17,14 @@ public class LetterDrawable extends Drawable {
     TypedArray mColors;
 
     public LetterDrawable(String displayName, TypedArray colors, Paint paint) {
-
         mDisplayName = displayName;
         mColors = colors;
         mPaint = paint;
         mKeyName = StringUtils.keyFor(displayName);
-        if (displayName != null && displayName.length() != 0) {
+
+        if (displayName != null && !displayName.isEmpty()) {
             String key = StringUtils.keyFor(displayName);
-            if (key != null && key.length() != 0) {
+            if (key != null && !key.isEmpty()) {
                 mFirstChar = new char[] { Character.toUpperCase(key.charAt(0)) };
             }
         }

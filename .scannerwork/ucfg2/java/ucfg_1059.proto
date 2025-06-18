@@ -1,11 +1,11 @@
 
 ‹com.simplecity.amp_library.ui.screens.tagger.TaggerTask#artist(Ljava/lang/String;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;w
-kC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.javað ð("1*û
+kC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.javaô ô("1*û
 1
-ñ ñ($ž
+õ õ($ž
 ›
 
-ñ ñ($I9
+õ õ($I9
 7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
 
 artistText"__id*<
@@ -15,10 +15,10 @@ artistText"__id*<
 
 artistTextjava.lang.String"I
 
-ò ò(;9
+ö ö(;9
 7com.simplecity.amp_library.ui.screens.tagger.TaggerTask:,
 
-ð ð(.
+ô ô(.
 
 artistTextjava.lang.StringB;9
 7com.simplecity.amp_library.ui.screens.tagger.TaggerTaskH

@@ -1,16 +1,43 @@
 
 ncom.simplecity.amp_library.ui.screens.tagger.TaggerTask#doInBackground([Ljava/lang/Object;)Ljava/lang/Boolean;u
-kC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.javaY Y($"startingBlock*î
-68`  `(%ç
+kC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java[ [($"startingBlock*≠
+46
+Ñ Ñ(#ê
+ç
+
+ÑK Ñ(P
+%36java.util.List"__id*b
+
+__unknown_file (F*D9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
+paths*
+35
+43*Ó
+68e% e().,
+e  e($
+%6java.io.File"java.io.Fileß
+§
+e e(*
+%7"(java.io.File#<init>(Ljava/lang/String;)V*0
+
+__unknown_file (
+
+%6java.io.File*6
+
+__unknown_file (
+
+pathjava.lang.String*
+67*î
+69b  b(%ç
 ä
-`  `(%
+b  b(%
 %4java.util.List"__id*b
 
 __unknown_file (F*D9
 7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
 pathsâ
 Ü
-`  `(,
+b  b(,
 %5java.lang.String"
 __arrayGet*2
 
@@ -21,80 +48,56 @@ __arrayGet*2
 __unknown_file (
 ""b
 `
-` `(-
+b b(-
 pathjava.lang.String"__id*4
 
 __unknown_file (
 
 %5java.lang.String*
-67*
-24î! î(íb
+68*
+25ñ! ñ(íb
 `
 
-ï$ ï(/
+ó$ ó(/
 %46"	__compare*
 
-ï( ï(*
+ó( ó(*
 !=*
 
-ï$ ï('
+ó$ ó('
 ""*
 
-ï+ ï(/
+ó+ ó(/
 ""*
 18
-21*ß
-47 ( L
-J
- (!
+22*´
+48
+Å Å( N
+L
+
+Å Å(!
 tempjava.io.File"__id*"
 
 __unknown_file (
 ""æª
 
-Ä Ä(*
+Ç Ç(*
 %35boolean"8com.simplecity.amp_library.model.TagUpdate#hasChanged()Z*U
 
 __unknown_file (9
 7
 	tagUpdate*com.simplecity.amp_library.model.TagUpdate2hasChanged()*
-10
-45*¸
-69_ _(ç
-ä
-_ _(!
-%1java.util.List"__id*b
-
-__unknown_file (F*D9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
-pathski
-_ _((	
-%2int"java.util.List#size()I*2
-
-__unknown_file (
-
-%1java.util.List2size()f
-d
-_ _((
-%3boolean"	__compare*
-_ _(
-<*
-_ _(
-""*
-_ _((
-	
-%2int*
-68
-1*Ã
-48| |(ñ
+46
+10*Ã
+49~ ~(ñ
 ì
-|- |(8
+~- ~(8
 %33java.lang.String"__id*h
 
 __unknown_file (L*J9
 7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
 commentTextúô
-| |(9
+~ ~(9
 %34void"Ncom.simplecity.amp_library.model.TagUpdate#softSetComment(Ljava/lang/String;)V*U
 
 __unknown_file (9
@@ -104,17 +107,52 @@ d
 __unknown_file (
 
 %33java.lang.String2"softSetComment(Ljava/lang/String;)*
-47*…
-49{ {(ï
+48*¸
+70a a(ç
+ä
+a a(!
+%1java.util.List"__id*b
+
+__unknown_file (F*D9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
+pathski
+a a((	
+%2int"java.util.List#size()I*2
+
+__unknown_file (
+
+%1java.util.List2size()f
+d
+a a((
+%3boolean"	__compare*
+a a(
+<*
+a a(
+""*
+a a((
+	
+%2int*
+69
+1*§
+71] ](ç
+ä
+_X _(]
+%0java.util.List"__id*b
+
+__unknown_file (F*D9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
+paths*
+70*…
+50} }(ï
 í
-{, {(6
+}, }(6
 %31java.lang.String"__id*g
 
 __unknown_file (K*I9
 7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
 
 lyricsTextöó
-{ {(7
+} }(7
 %32void"Mcom.simplecity.amp_library.model.TagUpdate#softSetLyrics(Ljava/lang/String;)V*U
 
 __unknown_file (9
@@ -124,43 +162,17 @@ lyricsTextöó
 __unknown_file (
 
 %31java.lang.String2!softSetLyrics(Ljava/lang/String;)*
-48*~
-29
-í í(Ib
-`
-
-ì ì(0
-%45"	__compare*
-
-ì) ì(+
-!=*
-
-ì ì((
-""*
-
-ì, ì(0
-""*
-24
-10*§
-70[ [(ç
-ä
-]X ](]
-%0java.util.List"__id*b
-
-__unknown_file (F*D9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
-paths*
-69*√
-50z z(ì
+49*√
+51| |(ì
 ê
-z* z(2
+|* |(2
 %29java.lang.String"__id*e
 
 __unknown_file (I*G9
 7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
 
 discTextñì
-z z(3
+| |(3
 %30void"Kcom.simplecity.amp_library.model.TagUpdate#softSetDisc(Ljava/lang/String;)V*U
 
 __unknown_file (9
@@ -170,16 +182,16 @@ lyricsTextöó
 __unknown_file (
 
 %29java.lang.String2softSetDisc(Ljava/lang/String;)*
-49*’
-51y y(ô
+50*’
+52{ {(ô
 ñ
-y0 y(>
+{0 {(>
 %27java.lang.String"__id*k
 
 __unknown_file (O*M9
 7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
 trackTotalText¢ü
-y y(?
+{ {(?
 %28void"Qcom.simplecity.amp_library.model.TagUpdate#softSetTrackTotal(Ljava/lang/String;)V*U
 
 __unknown_file (9
@@ -189,16 +201,33 @@ lyricsTextöó
 __unknown_file (
 
 %27java.lang.String2%softSetTrackTotal(Ljava/lang/String;)*
-50*∆
-52x x(î
+51*~
+30
+î î(Ib
+`
+
+ï ï(0
+%45"	__compare*
+
+ï) ï(+
+!=*
+
+ï ï((
+""*
+
+ï, ï(0
+""*
+25
+10*∆
+53z z(î
 ë
-x+ x(4
+z+ z(4
 %25java.lang.String"__id*f
 
 __unknown_file (J*H9
 7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
 	trackTextòï
-x x(5
+z z(5
 %26void"Lcom.simplecity.amp_library.model.TagUpdate#softSetTrack(Ljava/lang/String;)V*U
 
 __unknown_file (9
@@ -208,16 +237,44 @@ lyricsTextöó
 __unknown_file (
 
 %25java.lang.String2 softSetTrack(Ljava/lang/String;)*
-51*∆
-53w w(î
+52*±
+10
+± ±(î
 ë
-w+ w(4
+
+± ±(
+%56java.util.List"__id*f
+
+__unknown_file (J*H9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
+	tempFiles|
+z
+
+± ±(%
+%57boolean"	__compare*
+
+± ±( 
+!=*%
+
+± ±(
+
+%56java.util.List*
+
+±! ±(%
+""*
+
+9
+70
+0*∆
+54y y(î
+ë
+y+ y(4
 %23java.lang.String"__id*f
 
 __unknown_file (J*H9
 7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
 	titleTextòï
-w w(5
+y y(5
 %24void"Lcom.simplecity.amp_library.model.TagUpdate#softSetTitle(Ljava/lang/String;)V*U
 
 __unknown_file (9
@@ -227,62 +284,34 @@ lyricsTextöó
 __unknown_file (
 
 %23java.lang.String2 softSetTitle(Ljava/lang/String;)*
-52*ó
-31
-ë. ë(2{
+53*ó
+32
+ì. ì(2{
 y
 
-ë. ë(:
+ì. ì(:
 %44boolean"	__compare*
 
-ë3 ë(5
+ì3 ì(5
 !=*$
 
-ë. ë(2
+ì. ì(2
 
 tempjava.io.File*
 
-ë6 ë(:
+ì6 ì(:
 ""*
-29
-10*±
-10
-≠ ≠(î
-ë
-
-≠ ≠(
-%55java.util.List"__id*f
-
-__unknown_file (J*H9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
-	tempFiles|
-z
-
-≠ ≠(%
-%56boolean"	__compare*
-
-≠ ≠( 
-!=*%
-
-≠ ≠(
-
-%55java.util.List*
-
-≠! ≠(%
-""*
-
-69
-9
-0*÷
-55s s(ò
+30
+10*÷
+56u u(ò
 ï
-s/ s(<
+u/ u(<
 %21java.lang.String"__id*j
 
 __unknown_file (N*L9
 7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
 discTotalText†ù
-s s(=
+u u(=
 %22void"Pcom.simplecity.amp_library.model.TagUpdate#softSetDiscTotal(Ljava/lang/String;)V*U
 
 __unknown_file (9
@@ -292,12 +321,12 @@ z
 __unknown_file (
 
 %21java.lang.String2$softSetDiscTotal(Ljava/lang/String;)*
-47
-53*˛
-34
-é é(·ﬁ
+48
+54*˛
+35
+ê ê(·ﬁ
 
-é é(,
+ê ê(,
 %43"<com.simplecity.amp_library.model.TagUpdate#updateTag(LTag;)V*U
 
 __unknown_file (9
@@ -306,17 +335,17 @@ z
 
 __unknown_file (
 ""2updateTag(LTag;)*
-31
+32
 10*∆
-56r r(î
+57t t(î
 ë
-r+ r(4
+t+ t(4
 %19java.lang.String"__id*f
 
 __unknown_file (J*H9
 7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
 	albumTextòï
-r r(5
+t t(5
 %20void"Lcom.simplecity.amp_library.model.TagUpdate#softSetAlbum(Ljava/lang/String;)V*U
 
 __unknown_file (9
@@ -326,34 +355,34 @@ z
 __unknown_file (
 
 %19java.lang.String2 softSetAlbum(Ljava/lang/String;)*
-55*~
-36
-à à(0b
+56*~
+37
+ä ä(0b
 `
 
-â â('
+ã ã('
 %42"	__compare*
 
-â  â("
+ã  ã("
 ==*
 
-â â(
+ã ã(
 ""*
 
-â# â('
+ã# ã('
 ""*
-10
-34*À
-58o o(ì
+35
+10*À
+59q q(ì
 ê
-o& o(.
+q& q(.
 %17java.lang.String"__id*e
 
 __unknown_file (I*G9
 7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
 
 yearTextñì
-o o(/
+q q(/
 %18void"Kcom.simplecity.amp_library.model.TagUpdate#softSetYear(Ljava/lang/String;)V*U
 
 __unknown_file (9
@@ -363,98 +392,76 @@ z
 __unknown_file (
 
 %17java.lang.String2softSetYear(Ljava/lang/String;)*
-47
-53
-56*§
-14
-°+ °(bã
-à
-
-°+ °(b
-%54java.lang.String"__concat*.
-
-°+ °(I 
-Failed to delete temp file: *'
-
-°L °(b
-
-%53java.lang.String*
-10*∆
-59n n(î
-ë
-n' n(0
-%15java.lang.String"__id*f
-
-__unknown_file (J*H9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
-	genreTextòï
-n n(1
-%16void"Lcom.simplecity.amp_library.model.TagUpdate#softSetGenre(Ljava/lang/String;)V*U
-
-__unknown_file (9
-7
-	tagUpdate*com.simplecity.amp_library.model.TagUpdate*5
-
-__unknown_file (
-
-%15java.lang.String2 softSetGenre(Ljava/lang/String;)*
-58*∫
-15
-°  °(#°û
-
-°L °(b
-%53java.lang.String"0java.io.File#getAbsolutePath()Ljava/lang/String;*2
-
-__unknown_file (
-
-tempjava.io.File2getAbsolutePath()*
-14*Ä
+57
+48
+54*Ä
 16
-ü  ü()î
+£  £()î
 ë
 
-ü  ü()
-%51java.util.List"__id*f
+£  £()
+%52java.util.List"__id*f
 
 __unknown_file (J*H9
 7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
 	tempFiles–Õ
 
-ü  ü(6
-%52boolean"*java.util.List#remove(Ljava/lang/Object;)Z*3
+£  £(6
+%53boolean"*java.util.List#remove(Ljava/lang/Object;)Z*3
 
 __unknown_file (
 
-%51java.util.List*2
+%52java.util.List*2
 
 __unknown_file (
 
 tempjava.io.File2remove(Ljava/lang/Object;)*
-10*ê
-18
-û  û($tr
+10* 
+17
+°  °(>m
+k
 
-û  û(-
-%50boolean"java.io.File#delete()Z*2
+°  °(>
+tempPathjava.nio.file.Path"__id*7
+
+__unknown_file (
+
+%50java.nio.file.Path¬
+ø
+
+¢  ¢(6
+%51void"1java.nio.file.Files#delete(Ljava/nio/file/Path;)V*3
+
+__unknown_file ("
+java.nio.file.Files*<
+
+__unknown_file ( 
+
+tempPathjava.nio.file.Path*
+16*¨
+18
+°0 °(4ìê
+
+°0 °(=
+%50java.nio.file.Path")java.io.File#toPath()Ljava/nio/file/Path;*2
 
 __unknown_file (
 
-tempjava.io.File2delete()*
-15
-16*(
+tempjava.io.File2toPath()*
+17*(
 0 "!
 
-∫ ∫(
+æ æ(
 implicit return*%
 1
-π π("
+Ω Ω("
 
-π π(
+Ω Ω(
 ""*ï
-startingBlockY$ Y(6í
+startingBlock[$ [(6í
 è
-X X(
-%68"
+Z Z(
+%69"
 __annotate*2
 
 __unknown_file (
@@ -464,67 +471,67 @@ __annotate*2
 
 paramsjava.lang.Object[]_
 ]
-Y/ Y(5
+[/ [(5
 paramsjava.lang.Object[]"__annotation*#
 
 __unknown_file (
 
-%68*
-70*¡
+%69*
+71*¡
 5
-≤ ≤(°û
+∂ ∂(°û
 
-≤C ≤(Y
-%66java.lang.String"0java.io.File#getAbsolutePath()Ljava/lang/String;*2
+∂C ∂(Y
+%67java.lang.String"0java.io.File#getAbsolutePath()Ljava/lang/String;*2
 
 __unknown_file (
 
 filejava.io.File2getAbsolutePath()Ü
 É
 
-≤' ≤(Y
-%67java.lang.String"__concat*)
+∂' ∂(Y
+%68java.lang.String"__concat*)
 
-≤' ≤(@
+∂' ∂(@
 Failed to delete file: *'
 
-≤C ≤(Y
+∂C ∂(Y
 
-%66java.lang.String*
+%67java.lang.String*
 7*è
 6
-Ø$ Ø(-î
+≥$ ≥(-î
 ë
 
-Ø$ Ø(-
-%63java.util.List"__id*f
+≥$ ≥(-
+%64java.util.List"__id*f
 
 __unknown_file (J*H9
 7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
 	tempFilesâ
 Ü
 
-Ø$ Ø(4
-%64java.io.File"
+≥$ ≥(4
+%65java.io.File"
 __arrayGet*3
 
 __unknown_file (
 
-%63java.util.List*"
+%64java.util.List*"
 
 __unknown_file (
 ""]
 [
 
-Ø Ø(5
+≥ ≥(5
 filejava.io.File"__id*1
 
 __unknown_file (
 
-%64java.io.Filetr
+%65java.io.Filetr
 
-∞* ∞(7
-%65boolean"java.io.File#delete()Z*2
+¥* ¥(7
+%66boolean"java.io.File#delete()Z*2
 
 __unknown_file (
 
@@ -532,87 +539,106 @@ __arrayGet*3
 5
 7*Ñ
 7
-Æ7 Æ(8g
+≤7 ≤(8g
 e
 
-Æ7 Æ(=
-%62boolean"	__compare*
+≤7 ≤(=
+%63boolean"	__compare*
 
-Æ9 Æ(;
+≤9 ≤(;
 >=*
 
-Æ7 Æ(8
+≤7 ≤(8
 ""*
 
-Æ< Æ(=2 *
+≤< ≤(=2 *
 
-69
 6
+70
 0*ä
 8
-Æ! Æ(*î
+≤! ≤(*î
 ë
 
-Æ! Æ(*
-%59java.util.List"__id*f
+≤! ≤(*
+%60java.util.List"__id*f
 
 __unknown_file (J*H9
 7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
 	tempFilesom
 
-Æ! Æ(1
+≤! ≤(1
 
-%60int"java.util.List#size()I*3
+%61int"java.util.List#size()I*3
 
 __unknown_file (
 
-%59java.util.List2size()l
+%60java.util.List2size()l
 j
 
-Æ! Æ(5
+≤! ≤(5
 
-%61int"__calculate*
+%62int"__calculate*
 
-Æ2 Æ(3
+≤2 ≤(3
 -*
 
-Æ! Æ(1
+≤! ≤(1
 
 
-%60int*
+%61int*
 
-Æ4 Æ(52*
+≤4 ≤(52*
 7*≠
 9
-≠* ≠(3î
+±* ±(3î
 ë
 
-≠* ≠(3
-%57java.util.List"__id*f
+±* ±(3
+%58java.util.List"__id*f
 
 __unknown_file (J*H9
 7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
 	tempFilesyw
 
-≠* ≠(=
-%58boolean"java.util.List#isEmpty()Z*3
+±* ±(=
+%59boolean"java.util.List#isEmpty()Z*3
 
 __unknown_file (
 
-%57java.util.List2	isEmpty()*
+%58java.util.List2	isEmpty()*
 
-69
 8
-0*ÿ
-60m m(ö
+70
+0*∆
+60p p(î
+ë
+p' p(0
+%15java.lang.String"__id*f
+
+__unknown_file (J*H9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
+	genreTextòï
+p p(1
+%16void"Lcom.simplecity.amp_library.model.TagUpdate#softSetGenre(Ljava/lang/String;)V*U
+
+__unknown_file (9
+7
+	tagUpdate*com.simplecity.amp_library.model.TagUpdate*5
+
+__unknown_file (
+
+%15java.lang.String2 softSetGenre(Ljava/lang/String;)*
+59*ÿ
+61o o(ö
 ó
-m- m(<
+o- o(<
 %13java.lang.String"__id*l
 
 __unknown_file (P*N9
 7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
 albumArtistText§°
-m m(=
+o o(=
 %14void"Rcom.simplecity.amp_library.model.TagUpdate#softSetAlbumArtist(Ljava/lang/String;)V*U
 
 __unknown_file (9
@@ -622,24 +648,24 @@ j
 __unknown_file (
 
 %13java.lang.String2&softSetAlbumArtist(Ljava/lang/String;)*
-59*Ë
-61j j(9ú
+60*Ë
+62l l(9ú
 ô
-j j(97
+l l(97
 	tagUpdate*com.simplecity.amp_library.model.TagUpdate"__id*N
 
 __unknown_file (2
 0
 %9*com.simplecity.amp_library.model.TagUpdateï
 í
-l( l(2
+n( n(2
 %11java.lang.String"__id*g
 
 __unknown_file (K*I9
 7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
 
 artistTextöó
-l l(3
+n n(3
 %12void"Mcom.simplecity.amp_library.model.TagUpdate#softSetArtist(Ljava/lang/String;)V*U
 
 __unknown_file (9
@@ -649,12 +675,12 @@ artistTextöó
 __unknown_file (
 
 %11java.lang.String2!softSetArtist(Ljava/lang/String;)*
-60*√
-40
-É É(Y]
+61*√
+41
+Ö Ö(Y]
 [
 
-É É(Y
+Ö Ö(Y
 tempjava.io.File"__id*1
 
 __unknown_file (
@@ -662,7 +688,7 @@ artistTextöó
 %38java.io.Fileî
 ë
 
-Ñ Ñ(!
+Ü Ü(!
 %40java.util.List"__id*f
 
 __unknown_file (J*H9
@@ -670,7 +696,7 @@ artistTextöó
 	tempFiles¥
 ±
 
-Ñ Ñ(+
+Ü Ü(+
 %41boolean"
 __arrayAdd*3
 
@@ -683,12 +709,12 @@ __arrayAdd*3
 __unknown_file (
 
 tempjava.io.File*
-36*∆
-62j4 j(7jh
-j* j(30
+37*∆
+63l4 l(7jh
+l* l(30
 %9*com.simplecity.amp_library.model.TagUpdate"*com.simplecity.amp_library.model.TagUpdate√
 ¿
-j& j(8
+l& l(8
 %10"9com.simplecity.amp_library.model.TagUpdate#<init>(LTag;)V*N
 
 __unknown_file (2
@@ -697,15 +723,15 @@ __arrayAdd*3
 
 __unknown_file (
 ""*
-61*¨
-41
-É É(Y1/
+62*¨
+42
+Ö Ö(Y1/
 
-É# É('
+Ö# Ö('
 %38java.io.File"java.io.File‡
 ›
 
-É É(Y
+Ö Ö(Y
 %39":java.io.File#<init>(Ljava/lang/String;Ljava/lang/String;)V*1
 
 __unknown_file (
@@ -718,48 +744,48 @@ __arrayAdd*3
 __unknown_file (
 
 %37java.lang.String*
-40*™
-42
-ÉJ É(Nëé
+41*™
+43
+ÖJ Ö(Nëé
 
-ÉJ É(X
+ÖJ Ö(X
 %37java.lang.String"(java.io.File#getName()Ljava/lang/String;*2
 
 __unknown_file (
 
 origjava.io.File2	getName()*
-41*s
-64e e(-Y
+42*s
+65g g(-Y
 W
-f f(
+h h(
 %8"	__compare*
-f f(
+h h(
 ==*
-f f(
+h h(
 ""*
-f f(
+h h(
 ""*
-62
+63
 10*ö
-20
-ñ) ñ(zÅ
+21
+ò) ò(zÅ
 
 
-ñ) ñ(z,
+ò) ò(z,
 fileOutputStreamjava.io.FileOutputStream"__id*=
 
 __unknown_file (!
 
 %47java.io.FileOutputStream*
 18*ì
-21
-ñM ñ(zIG
+22
+òM ò(zIG
 
-ñQ ñ(a
+òQ ò(a
 %47java.io.FileOutputStream"java.io.FileOutputStreamØ
 ¨
 
-ñM ñ(z
+òM ò(z
 %48"4java.io.FileOutputStream#<init>(Ljava/lang/String;)V*=
 
 __unknown_file (!
@@ -768,43 +794,16 @@ W
 
 __unknown_file (
 ""*
-20*p
-66c c(+Z
+21*p
+67e e(+Z
 X
-c c(+
+e e(+
 origjava.io.File"__id*0
 
 __unknown_file (
 
 %6java.io.File*
-64*≠
-45
-Ç Ç(#ê
-ç
-
-ÇK Ç(P
-%36java.util.List"__id*b
-
-__unknown_file (F*D9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
-paths*
-42
-34*Ó
-67c% c().,
-c  c($
-%6java.io.File"java.io.Fileß
-§
-c c(*
-%7"(java.io.File#<init>(Ljava/lang/String;)V*0
-
-__unknown_file (
-
-%6java.io.File*6
-
-__unknown_file (
-
-pathjava.lang.String*
-66:*
-Y% Y(5
+65:*
+[% [(5
 paramsjava.lang.Object[]B;9
 7com.simplecity.amp_library.ui.screens.tagger.TaggerTask

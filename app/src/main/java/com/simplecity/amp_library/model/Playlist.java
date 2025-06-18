@@ -51,15 +51,31 @@ public class Playlist implements Serializable {
                 .build();
     }
 
-    public Playlist(@Type int type, long id, String name, boolean canEdit, boolean canClear, boolean canDelete, boolean canRename, boolean canSort) {
+    public class PlaylistPermissions {
+        public final boolean canEdit;
+        public final boolean canClear;
+        public final boolean canDelete;
+        public final boolean canRename;
+        public final boolean canSort;
+
+        public PlaylistPermissions(boolean canEdit, boolean canClear, boolean canDelete, boolean canRename, boolean canSort) {
+            this.canEdit = canEdit;
+            this.canClear = canClear;
+            this.canDelete = canDelete;
+            this.canRename = canRename;
+            this.canSort = canSort;
+        }
+    }
+
+    public Playlist(@Type int type, long id, String name, PlaylistPermissions permissions) {
         this.type = type;
         this.id = id;
         this.name = name;
-        this.canEdit = canEdit;
-        this.canClear = canClear;
-        this.canDelete = canDelete;
-        this.canRename = canRename;
-        this.canSort = canSort;
+        this.canEdit = permissions.canEdit;
+        this.canClear = permissions.canClear;
+        this.canDelete = permissions.canDelete;
+        this.canRename = permissions.canRename;
+        this.canSort = permissions.canSort;
     }
 
     public Playlist(Context context, Cursor cursor) {

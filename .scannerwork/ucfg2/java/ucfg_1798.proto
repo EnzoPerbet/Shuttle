@@ -1,12 +1,12 @@
 
 Wcom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment#getBandLevelRange()[IÅ
-uC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/equalizer/EqualizerFragment.javaá
- á("8*ˇ
+uC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/equalizer/EqualizerFragment.javaà
+ à("8*ˇ
 3
-è è(í
+ê ê(í
 è
 
-è+ è(3
+ê+ ê(3
 %4java.lang.String"
 __arrayGet*9
 
@@ -18,7 +18,7 @@ __arrayGet*9
 ""”
 –
 
-è è(4
+ê ê(4
 %5java.lang.Integer"@java.lang.Integer#valueOf(Ljava/lang/String;)Ljava/lang/Integer;*1
 
 __unknown_file ("
@@ -29,26 +29,26 @@ __arrayGet*9
 %4java.lang.String*
 4*Ç
 4
-é é(i
+è è(i
 g
 
-é é(,
+è è(,
 %3boolean"	__compare*
 
-é é(
+è è(
 <*
 
-é é(
+è è(
 ""*
 
-é  é(,
+è  è(,
 ""*
 3
 1*Ï
 5
-å å(-ÍÁ
+ç ç(-ÍÁ
 
-å å(8
+ç ç(8
 %2java.lang.String[]"=java.lang.String#split(Ljava/lang/String;)[Ljava/lang/String;*B
 
 __unknown_file (&
@@ -59,7 +59,7 @@ $
 ;2split(Ljava/lang/String;)i
 g
 
-å å(9
+ç ç(9
 splitjava.lang.String[]"__id*6
 
 __unknown_file (
@@ -67,14 +67,14 @@ g
 %2java.lang.String[]*
 4*%
 6
-ä  ä($"
+ã  ã($"
 
-ä ä(-
+ã ã(-
 ""*§
 7
-â( â(8äá
+ä( ä(8äá
 
-â( â(B
+ä( ä(B
 %1boolean"java.lang.String#isEmpty()Z*B
 
 __unknown_file (&
@@ -83,33 +83,33 @@ $
 5
 6*Ö
 8
-à" à('^
+â" â('^
 \
 
-à à(V$
+â â(V$
 savedCenterFreqsjava.lang.String"__id*"
 
 __unknown_file (
 ""ã
 à
 
-â â($
+ä ä($
 %0boolean"	__compare*
 
-â â(
+ä ä(
 ==*4
 
-â â(&
+ä ä(&
 $
 savedCenterFreqsjava.lang.String*
 
-â  â($
+ä  ä($
 ""*
 6
 7*%
 1
-ë ë("
+í í("
 
-ë ë(
+í í(
 ""BEC
 Acom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment
