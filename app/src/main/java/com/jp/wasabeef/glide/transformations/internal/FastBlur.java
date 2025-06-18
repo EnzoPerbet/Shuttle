@@ -72,11 +72,11 @@ public class FastBlur {
         int wh = w * h;
         int div = radius + radius + 1;
 
-        int r[] = new int[wh];
-        int g[] = new int[wh];
-        int b[] = new int[wh];
+        int[] r = new int[wh];
+        int[] g = new int[wh];
+        int[] b = new int[wh];
         int rsum, gsum, bsum, x, y, i, p, yp, yi, yw;
-        int vmin[] = new int[Math.max(w, h)];
+        int[] vmin = new int[Math.max(w, h)];
 
         int divsum = (div + 1) >> 1;
         divsum *= divsum;

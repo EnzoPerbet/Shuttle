@@ -1,45 +1,45 @@
 
->com.simplecity.amp_library.model.CategoryItem#getTitleResId()Ik
-aC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/CategoryItem.javaA A("2*ü
-2B B(A
+Hcom.simplecity.amp_library.model.CategoryItem#getKey()Ljava/lang/String;k
+aC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/CategoryItem.javaU U("2*ü
+2V V(A
 ?
-C C(	
+W W(	
 %0int"__id*"
 
 __unknown_file (
 ""A
 ?
-E E(	
+Y Y(	
 %1int"__id*"
 
 __unknown_file (
 ""A
 ?
-G G(	
+[ [(	
 %2int"__id*"
 
 __unknown_file (
 ""A
 ?
-I I(	
+] ](	
 %3int"__id*"
 
 __unknown_file (
 ""A
 ?
-K K(	
+_ _(	
 %4int"__id*"
 
 __unknown_file (
 ""A
 ?
-M M(	
+a a(	
 %5int"__id*"
 
 __unknown_file (
 ""A
 ?
-O O(	
+c c(	
 %6int"__id*"
 
 __unknown_file (
@@ -51,29 +51,31 @@ aC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model
 7
 8
 9
-1*!
-3O P(0"
-P P(0
-""*!
-4M N(."
-N N(.
-""*!
-5K L(-"
-L L(-
-""*!
-6I J(-"
-J J(-
-""*!
-7G H(."
-H H(.
-""*!
-8E F(0"
-F F(0
-""*!
-9C D(-"
-D D(-
-""*!
-1R R("
-R R(
+1*(
+3c d(#"
+d d(#
+	playlists*&
+4a b(!"
+b b(!	
+folders*$
+5_ `("
+` `(	
+songs*%
+6] ^( "
+^ ^( 
+
+albums*&
+7[ \(!"
+\ \(!	
+artists*(
+8Y Z(#"
+Z Z(#
+	suggested*%
+9W X( "
+X X( 
+
+genres*!
+1f f("
+f f(
 ""B1/
--com.simplecity.amp_library.model.CategoryItemHX
+-com.simplecity.amp_library.model.CategoryItemH

@@ -370,9 +370,9 @@ public class ShuttleApplication extends DaggerApplication {
                         }
 
                 ).toList()
-                .doOnSuccess(contentProviderOperations -> {
-                    getContentResolver().applyBatch(MediaStore.AUTHORITY, new ArrayList<>(contentProviderOperations));
-                })
+                .doOnSuccess(contentProviderOperations ->
+                    getContentResolver().applyBatch(MediaStore.AUTHORITY, new ArrayList<>(contentProviderOperations))
+                );
                 .flatMapCompletable(songs -> Completable.complete());
     }
 }

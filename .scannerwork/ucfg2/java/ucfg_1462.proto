@@ -1,14 +1,7 @@
 
-ncom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityMedium#getUpdateCommandString()Ljava/lang/String;Å
-wC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetConfigureActivityMedium.java (!"1*ó
-1 (#b
-`
- (6
-%0java.lang.String"__id*6
-
-__unknown_file (
-appwidgetupdate_medium"$
- (7
-
-%0java.lang.StringBGE
-Ccom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityMedium
+Tcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityMedium#getRootViewId()IÅ
+wC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetConfigureActivityMedium.java ("1*!
+1 ("
+ ()
+""BGE
+Ccom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityMediumX

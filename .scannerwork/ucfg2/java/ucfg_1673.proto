@@ -1,175 +1,49 @@
 
-dcom.simplecity.amp_library.utils.ArtworkUtils#getTagArtwork(Ljava/lang/String;)Ljava/io/InputStream;m
-aC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/ArtworkUtils.java™ ™(+"startingBlock*ý
-14
-›" ›(&\
-Z
-
-› ›('"
-inputStreamjava.io.InputStream"__id*"
-
-__unknown_file (
-""ƒ
-€
-
- (
-%0boolean"	__compare*
-
- (
-!=*,
-
- (
-
-filePathjava.lang.String*
-
- (
-""*
-1
-12*
-3
-¥ ¥([z
-x
-
-¥ ¥(["
-inputStreamjava.io.InputStream"__id*@
-
-__unknown_file ($
-"
-%6java.io.ByteArrayInputStream*
-1*¿
+__sonar_lambda_135$m
+aC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/ArtworkUtils.java¾) ¾(\"startingBlock*Æ
 startingBlock
-™+ ™(F‹
-ˆ
-
-˜ ˜(
-%8"
-__annotate*,
+¾) ¾(\£
+ 
 
-__unknown_file (
-WorkerThread*:
+__unknown_file ("
+patternjava.util.regex.Pattern"__id*Z
 
-__unknown_file (
-
-filePathjava.lang.String‡
-„
+__unknown_file (>*</
+-com.simplecity.amp_library.utils.ArtworkUtils"	
+pattern*
+1*õ
+1
+¾2 ¾(9’
 
-™, ™(5
-%9"
-__annotate*(
+¾B ¾(Q
+%11java.lang.String"(java.io.File#getName()Ljava/lang/String;*3
 
-__unknown_file (
+__unknown_file (
+
+file1java.io.File2	getName()Ÿœ
 
-Nullable*:
-
-__unknown_file (
-
-filePathjava.lang.Stringƒ
-€
-
-™= ™(E
-filePathjava.lang.String"__annotation*"
-
-__unknown_file (
-
-%8*"
-
-__unknown_file (
-
-%9*
-14*Ž
-4
-¥* ¥([PN
-
-¥. ¥(B"
-%6java.io.ByteArrayInputStream"java.io.ByteArrayInputStream¥
-¢
-
-¥* ¥([
-%7"(java.io.ByteArrayInputStream#<init>([B)V*@
+¾2 ¾(R
+%12java.util.regex.Matcher"Rjava.util.regex.Pattern#matcher(Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;*@
 
 __unknown_file ($
 "
-%6java.io.ByteArrayInputStream*"
+patternjava.util.regex.Pattern*5
 
-__unknown_file (
-""*
-3*z
-6
-£ £(^a
-_
+__unknown_file (
+
+%11java.lang.String2!matcher(Ljava/lang/CharSequence;)Œ‰
 
-¤ ¤(+
-%5"	__compare*
-
-¤$ ¤(&
-!=*
-
-¤ ¤(#
-""*
-
-¤' ¤(+
-""*
-4
-1*z
-8
-¡ ¡(1a
-_
-
-¢ ¢(#
-%4"	__compare*
-
-¢ ¢(
-!=*
-
-¢ ¢(
-""*
-
-¢ ¢(#
-""*
-6
-1*{
-10
-Ÿ Ÿ(Ka
-_
-
-   (%
-%3"	__compare*
-
-   ( 
-!=*
-
-   (
-""*
-
- !  (%
-""*
-8
-1*ø
-12
-Ÿ& Ÿ(10.
-
-Ÿ; Ÿ(?
-%1java.io.File"java.io.File­
-ª
-
-Ÿ7 Ÿ(I
-%2"(java.io.File#<init>(Ljava/lang/String;)V*0
+¾2 ¾(\
+%13boolean""java.util.regex.Matcher#matches()Z*<
 
-__unknown_file (
-
-%1java.io.File*:
-
-__unknown_file (
-
-filePathjava.lang.String*
-10*C
-1
-® ®("2
+__unknown_file ( 
+
+%12java.util.regex.Matcher2	matches()"
 
-® ®($
-"
-inputStreamjava.io.InputStream:*
+¾2 ¾(\
+
+%13boolean:#
 
-™, ™(E
-filePathjava.lang.StringB1"/
--com.simplecity.amp_library.utils.ArtworkUtilsH
+¾) ¾(.
+file1java.io.FileB
+java.io.FileFilter

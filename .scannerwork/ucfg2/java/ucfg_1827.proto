@@ -1,44 +1,10 @@
 
-Bcom.github.florent37.glidepalette.BitmapPalette#%field_initializer
-__unknown_file ("1*½
-1 (¸µ
-€
-vC:/Users/enzo.perbet/Shuttle/libraries/glidepalette/src/main/java/com/github/florent37/glidepalette/BitmapPalette.java=6 =(B
-%0java.util.LinkedList"java.util.LinkedListÖ
-Ó
-€
-vC:/Users/enzo.perbet/Shuttle/libraries/glidepalette/src/main/java/com/github/florent37/glidepalette/BitmapPalette.java=2 =(D
-%1"java.util.LinkedList#<init>()V*(
- (
-
-%0java.util.LinkedListö
-ó
-€
-vC:/Users/enzo.perbet/Shuttle/libraries/glidepalette/src/main/java/com/github/florent37/glidepalette/BitmapPalette.java= =(E>1
-/com.github.florent37.glidepalette.BitmapPalette"	
-targets"__id*(
- (
-
-%0java.util.LinkedList¶³
-€
-vC:/Users/enzo.perbet/Shuttle/libraries/glidepalette/src/main/java/com/github/florent37/glidepalette/BitmapPalette.java>@ >(K
-%2java.util.ArrayList"java.util.ArrayListÔ
-Ñ
-€
-vC:/Users/enzo.perbet/Shuttle/libraries/glidepalette/src/main/java/com/github/florent37/glidepalette/BitmapPalette.java>< >(M
-%3"java.util.ArrayList#<init>()V*'
- (
-
-%2java.util.ArrayList÷
-ô
-€
-vC:/Users/enzo.perbet/Shuttle/libraries/glidepalette/src/main/java/com/github/florent37/glidepalette/BitmapPalette.java> >(N@1
-/com.github.florent37.glidepalette.BitmapPalette"
-	callbacks"__id*'
- (
-
-%2java.util.ArrayList"–
-
-vC:/Users/enzo.perbet/Shuttle/libraries/glidepalette/src/main/java/com/github/florent37/glidepalette/BitmapPalette.java ï(
-implicit returnB31
-/com.github.florent37.glidepalette.BitmapPalette
+gcom.github.florent37.glidepalette.BitmapPalette#use(I)Lcom/github/florent37/glidepalette/BitmapPalette;€
+vC:/Users/enzo.perbet/Shuttle/libraries/glidepalette/src/main/java/com/github/florent37/glidepalette/BitmapPalette.javaB B("1*N
+1C C("?
+D D(31
+/com.github.florent37.glidepalette.BitmapPalette: 
+
+__unknown_file (
+""B31
+/com.github.florent37.glidepalette.BitmapPaletteH

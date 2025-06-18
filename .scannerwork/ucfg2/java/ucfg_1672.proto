@@ -1,133 +1,175 @@
 
-acom.simplecity.amp_library.utils.ArtworkUtils#getFileArtwork(Ljava/io/File;)Ljava/io/InputStream;k
-aC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/ArtworkUtils.javaP P(,"startingBlock*è
-2Y Y(7{
-y
-Y Y(7*
-fileInputStreamjava.io.FileInputStream"__id*;
+dcom.simplecity.amp_library.utils.ArtworkUtils#getTagArtwork(Ljava/lang/String;)Ljava/io/InputStream;m
+aC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/ArtworkUtils.javaô ô(+"startingBlock*˝
+14
+õ" õ(&\
+Z
+
+õ õ('"
+inputStreamjava.io.InputStream"__id*"
 
-__unknown_file (
-
-%5java.io.FileInputStream*
-1*û
-startingBlockP, P(AÅ
-
-O O(
-%10"
+__unknown_file (
+""É
+Ä
+
+ù ù(
+%0boolean"	__compare*
+
+ù ù(
+!=*,
+
+ù ù(
+
+filePathjava.lang.String*
+
+ù ù(
+""*
+1
+12*ê
+3
+• •([z
+x
+
+• •(["
+inputStreamjava.io.InputStream"__id*@
+
+__unknown_file ($
+"
+%6java.io.ByteArrayInputStream*
+1*ø
+startingBlock
+ô+ ô(Fã
+à
+
+ò ò(
+%8"
 __annotate*,
 
 __unknown_file (
-WorkerThread*2
+WorkerThread*:
 
-__unknown_file (
-
-filejava.io.File}
-{
-P- P(6
-%11"
+__unknown_file (
+
+filePathjava.lang.Stringá
+Ñ
+
+ô, ô(5
+%9"
 __annotate*(
 
 __unknown_file (
 
-Nullable*2
+Nullable*:
 
-__unknown_file (
-
-filejava.io.Filez
-x
-P< P(@
-filejava.io.File"__annotation*#
+__unknown_file (
+
+filePathjava.lang.StringÉ
+Ä
+
+ô= ô(E
+filePathjava.lang.String"__annotation*"
 
-__unknown_file (
-
-%10*#
+__unknown_file (
+
+%8*"
 
-__unknown_file (
-
-%11*
-10*ê
-5Y2 Y(6DB
-Y" Y(1
-%5java.io.FileInputStream"java.io.FileInputStreamµ
-≤
-Y Y(7
-%6"/java.io.FileInputStream#<init>(Ljava/io/File;)V*;
+__unknown_file (
+
+%9*
+14*é
+4
+•* •([PN
+
+•. •(B"
+%6java.io.ByteArrayInputStream"java.io.ByteArrayInputStream•
+¢
+
+•* •([
+%7"(java.io.ByteArrayInputStream#<init>([B)V*@
 
-__unknown_file (
-
-%5java.io.FileInputStream*2
-
-__unknown_file (
-
-filejava.io.File*
-2*v
-6V* V(.b
-`
-V V(/*
-fileInputStreamjava.io.FileInputStream"__id*"
+__unknown_file ($
+"
+%6java.io.ByteArrayInputStream*"
 
 __unknown_file (
 ""*
-5*!
-7S S("
-S S(
-""*—
-8R. R(2nl
-R. R(;
+3*z
+6
+£ £(^a
+_
 
-%2long"java.io.File#length()J*2
-
-__unknown_file (
-
-filejava.io.File2length()\
-Z
-R> R(G	
-%3int"__calculate*
-RA R(B
-**
-R> R(@2
-*
-RC R(G2Äl
-j
-R. R(G
-%4boolean"	__compare*
-R< R(=
-<*
-R. R(;
+§ §(+
+%5"	__compare*
 
+§$ §(&
+!=*
 
-%2long*
-R> R(G
-	
-%3int*
-6
-7*à
-9R R(!qo
-R R(*
-%1boolean"java.io.File#exists()Z*2
-
-__unknown_file (
-
-filejava.io.File2exists()*
-7
-8*ä
-10R R(r
-p
-R R(
-%0boolean"	__compare*
-R R(
-==*"
-R R(
-
-filejava.io.File*
-R R(
+§ §(#
+""*
+
+§' §(+
 ""*
-7
-9*G
-1^ ^("8
-^ ^(,
-*
-fileInputStreamjava.io.FileInputStream: 
-P- P(@
-filejava.io.FileB1"/
+4
+1*z
+8
+° °(1a
+_
+
+¢ ¢(#
+%4"	__compare*
+
+¢ ¢(
+!=*
+
+¢ ¢(
+""*
+
+¢ ¢(#
+""*
+6
+1*{
+10
+ü ü(Ka
+_
+
+† †(%
+%3"	__compare*
+
+† †( 
+!=*
+
+† †(
+""*
+
+†! †(%
+""*
+8
+1*¯
+12
+ü& ü(10.
+
+ü; ü(?
+%1java.io.File"java.io.File≠
+™
+
+ü7 ü(I
+%2"(java.io.File#<init>(Ljava/lang/String;)V*0
+
+__unknown_file (
+
+%1java.io.File*:
+
+__unknown_file (
+
+filePathjava.lang.String*
+10*C
+1
+Æ Æ("2
+
+Æ Æ($
+"
+inputStreamjava.io.InputStream:*
+
+ô, ô(E
+filePathjava.lang.StringB1"/
 -com.simplecity.amp_library.utils.ArtworkUtilsH

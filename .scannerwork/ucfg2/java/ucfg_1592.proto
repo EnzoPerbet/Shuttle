@@ -1,29 +1,39 @@
 
-Pcom.simplecity.amp_library.utils.color.BitmapPaletteProcessor#%field_initializer
-__unknown_file ("1*Ž
-1 (÷
-ô
-{
-qC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/color/BitmapPaletteProcessor.java; ;(2[?
-=com.simplecity.amp_library.utils.color.BitmapPaletteProcessor"
-mFilteredBackgroundHsl"__id*
- (
-""û
-ø
-{
-qC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/color/BitmapPaletteProcessor.java</ <(Q
-%0"__declareFunction*`
- (TR
-P__sonar_lambda_129$com.simplecity.amp_library.utils.color.BitmapPaletteProcessorò
-ï
-{
-qC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/color/BitmapPaletteProcessor.java< <(RV?
-=com.simplecity.amp_library.utils.color.BitmapPaletteProcessor"
-mBlackWhiteFilter"__id*
- (
-
-%0"‘
-z
-qC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/color/BitmapPaletteProcessor.java ñ(
-implicit returnBA?
-=com.simplecity.amp_library.utils.color.BitmapPaletteProcessor
+Qcom.simplecity.amp_library.utils.color.BitmapPaletteProcessor#isWhiteOrBlack([F)Z}
+qC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/color/BitmapPaletteProcessor.javaÞ Þ(""3*„
+2
+ß ß(&í
+ê
+
+ß ß(+
+%1boolean"Jcom.simplecity.amp_library.utils.color.BitmapPaletteProcessor#isWhite([F)Z*]
+
+__unknown_file (A?
+=com.simplecity.amp_library.utils.color.BitmapPaletteProcessor*"
+
+__unknown_file (
+""*
+1*‡
+3
+ß ß(í
+ê
+
+ß ß(
+%0boolean"Jcom.simplecity.amp_library.utils.color.BitmapPaletteProcessor#isBlack([F)Z*]
+
+__unknown_file (A?
+=com.simplecity.amp_library.utils.color.BitmapPaletteProcessor*"
+
+__unknown_file (
+""*
+2
+1*%
+1
+ß ß(,"
+
+ß ß(,
+"": 
+
+__unknown_file (
+""BA?
+=com.simplecity.amp_library.utils.color.BitmapPaletteProcessorX

@@ -1,31 +1,31 @@
 
-Jcom.simplecity.amp_library.utils.color.BitmapPaletteProcessor#isBlack([F)Z}
-qC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/color/BitmapPaletteProcessor.javaæ æ("1*ß
+Jcom.simplecity.amp_library.utils.color.BitmapPaletteProcessor#isWhite([F)Z}
+qC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/color/BitmapPaletteProcessor.javaí í("1*ß
 1
-ç ç(E
+î î(E
 C
 
-ç ç(1
+î î(1
 %0float"__id*"
 
 __unknown_file (
 ""q
 o
 
-ç ç(1
+î î(1
 %1boolean"	__compare*
 
-ç ç(
-<=*
+î î(
+>=*
 
-ç ç(
+î î(
 ""*
 
-ç ç(1
+î î(1
 
 %0float"
 
-ç ç(2
+î î(2
 "": 
 
 __unknown_file (

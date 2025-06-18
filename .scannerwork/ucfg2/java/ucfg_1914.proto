@@ -1,56 +1,32 @@
 
-Lcom.simplecity.amp_library.ui.screens.tagger.TaggerDialog#%field_initializer
-__unknown_file ("1*€
-1 (¨©
-w
-mC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerDialog.java?) ?(4
-%0java.util.ArrayList"java.util.ArrayList 
-«
-w
-mC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerDialog.java?% ?(6
-%1"java.util.ArrayList#<init>()V*'
- (
-
-%0java.util.ArrayListˇ
-¸
-w
-mC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerDialog.java? ?(7R;
-9com.simplecity.amp_library.ui.screens.tagger.TaggerDialog"
-originalSongPaths"__id*'
- (
-
-%0java.util.ArrayList¨©
-w
-mC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerDialog.java@3 @(>
-%2java.util.ArrayList"java.util.ArrayList 
-«
-w
-mC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerDialog.java@/ @(@
-%3"java.util.ArrayList#<init>()V*'
- (
-
-%2java.util.ArrayList˚
-¯
-w
-mC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerDialog.java@ @(AN;
-9com.simplecity.amp_library.ui.screens.tagger.TaggerDialog"
-documentFiles"__id*'
- (
-
-%2java.util.ArrayList‡
-›
-w
-mC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerDialog.javaB B(%J;
-9com.simplecity.amp_library.ui.screens.tagger.TaggerDialog"
-	showAlbum"__id*
- (2‡
-›
-w
-mC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerDialog.javaC C(%J;
-9com.simplecity.amp_library.ui.screens.tagger.TaggerDialog"
-	showTrack"__id*
- (2"ç
-v
-mC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerDialog.java/ ¥(
-implicit returnB=;
-9com.simplecity.amp_library.ui.screens.tagger.TaggerDialog
+òcom.simplecity.amp_library.ui.screens.tagger.TaggerDialog#newInstance(Ljava/io/Serializable;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerDialog;w
+mC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerDialog.javai i(*"1*∑
+1k k("Q
+O
+l l(&
+%0java.lang.String"__id*%
+
+__unknown_file (	
+modelâÜ
+m$ m(0?
+%19com.simplecity.amp_library.ui.screens.tagger.TaggerDialog"9com.simplecity.amp_library.ui.screens.tagger.TaggerDialog∑
+¥
+m  m(2
+%2"Ccom.simplecity.amp_library.ui.screens.tagger.TaggerDialog#<init>()V*]
+
+__unknown_file (A
+?
+%19com.simplecity.amp_library.ui.screens.tagger.TaggerDialogπ
+∂
+m m(3E
+fragment9com.simplecity.amp_library.ui.screens.tagger.TaggerDialog"__id*]
+
+__unknown_file (A
+?
+%19com.simplecity.amp_library.ui.screens.tagger.TaggerDialog"S
+o o(G
+E
+fragment9com.simplecity.amp_library.ui.screens.tagger.TaggerDialog:)
+i+ i(=
+modeljava.io.SerializableB=";
+9com.simplecity.amp_library.ui.screens.tagger.TaggerDialogH

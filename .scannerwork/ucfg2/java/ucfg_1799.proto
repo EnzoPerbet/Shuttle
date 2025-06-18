@@ -1,13 +1,12 @@
 
-Wcom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment#getBandLevelRange()[IÅ
-uC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/equalizer/EqualizerFragment.javaà
- à("8*ˇ
+Tcom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment#getCenterFreqs()[IÅ
+uC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/equalizer/EqualizerFragment.javañ ñ( "5*ˇ
 3
-ê ê(í
+õ õ(í
 è
 
-ê+ ê(3
-%4java.lang.String"
+õ' õ(/
+%2java.lang.String"
 __arrayGet*9
 
 __unknown_file (
@@ -18,38 +17,44 @@ __arrayGet*9
 ""”
 –
 
-ê ê(4
-%5java.lang.Integer"@java.lang.Integer#valueOf(Ljava/lang/String;)Ljava/lang/Integer;*1
+õ õ(0
+%3java.lang.Integer"@java.lang.Integer#valueOf(Ljava/lang/String;)Ljava/lang/Integer;*1
 
 __unknown_file ("
 java.lang.Integer*4
 
 __unknown_file (
 
-%4java.lang.String*
+%2java.lang.String*
 4*Ç
 4
-è è(i
+ö ö(i
 g
 
-è è(,
-%3boolean"	__compare*
+ö ö((
+%1boolean"	__compare*
 
-è è(
+ö ö(
 <*
 
-è è(
+ö ö(
 ""*
 
-è  è(,
+ö ö((
 ""*
 3
-1*Ï
+1*Õ
 5
-ç ç(-ÍÁ
+ó" ó('_
+]
+ó ó(Ç$
+savedCenterFreqsjava.lang.String"__id*"
+
+__unknown_file (
+""ÍÁ
 
-ç ç(8
-%2java.lang.String[]"=java.lang.String#split(Ljava/lang/String;)[Ljava/lang/String;*B
+ò ò(4
+%0java.lang.String[]"=java.lang.String#split(Ljava/lang/String;)[Ljava/lang/String;*B
 
 __unknown_file (&
 $
@@ -59,57 +64,16 @@ $
 ;2split(Ljava/lang/String;)i
 g
 
-ç ç(9
+ò ò(5
 splitjava.lang.String[]"__id*6
 
 __unknown_file (
 
-%2java.lang.String[]*
+%0java.lang.String[]*
 4*%
-6
-ã  ã($"
-
-ã ã(-
-""*§
-7
-ä( ä(8äá
-
-ä( ä(B
-%1boolean"java.lang.String#isEmpty()Z*B
-
-__unknown_file (&
-$
-savedCenterFreqsjava.lang.String2	isEmpty()*
-5
-6*Ö
-8
-â" â('^
-\
-
-â â(V$
-savedCenterFreqsjava.lang.String"__id*"
-
-__unknown_file (
-""ã
-à
-
-ä ä($
-%0boolean"	__compare*
-
-ä ä(
-==*4
-
-ä ä(&
-$
-savedCenterFreqsjava.lang.String*
-
-ä  ä($
-""*
-6
-7*%
 1
-í í("
+ù ù("
 
-í í(
+ù ù(
 ""BEC
 Acom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment

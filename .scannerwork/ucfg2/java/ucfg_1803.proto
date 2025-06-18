@@ -1,21 +1,15 @@
 
-Kcom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment#<init>()V
-__unknown_file ("startingBlock*Ï
-startingBlock}
-uC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/equalizer/EqualizerFragment.java' '(±
-®
-}
-uC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/equalizer/EqualizerFragment.java' '(
-%0"Tcom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment#%field_initializer*Q
- (EC
-Acom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragmentó
-ð
-}
-uC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/equalizer/EqualizerFragment.java' '(
-%1"BaseFragment#<init>()V*Q
- (EC
-Acom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment"”
-}
-uC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/equalizer/EqualizerFragment.java' '(
-implicit returnBEC
-Acom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment
+Jcom.simplecity.amp_library.playback.MediaSessionManager#%field_initializer
+__unknown_file ("1*þ
+1 (à
+Ý
+u
+kC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/playback/MediaSessionManager.java8 8(HJ9
+7com.simplecity.amp_library.playback.MediaSessionManager"
+disposables"__id*
+ (
+"""‹
+t
+kC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/playback/MediaSessionManager.java( Ê(
+implicit returnB;9
+7com.simplecity.amp_library.playback.MediaSessionManager

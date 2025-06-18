@@ -1,59 +1,58 @@
 
-Bcom.simplecity.amp_library.ui.modelviews.SubheaderView#hashCode()It
-jC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/SubheaderView.java@ @("4*Z
-2A2 A(3F
-D
-A2 A(3	
-%2int"__id*'
+\com.simplecity.amp_library.ui.modelviews.SubheaderView#areContentsEqual(Ljava/lang/Object;)Zt
+jC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/SubheaderView.javaE E(#"startingBlock*÷
+2H$ H()n
+l
+H H(0
+%0java.lang.String"__id*B
 
-__unknown_file (
-	
-%4int*
-1*ä
-3A A($Ž
+__unknown_file (&*$
+
+otherjava.lang.Object"
+titleŽ
 ‹
-A A($
-%5java.lang.String"__id*a
+H8 H(=
+%1java.lang.String"__id*a
 
 __unknown_file (E*C8
 6com.simplecity.amp_library.ui.modelviews.SubheaderView"
-titlewu
-A A(/	
-%3int"java.lang.String#hashCode()I*4
+titleÒÏ
+H H(>
+%2boolean",java.lang.String#equals(Ljava/lang/Object;)Z*4
 
 __unknown_file (
 
-%5java.lang.String2
-hashCode()F
-D
-A A(/	
-%2int"__id*'
+%0java.lang.String*4
 
-__unknown_file (
-	
-%3int*
-1*œ
-4A A(Ž
-‹
-A A(
-%0java.lang.String"__id*a
-
-__unknown_file (E*C8
-6com.simplecity.amp_library.ui.modelviews.SubheaderView"
-titlet
-r
-A A(
-%1boolean"	__compare*
-A A(
-!=*$
-A A(
+__unknown_file (
 
-%0java.lang.String*
-A A(
-""*
+%1java.lang.String2equals(Ljava/lang/Object;)"
+H H(?
+""*‹
+startingBlockE# E(1Œ
+‰
+D D(
+%3"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*7
+
+__unknown_file (
+
+otherjava.lang.ObjectY
+W
+E+ E(0
+otherjava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%3*
 2
-3*!
-1A A(4"
-A A(4
-""B:8
+1*!
+1K K("
+K K(
+"":%
+E$ E(0
+otherjava.lang.ObjectB:8
 6com.simplecity.amp_library.ui.modelviews.SubheaderViewHX
