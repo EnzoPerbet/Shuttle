@@ -1,78 +1,191 @@
 
-9com.simplecity.amp_library.model.ArtworkModel#hashCode()Ik
-aC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/ArtworkModel.java/ /("4*Z
-21A 1(BF
-D
-1A 1(B	
-%3int"__id*'
+Icom.simplecity.amp_library.model.ArtworkModel#equals(Ljava/lang/Object;)Zk
+aC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/ArtworkModel.java$ $("startingBlock*á
+2+7 +(;‡
+„
++7 +(@
+%13java.io.File"__id*]
 
-__unknown_file (
-	
-%5int*
-1*Ì
-31/ 1(3
-}
-1/ 1(3
-%6java.io.File"__id*W
+__unknown_file (A*?
+5
+that-com.simplecity.amp_library.model.ArtworkModel"
+filer
+p
++7 +(H
+%10boolean"	__compare*
++A +(C
+==*!
++7 +(@
+
+%13java.io.File*
++D +(H
+""O
+M
++7 +(H
+%8boolean"__id*,
+
+__unknown_file (
+
+%10boolean*
+1*º
+3+ +("€
+~
++ +("
+%11java.io.File"__id*W
 
 __unknown_file (;*9/
 -com.simplecity.amp_library.model.ArtworkModel"
-fileom
-1/ 1(>	
-%4int"java.io.File#hashCode()I*0
+file‡
+„
++* +(3
+%12java.io.File"__id*]
 
-__unknown_file (
-
-%6java.io.File2
-hashCode()F
-D
-1/ 1(>	
-%3int"__id*'
+__unknown_file (A*?
+5
+that-com.simplecity.amp_library.model.ArtworkModel"
+fileÈÅ
++ +(4
+%9boolean"(java.io.File#equals(Ljava/lang/Object;)Z*1
 
-__unknown_file (
-	
-%4int*
-1*ç
-40 0(]
-[
-1 1(	
-%0int"__calculate*
-1 1(
-**
-1 1(2*
-1 1(
-""
+__unknown_file (
+
+%11java.io.File*1
+
+__unknown_file (
+
+%12java.io.File2equals(Ljava/lang/Object;)N
+L
++ +(4
+%8boolean"__id*+
+
+__unknown_file (
+
+%9boolean*
+1*ƒ
+startingBlock$ $(#‰
+†
+# #(
+%14"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+ojava.lang.ObjectV
+T
+$! $("
+ojava.lang.Object"__annotation*#
+
+__unknown_file (
+
+%14*
+11*ˆ
+4+ +(
 }
-1  1($
-%1java.io.File"__id*W
++ +(
+%6java.io.File"__id*W
 
 __unknown_file (;*9/
 -com.simplecity.amp_library.model.ArtworkModel"
 filep
 n
-1  1(,
-%2boolean"	__compare*
-1% 1('
++ +(
+%7boolean"	__compare*
++ +(
 !=* 
-1  1($
++ +(
 
-%1java.io.File*
-1( 1(,
+%6java.io.File*
++ +(
 ""*
 2
-3*Œ
-11 1(Ci
-g
-1 1(C	
-%7int"__calculate*
-1 1(
-+*
-1 1(
-	
-%0int*
-1 1(C
-	
-%3int"
-2 2(
-""B1/
+3*!
+5*& *(+"
+* *(,
+""*ù
+6(+ ((,~
+|
+( ((-5
+that-com.simplecity.amp_library.model.ArtworkModel"__id*3
+
+__unknown_file (
+
+ojava.lang.Objectb
+`
+* *(
+%5boolean"	__compare*
+* *(
+!=*
+* *(
+""*
+* *(
+""*
+4
+5*!
+7&< &(A"
+&5 &(B
+""*ã
+8& &(!­ª
+& &(#
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*M
+
+__unknown_file (1/
+-com.simplecity.amp_library.model.ArtworkModel2
+getClass()“
+&' &(3
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
+
+__unknown_file (
+
+ojava.lang.Object2
+getClass()…
+‚
+& &(3
+%4boolean"	__compare*
+&$ &(&
+!=*#
+& &(#
+
+%2java.lang.Class*#
+&' &(3
+
+%3java.lang.Class*
+6
+7*Š
+9& &(s
+q
+& &(
+%1boolean"	__compare*
+& &(
+==*#
+& &(
+
+ojava.lang.Object*
+& &(
+""*
+7
+8*"
+10% %(""
+% %(#
+""*¹
+11% %(Ÿ
+œ
+% %(
+%0boolean"	__compare*
+% %(
+==*=
+% %(1/
+-com.simplecity.amp_library.model.ArtworkModel*#
+% %(
+
+ojava.lang.Object*
+9
+10*!
+1+ +(I"
++ +(I
+"":!
+$ $("
+ojava.lang.ObjectB1/
 -com.simplecity.amp_library.model.ArtworkModelHX

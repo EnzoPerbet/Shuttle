@@ -100,7 +100,7 @@ public class TaggerTask extends AsyncTask<Object, Integer, Boolean> {
                 AudioFile audioFile = AudioFileIO.read(orig);
                 Tag tag = audioFile.getTag();
                 if (tag == null) {
-                    break;
+                    continue;
                 }
 
                 TagUpdate tagUpdate = new TagUpdate(tag);
@@ -135,7 +135,7 @@ public class TaggerTask extends AsyncTask<Object, Integer, Boolean> {
                         audioFile = AudioFileIO.read(temp);
                         tag = audioFile.getTag();
                         if (tag == null) {
-                            break;
+                            continue;
                         }
                     }
 
@@ -170,14 +170,13 @@ public class TaggerTask extends AsyncTask<Object, Integer, Boolean> {
                 e.printStackTrace();
             } finally {
                 //Try to clean up our temp files
-                if (tempFiles != null && tempFiles.size() != 0) {
+                if (tempFiles != null && !tempFiles.isEmpty()) {
                     for (int j = tempFiles.size() - 1; j >= 0; j--) {
                         File file = tempFiles.get(j);
                         boolean deleted = file.delete();
                         if (!deleted) {
                             Log.w(TAG, "Failed to delete file: " + file.getAbsolutePath());
                         }
-                        tempFiles.remove(j);
                     }
                 }
             }

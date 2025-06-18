@@ -1,15 +1,14 @@
 
-Lcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityLarge#<init>()V
-__unknown_file ("startingBlock*Æ
-startingBlock~
-vC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetConfigureActivityLarge.java (Ñ
-Å
-~
-vC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetConfigureActivityLarge.java (
-%0"%BaseWidgetConfigureActivity#<init>()V*R
- (FD
-Bcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityLarge"ï
-~
-vC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetConfigureActivityLarge.java (
-implicit returnBFD
+acom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityLarge#screenName()Ljava/lang/String;Ä
+vC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetConfigureActivityLarge.java ("1*ù
+1 (h
+f
+ (
+%0java.lang.String"__id*<
+
+__unknown_file ( 
+WidgetConfigureActivityLarge"$
+ (
+
+%0java.lang.StringBFD
 Bcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityLarge

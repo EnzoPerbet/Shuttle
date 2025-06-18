@@ -1,15 +1,15 @@
 
-Xcom.simplecity.amp_library.utils.FileBrowser#trackNameComparator()Ljava/util/Comparator;l
-`C:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/FileBrowser.java´ ´(*"1*¡
+Xcom.simplecity.amp_library.utils.FileBrowser#albumNameComparator()Ljava/util/Comparator;l
+`C:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/FileBrowser.java¢ ¢(*"1*¡
 1
-¨( ±(	â
+£( ®(	â
 Ü
 
-¨( ±(	
+£( ®(	
 %0"__declareFunction*_
 
 __unknown_file (CA
-?__sonar_lambda_170$com.simplecity.amp_library.utils.FileBrowserç
+?__sonar_lambda_169$com.simplecity.amp_library.utils.FileBrowserç
 ä
 
 __unknown_file (
@@ -20,7 +20,7 @@ Xcom.simplecity.amp_library.utils.FileBrowser#trackNameComparator()Ljava/util/Co
 __unknown_file (0.
 ,com.simplecity.amp_library.utils.FileBrowser"
 
-¨ ±(
+£ ®(
 
 
 %0B0.

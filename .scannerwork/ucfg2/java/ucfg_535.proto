@@ -1,37 +1,65 @@
 
-5com.simplecity.amp_library.utils.AnimUtils#lerp(DDD)Dh
-^C:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/AnimUtils.java ("1*Ý
-1 (b
-`
- (
-%0double"__calculate*
- (
+5com.simplecity.amp_library.utils.AnimUtils#lerp(III)Ih
+^C:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/AnimUtils.java	 	("1*Î
+1
+ 
+(_
+]
+
+ 
+(	
+%0int"__calculate*
+
+ 
+(
 -*
- (
+
+ 
+(
 ""*
- (
-""j
-h
- (
-%1double"__calculate*
- (
-**
- (
-
-%0double*
- (
-""j
-h
- (
-%2double"__calculate*
- (
+
+ 
+(
+""d
+b
+
+ 
+(	
+%1int"__calculate*
+
+ 
+(
+**
+
+ 
+(
+	
+%0int*
+
+ 
+(
+""d
+b
+
+ 
+(	
+%2int"__calculate*
+
+ 
+(
 +*
- (
-""*
- (
-
-%1double"
- (
+
+ 
+(
+""*
+
+ 
+(
+	
+%1int"
+
+ 
+(
 "": 
 
 __unknown_file (

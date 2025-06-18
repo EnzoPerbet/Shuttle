@@ -99,18 +99,14 @@ public class AestheticTabLayout extends TabLayout {
               .blockingFirst();
       ViewBackgroundAction.create(AestheticTabLayout.this).accept(primaryColor);
 
-      getHandler().postDelayed(new Runnable() {
-          @Override
-          public void run() {
+      getHandler().postDelayed(() -> {
+        ActiveInactiveColors activeInactiveColors = Aesthetic.get(getContext())
+            .colorIconTitle(Observable.just(primaryColor))
+            .blockingFirst();
 
-              ActiveInactiveColors activeInactiveColors = Aesthetic.get(getContext())
-                      .colorIconTitle(Observable.just(primaryColor))
-                      .blockingFirst();
-
-              setTabTextColors(
-                      adjustAlpha(activeInactiveColors.inactiveColor(), UNFOCUSED_ALPHA),
-                      activeInactiveColors.activeColor());
-          }
+        setTabTextColors(
+            adjustAlpha(activeInactiveColors.inactiveColor(), UNFOCUSED_ALPHA),
+            activeInactiveColors.activeColor());
       }, 50);
       // End workaround
 

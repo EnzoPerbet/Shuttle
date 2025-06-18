@@ -1,14 +1,68 @@
 
-dcom.simplecity.amp_library.ui.widgets.WidgetProviderSmall#getUpdateCommandString()Ljava/lang/String;w
-mC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetProviderSmall.java   (("1*–
-1! !(!a
-_
-! !(!
-%0java.lang.String"__id*5
+\com.simplecity.amp_library.http.HttpServer#getMimeType(Ljava/lang/String;)Ljava/lang/String;j
+^C:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/http/HttpServer.javaÓ Ó("1*ç
+1
+Ô Ô(†
+ƒ
+
+Ô Ô(
+%0java.util.Map"__id*Z
 
-__unknown_file (
-appwidgetupdate_small"$
-! !("
+__unknown_file (>*<,
+*com.simplecity.amp_library.http.HttpServer"
+
+MIME_TYPESÍÊ
+
+Ô1 Ô(J	
+%1int"1java.lang.String#lastIndexOf(Ljava/lang/String;)I*:
+
+__unknown_file (
+
+filePathjava.lang.String*!
+
+__unknown_file (
+.2lastIndexOf(Ljava/lang/String;)j
+h
+
+Ô1 Ô(N	
+%2int"__calculate*
+
+ÔK Ô(L
++*
+
+Ô1 Ô(J
+	
+%1int*
+
+ÔM Ô(N2ËÈ
+
+Ô Ô(O
+%3java.lang.String"/java.lang.String#substring(I)Ljava/lang/String;*:
+
+__unknown_file (
+
+filePathjava.lang.String*'
+
+__unknown_file (
+	
+%2int2substring(I)š
+—
+
+Ô Ô(P
+%4java.lang.String"__mapGet*1
+
+__unknown_file (
+
+%0java.util.Map*4
+
+__unknown_file (
 
-%0java.lang.StringB=;
-9com.simplecity.amp_library.ui.widgets.WidgetProviderSmallH
+%3java.lang.String"&
+
+Ô Ô(Q
+
+%4java.lang.String:*
+
+Ó Ó(&
+filePathjava.lang.StringB.,
+*com.simplecity.amp_library.http.HttpServer

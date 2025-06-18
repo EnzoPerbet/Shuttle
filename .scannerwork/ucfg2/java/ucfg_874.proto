@@ -1,21 +1,19 @@
 
-^com.afollestad.aesthetic.Aesthetic#snackbarTextColorRes(I)Lcom/afollestad/aesthetic/Aesthetic;r
-fC:/Users/enzo.perbet/Shuttle/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/Aesthetic.javaç ç('"1*¤
+[com.afollestad.aesthetic.Aesthetic#snackbarTextColor(I)Lcom/afollestad/aesthetic/Aesthetic;r
+fC:/Users/enzo.perbet/Shuttle/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/Aesthetic.javaá á($"1*¨
 1
-è è("üù
+â â(
+a
+_
 
-è è(J
-%0"acom.afollestad.aesthetic.Aesthetic#colorCardViewBackground(I)Lcom/afollestad/aesthetic/Aesthetic;*B
+â â(#
+%0java.lang.String"__id*3
 
-__unknown_file (&$
-"com.afollestad.aesthetic.Aesthetic*"
-
-__unknown_file (
-""2colorCardViewBackground(I)"
+__unknown_file (
+snackbar_text_color"4
 
-è è(K
-
-%0: 
+ã ã(&$
+"com.afollestad.aesthetic.Aesthetic: 
 
 __unknown_file (
 ""B&$

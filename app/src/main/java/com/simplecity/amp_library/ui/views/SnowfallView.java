@@ -215,11 +215,13 @@ public class SnowfallView extends View {
         }
 
         float getSnowX() {
-            return snowX += velX;
+            snowX += velX;
+            return snowX;
         }
 
         float getSnowY() {
-            return snowY += velY;
+            snowY += velY;
+            return snowY;
         }
 
         void reset() {

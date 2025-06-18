@@ -1,12 +1,48 @@
 
-icom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback#getOldItem(I)Ljava/lang/Object;”
-‡C:/Users/enzo.perbet/Shuttle/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.javaø ø("1*%
-1
-ù ù("
+[com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback#getNewListSize()I”
+‡C:/Users/enzo.perbet/Shuttle/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.javaô ô(!"4*Y
+2
+õ6 õ(7C
+A
 
-ù ù(0
-"": 
+õ6 õ(7
+%1"__id*'
 
-__unknown_file (
+__unknown_file (
+	
+%3int*
+1*T
+3
+õ% õ(,>
+<
+
+õ% õ(3
+%1"__id*"
+
+__unknown_file (
+
+%2*
+1*z
+4
+õ õ(a
+_
+
+õ õ("
+%0"	__compare*
+
+õ õ(
+!=*
+
+õ õ(
+""*
+
+õ õ("
+""*
+2
+3*%
+1
+õ õ(8"
+
+õ õ(8
 ""BMK
-Icom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback
+Icom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallbackHX

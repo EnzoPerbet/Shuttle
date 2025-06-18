@@ -1,16 +1,16 @@
 
-Fcom.simplecity.amp_library.utils.SettingsManager#showArtworkInQueue()Zp
-dC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaÐ Ð(%"1*‡
+Hcom.simplecity.amp_library.utils.SettingsManager#useGmailPlaceholders()Zp
+dC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaÌ Ì('"1*†
 1
-Ñ Ñ(`
-^
+Í Í(_
+]
 
-Ñ Ñ((
-%0java.lang.String"__id*2
+Í Í(1
+%0java.lang.String"__id*1
 
-__unknown_file (
-pref_artwork_queue"
+__unknown_file (
+pref_placeholders"
 
-Ñ Ñ(0
+Í Í(:
 ""B42
 0com.simplecity.amp_library.utils.SettingsManagerHX

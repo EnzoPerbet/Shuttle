@@ -1,24 +1,21 @@
 
-‹com.simplecity.amp_library.ui.screens.tagger.TaggerTask#artist(Ljava/lang/String;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;w
-kC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.javañ ñ("1*û
+Šcom.simplecity.amp_library.ui.screens.tagger.TaggerTask#album(Ljava/lang/String;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;w
+kC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.javaì ì("1*ù
 1
-ò ò($ž
-›
+í í("œ
+™
 
-ò ò($I9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
-
-artistText"__id*<
+í í("H9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
+	albumText"__id*;
 
-__unknown_file ( 
-
+__unknown_file (
+
+	albumTextjava.lang.String"I
 
-artistTextjava.lang.String"I
+î î(;9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask:+
 
-ó ó(;9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask:,
-
-ñ ñ(.
-
-artistTextjava.lang.StringB;9
+ì ì(,
+	albumTextjava.lang.StringB;9
 7com.simplecity.amp_library.ui.screens.tagger.TaggerTaskH

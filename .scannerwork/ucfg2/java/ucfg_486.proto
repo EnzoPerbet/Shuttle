@@ -1,16 +1,16 @@
 
-Dcom.simplecity.amp_library.utils.SettingsManager#ignoreDuplicates()Zp
-dC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaî î(#"1*‹
+Icom.simplecity.amp_library.utils.SettingsManager#ignoreEmbeddedArtwork()Zp
+dC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaè è(("1*‘
 1
-ï ï(d
-b
+é é(j
+h
 
-ï ï(5
-%0java.lang.String"__id*6
+é é(2
+%0java.lang.String"__id*<
 
-__unknown_file (
-pref_ignore_duplicates"
+__unknown_file ( 
+pref_ignore_embedded_artwork"
 
-ï ï(>
+é é(;
 ""B42
 0com.simplecity.amp_library.utils.SettingsManagerHX

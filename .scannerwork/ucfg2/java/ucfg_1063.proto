@@ -1,22 +1,21 @@
 
-âcom.simplecity.amp_library.ui.screens.tagger.TaggerTask#disc(Ljava/lang/String;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;w
-kC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.javaä ä("1*˜
+ècom.simplecity.amp_library.ui.screens.tagger.TaggerTask#trackTotal(Ljava/lang/String;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;w
+kC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.javaÖ Ö( "1*É
 1
-ã ã( ö
-ó
+Ü Ü(,¶
+£
 
-ã ã( G9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
-
-discText"__id*:
+Ü Ü(,M9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
+trackTotalText"__id*@
 
-__unknown_file (
-
-discTextjava.lang.String"I
+__unknown_file ($
+"
+trackTotalTextjava.lang.String"I
 
-å å(;9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask:*
+á á(;9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask:0
 
-ä ä(*
-discTextjava.lang.StringB;9
+Ö! Ö(6"
+trackTotalTextjava.lang.StringB;9
 7com.simplecity.amp_library.ui.screens.tagger.TaggerTaskH

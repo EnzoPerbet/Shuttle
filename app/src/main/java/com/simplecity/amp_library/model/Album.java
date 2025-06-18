@@ -243,7 +243,7 @@ public class Album implements
     @Nullable
     @WorkerThread
     private String getArtworkPath() {
-        if (paths != null && !paths.isEmpty()) {
+        if (!paths.isEmpty()) {
             return paths.get(0);
         }
         return null;

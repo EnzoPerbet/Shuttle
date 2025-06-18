@@ -1,17 +1,17 @@
 
-Wcom.simplecity.amp_library.utils.FileBrowser#filenameComparator()Ljava/util/Comparator;l
-`C:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/FileBrowser.javaÖ Ö()"1*±
+Scom.simplecity.amp_library.utils.FileBrowser#sizeComparator()Ljava/util/Comparator;l
+`C:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/FileBrowser.javaÅ Å(%"1*±
 1
-Ü, Ü(`â
+Ç, Ç(Uâ
 Ü
 
-Ü, Ü(`
+Ç, Ç(U
 %0"__declareFunction*_
 
 __unknown_file (CA
-?__sonar_lambda_164$com.simplecity.amp_library.utils.FileBrowser"
+?__sonar_lambda_163$com.simplecity.amp_library.utils.FileBrowser"
 
-Ü Ü(a
+Ç Ç(V
 
 %0B0.
 ,com.simplecity.amp_library.utils.FileBrowser

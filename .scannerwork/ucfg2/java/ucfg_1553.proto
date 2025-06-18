@@ -1,12 +1,21 @@
 
-Fcom.simplecityapps.recycler_adapter.model.BaseViewModel#getViewType()Iç
-ÇC:/Users/enzo.perbet/Shuttle/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/model/BaseViewModel.java ("1*Ú
-1 (ŒÀ
- (	
-%0int"Icom.simplecityapps.recycler_adapter.model.BaseViewModel#getLayoutResId()I*W
-
-__unknown_file (;9
-7com.simplecityapps.recycler_adapter.model.BaseViewModel2getLayoutResId()"
- ( 
-""B;9
-7com.simplecityapps.recycler_adapter.model.BaseViewModelHX
+Pcom.simplecity.amp_library.ui.screens.search.voice.VoiceSearchActivity#<init>()V
+__unknown_file ("startingBlock*õ
+startingBlockÇ
+zC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/search/voice/VoiceSearchActivity.java (¡
+æ
+Ç
+zC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/search/voice/VoiceSearchActivity.java (
+%0"Ycom.simplecity.amp_library.ui.screens.search.voice.VoiceSearchActivity#%field_initializer*V
+ (JH
+Fcom.simplecity.amp_library.ui.screens.search.voice.VoiceSearchActivity£
+†
+Ç
+zC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/search/voice/VoiceSearchActivity.java (
+%1";com.simplecity.amp_library.ui.common.BaseActivity#<init>()V*V
+ (JH
+Fcom.simplecity.amp_library.ui.screens.search.voice.VoiceSearchActivity"ö
+Ç
+zC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/search/voice/VoiceSearchActivity.java (
+implicit returnBJH
+Fcom.simplecity.amp_library.ui.screens.search.voice.VoiceSearchActivity

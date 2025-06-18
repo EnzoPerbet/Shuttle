@@ -1,7 +1,14 @@
 
-Ncom.simplecity.amp_library.ui.widgets.WidgetProviderSmall#getWidgetLayoutId()Iw
-mC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetProviderSmall.java* *( "1*!
-1+ +("
-+ +(,
-""B=;
-9com.simplecity.amp_library.ui.widgets.WidgetProviderSmallHX
+dcom.simplecity.amp_library.ui.widgets.WidgetProviderSmall#getUpdateCommandString()Ljava/lang/String;w
+mC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetProviderSmall.java   (("1*–
+1! !(!a
+_
+! !(!
+%0java.lang.String"__id*5
+
+__unknown_file (
+appwidgetupdate_small"$
+! !("
+
+%0java.lang.StringB=;
+9com.simplecity.amp_library.ui.widgets.WidgetProviderSmallH

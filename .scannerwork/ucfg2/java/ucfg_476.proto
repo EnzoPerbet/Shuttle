@@ -1,16 +1,17 @@
 
-Scom.simplecity.amp_library.utils.SettingsManager#canDownloadArtworkAutomatically()Zp
-dC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaƒ ƒ(2"1*è
+Bcom.simplecity.amp_library.utils.SettingsManager#getAccentColor()Ip
+dC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.java≥ ≥("1*¬
 1
-≈ ≈(h
-f
+¥ ¥(ö
+ó
 
-≈ ≈(1
-%0java.lang.String"__id*:
+¥ ¥(+
+%0java.lang.String"__id*k
 
-__unknown_file (
-pref_download_artwork_auto"
+__unknown_file (O*M2
+0com.simplecity.amp_library.utils.SettingsManager"
+KEY_PREF_ACCENT_COLOR"
 
-≈ ≈(:
+¥ ¥(1
 ""B42
 0com.simplecity.amp_library.utils.SettingsManagerHX

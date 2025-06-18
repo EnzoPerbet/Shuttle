@@ -1,39 +1,15 @@
 
-Ocom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#%field_initializer
-__unknown_file ("1*ï
-1 (É
-Ä
-í
-áC:/Users/enzo.perbet/Shuttle/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.java ()Q>
-<com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter"
-enableLogging"__id*
- (2ä
-á
-í
-áC:/Users/enzo.perbet/Shuttle/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.java  (1V>
-<com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter"
-setItemsDisposable"__id*
- (
-""»≈
-í
-áC:/Users/enzo.perbet/Shuttle/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.java%' %(2
-%0java.util.ArrayList"java.util.ArrayListÊ
-„
-í
-áC:/Users/enzo.perbet/Shuttle/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.java%# %(4
-%1"java.util.ArrayList#<init>()V*'
- (
-
-%0java.util.ArrayListí
-è
-í
-áC:/Users/enzo.perbet/Shuttle/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.java% %(5I>
-<com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter"
-items"__id*'
- (
-
-%0java.util.ArrayList"©
-ë
-áC:/Users/enzo.perbet/Shuttle/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.java ú(
-implicit returnB@>
-<com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter
+Lcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityLarge#<init>()V
+__unknown_file ("startingBlock*Æ
+startingBlock~
+vC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetConfigureActivityLarge.java (Ñ
+Å
+~
+vC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetConfigureActivityLarge.java (
+%0"%BaseWidgetConfigureActivity#<init>()V*R
+ (FD
+Bcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityLarge"ï
+~
+vC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetConfigureActivityLarge.java (
+implicit returnBFD
+Bcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityLarge

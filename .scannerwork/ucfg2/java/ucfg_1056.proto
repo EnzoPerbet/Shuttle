@@ -1,21 +1,12 @@
 
-Šcom.simplecity.amp_library.ui.screens.tagger.TaggerTask#title(Ljava/lang/String;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;w
-kC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.javaç ç("1*ù
+}com.simplecity.amp_library.ui.screens.tagger.TaggerTask#showTrack(Z)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;w
+kC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.javaâ â("1*Z
 1
-è è("œ
-™
+ã ã(""I
 
-è è("H9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
-	titleText"__id*;
+ä ä(;9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask: 
 
-__unknown_file (
-
-	titleTextjava.lang.String"I
-
-é é(;9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask:+
-
-ç ç(,
-	titleTextjava.lang.StringB;9
+__unknown_file (
+""B;9
 7com.simplecity.amp_library.ui.screens.tagger.TaggerTaskH

@@ -1849,7 +1849,9 @@ Faccept(Lcom/afollestad/aesthetic/AestheticBottomNavigationView$State;)Äcom.af
 setInterpolatedTextSize(F)Tandroid.support.design.widget.CustomCollapsingTextHelper#setInterpolatedTextSize(F)VV
 setState([I)Fandroid.support.design.widget.CustomCollapsingTextHelper#setState([I)Zà
 %setSubtitle(Ljava/lang/CharSequence;)_android.support.design.widget.CustomCollapsingTextHelper#setSubtitle(Ljava/lang/CharSequence;)VÄ
-!setText(Ljava/lang/CharSequence;)[android.support.design.widget.CustomCollapsingTextHelper#setText(Ljava/lang/CharSequence;)V$
+!setText(Ljava/lang/CharSequence;)[android.support.design.widget.CustomCollapsingTextHelper#setText(Ljava/lang/CharSequence;)Vá
+Jandroid.support.design.widget.CustomCollapsingTextHelper$FontLoadExceptionjava.lang.Exception£
+i<init>(Landroid/support/design/widget/CustomCollapsingTextHelper;Ljava/lang/String;Ljava/lang/Throwable;)µandroid.support.design.widget.CustomCollapsingTextHelper$FontLoadException#<init>(Landroid/support/design/widget/CustomCollapsingTextHelper;Ljava/lang/String;Ljava/lang/Throwable;)V$
 AppCompatSpinnerjava.lang.Objectü
 )com.afollestad.aesthetic.AestheticSpinnerAppCompatSpinner©
 =invalidateColors(Lcom/afollestad/aesthetic/ColorIsDarkState;)hcom.afollestad.aesthetic.AestheticSpinner#invalidateColors(Lcom/afollestad/aesthetic/ColorIsDarkState;)VW
@@ -5767,14 +5769,15 @@ qsubparse(Ljava/lang/String;Ljava/text/ParsePosition;Ljava/lang/String;Ljava/lan
 #newInstance(Ljava/io/Serializable;)òcom.simplecity.amp_library.ui.screens.tagger.TaggerDialog#newInstance(Ljava/io/Serializable;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerDialog;]
 populateViews()Jcom.simplecity.amp_library.ui.screens.tagger.TaggerDialog#populateViews()VS
 
-saveTags()Ecom.simplecity.amp_library.ui.screens.tagger.TaggerDialog#saveTags()V∞
+saveTags()Ecom.simplecity.amp_library.ui.screens.tagger.TaggerDialog#saveTags()VÄ
 *com.simplecity.amp_library.http.HttpServerjava.lang.Object@
 <init>()4com.simplecity.amp_library.http.HttpServer#<init>()VX
 cleanupAudioStream()@com.simplecity.amp_library.http.HttpServer#cleanupAudioStream()VX
 cleanupImageStream()@com.simplecity.amp_library.http.HttpServer#cleanupImageStream()VH
 clearImage()8com.simplecity.amp_library.http.HttpServer#clearImage()Vu
 getInstance()dcom.simplecity.amp_library.http.HttpServer#getInstance()Lcom/simplecity/amp_library/http/HttpServer;
-getMimeType(Ljava/lang/String;)\com.simplecity.amp_library.http.HttpServer#getMimeType(Ljava/lang/String;)Ljava/lang/String;l
+getMimeType(Ljava/lang/String;)\com.simplecity.amp_library.http.HttpServer#getMimeType(Ljava/lang/String;)Ljava/lang/String;N
+initMimeTypes();com.simplecity.amp_library.http.HttpServer#initMimeTypes()Vl
 serveAudio(Ljava/lang/String;)Jcom.simplecity.amp_library.http.HttpServer#serveAudio(Ljava/lang/String;)VL
 serveImage([B):com.simplecity.amp_library.http.HttpServer#serveImage([B)V>
 start()3com.simplecity.amp_library.http.HttpServer#start()V<
