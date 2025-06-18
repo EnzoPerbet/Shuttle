@@ -118,38 +118,39 @@ class SuggestedFragment :
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
-        view as RecyclerView
-
-        val spanCount = if (ShuttleUtils.isTablet(context!!)) 12 else 6
+        val recyclerView = view as RecyclerView
+        val spanCount = if (ShuttleUtils.isTablet(requireContext())) 12 else 6
 
         val gridLayoutManager = GridLayoutManager(context, spanCount)
         gridLayoutManager.spanSizeLookup = object : GridLayoutManager.SpanSizeLookup() {
             override fun getSpanSize(position: Int): Int {
-                if (!adapter.items.isEmpty() && position >= 0) {
-                    val item = adapter.items[position]
-                    if (item is HorizontalRecyclerView
-                        || item is SuggestedHeaderView
-                        || item is AlbumView && item.getViewType() == ViewType.ALBUM_LIST
-                        || item is AlbumView && item.getViewType() == ViewType.ALBUM_LIST_SMALL
-                        || item is EmptyView
-                    ) {
-                        return spanCount
-                    }
-                    if (item is AlbumView && item.getViewType() == ViewType.ALBUM_CARD_LARGE) {
-                        return 3
-                    }
-                }
-
-                return 2
+                if (position < 0 || adapter.items.isEmpty()) return 2
+                return getSpanSizeForItem(adapter.items[position], spanCount)
             }
         }
 
-        view.addItemDecoration(SuggestedDividerDecoration(resources))
-        view.setRecyclerListener(RecyclerListener())
-        view.layoutManager = gridLayoutManager
-        view.adapter = adapter
+        recyclerView.apply {
+            addItemDecoration(SuggestedDividerDecoration(resources))
+            setRecyclerListener(RecyclerListener())
+            layoutManager = gridLayoutManager
+            adapter = this@YourFragment.adapter
+        }
 
         presenter.bindView(this)
+    }
+
+    private fun getSpanSizeForItem(item: Any, spanCount: Int): Int {
+        return when {
+            item is HorizontalRecyclerView ||
+            item is SuggestedHeaderView ||
+            (item is AlbumView && item.getViewType() == ViewType.ALBUM_LIST) ||
+            (item is AlbumView && item.getViewType() == ViewType.ALBUM_LIST_SMALL) ||
+            item is EmptyView -> spanCount
+
+            item is AlbumView && item.getViewType() == ViewType.ALBUM_CARD_LARGE -> 3
+
+            else -> 2
+        }
     }
 
     override fun onResume() {
@@ -343,7 +344,6 @@ class SuggestedFragment :
     // AlbumMenuContract.View Implementation
 
     override fun onPlaybackFailed() {
-        // Todo: Improve error message
         Toast.makeText(context, R.string.emptyplaylist, Toast.LENGTH_SHORT).show()
     }
 

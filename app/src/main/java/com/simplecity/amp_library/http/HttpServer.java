@@ -166,6 +166,8 @@ public class HttpServer {
             try {
                 audioInputStream.close();
             } catch (IOException ignored) {
+                // L'exception est ignorée intentionnellement car la fermeture de l'input stream échoue rarement,
+                // et il n'y a pas d'action de récupération nécessaire ici.
             }
         }
     }
@@ -175,6 +177,8 @@ public class HttpServer {
             try {
                 imageInputStream.close();
             } catch (IOException ignored) {
+                // L'exception est ignorée intentionnellement car la fermeture de l'input stream échoue rarement,
+                // et il n'y a pas d'action de récupération nécessaire ici.
             }
         }
     }

@@ -1,27 +1,17 @@
 
-Rcom.jp.wasabeef.glide.transformations.MaskTransformation#getId()Ljava/lang/String;v
-lC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/jp/wasabeef/glide/transformations/MaskTransformation.javaS S("1*ð
-1T T(+r
-p
-T T(c
-%0"__calculate*
-T, T(-
-+**
-T T(+
-MaskTransformation(maskId=*
-T. T(c
-""Y
-W
-T U(
-%1"__calculate*
-U U(
-+*
-T T(c
-
-%0*
-U U(
-)"
-T U(
-
-%1B<:
-8com.jp.wasabeef.glide.transformations.MaskTransformationH
+Êcom.github.florent37.glidepalette.BitmapPalette#setPaletteBuilderInterceptor(Lcom/github/florent37/glidepalette/BitmapPalette$PaletteBuilderInterceptor;)Lcom/github/florent37/glidepalette/BitmapPalette;€
+vC:/Users/enzo.perbet/Shuttle/libraries/glidepalette/src/main/java/com/github/florent37/glidepalette/BitmapPalette.javat t(8"1* 
+1u u(&Ï
+Ì
+u u(&B1
+/com.github.florent37.glidepalette.BitmapPalette"
+interceptor"__id*v
+
+__unknown_file (Z
+X
+interceptorIcom.github.florent37.glidepalette.BitmapPalette$PaletteBuilderInterceptor"?
+v v(31
+/com.github.florent37.glidepalette.BitmapPalette:d
+t9 t(^X
+interceptorIcom.github.florent37.glidepalette.BitmapPalette$PaletteBuilderInterceptorB31
+/com.github.florent37.glidepalette.BitmapPalette

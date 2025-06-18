@@ -1,115 +1,134 @@
 
-Wcom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment#getBandLevelRange()[IÅ
-uC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/equalizer/EqualizerFragment.javaà
- à("8*ˇ
-3
-ê ê(í
-è
+Qcom.simplecity.amp_library.playback.MediaSessionManager#getMediaSessionActions()Jw
+kC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/playback/MediaSessionManager.java± ±('"1*©
+1
+≤ ≤("b
+`
 
-ê+ ê(3
-%4java.lang.String"
-__arrayGet*9
-
-__unknown_file (
-
-splitjava.lang.String[]*"
-
-__unknown_file (
-""”
-–
+≤ ≥(2
+%0"__calculate*
 
-ê ê(4
-%5java.lang.Integer"@java.lang.Integer#valueOf(Ljava/lang/String;)Ljava/lang/Integer;*1
-
-__unknown_file ("
-java.lang.Integer*4
-
-__unknown_file (
-
-%4java.lang.String*
-4*Ç
-4
-è è(i
-g
+≥ ≥(
+|*
 
-è è(,
-%3boolean"	__compare*
-
-è è(
-<*
-
-è è(
+≤ ≤(.
 ""*
 
-è  è(,
-""*
-3
-1*Ï
-5
-ç ç(-ÍÁ
+≥ ≥(2
+""b
+`
 
-ç ç(8
-%2java.lang.String[]"=java.lang.String#split(Ljava/lang/String;)[Ljava/lang/String;*B
-
-__unknown_file (&
-$
-savedCenterFreqsjava.lang.String*!
-
-__unknown_file (
-;2split(Ljava/lang/String;)i
-g
+≤ ¥(7
+%1"__calculate*
 
-ç ç(9
-splitjava.lang.String[]"__id*6
-
-__unknown_file (
-
-%2java.lang.String[]*
-4*%
-6
-ã  ã($"
+¥ ¥(
+|*
 
-ã ã(-
-""*§
-7
-ä( ä(8äá
+≤ ≥(2
+
+%0*
 
-ä( ä(B
-%1boolean"java.lang.String#isEmpty()Z*B
-
-__unknown_file (&
-$
-savedCenterFreqsjava.lang.String2	isEmpty()*
-5
-6*Ö
-8
-â" â('^
-\
+¥ ¥(7
+""b
+`
 
-â â(V$
-savedCenterFreqsjava.lang.String"__id*"
-
-__unknown_file (
-""ã
-à
+≤ µ(9
+%2"__calculate*
 
-ä ä($
-%0boolean"	__compare*
+µ µ(
+|*
 
-ä ä(
-==*4
+≤ ¥(7
+
+%1*
 
-ä ä(&
-$
-savedCenterFreqsjava.lang.String*
+µ µ(9
+""b
+`
 
-ä  ä($
-""*
-6
-7*%
-1
-í í("
+≤ ∂(=
+%3"__calculate*
 
-í í(
-""BEC
-Acom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment
+∂ ∂(
+|*
+
+≤ µ(9
+
+%2*
+
+∂ ∂(=
+""b
+`
+
+≤ ∑(1
+%4"__calculate*
+
+∑ ∑(
+|*
+
+≤ ∂(=
+
+%3*
+
+∑ ∑(1
+""b
+`
+
+≤ ∏(4
+%5"__calculate*
+
+∏ ∏(
+|*
+
+≤ ∑(1
+
+%4*
+
+∏ ∏(4
+""b
+`
+
+≤ π(?
+%6"__calculate*
+
+π π(
+|*
+
+≤ ∏(4
+
+%5*
+
+π π(?
+""b
+`
+
+≤ ∫(=
+%7"__calculate*
+
+∫ ∫(
+|*
+
+≤ π(?
+
+%6*
+
+∫ ∫(=
+""b
+`
+
+≤ ª(?
+%8"__calculate*
+
+ª ª(
+|*
+
+≤ ∫(=
+
+%7*
+
+ª ª(?
+"""
+
+≤ ª(@
+""B;9
+7com.simplecity.amp_library.playback.MediaSessionManagerX

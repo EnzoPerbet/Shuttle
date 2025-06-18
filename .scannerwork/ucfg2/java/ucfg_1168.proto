@@ -1,48 +1,54 @@
 
-[com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback#getOldListSize()I”
-‡C:/Users/enzo.perbet/Shuttle/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.javaï ï(!"4*Y
+7com.simplecity.amp_library.model.Song#getElapsedTime()Je
+YC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Song.javaÕ Õ("1"2*%
 2
-ð6 ð(7C
-A
+× ×("
 
-ð6 ð(7
-%1"__id*'
-
-__unknown_file (
-	
-%3int*
-1*T
-3
-ð% ð(,>
-<
-
-ð% ð(3
-%1"__id*"
-
-__unknown_file (
-
-%2*
-1*z
-4
-ð ð(a
-_
-
-ð ð("
-%0"	__compare*
-
-ð ð(
-!=*
-
-ð ð(
-""*
-
-ð ð("
-""*
-2
-3*%
+× ×(
+""*ú
 1
-ð ð(8"
+Ù Ù(s
+q
 
-ð ð(8
-""BMK
-Icom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallbackHX
+Ù! Ù(;
+
+%0long"%java.lang.System#currentTimeMillis()J*0
+
+__unknown_file ("
+java.lang.Systemn
+l
+
+Ù Ù(;
+
+%1long"__calculate*
+
+Ù Ù( 
++*
+
+Ù Ù(
+""*
+
+Ù! Ù(;
+
+
+%0longn
+l
+
+Ù Ù(G
+
+%2long"__calculate*
+
+Ù< Ù(=
+-*
+
+Ù Ù(;
+
+
+%1long*
+
+Ù> Ù(G
+"""
+
+Ù Ù(H
+""B)'
+%com.simplecity.amp_library.model.SongX

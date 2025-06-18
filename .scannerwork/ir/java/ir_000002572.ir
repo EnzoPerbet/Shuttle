@@ -1,6 +1,9 @@
-Cthis: :("/com.simplecity.amp_library.utils.LetterDrawable"h!
+Sthis ("?com.simplecityapps.recycler_adapter.recyclerview.SpanSizeLookupHviewModelAdapter (;"(Recovered#typeBindingLViewModelAdapter;0	spanCount= (J"int"’!
 
-; ;("#unknown-value#3
-1
-; ;(""#get-field# UNKNOWN:B	!Unknown!
-; ;(#*cC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/LetterDrawable.java
+  (0"#unknown-value#2
+0
+ (0"#set-field# viewModelAdapter:+
+)
+ (""#set-field# spanCount:
+
+ (*ŠC:/Users/enzo.perbet/Shuttle/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/recyclerview/SpanSizeLookup.java

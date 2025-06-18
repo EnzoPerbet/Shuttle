@@ -277,6 +277,8 @@ internal class MediaPlayerPlayback(context: Context) : LocalPlayback(context), M
                 return true
             }
             else -> {
+                callbacks?.onError(this, "Unknown media error: what=$what, extra=$extra")
+                return true
             }
         }
 

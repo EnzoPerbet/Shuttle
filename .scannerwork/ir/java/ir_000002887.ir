@@ -1,14 +1,8 @@
-Wthis% %("Ccom.simplecity.amp_library.ui.screens.miniplayer.MiniPlayerFragment"¯@
->
-=. =(G"#new-object#2ConstructorBCompositeDisposable1
-/
-=. =(G"#unknown-value#2Constructor:-
+Athis
+ ("-com.afollestad.aesthetic.ActiveInactiveColorsactiveColor (8"int inactiveColor: (U"int"n-
 +
-= =(H"#set-field# disposables:E
-C
+ (""#set-field# activeColor:/
+-
+ (&"#set-field# inactiveColor:
 
-Ð* ù("31?create:Recovered#typeBindingLPlayerViewAdapter;05
-3
-
-Ð ù("#set-field# playerViewAdapter:	
-% ú(*wC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/miniplayer/MiniPlayerFragment.java
+ (*qC:/Users/enzo.perbet/Shuttle/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/ActiveInactiveColors.java

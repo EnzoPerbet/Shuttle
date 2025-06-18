@@ -1,24 +1,20 @@
 
-˜com.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragment#newInstance()Lcom/simplecity/amp_library/ui/screens/queue/pager/QueuePagerFragment;‚
-xC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/pager/QueuePagerFragment.javaC% C(0"1*±
-1D D("Ÿœ
-E* E(<J
-%0Dcom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragment"Dcom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragmentÍ
-Ê
-E& E(>
-%1"Ncom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragment#<init>()V*h
+^com.simplecity.amp_library.model.Query$Builder#build()Lcom/simplecity/amp_library/model/Query;d
+ZC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Query.java9 9("1*Á
+1: :(!b`
+: :(,
+%0&com.simplecity.amp_library.model.Query"&com.simplecity.amp_library.model.Query‘
+Ž
+: :("
+%1"`com.simplecity.amp_library.model.Query#<init>(Lcom/simplecity/amp_library/model/Query$Builder;)V*J
 
-__unknown_file (L
-J
-%0Dcom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragmentÏ
-Ì
-E E(?P
-fragmentDcom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragment"__id*h
+__unknown_file (.
+,
+%0&com.simplecity.amp_library.model.Query*N
 
-__unknown_file (L
-J
-%0Dcom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragment"^
-G G(R
-P
-fragmentDcom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragmentBH"F
-Dcom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragmentH
+__unknown_file (20
+.com.simplecity.amp_library.model.Query$Builder":
+: :(#.
+,
+%0&com.simplecity.amp_library.model.QueryB20
+.com.simplecity.amp_library.model.Query$BuilderH

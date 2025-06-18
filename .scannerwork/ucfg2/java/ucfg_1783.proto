@@ -1,62 +1,79 @@
 
-Tcom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment#%field_initializer
-__unknown_file ("1*⁄
-1 (˝
-˙
-
-uC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/equalizer/EqualizerFragment.javaK K(#_C
-Acom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment"
-eqCustomPresetPosition"__id*
- (2˙
-˜
-
-uC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/equalizer/EqualizerFragment.javaO O(_ZC
-Acom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment"
-mEqualizerSeekBar"__id*
- (
-""ºπ
-
-uC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/equalizer/EqualizerFragment.javad. d(;
-%0java.lang.StringBuilder"java.lang.StringBuilder⁄
-◊
-
-uC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/equalizer/EqualizerFragment.javad* d(=
-%1"!java.lang.StringBuilder#<init>()V*+
- (
-
-%0java.lang.StringBuilderè
-å
-
-uC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/equalizer/EqualizerFragment.javad d(>VC
-Acom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment"
-formatBuilder"__id*+
- (
-
-%0java.lang.StringBuilder¥±
-
-uC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/equalizer/EqualizerFragment.javae& e(/
-%2java.util.Formatter"java.util.Formatter∆
-√
-
-uC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/equalizer/EqualizerFragment.javae" e(S
-%3"Ejava.util.Formatter#<init>(Ljava/lang/Appendable;Ljava/util/Locale;)V*'
- (
-
-%2java.util.Formatter*6
- (*
-(
-formatBuilderjava.lang.StringBuilder*
- (
-""á
-Ñ
-
-uC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/equalizer/EqualizerFragment.javae e(TRC
-Acom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment"
-	formatter"__id*'
- (
-
-%2java.util.Formatter"ï
-~
-uC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/equalizer/EqualizerFragment.java' µ(
-implicit returnBEC
+Tcom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment#getCenterFreqs()[IÅ
+uC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/equalizer/EqualizerFragment.javañ ñ( "5*ˇ
+3
+õ õ(í
+è
+
+õ' õ(/
+%2java.lang.String"
+__arrayGet*9
+
+__unknown_file (
+
+splitjava.lang.String[]*"
+
+__unknown_file (
+""”
+–
+
+õ õ(0
+%3java.lang.Integer"@java.lang.Integer#valueOf(Ljava/lang/String;)Ljava/lang/Integer;*1
+
+__unknown_file ("
+java.lang.Integer*4
+
+__unknown_file (
+
+%2java.lang.String*
+4*Ç
+4
+ö ö(i
+g
+
+ö ö((
+%1boolean"	__compare*
+
+ö ö(
+<*
+
+ö ö(
+""*
+
+ö ö((
+""*
+3
+1*Õ
+5
+ó" ó('_
+]
+ó ó(Ç$
+savedCenterFreqsjava.lang.String"__id*"
+
+__unknown_file (
+""ÍÁ
+
+ò ò(4
+%0java.lang.String[]"=java.lang.String#split(Ljava/lang/String;)[Ljava/lang/String;*B
+
+__unknown_file (&
+$
+savedCenterFreqsjava.lang.String*!
+
+__unknown_file (
+;2split(Ljava/lang/String;)i
+g
+
+ò ò(5
+splitjava.lang.String[]"__id*6
+
+__unknown_file (
+
+%0java.lang.String[]*
+4*%
+1
+ù ù("
+
+ù ù(
+""BEC
 Acom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment

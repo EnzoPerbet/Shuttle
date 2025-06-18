@@ -83,7 +83,6 @@ public final class CustomCollapsingTextHelper {
     private Typeface mCurrentTypeface;
     private CharSequence mText;
     private CharSequence mTextToDraw;
-    private boolean mIsRtl;
     private boolean mUseTexture;
     private Bitmap mExpandedTitleTexture;
     private Paint mTexturePaint;

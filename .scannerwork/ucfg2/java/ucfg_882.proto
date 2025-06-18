@@ -1,74 +1,134 @@
 
-ìcom.simplecity.amp_library.http.lastfm.LastFmUtils#findSize(Ljava/util/List;Ljava/lang/String;)Lcom/simplecity/amp_library/http/lastfm/LastFmImage;p
-fC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/http/lastfm/LastFmUtils.java ('"6*X
-3$ $("I
-$ $(=
-;
-image2com.simplecity.amp_library.http.lastfm.LastFmImage*‹
-4"  "(&Ø
-¨
-"  "(-8
-%22com.simplecity.amp_library.http.lastfm.LastFmImage"
-__arrayGet*6
-
-__unknown_file (
-
-imagesjava.util.List*"
-
-__unknown_file (
-""®
-•
-" "(.;
-image2com.simplecity.amp_library.http.lastfm.LastFmImage"__id*V
-
-__unknown_file (:
-8
-%22com.simplecity.amp_library.http.lastfm.LastFmImageê
-ç
-# #(
-%3java.lang.String"__id*c
-
-__unknown_file (G*E
-;
-image2com.simplecity.amp_library.http.lastfm.LastFmImage"
-size‘—
-# #('
-%4boolean",java.lang.String#equals(Ljava/lang/Object;)Z*4
-
-__unknown_file (
-
-%3java.lang.String*6
-
-__unknown_file (
-
-sizejava.lang.String2equals(Ljava/lang/Object;)*
-3
-5*x
-5!4 !(5a
-_
-!4 !(B
-%1boolean"	__compare*
-!6 !(7
-<*
-!4 !(5
+Qcom.simplecity.amp_library.ui.modelviews.PlaylistView#equals(Ljava/lang/Object;)Zs
+iC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/PlaylistView.javac c("startingBlock*´
+2iC i(GY
+W
+iC i(X
+%8"	__compare*
+iQ i(S
+==*
+iC i(P
 ""*
-!8 !(B
+iT i(X
+""<
+:
+iC i(X
+%6"__id*"
+
+__unknown_file (
+
+%8*
+1*P
+3i" i(*<
+:
+i" i(@
+%6"__id*"
+
+__unknown_file (
+
+%7*
+1*Ä
+startingBlockc c(#à
+Ö
+b b(
+%9"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+ojava.lang.ObjectU
+S
+c! c("
+ojava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%9*
+9*˙
+4g+ g(,á
+Ñ
+g g(-=
+that5com.simplecity.amp_library.ui.modelviews.PlaylistView"__id*3
+
+__unknown_file (
+
+ojava.lang.ObjectY
+W
+i i(
+%5"	__compare*
+i i(
+!=*
+i i(
+""*
+i i(
 ""*
+2
+3*!
+5e< e(A"
+e5 e(B
+""*Î
+6e e(!µ≤
+e e(#
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*U
+
+__unknown_file (97
+5com.simplecity.amp_library.ui.modelviews.PlaylistView2
+getClass()ìê
+e' e(3
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
+
+__unknown_file (
+
+ojava.lang.Object2
+getClass()Ö
+Ç
+e e(3
+%4boolean"	__compare*
+e$ e(&
+!=*#
+e e(#
+
+%2java.lang.Class*#
+e' e(3
+
+%3java.lang.Class*
 4
-1*É
-6! !(om
-!% !(2	
-%0int"java.util.List#size()I*6
-
-__unknown_file (
-
-imagesjava.util.List2size()*
-5*!
-1' '("
-' '(
-"":$
-( (A
-imagesjava.util.List:$
-B (M
-sizejava.lang.StringB6"4
-2com.simplecity.amp_library.http.lastfm.LastFmUtils
+5*ä
+7e e(s
+q
+e e(
+%1boolean"	__compare*
+e e(
+==*#
+e e(
+
+ojava.lang.Object*
+e e(
+""*
+5
+6*!
+8d d(""
+d d(#
+""*ø
+9d d(ß
+§
+d d(
+%0boolean"	__compare*
+d d(
+==*E
+d d(97
+5com.simplecity.amp_library.ui.modelviews.PlaylistView*#
+d d(
+
+ojava.lang.Object*
+7
+8*!
+1i i(Y"
+i i(Y
+"":!
+c c("
+ojava.lang.ObjectB97
+5com.simplecity.amp_library.ui.modelviews.PlaylistViewHX

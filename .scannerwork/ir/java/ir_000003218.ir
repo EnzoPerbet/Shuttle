@@ -1,13 +1,7 @@
-?this
- ("+com.afollestad.aesthetic.ViewObservablePair0view (&"Recovered#typeBindingLView;0<
-observable( (F""Recovered#typeBindingLObservable;0"ª!
+@this (",com.simplecity.amp_library.utils.FileBrowserFsettingsManager (6"'Recovered#typeBindingLSettingsManager;0"d!
 
- ("#unknown-value#&
-$
- ("#set-field# view:!
-
- ( "#unknown-value#,
-*
- ( "#set-field# observable:
+ (."#unknown-value#1
+/
+ (."#set-field# settingsManager:
 
- (*oC:/Users/enzo.perbet/Shuttle/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/ViewObservablePair.java
+ (*`C:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/FileBrowser.java

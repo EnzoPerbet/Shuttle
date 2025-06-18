@@ -1,5 +1,5 @@
 
-1.0testepsi2_analyseepsiJavaFrontend"1750235844317*java2.BÖ	
+1.0testepsi2_analyseepsiJavaFrontend"1750237065324*java2.BÖ	
 V
 Qapp/src/main/java/com/simplecity/amp_library/glide/fetcher/MediaStoreFetcher.java2
 
@@ -29,13 +29,13 @@ Qapp/src/main/java/com/simplecity/amp_library/glide/fetcher/MediaStoreFetcher.ja
 
 uses17
 D
->com.simplecity.amp_library.glide.fetcher.MediaStoreFetcher.TAG19
+>com.simplecity.amp_library.glide.fetcher.MediaStoreFetcher.tag19
 
 field20
 
 	protected21
 	
-TAG22
+tag22
 S
 Mcom.simplecity.amp_library.glide.fetcher.MediaStoreFetcher.applicationContext24
 
@@ -162,7 +162,7 @@ Dcom.simplecity.amp_library.glide.fetcher.BaseFetcher.artworkProvider47
 
 
 11
-42rê
+42rÏ
 
 61316*
 1( (3
@@ -214,9 +214,6 @@ Dcom.simplecity.amp_library.glide.fetcher.BaseFetcher.artworkProvider47
 
 302339*
 1	 (
-
-401839*
-1 (
 
 434639*
 1 (

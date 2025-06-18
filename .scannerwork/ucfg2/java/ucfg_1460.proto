@@ -1,14 +1,37 @@
 
-icom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityMedium#getLayoutIdString()Ljava/lang/String;Å
-wC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetConfigureActivityMedium.java ("1*ô
-1 (#d
-b
- (8
-%0java.lang.String"__id*8
+Ecom.simplecity.amp_library.ui.modelviews.SearchHeaderView#hashCode()Iw
+mC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/SearchHeaderView.javaG G("4*U
+2H4 H(5A
+?
+H4 H(5
+%1"__id*'
 
-__unknown_file (
-widget_medium_layout_id_"$
- (9
-
-%0java.lang.StringBGE
-Ccom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityMedium
+__unknown_file (
+	
+%3int*
+1*P
+3H  H(&<
+:
+H  H(1
+%1"__id*"
+
+__unknown_file (
+
+%2*
+1*p
+4H H(Y
+W
+H H(
+%0"	__compare*
+H H(
+!=*
+H H(
+""*
+H H(
+""*
+2
+3*!
+1H H(6"
+H H(6
+""B=;
+9com.simplecity.amp_library.ui.modelviews.SearchHeaderViewHX

@@ -1,13 +1,38 @@
 
-Y__sonar_lambda_117$com.simplecity.amp_library.ui.screens.search.voice.VoiceSearchActivityÑ
-zC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/search/voice/VoiceSearchActivity.javas4 s(j"1*!
-1s> s(M"
-s> s(j
-"": 
+]com.simplecityapps.recycler_adapter.model.BaseViewModel#areContentsEqual(Ljava/lang/Object;)Zç
+ÇC:/Users/enzo.perbet/Shuttle/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/model/BaseViewModel.java+ +(#"startingBlock*à
+startingBlock+# +(1å
+â
+* *(
+%1"
+__annotate*2
 
-__unknown_file (
-"": 
+__unknown_file (
+java.lang.Override*7
 
-__unknown_file (
-""B
-	!Unknown!
+__unknown_file (
+
+otherjava.lang.ObjectY
+W
+++ +(0
+otherjava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%1*
+1*ú
+1, ,(¯ı
+, ,(
+%0boolean",java.lang.Object#equals(Ljava/lang/Object;)Z*W
+
+__unknown_file (;9
+7com.simplecityapps.recycler_adapter.model.BaseViewModel*7
+
+__unknown_file (
+
+otherjava.lang.Object2equals(Ljava/lang/Object;)"
+, ,(
+"":%
++$ +(0
+otherjava.lang.ObjectB;9
+7com.simplecityapps.recycler_adapter.model.BaseViewModelHX

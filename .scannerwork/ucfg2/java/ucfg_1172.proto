@@ -1,100 +1,106 @@
 
-^com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback#areItemsTheSame(II)Zî
-áC:/Users/enzo.perbet/Shuttle/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.javaÅ Å(&"5*ı
+Jcom.simplecity.amp_library.model.Song#getFileSizeLabel()Ljava/lang/String;e
+YC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Song.javaõ õ(""4*µ
 2
-Ü< Ü(Cﬁ€
+û% û()}
+{
 
-Ü< Ü(S
-%4boolean",java.lang.Object#equals(Ljava/lang/Object;)Z*9
+û% û()
+%3java.lang.String"__id*O
 
-__unknown_file (
-
-oldItemjava.lang.Object*9
+__unknown_file (3*1'
+%com.simplecity.amp_library.model.Song"
+path0.
+
+û  û($
+%4java.io.File"java.io.Fileß
+§
+
+û û(*
+%5"(java.io.File#<init>(Ljava/lang/String;)V*0
 
-__unknown_file (
-
-newItemjava.lang.Object2equals(Ljava/lang/Object;)*
-1*õ
+__unknown_file (
+
+%4java.io.File*4
+
+__unknown_file (
+
+%3java.lang.String\
+Z
+
+û û(+
+filejava.io.File"__id*0
+
+__unknown_file (
+
+%4java.io.Filepn
+
+ü@ ü(M
+
+%6long"java.io.File#length()J*2
+
+__unknown_file (
+
+filejava.io.File2length()t
+r
+
+ü ü(N:'
+%com.simplecity.amp_library.model.Song"
+fileSizeLabel"__id*"
+
+__unknown_file (
+""*
+1*ñ
+3
+ù ù(}
+{
+
+ù# ù('
+%2java.lang.String"__id*O
+
+__unknown_file (3*1'
+%com.simplecity.amp_library.model.Song"
+path*
+2
+1*ü
 4
-Ü( Ü(/Å
-
+ú ú(á
+Ñ
 
-Ü( Ü(7
-%3boolean"	__compare*
+ú ú(
+%0java.lang.String"__id*X
+
+__unknown_file (<*:'
+%com.simplecity.amp_library.model.Song"
+fileSizeLabel|
+z
 
-Ü0 Ü(2
-==*+
+ú ú(!
+%1boolean"	__compare*
 
-Ü( Ü(/
-
-newItemjava.lang.Object*
+ú ú(
+==*&
 
-Ü3 Ü(7
+ú ú(
+
+%0java.lang.String*
+
+ú ú(!
 ""*
-2
-1*÷
-5
-É É('∞≠
-
-É É(8
-%0java.lang.Object"icom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback#getOldItem(I)Ljava/lang/Object;*i
-
-__unknown_file (MK
-Icom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback*"
-
-__unknown_file (
-""2getOldItem(I)g
-e
-
-É É(9
-oldItemjava.lang.Object"__id*4
-
-__unknown_file (
-
-%0java.lang.Object∞≠
-
-Ñ Ñ(8
-%1java.lang.Object"icom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback#getNewItem(I)Ljava/lang/Object;*i
-
-__unknown_file (MK
-Icom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback*"
-
-__unknown_file (
-""2getNewItem(I)g
-e
-
-Ñ Ñ(9
-newItemjava.lang.Object"__id*4
-
-__unknown_file (
-
-%1java.lang.ObjectÅ
-
-
-Ü Ü($
-%2boolean"	__compare*
-
-Ü Ü(
-==*+
-
-Ü Ü(
-
-oldItemjava.lang.Object*
-
-Ü  Ü($
-""*	
-2
-4
-1*%
+3
+1*¡
 1
-Ü Ü(T"
+¢ ¢(á
+Ñ
 
-Ü Ü(T
-"": 
+¢ ¢(
+%7java.lang.String"__id*X
 
-__unknown_file (
-"": 
-
-__unknown_file (
-""BMK
-Icom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallbackHX
+__unknown_file (<*:'
+%com.simplecity.amp_library.model.Song"
+fileSizeLabel"&
+
+¢ ¢(
+
+%7java.lang.StringB)'
+%com.simplecity.amp_library.model.SongH

@@ -1,18 +1,18 @@
 
-Vcom.afollestad.aesthetic.Aesthetic#colorPrimary(I)Lcom/afollestad/aesthetic/Aesthetic;r
-fC:/Users/enzo.perbet/Shuttle/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/Aesthetic.javaÁ Á("1*³
+Xcom.afollestad.aesthetic.Aesthetic#colorStatusBar(I)Lcom/afollestad/aesthetic/Aesthetic;r
+fC:/Users/enzo.perbet/Shuttle/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/Aesthetic.javaÞ Þ(!"1*¶
 1
-Ã Ã(^
-\
+ß ß(a
+_
 
-Ã Ã(0
-%0java.lang.String"__id*0
+ß ß(3
+%0java.lang.String"__id*3
 
-__unknown_file (
-primary_color_%sÂ
+__unknown_file (
+status_bar_color_%sÂ
 ¿
 
-Ã2 Ã(>
+ß5 ß(A
 %1"Ccom.afollestad.aesthetic.Aesthetic#key(LContext;)Ljava/lang/String;*B
 
 __unknown_file (&"$
@@ -22,7 +22,7 @@ fC:/Users/enzo.perbet/Shuttle/libraries/aesthetic/src/main/java/com/afollestad/a
 ""ó
 ð
 
-Ã Ã(?
+ß ß(B
 %2"Pjava.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*0
 
 __unknown_file ("
@@ -37,14 +37,14 @@ fC:/Users/enzo.perbet/Shuttle/libraries/aesthetic/src/main/java/com/afollestad/a
 %1Q
 O
 
-Ã Ã(@
+ß ß(C
 keyjava.lang.String"__id*"
 
 __unknown_file (
 
 %2"4
 
-Å Å(&$
+á á(&$
 "com.afollestad.aesthetic.Aesthetic: 
 
 __unknown_file (

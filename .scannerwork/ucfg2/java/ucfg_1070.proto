@@ -1,21 +1,18 @@
 
-Êcom.simplecity.amp_library.ui.screens.tagger.TaggerTask#listener(Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask$TagCompletionListener;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;w
-kC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java¦ ¦("1*Á
+ccom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragment#screenName()Ljava/lang/String;„
+xC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/pager/QueuePagerFragment.javaÇ Ç("1*Ö
 1
-§% §(-ä
-á
+È È(œ
+™
 
-§ §(-T9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
-tagCompletionListener"__id*w
+È È(
+%0java.lang.String"__id*m
 
-__unknown_file ([
-Y
-listenerMcom.simplecity.amp_library.ui.screens.tagger.TaggerTask$TagCompletionListener"I
+__unknown_file (Q*OF
+Dcom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragment"
+TAG"&
 
-¨ ¨(;9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask:g
-
-¦ ¦(=Y
-listenerMcom.simplecity.amp_library.ui.screens.tagger.TaggerTask$TagCompletionListenerB;9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTaskH
+È È(
+
+%0java.lang.StringBHF
+Dcom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragment

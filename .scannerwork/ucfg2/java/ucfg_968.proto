@@ -1,16 +1,57 @@
 
-Tcom.simplecity.amp_library.utils.sorting.SortManager#getAlbumDetailSongsAscending()Zt
-hC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/sorting/SortManager.javaž ž(/"1*w
-1
-Ÿ Ÿ(P
-N
+/com.afollestad.aesthetic.Util#isColorLight(II)Zm
+aC:/Users/enzo.perbet/Shuttle/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/Util.javaç ç("3*Ù
+2
+ê ê(±
+®
 
-Ÿ! Ÿ(;
-%0java.lang.String"__id*"
+ê ë(
+%1boolean".com.afollestad.aesthetic.Util#isColorLight(I)Z*=
+
+__unknown_file (!"
+com.afollestad.aesthetic.Util*"
 
 __unknown_file (
 """
 
-Ÿ Ÿ(C
-""B86
-4com.simplecity.amp_library.utils.sorting.SortManagerHX
+ê ë(
+""*x
+3
+è è(_
+]
+
+è é(
+%0"	__compare*
+
+é é(	
+<*
+
+è è(
+""*
+
+é
+ é(2€*
+2
+1*Ù
+1
+í í(±
+®
+
+í í(
+%2boolean".com.afollestad.aesthetic.Util#isColorLight(I)Z*=
+
+__unknown_file (!"
+com.afollestad.aesthetic.Util*"
+
+__unknown_file (
+"""
+
+í í(
+"": 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""B!"
+com.afollestad.aesthetic.UtilX

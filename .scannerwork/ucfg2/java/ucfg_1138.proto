@@ -1,15 +1,7 @@
 
-@com.simplecity.amp_library.ui.modelviews.ArtworkView$1#<init>()V
-__unknown_file ("startingBlock*ò
-startingBlockr
-hC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/ArtworkView.javatP t(Qà
-Ý
-r
-hC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/ArtworkView.javatP t(Q
-%0"RequestListener#<init>()V*F
- (:8
-6com.simplecity.amp_library.ui.modelviews.ArtworkView$1"‰
-r
-hC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/ArtworkView.javatP t(Q
-implicit returnB:8
-6com.simplecity.amp_library.ui.modelviews.ArtworkView$1
+hcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityLarge#getLayoutIdString()Ljava/lang/String;€
+vC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetConfigureActivityLarge.java ("1*!
+1 (""
+ (7
+""BFD
+Bcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityLarge

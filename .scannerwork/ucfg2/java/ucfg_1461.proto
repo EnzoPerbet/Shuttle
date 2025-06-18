@@ -1,14 +1,14 @@
 
-ncom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityMedium#getUpdateCommandString()Ljava/lang/String;Å
-wC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetConfigureActivityMedium.java (!"1*ó
-1 (#b
-`
- (6
-%0java.lang.String"__id*6
+xcom.simplecity.amp_library.utils.color.ArgbEvaluator#getInstance()Lcom/simplecity/amp_library/utils/color/ArgbEvaluator;r
+hC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/color/ArgbEvaluator.java$ (/"1*À
+1 (r
+p
+ (:
+%04com.simplecity.amp_library.utils.color.ArgbEvaluator"__id*"
 
-__unknown_file (
-appwidgetupdate_medium"$
- (7
-
-%0java.lang.StringBGE
-Ccom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityMedium
+__unknown_file (
+"""H
+ (<
+:
+%04com.simplecity.amp_library.utils.color.ArgbEvaluatorB8"6
+4com.simplecity.amp_library.utils.color.ArgbEvaluatorH

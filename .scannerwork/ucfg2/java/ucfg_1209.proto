@@ -1,9 +1,81 @@
 
-Fcom.simplecity.amp_library.ui.views.SnowfallView$Snowflake#getSnowX()Fp
-dC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/views/SnowfallView.javaÙ Ù("1*%
-1
-Ú Ú("
+~com.simplecity.amp_library.ui.screens.tagger.CheckDocumentPermissionsTask#doInBackground([Ljava/lang/Void;)Ljava/lang/Boolean;‡
+}C:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/CheckDocumentPermissionsTask.java! !($"startingBlock*Ù
+2"M "(X¡
+ž
 
-Û Û(
-""B><
-:com.simplecity.amp_library.ui.views.SnowfallView$SnowflakeX
+"§ "(¬
+%2java.util.List"__id*t
+
+__unknown_file (X*VK
+Icom.simplecity.amp_library.ui.screens.tagger.CheckDocumentPermissionsTask"
+paths 
+
+	"M "(­
+%3"com.simplecity.amp_library.ui.screens.tagger.TaggerUtils#hasDocumentTreePermission(LContext;LSettingsManager;Ljava/util/List;Ljava/util/List;)Z*X
+
+__unknown_file (<":
+8com.simplecity.amp_library.ui.screens.tagger.TaggerUtils*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*2
+
+__unknown_file (
+
+%2java.util.List*
+1*è
+3" "(Ÿ
+œ
+"C "(H
+%0java.util.List"__id*t
+
+__unknown_file (X*VK
+Icom.simplecity.amp_library.ui.screens.tagger.CheckDocumentPermissionsTask"
+paths®
+«
+" "(I
+%1"gcom.simplecity.amp_library.ui.screens.tagger.TaggerUtils#requiresPermission(LContext;Ljava/util/List;)Z*X
+
+__unknown_file (<":
+8com.simplecity.amp_library.ui.screens.tagger.TaggerUtils*"
+
+__unknown_file (
+""*2
+
+__unknown_file (
+
+%0java.util.List*
+2
+1*Ž
+startingBlock!$ !(4
+Œ
+   (
+%4"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*:
+
+__unknown_file (
+
+paramsjava.lang.Void[]\
+Z
+!- !(3
+paramsjava.lang.Void[]"__annotation*"
+
+__unknown_file (
+
+%4*
+3*#
+1	" "(®"
+	" "(®
+"":(
+!% !(3
+paramsjava.lang.Void[]BMK
+Icom.simplecity.amp_library.ui.screens.tagger.CheckDocumentPermissionsTask

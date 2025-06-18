@@ -1,8 +1,8 @@
 Mthis
-Ö Ö("7com.simplecity.amp_library.ui.screens.tagger.TaggerTask%paths
-Ö Ö(1"java.util.List"=)
-'
+ ("7com.simplecity.amp_library.ui.screens.tagger.TaggerTask*discText
+ (*"java.lang.String"@,
+*
 
-× ×("#set-field# paths:
+ ( "#set-field# discText:
 
-Ø Ø(*kC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java
+ (*kC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java

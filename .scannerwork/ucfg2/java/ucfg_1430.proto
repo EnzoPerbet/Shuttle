@@ -1,15 +1,14 @@
 
-=com.simplecity.amp_library.ui.common.BaseActivity$1#<init>()V
-__unknown_file ("startingBlock*ò
-startingBlocko
-eC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/common/BaseActivity.javaES E(Tæ
-ã
-o
-eC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/common/BaseActivity.javaES E(T
-%0"%Permiso.IOnPermissionResult#<init>()V*C
- (75
-3com.simplecity.amp_library.ui.common.BaseActivity$1"†
-o
-eC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/common/BaseActivity.javaES E(T
-implicit returnB75
-3com.simplecity.amp_library.ui.common.BaseActivity$1
+`com.simplecity.amp_library.ui.widgets.WidgetProviderMedium#getLayoutIdString()Ljava/lang/String;x
+nC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetProviderMedium.java% %(#"1*™
+1& &(#d
+b
+& &(#
+%0java.lang.String"__id*8
+
+__unknown_file (
+widget_medium_layout_id_"$
+& &($
+
+%0java.lang.StringB><
+:com.simplecity.amp_library.ui.widgets.WidgetProviderMediumH

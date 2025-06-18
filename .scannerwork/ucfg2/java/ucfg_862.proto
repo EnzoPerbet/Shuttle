@@ -1,18 +1,18 @@
 
-hcom.afollestad.aesthetic.Aesthetic#bottomNavigationBackgroundMode(I)Lcom/afollestad/aesthetic/Aesthetic;r
-fC:/Users/enzo.perbet/Shuttle/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/Aesthetic.javaÒ Ò(1"1*§
+acom.afollestad.aesthetic.Aesthetic#snackbarActionTextColor(I)Lcom/afollestad/aesthetic/Aesthetic;r
+fC:/Users/enzo.perbet/Shuttle/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/Aesthetic.javaù ù(*"1*¯
 1
-Ó Ó(
-`
-^
+ú ú(
+h
+f
 
-Ó Ó((
-%0java.lang.String"__id*2
+ú ú(*
+%0java.lang.String"__id*:
 
-__unknown_file (
-bottom_nav_bg_mode"4
+__unknown_file (
+snackbar_action_text_color"4
 
-Ô Ô(&$
+û û(&$
 "com.afollestad.aesthetic.Aesthetic: 
 
 __unknown_file (

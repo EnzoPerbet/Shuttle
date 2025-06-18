@@ -1,15 +1,84 @@
 
-?com.afollestad.aesthetic.AestheticCoordinatorLayout$1#<init>()V
-__unknown_file ("startingBlock*¢
-startingBlockÉ
-wC:/Users/enzo.perbet/Shuttle/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticCoordinatorLayout.javaÖ\ Ö(]Ï
-È
-É
-wC:/Users/enzo.perbet/Shuttle/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticCoordinatorLayout.javaÖ\ Ö(]
-%0"BiFunction#<init>()V*E
- (97
-5com.afollestad.aesthetic.AestheticCoordinatorLayout$1"õ
-É
-wC:/Users/enzo.perbet/Shuttle/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticCoordinatorLayout.javaÖ\ Ö(]
-implicit returnB97
-5com.afollestad.aesthetic.AestheticCoordinatorLayout$1
+Wcom.simplecity.amp_library.services.Equalizer#getZeroedBandsString(I)Ljava/lang/String;k
+aC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/services/Equalizer.javaE E(-"5*ñ
+3H H(Å˛
+H H(&
+%3java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*F
+
+__unknown_file (*
+(
+stringBuilderjava.lang.StringBuilder*"
+
+__unknown_file (
+0;2append(Ljava/lang/String;)*
+4*x
+4G G(a
+_
+G G("
+%2boolean"	__compare*
+G G(
+<*
+G G(
+""*
+G G("
+""*
+3
+1*«
+5F& F(9DB
+F* F(7
+%0java.lang.StringBuilder"java.lang.StringBuilderr
+p
+F& F(9
+%1"!java.lang.StringBuilder#<init>()V*;
+
+__unknown_file (
+
+%0java.lang.StringBuildery
+w
+F F(:(
+stringBuilderjava.lang.StringBuilder"__id*;
+
+__unknown_file (
+
+%0java.lang.StringBuilder*
+4*‘
+1J J(ïí
+J# J(9	
+%4int")java.lang.AbstractStringBuilder#length()I*F
+
+__unknown_file (*
+(
+stringBuilderjava.lang.StringBuilder2length()b
+`
+J# J(=	
+%5int"__calculate*
+J: J(;
+-*
+J# J(9
+	
+%4int*
+J< J(=2Ì
+J J(>
+%6java.lang.StringBuilder"@java.lang.StringBuilder#deleteCharAt(I)Ljava/lang/StringBuilder;*F
+
+__unknown_file (*
+(
+stringBuilderjava.lang.StringBuilder*'
+
+__unknown_file (
+	
+%5int2deleteCharAt(I)Ø¨
+K K('
+%7java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*F
+
+__unknown_file (*
+(
+stringBuilderjava.lang.StringBuilder2
+toString()"$
+K K((
+
+%7java.lang.String: 
+
+__unknown_file (
+""B1"/
+-com.simplecity.amp_library.services.EqualizerH

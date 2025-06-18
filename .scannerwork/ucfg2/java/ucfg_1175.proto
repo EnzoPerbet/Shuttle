@@ -1,21 +1,54 @@
 
-Fcom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#<init>()V
-__unknown_file ("startingBlock*˜
-startingBlock
-‡C:/Users/enzo.perbet/Shuttle/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.java (»
-¸
-
-‡C:/Users/enzo.perbet/Shuttle/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.java (
-%0"Ocom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#%field_initializer*L
- (@>
-<com.simplecityapps.recycler_adapter.adapter.ViewModelAdapterŠ
-‡
-
-‡C:/Users/enzo.perbet/Shuttle/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.java (
-%1"RecyclerView.Adapter#<init>()V*L
- (@>
-<com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter"¨
-
-‡C:/Users/enzo.perbet/Shuttle/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.java (
-implicit returnB@>
-<com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter
+Dcom.simplecity.amp_library.model.Song#getSortKey()Ljava/lang/String;e
+YC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Song.javaÏ Ï("3*¼
+2
+Ñ Ñ(¥¢
+
+Ñ Ñ(
+
+%2void"3com.simplecity.amp_library.model.Song#setSortKey()V*E
+
+__unknown_file ()'
+%com.simplecity.amp_library.model.Song2setSortKey()*
+1*˜
+3
+Ð Ð(€
+~
+
+Ð Ð(
+%0java.lang.String"__id*R
+
+__unknown_file (6*4'
+%com.simplecity.amp_library.model.Song"	
+sortKey|
+z
+
+Ð Ð(
+%1boolean"	__compare*
+
+Ð Ð(
+==*&
+
+Ð Ð(
+
+%0java.lang.String*
+
+Ð Ð(
+""*
+2
+1*º
+1
+Ó Ó(€
+~
+
+Ó Ó(
+%3java.lang.String"__id*R
+
+__unknown_file (6*4'
+%com.simplecity.amp_library.model.Song"	
+sortKey"&
+
+Ó Ó(
+
+%3java.lang.StringB)'
+%com.simplecity.amp_library.model.SongH

@@ -1,15 +1,38 @@
 
-Rcom.simplecity.amp_library.sql.legacy.WhitelistFolder#toString()Ljava/lang/String;s
-iC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/sql/legacy/WhitelistFolder.java" "("1*Ä
-1# #(Ž
-‹
-# #(
-%0java.lang.String"__id*a
-
-__unknown_file (E*C7
-5com.simplecity.amp_library.sql.legacy.WhitelistFolder"
-folder"$
-# #(
-
-%0java.lang.StringB97
-5com.simplecity.amp_library.sql.legacy.WhitelistFolderH
+Vcom.simplecity.amp_library.ui.views.multisheet.CustomMultiSheetView#%field_initializer
+__unknown_file ("1*°	
+1 (‡
+„
+
+wC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/views/multisheet/CustomMultiSheetView.java. (=
+%0"__declareFunction*e
+ (YW
+U__sonar_lambda_63$com.simplecity.amp_library.ui.views.multisheet.CustomMultiSheetViewø
+õ
+
+wC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/views/multisheet/CustomMultiSheetView.java (>UE
+Ccom.simplecity.amp_library.ui.views.multisheet.CustomMultiSheetView"
+
+sheet1Lock"__id*
+ (
+
+%0‡
+„
+
+wC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/views/multisheet/CustomMultiSheetView.java. (=
+%1"__declareFunction*e
+ (YW
+U__sonar_lambda_64$com.simplecity.amp_library.ui.views.multisheet.CustomMultiSheetViewø
+õ
+
+wC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/views/multisheet/CustomMultiSheetView.java (>UE
+Ccom.simplecity.amp_library.ui.views.multisheet.CustomMultiSheetView"
+
+sheet2Lock"__id*
+ (
+
+%1"–
+
+wC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/views/multisheet/CustomMultiSheetView.java c(
+implicit returnBGE
+Ccom.simplecity.amp_library.ui.views.multisheet.CustomMultiSheetView

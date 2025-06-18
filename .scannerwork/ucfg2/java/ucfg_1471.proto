@@ -1,7 +1,14 @@
 
-Hcom.simplecity.amp_library.ui.modelviews.SearchHeaderView#getViewType()Iw
-mC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/SearchHeaderView.java ("1*!
-1 ("
- (
-""B=;
-9com.simplecity.amp_library.ui.modelviews.SearchHeaderViewHX
+Ycom.simplecity.amp_library.ui.screens.drawer.DrawerDivider#getChildList()Ljava/util/List;x
+nC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/drawer/DrawerDivider.java ()"1*Á
+1 (
+Š
+ (&
+%0java.util.List"1java.util.Collections#emptyList()Ljava/util/List;*5
+
+__unknown_file ("
+java.util.Collections""
+ ('
+
+%0java.util.ListB><
+:com.simplecity.amp_library.ui.screens.drawer.DrawerDividerH

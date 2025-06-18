@@ -28,11 +28,12 @@ import org.jetbrains.annotations.NotNull;
 
 public class MediaManager {
 
-    public interface Defs {
+    public final class Defs {
+        private Defs()
 
-        int ADD_TO_PLAYLIST = 0;
-        int PLAYLIST_SELECTED = 1;
-        int NEW_PLAYLIST = 2;
+        public static final int ADD_TO_PLAYLIST = 0;
+        public static final int PLAYLIST_SELECTED = 1;
+        public static final int NEW_PLAYLIST = 2;
     }
 
     private AnalyticsManager analyticsManager;
@@ -86,7 +87,7 @@ public class MediaManager {
                         songs -> shuffleAll(songs, onEmpty),
                         e -> LogUtils.logException(TAG, "Shuffle all error", e));
     }
-    
+
     private final Random random = new Random();
 
     public void shuffleAll(@NotNull List<Song> songs, @NotNull Function0<Unit> onEmpty) {

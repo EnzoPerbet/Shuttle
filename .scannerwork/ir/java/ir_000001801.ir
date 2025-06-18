@@ -1,9 +1,8 @@
-Hthis	 	("4com.simplecity.amp_library.model.UserSelectedArtworktype	 	(="int$path	? 	(J"java.lang.String"^&
-$
-
- 
-("#set-field# type:&
-$
- ("#set-field# path:
+Mthis
+ê ê("7com.simplecity.amp_library.ui.screens.tagger.TaggerTask+	titleText
+ê ê(,"java.lang.String"A-
++
 
- (*hC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/UserSelectedArtwork.java
+ë ë(""#set-field# titleText:
+
+ì ì(*kC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java

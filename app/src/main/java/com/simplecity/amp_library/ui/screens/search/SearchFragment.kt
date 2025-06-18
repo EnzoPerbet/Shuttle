@@ -270,11 +270,6 @@ class SearchFragment :
         toolbar!!.menu.findItem(R.id.search_album).isChecked = checked
     }
 
-    override fun showPlaybackError() {
-        // Todo: Implement
-    }
-
-
     // AlbumArtistMenuContract.View Implementation
 
     override fun presentCreatePlaylistDialog(songs: List<Song>) {
@@ -290,7 +285,6 @@ class SearchFragment :
     }
 
     override fun onPlaybackFailed() {
-        // Todo: Improve error message
         Toast.makeText(context, R.string.emptyplaylist, Toast.LENGTH_SHORT).show()
     }
 

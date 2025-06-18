@@ -1,57 +1,9 @@
 
-/com.afollestad.aesthetic.Util#isColorLight(II)Zm
-aC:/Users/enzo.perbet/Shuttle/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/Util.javaç ç("3*Ù
-2
-ê ê(±
-®
-
-ê ë(
-%1boolean".com.afollestad.aesthetic.Util#isColorLight(I)Z*=
-
-__unknown_file (!"
-com.afollestad.aesthetic.Util*"
-
-__unknown_file (
-"""
-
-ê ë(
-""*x
-3
-è è(_
-]
-
-è é(
-%0"	__compare*
-
-é é(	
-<*
-
-è è(
-""*
-
-é
- é(2€*
-2
-1*Ù
+8com.simplecity.amp_library.model.TagUpdate#hasChanged()Zj
+^C:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/TagUpdate.javaÍ Í("1*%
 1
-í í(±
-®
+Î Ñ(P"
 
-í í(
-%2boolean".com.afollestad.aesthetic.Util#isColorLight(I)Z*=
-
-__unknown_file (!"
-com.afollestad.aesthetic.Util*"
-
-__unknown_file (
-"""
-
-í í(
-"": 
-
-__unknown_file (
-"": 
-
-__unknown_file (
-""B!"
-com.afollestad.aesthetic.UtilX
+Î Ñ(P
+""B.,
+*com.simplecity.amp_library.model.TagUpdateHX

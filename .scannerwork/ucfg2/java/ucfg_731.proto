@@ -1,169 +1,31 @@
 
-_com.simplecity.amp_library.ShuttleApplication#getDiskCacheDir(Ljava/lang/String;)Ljava/io/File;m
-aC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ShuttleApplication.javaÍ Í("20*µ
-13
-Ò Ò(,úô
+Ccom.simplecity.amp_library.ui.modelviews.SongView#getLayoutResId()Iq
+eC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/SongView.javaí í("2"3*T
+2
+ì4 ì(5>
+<
 
-Ò Ò(6
-%1java.lang.String"(java.io.File#getPath()Ljava/lang/String;*>
+ì4 ì(P
+%0"__id*"
 
-__unknown_file ("
- 
-externalCacheDirjava.io.File2	getPath()*
-12*Æ
-14ä (öè
-å
-ä (¢
-%0boolean"	__compare*
-õ (ù
-!=*2
-ä (ö"
- 
-externalCacheDirjava.io.File*
-û (¢
-""*
-13
-10*3
-4
-ˆ ˆ(I""
+__unknown_file (
+
+%2*
+1*T
+3
+ì ì(>
+<
 
-ˆ ˆ(I
-
-%7java.io.File*Ÿ
-5
-ˆ  ˆ()P
-N
-
-ˆ, ˆ(:
-%4java.lang.String"__id*"
+ì ì(1
+%0"__id*"
 
-__unknown_file (
-""à
-Ö
-
-ˆ  ˆ(:
-%5java.lang.String"__concat*-
-
-ˆ  ˆ()
-
-	cachePathjava.lang.String*&
-
-ˆ, ˆ(:
-
-%4java.lang.Stringâ
-Ü
-
-ˆ  ˆ(G
-%6java.lang.String"__concat*&
-
-ˆ  ˆ(:
-
-%5java.lang.String*.
-
-ˆ= ˆ(G 
-
-
-uniqueNamejava.lang.String0.
-
-ˆ ˆ(
-%7java.io.File"java.io.Fileß
-§
-
-ˆ ˆ(H
-%8"(java.io.File#<init>(Ljava/lang/String;)V*0
-
-__unknown_file (
-
-%7java.io.File*4
-
-__unknown_file (
-
-%6java.lang.String*
-4*û
-6
-ı ı(Ñ
-Å
-
-ı ı(!
-%3boolean"	__compare*
-
-ı ı(
-!=*-
-
-ı ı(
-
-	cachePathjava.lang.String*
-
-ı ı(!
-""*
-5
-1*m
-7
-Û Û(3W
-U
-
-Û Û(3
-	cachePathjava.lang.String"__id*"
-
-__unknown_file (
-""*
-6*v
-19
-Ô Ô(:Z
-X
-
-Ô Ô(: 
-externalCacheDirjava.io.File"__id*"
-
-__unknown_file (
-""*
-14
-10*o
-20
-Ó Ó(#W
-U
-
-Ó Ó($
-	cachePathjava.lang.String"__id*"
-
-__unknown_file (
-""*
-19*{
-10
-Ú( Ú(,a
-_
-
-Ú Ú(,
-%2"	__compare*
-
-Ú% Ú('
-!=*
-
-Ú Ú($
-""*
-
-Ú( Ú(,
-""*
-6
-7*Ä
-12
-Ò Ò(6i
-g
-
-Ò Ò(6
-	cachePathjava.lang.String"__id*4
-
-__unknown_file (
-
-%1java.lang.String*
-6*%
+__unknown_file (
+
+%1*
+1*%
 1
-˚ ˚("
+ì ì(Q"
 
-˚ ˚(
-"":,
-
-Í  Í(1
-
-uniqueNamejava.lang.StringB1/
--com.simplecity.amp_library.ShuttleApplicationH
+ì ì(Q
+""B53
+1com.simplecity.amp_library.ui.modelviews.SongViewHX

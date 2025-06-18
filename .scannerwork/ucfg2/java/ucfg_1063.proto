@@ -1,21 +1,15 @@
 
-äcom.simplecity.amp_library.ui.screens.tagger.TaggerTask#track(Ljava/lang/String;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;w
-kC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.javaÉ É("1*˘
-1
-Ñ Ñ("ú
-ô
-
-Ñ Ñ("H9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
-	trackText"__id*;
-
-__unknown_file (
-
-	trackTextjava.lang.String"I
-
-Ö Ö(;9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask:+
-
-É É(,
-	trackTextjava.lang.StringB;9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTaskH
+Pcom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragment$1#<init>()V
+__unknown_file ("startingBlock*µ
+startingBlockÇ
+xC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/pager/QueuePagerFragment.javai6 i(7Å
+˛
+Ç
+xC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/pager/QueuePagerFragment.javai6 i(7
+%0"PagerSnapHelper#<init>()V*V
+ (JH
+Fcom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragment$1"ö
+Ç
+xC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/pager/QueuePagerFragment.javai6 i(7
+implicit returnBJH
+Fcom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragment$1

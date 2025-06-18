@@ -29,7 +29,6 @@ public class StringUtils {
     /**
      * Method makeTimeString.
      * <p>
-     * Todo: Move to StringUtils or somewhere else
      *
      * @param context Context
      * @param secs long

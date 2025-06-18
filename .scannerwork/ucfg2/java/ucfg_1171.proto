@@ -1,12 +1,110 @@
 
-icom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback#getNewItem(I)Ljava/lang/Object;”
-‡C:/Users/enzo.perbet/Shuttle/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.javaü ü("1*%
-1
-ı ı("
+Lcom.simplecity.amp_library.model.Song#getDiscNumberLabel()Ljava/lang/String;e
+YC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Song.java ($"5*Ï
+2
+•" •((¬
+©
 
-ı ı(0
-"": 
+•" •(<
+%5java.lang.String"-java.lang.String#valueOf(I)Ljava/lang/String;*0
 
-__unknown_file (
-""BMK
-Icom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback
+__unknown_file ("
+java.lang.String*"
+
+__unknown_file (
+""‰
+†
+
+• •(<<'
+%com.simplecity.amp_library.model.Song"
+discNumberLabel"__id*4
+
+__unknown_file (
+
+%5java.lang.String*
+1*Ô
+3
+“" “((§¤
+
+“1 “(=
+%3";com.simplecity.amp_library.model.Song#getTagInfo()LTagInfo;*E
+
+__unknown_file ()'
+%com.simplecity.amp_library.model.Song2getTagInfo()›
+˜
+
+“" “(I
+%4".java.lang.String#valueOf([C)Ljava/lang/String;*0
+
+__unknown_file ("
+java.lang.String*"
+
+__unknown_file (
+""v
+t
+
+“ “(I<'
+%com.simplecity.amp_library.model.Song"
+discNumberLabel"__id*"
+
+__unknown_file (
+
+%4*
+1*
+4
+’ ’(h
+f
+
+’ ’( 
+%2boolean"	__compare*
+
+’ ’(
+==*
+
+’ ’(
+""*
+
+’ ’( 2*
+2
+3*¡
+5
+‘ ‘(‰
+†
+
+‘ ‘(
+%0java.lang.String"__id*Z
+
+__unknown_file (>*<'
+%com.simplecity.amp_library.model.Song"
+discNumberLabel|
+z
+
+‘ ‘(#
+%1boolean"	__compare*
+
+‘ ‘(
+==*&
+
+‘ ‘(
+
+%0java.lang.String*
+
+‘ ‘(#
+""*
+4
+1*Ã
+1
+˜ ˜(‰
+†
+
+˜ ˜(
+%6java.lang.String"__id*Z
+
+__unknown_file (>*<'
+%com.simplecity.amp_library.model.Song"
+discNumberLabel"&
+
+˜ ˜(
+
+%6java.lang.StringB)'
+%com.simplecity.amp_library.model.SongH

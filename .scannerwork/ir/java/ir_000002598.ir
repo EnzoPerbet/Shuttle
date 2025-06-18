@@ -1,3 +1,7 @@
-\this	 	(*"Hcom.simplecity.amp_library.di.app.activity.fragment.DialogFragmentModule"
-
- (*|C:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/di/app/activity/fragment/DialogFragmentModule.java
+;this	 	("'com.simplecity.amp_library.model.Header%title	 	("java.lang.String"7'
+%
+
+ 
+("#set-field# title:
+
+ (*[C:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Header.java

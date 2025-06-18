@@ -173,11 +173,15 @@ public class TaggerUtils {
         }
 
         if (!destFile.exists()) {
-            destFile.createNewFile();
+            try {
+                boolean created = destFile.createNewFile();
+                if (!created) {
+                    Log.w(TAG, "Le fichier n'a pas pu être créé : " + destFile.getAbsolutePath());
+                }
+            } catch (IOException e) {
+                Log.e(TAG, "Erreur lors de la création du fichier", e);
+            }
         }
-
-        FileChannel source = null;
-        FileChannel destination = null;
 
         try (
             FileInputStream fis = new FileInputStream(sourceFile);
@@ -190,9 +194,6 @@ public class TaggerUtils {
     }
 
     static void copyFile(File sourceFile, FileOutputStream outputStream) throws IOException {
-
-        FileChannel source = null;
-        FileChannel destination = null;
 
         try (
             FileInputStream fis = new FileInputStream(sourceFile);

@@ -1,57 +1,9 @@
 
-Gcom.simplecity.amp_library.model.Song#getArtworkKey()Ljava/lang/String;e
-YC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Song.javaÝ Ý("3*±
-2
-Þ  Þ(-š
-—
-
-Þ  Þ(/
-
-%2void"6com.simplecity.amp_library.model.Song#setArtworkKey()V*E
-
-__unknown_file ()'
-%com.simplecity.amp_library.model.Song*
-1*œ
-3
-Þ Þ(„
-
-
-Þ Þ(
-%0java.lang.String"__id*U
-
-__unknown_file (9*7'
-%com.simplecity.amp_library.model.Song"
-
-artworkKey|
-z
-
-Þ Þ(
-%1boolean"	__compare*
-
-Þ Þ(
-==*&
-
-Þ Þ(
-
-%0java.lang.String*
-
-Þ Þ(
-""*
-2
-1*¾
+Fcom.simplecity.amp_library.ui.views.SnowfallView$Snowflake#getSnowX()Fp
+dC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/views/SnowfallView.javaÙ Ù("1*%
 1
-ß ß(„
-
+Ú Ú("
 
-ß ß(
-%3java.lang.String"__id*U
-
-__unknown_file (9*7'
-%com.simplecity.amp_library.model.Song"
-
-artworkKey"&
-
-ß ß(
-
-%3java.lang.StringB)'
-%com.simplecity.amp_library.model.SongH
+Û Û(
+""B><
+:com.simplecity.amp_library.ui.views.SnowfallView$SnowflakeX

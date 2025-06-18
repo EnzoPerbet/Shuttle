@@ -1,54 +1,81 @@
 
-7com.simplecity.amp_library.model.Song#getElapsedTime()Je
-YC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Song.java’ ’("1"2*%
-2
-◊ ◊("
+Ycom.simplecity.amp_library.model.Song#compareTo(Lcom/simplecity/amp_library/model/Song;)Ie
+YC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Song.javaë ë("startingBlock*µ
+startingBlock
+ë ë(,ò
+ï
 
-◊ ◊(
-""*˙
-1
-Ÿ Ÿ(s
-q
-
-Ÿ! Ÿ(;
-
-%0long"%java.lang.System#currentTimeMillis()J*0
+è è(
+%2"
+__annotate*(
 
-__unknown_file ("
-java.lang.Systemn
-l
+__unknown_file (
 
-Ÿ Ÿ(;
+Nullable*K
+
+__unknown_file (/
+-
+song%com.simplecity.amp_library.model.Song¢
+ü
 
-%1long"__calculate*
+ê ê(
+%3"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*K
+
+__unknown_file (/
+-
+song%com.simplecity.amp_library.model.Songó
+î
 
-Ÿ Ÿ( 
-+*
+ë ë(!
+%4"
+__annotate*'
+
+__unknown_file (	
+NonNull*K
+
+__unknown_file (/
+-
+song%com.simplecity.amp_library.model.Song∏
+µ
 
-Ÿ Ÿ(
-""*
+ë' ë(+-
+song%com.simplecity.amp_library.model.Song"__annotation*"
+
+__unknown_file (
+
+%2*"
+
+__unknown_file (
+
+%3*"
+
+__unknown_file (
+
+%4*
+1*µ
+1
+í í(¬ø
 
-Ÿ! Ÿ(;
+í' í(3
+%0java.lang.String"Dcom.simplecity.amp_library.model.Song#getSortKey()Ljava/lang/String;*E
+
+__unknown_file ()'
+%com.simplecity.amp_library.model.Song2getSortKey()»≈
 
+í5 í(F
+%1java.lang.String"Dcom.simplecity.amp_library.model.Song#getSortKey()Ljava/lang/String;*K
+
+__unknown_file (/
+-
+song%com.simplecity.amp_library.model.Song2getSortKey()"
 
-%0longn
-l
+í í(H
+"":;
 
-Ÿ Ÿ(G
-
-%2long"__calculate*
-
-Ÿ< Ÿ(=
--*
-
-Ÿ Ÿ(;
-
-
-%1long*
-
-Ÿ> Ÿ(G
-"""
-
-Ÿ Ÿ(H
-""B)'
-%com.simplecity.amp_library.model.SongX
+ë ë(+-
+song%com.simplecity.amp_library.model.SongB)'
+%com.simplecity.amp_library.model.SongHX

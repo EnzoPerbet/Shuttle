@@ -1,54 +1,7 @@
 
-dcom.simplecity.amp_library.http.HttpServer#getInstance()Lcom/simplecity/amp_library/http/HttpServer;h
-^C:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/http/HttpServer.java   (("3*¿
-2" "(*jh
-" "((0
-%2*com.simplecity.amp_library.http.HttpServer"*com.simplecity.amp_library.http.HttpServer™
-–
-" "(*
-%3"4com.simplecity.amp_library.http.HttpServer#<init>()V*N
-
-__unknown_file (2
-0
-%2*com.simplecity.amp_library.http.HttpServer¢
-Ÿ
-" "(*=,
-*com.simplecity.amp_library.http.HttpServer"
-sHttpServer"__id*N
-
-__unknown_file (2
-0
-%2*com.simplecity.amp_library.http.HttpServer*
-1*Ì
-3! !(¢
-Ÿ
-! !(0
-%0*com.simplecity.amp_library.http.HttpServer"__id*[
-
-__unknown_file (?*=,
-*com.simplecity.amp_library.http.HttpServer"
-sHttpServer
-Œ
-! !(
-%1boolean"	__compare*
-! !(
-==*>
-! !(2
-0
-%0*com.simplecity.amp_library.http.HttpServer*
-! !(
-""*
-2
-1*ò
-1$ $(¢
-Ÿ
-$ $(0
-%4*com.simplecity.amp_library.http.HttpServer"__id*[
-
-__unknown_file (?*=,
-*com.simplecity.amp_library.http.HttpServer"
-sHttpServer">
-$ $(2
-0
-%4*com.simplecity.amp_library.http.HttpServerB.",
-*com.simplecity.amp_library.http.HttpServerH
+Jcom.simplecity.amp_library.ui.widgets.WidgetProviderSmall#getRootViewId()Iw
+mC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetProviderSmall.java/ /("1*!
+10 0("
+0 0((
+""B=;
+9com.simplecity.amp_library.ui.widgets.WidgetProviderSmallHX

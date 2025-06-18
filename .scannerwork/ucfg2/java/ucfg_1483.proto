@@ -1,28 +1,26 @@
 
-Ocom.simplecity.amp_library.ui.screens.drawer.DrawerAdapter#isParentViewType(I)Zx
-nC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/drawer/DrawerAdapter.java (#"1"2*¾
-2 3  (;A
-?
- ?  (K	
-%0int"__id*"
-
-__unknown_file (
-""g
-e
- 3  (K
-%1boolean"	__compare*
- <  (>
-==*
- 3  (;
-""*
- ?  (K
-	
-%0int*
-1*!
-1   (L"
-   (L
-"": 
-
-__unknown_file (
-""B><
-:com.simplecity.amp_library.ui.screens.drawer.DrawerAdapterHX
+Otest.com.androidnavigation.fragment.BaseNavigationController#%field_initializer
+__unknown_file ("1*÷
+1 (Â¿
+Œ
+C:/Users/enzo.perbet/Shuttle/libraries/navigation/src/main/java/test/com/androidnavigation/fragment/BaseNavigationController.java= (H
+%0java.util.ArrayList"java.util.ArrayListà
+Ý
+Œ
+C:/Users/enzo.perbet/Shuttle/libraries/navigation/src/main/java/test/com/androidnavigation/fragment/BaseNavigationController.java9 (J
+%1"java.util.ArrayList#<init>()V*'
+ (
+
+%0java.util.ArrayList™
+–
+Œ
+C:/Users/enzo.perbet/Shuttle/libraries/navigation/src/main/java/test/com/androidnavigation/fragment/BaseNavigationController.java (KV>
+<test.com.androidnavigation.fragment.BaseNavigationController"
+backPressListeners"__id*'
+ (
+
+%0java.util.ArrayList"£
+‹
+C:/Users/enzo.perbet/Shuttle/libraries/navigation/src/main/java/test/com/androidnavigation/fragment/BaseNavigationController.java ‹(
+implicit returnB@>
+<test.com.androidnavigation.fragment.BaseNavigationController

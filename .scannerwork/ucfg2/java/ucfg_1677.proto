@@ -1,66 +1,15 @@
 
-Scom.simplecity.amp_library.http.lastfm.LastFmArtist#getImageUrl()Ljava/lang/String;q
-gC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/http/lastfm/LastFmArtist.java ("5*!
-2 ("
- (
-""*Î
-37 (=¶
-³
-7 (=@
-%4:com.simplecity.amp_library.http.lastfm.LastFmArtist$Artist"__id*_
-
-__unknown_file (C*A5
-3com.simplecity.amp_library.http.lastfm.LastFmArtist"
-artist*
-2
-1*©
-4 ($¶
-³
- ($@
-%2:com.simplecity.amp_library.http.lastfm.LastFmArtist$Artist"__id*_
-
-__unknown_file (C*A5
-3com.simplecity.amp_library.http.lastfm.LastFmArtist"
-artistY
-W
- (3
-%3"	__compare*
-, (.
-==*
- (+
-""*
-/ (3
-""*
-2
-3*ð
-5 (¶
-³
- (@
-%0:com.simplecity.amp_library.http.lastfm.LastFmArtist$Artist"__id*_
-
-__unknown_file (C*A5
-3com.simplecity.amp_library.http.lastfm.LastFmArtist"
-artistŸ
-œ
- (
-%1boolean"	__compare*
- (
-==*N
- (B
-@
-%0:com.simplecity.amp_library.http.lastfm.LastFmArtist$Artist*
- (
-""*
-2
-4*Ú
-1 (¶
-³
-+ (1@
-%5:com.simplecity.amp_library.http.lastfm.LastFmArtist$Artist"__id*_
-
-__unknown_file (C*A5
-3com.simplecity.amp_library.http.lastfm.LastFmArtist"
-artist"
- (:
-""B75
-3com.simplecity.amp_library.http.lastfm.LastFmArtistH
+>com.afollestad.aesthetic.AestheticNestedScrollView$1#<init>()V
+__unknown_file ("startingBlock*–
+startingBlock€
+vC:/Users/enzo.perbet/Shuttle/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticNestedScrollView.java)( )()æ
+ã
+€
+vC:/Users/enzo.perbet/Shuttle/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticNestedScrollView.java)( )()
+%0"Consumer#<init>()V*D
+ (86
+4com.afollestad.aesthetic.AestheticNestedScrollView$1"˜
+€
+vC:/Users/enzo.perbet/Shuttle/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticNestedScrollView.java)( )()
+implicit returnB86
+4com.afollestad.aesthetic.AestheticNestedScrollView$1

@@ -1,48 +1,61 @@
 
-[com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback#getNewListSize()I”
-‡C:/Users/enzo.perbet/Shuttle/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.javaô ô(!"4*Y
+Hcom.simplecity.amp_library.model.Song#getFormatLabel()Ljava/lang/String;e
+YC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Song.javaþ þ( "3*²
 2
-õ6 õ(7C
-A
+€ €($§¤
 
-õ6 õ(7
-%1"__id*'
+€ €(&
+%2";com.simplecity.amp_library.model.Song#getTagInfo()LTagInfo;*E
 
-__unknown_file (
-	
-%3int*
-1*T
+__unknown_file ()'
+%com.simplecity.amp_library.model.Song2getTagInfo()r
+p
+
+€ €(-8'
+%com.simplecity.amp_library.model.Song"
+formatLabel"__id*"
+
+__unknown_file (
+""*
+1*
 3
-õ% õ(,>
-<
+ÿ ÿ(…
+‚
 
-õ% õ(3
-%1"__id*"
+ÿ ÿ(
+%0java.lang.String"__id*V
 
-__unknown_file (
-
-%2*
-1*z
-4
-õ õ(a
-_
+__unknown_file (:*8'
+%com.simplecity.amp_library.model.Song"
+formatLabel|
+z
 
-õ õ("
-%0"	__compare*
+ÿ ÿ(
+%1boolean"	__compare*
 
-õ õ(
-!=*
+ÿ ÿ(
+==*&
 
-õ õ(
-""*
+ÿ ÿ(
+
+%0java.lang.String*
 
-õ õ("
+ÿ ÿ(
 ""*
 2
-3*%
+1*¿
 1
-õ õ(8"
+‚ ‚(…
+‚
 
-õ õ(8
-""BMK
-Icom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallbackHX
+‚ ‚(
+%3java.lang.String"__id*V
+
+__unknown_file (:*8'
+%com.simplecity.amp_library.model.Song"
+formatLabel"&
+
+‚ ‚(
+
+%3java.lang.StringB)'
+%com.simplecity.amp_library.model.SongH

@@ -1,100 +1,100 @@
 Nthis
-ô ô(""8android.support.design.widget.CustomCollapsingTextHelperfraction
-ô# ô(1"float"Ô#
+ò ò(""8android.support.design.widget.CustomCollapsingTextHelperfraction
+ò# ò(1"float"Ô#
 !
 
-ö# ö(2"#unknown-value#2
+ô# ô(2"#unknown-value#2
 0
 
-ö# ö(7"#get-field# left:B	!Unknown!#
+ô# ô(7"#get-field# left:B	!Unknown!#
 !
 
-ö9 ö(I"#unknown-value#2
+ô9 ô(I"#unknown-value#2
 0
 
-ö9 ö(N"#get-field# left:B	!Unknown!#
+ô9 ô(N"#get-field# left:B	!Unknown!#
 !
 
-õ õ(/"#unknown-value#}
+ö ö(/"#unknown-value#}
 {
 
-ö õ(0"T
+ô ö(0"T
 8android.support.design.widget.CustomCollapsingTextHelperlerp(FFFLInterpolator;)F2lerp:B	!Unknown!#
 !
 
-ö ö(	"#unknown-value#(
+ô ô(	"#unknown-value#(
 &
 
-ö õ(0
+ô ö(0
 "#set-field# left:	8
 6
 
-ú" ú(0"#get-field# mExpandedDrawY:Bfloat9
+õ" õ(0"#get-field# mExpandedDrawY:Bfloat9
 7
 
-ú2 ú(A"#get-field# mCollapsedDrawY:Bfloat#
+õ2 õ(A"#get-field# mCollapsedDrawY:Bfloat#
 !
 
-ù ù(/"#unknown-value#}
+ú ú(/"#unknown-value#}
 {
 
-ú ù(0"T
+õ ú(0"T
 8android.support.design.widget.CustomCollapsingTextHelperlerp(FFFLInterpolator;)F2lerp:B	!Unknown!#
 !
 
-ú ú("#unknown-value#'
+õ õ("#unknown-value#'
 %
 
-ú ù(0"#set-field# top:#
+õ ú(0"#set-field# top:#
 !
 
-û$ û(3"#unknown-value#3
+ù$ ù(3"#unknown-value#3
 1
 
-û$ û(9"#get-field# right:B	!Unknown!#
+ù$ ù(9"#get-field# right:B	!Unknown!#
 !
 
-û; û(K"#unknown-value#3
+ù; ù(K"#unknown-value#3
 1
 
-û; û(Q"#get-field# right:B	!Unknown!#
+ù; ù(Q"#get-field# right:B	!Unknown!#
 !
 
-ü ü(/"#unknown-value#}
+û û(/"#unknown-value#}
 {
 
-û ü(0"T
+ù û(0"T
 8android.support.design.widget.CustomCollapsingTextHelperlerp(FFFLInterpolator;)F2lerp:B	!Unknown!#
 !
 
-û û("#unknown-value#)
+ù ù("#unknown-value#)
 '
 
-û ü(0"#set-field# right:#
+ù û(0"#set-field# right:#
 !
 
-†% †(4"#unknown-value#4
+ü% ü(4"#unknown-value#4
 2
 
-†% †(;"#get-field# bottom:B	!Unknown!#
+ü% ü(;"#get-field# bottom:B	!Unknown!#
 !
 
-†= †(M"#unknown-value#4
+ü= ü(M"#unknown-value#4
 2
 
-†= †(T"#get-field# bottom:B	!Unknown!#
+ü= ü(T"#get-field# bottom:B	!Unknown!#
 !
 
-° °(/"#unknown-value#}
+† †(/"#unknown-value#}
 {
 
-†  °(0"T
+ü  †(0"T
 8android.support.design.widget.CustomCollapsingTextHelperlerp(FFFLInterpolator;)F2lerp:B	!Unknown!#
 !
 
-† †("#unknown-value#*
+ü ü("#unknown-value#*
 (
 
-† °(0 "#set-field# bottom:
+ü †(0 "#set-field# bottom:
 
-¢ ¢(*lC:/Users/enzo.perbet/Shuttle/app/src/main/java/android/support/design/widget/CustomCollapsingTextHelper.java
+° °(*lC:/Users/enzo.perbet/Shuttle/app/src/main/java/android/support/design/widget/CustomCollapsingTextHelper.java
