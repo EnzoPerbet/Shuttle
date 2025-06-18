@@ -294,18 +294,26 @@ public final class CustomCollapsingTextHelper {
                     (int) mExpandedSubSize);
         }
     }
+    public class FontLoadException extends Exception {
+        public FontLoadException(String message, Throwable cause) {
+            super(message, cause);
+        }
+    }
 
-    private Typeface readFontFamilyTypeface(int resId) {
-        final TypedArray a = mView.getContext().obtainStyledAttributes(resId, Build.VERSION.SDK_INT >= Build.VERSION_CODES.JELLY_BEAN
-                ? new int[]{android.R.attr.fontFamily}
-                : new int[0]);
+    private Typeface readFontFamilyTypeface(int resId) throws FontLoadException {
+        final TypedArray a = mView.getContext().obtainStyledAttributes(
+                resId,
+                Build.VERSION.SDK_INT >= Build.VERSION_CODES.JELLY_BEAN
+                        ? new int[]{android.R.attr.fontFamily}
+                        : new int[0]
+        );
         try {
             final String family = a.getString(0);
             if (family != null) {
                 return Typeface.create(family, Typeface.NORMAL);
             }
         } catch (Exception e) {
-            throw new RuntimeException("Unable to read font family typeface: " + resId);
+            throw new FontLoadException("Unable to read font family typeface: " + resId, e);
         } finally {
             a.recycle();
         }

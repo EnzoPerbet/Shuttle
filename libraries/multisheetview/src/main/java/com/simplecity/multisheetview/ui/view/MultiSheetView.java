@@ -179,16 +179,15 @@ public class MultiSheetView extends CoordinatorLayout {
         if (isHidden()) {
             int peekHeight = getContext().getResources().getDimensionPixelSize(R.dimen.bottom_sheet_peek_1_height);
             int currentHeight = bottomSheetBehavior1.getPeekHeight();
-            float ratio = 1 - (currentHeight / peekHeight);
+            float ratio = 1 - ((float) currentHeight / peekHeight);
+
             if (animate) {
                 ValueAnimator valueAnimator = ValueAnimator.ofInt(bottomSheetBehavior1.getPeekHeight(), peekHeight);
                 valueAnimator.setDuration((long) (200 * ratio));
-                valueAnimator.addUpdateListener(valueAnimator1 -> bottomSheetBehavior1.setPeekHeight((Integer) valueAnimator1.getAnimatedValue()));
+                valueAnimator.addUpdateListener(valueAnimator1 -> 
+                    bottomSheetBehavior1.setPeekHeight((Integer) valueAnimator1.getAnimatedValue()));
                 valueAnimator.start();
-            } else {
-                bottomSheetBehavior1.setPeekHeight(peekHeight);
             }
-            ((LayoutParams) findViewById(getMainContainerResId()).getLayoutParams()).bottomMargin = peekHeight;
         }
     }
 

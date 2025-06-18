@@ -1,7 +1,9 @@
 package com.simplecity.amp_library.http;
 
 import android.util.Log;
+
 import fi.iki.elonen.NanoHTTPD;
+
 import java.io.ByteArrayInputStream;
 import java.io.File;
 import java.io.FileInputStream;
@@ -25,6 +27,8 @@ public class HttpServer {
 
     private boolean isStarted = false;
 
+    private final Map<String, String> MIME_TYPES = new HashMap<>();
+
     public static HttpServer getInstance() {
         if (sHttpServer == null) {
             sHttpServer = new HttpServer();
@@ -34,6 +38,7 @@ public class HttpServer {
 
     private HttpServer() {
         server = new NanoServer();
+        initMimeTypes();
     }
 
     public void serveAudio(String audioUri) {
@@ -92,12 +97,7 @@ public class HttpServer {
                     File file = new File(audioFileToServe);
 
                     Map<String, String> headers = session.getHeaders();
-                    String range = null;
-                    for (String key : headers.keySet()) {
-                        if ("range".equals(key)) {
-                            range = headers.get(key);
-                        }
-                    }
+                    String range = headers.get("range");
 
                     if (range == null) {
                         range = "bytes=0-";
@@ -112,12 +112,13 @@ public class HttpServer {
 
                     if (rangeValue.startsWith("-")) {
                         end = fileLength - 1;
-                        start = fileLength - 1 - Long.parseLong(rangeValue.substring("-".length()));
+                        start = fileLength - 1 - Long.parseLong(rangeValue.substring(1));
                     } else {
                         String[] ranges = rangeValue.split("-");
                         start = Long.parseLong(ranges[0]);
                         end = ranges.length > 1 ? Long.parseLong(ranges[1]) : fileLength - 1;
                     }
+
                     if (end > fileLength - 1) {
                         end = fileLength - 1;
                     }
@@ -140,6 +141,7 @@ public class HttpServer {
                     } else {
                         return newFixedLengthResponse(Response.Status.RANGE_NOT_SATISFIABLE, "text/html", range);
                     }
+
                 } catch (IOException e) {
                     Log.e(TAG, "Error serving audio: " + e.getMessage());
                     e.printStackTrace();
@@ -153,6 +155,7 @@ public class HttpServer {
                 Log.i(TAG, "Serving image bytes: " + imageBytesToServe.length);
                 return newFixedLengthResponse(Response.Status.OK, "image/png", imageInputStream, imageBytesToServe.length);
             }
+
             Log.e(TAG, "Returning NOT_FOUND response");
             return newFixedLengthResponse(Response.Status.NOT_FOUND, "text/html", "File not found");
         }
@@ -176,9 +179,7 @@ public class HttpServer {
         }
     }
 
-    private final Map<String, String> MIME_TYPES = new HashMap<>();
-
-    {
+    private void initMimeTypes() {
         MIME_TYPES.put("css", "text/css");
         MIME_TYPES.put("htm", "text/html");
         MIME_TYPES.put("html", "text/html");
