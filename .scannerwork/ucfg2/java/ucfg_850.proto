@@ -1,51 +1,21 @@
 
-Xcom.afollestad.aesthetic.Aesthetic#colorStatusBar(I)Lcom/afollestad/aesthetic/Aesthetic;r
-fC:/Users/enzo.perbet/Shuttle/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/Aesthetic.javaÞ Þ(!"1*¶
+bcom.afollestad.aesthetic.Aesthetic#colorWindowBackgroundRes(I)Lcom/afollestad/aesthetic/Aesthetic;r
+fC:/Users/enzo.perbet/Shuttle/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/Aesthetic.javaÑ Ñ(+"1* 
 1
-ß ß(a
-_
+Ò Ò( øõ
 
-ß ß(3
-%0java.lang.String"__id*3
+Ò Ò(H
+%0"_com.afollestad.aesthetic.Aesthetic#colorWindowBackground(I)Lcom/afollestad/aesthetic/Aesthetic;*B
 
-__unknown_file (
-status_bar_color_%sÂ
-¿
-
-ß5 ß(A
-%1"Ccom.afollestad.aesthetic.Aesthetic#key(LContext;)Ljava/lang/String;*B
-
-__unknown_file (&"$
+__unknown_file (&$
 "com.afollestad.aesthetic.Aesthetic*"
 
 __unknown_file (
-""ó
-ð
+""2colorWindowBackground(I)"
 
-ß ß(B
-%2"Pjava.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*0
-
-__unknown_file ("
-java.lang.String*4
-
-__unknown_file (
-
-%0java.lang.String*"
-
-__unknown_file (
+Ò Ò(I
 
-%1Q
-O
-
-ß ß(C
-keyjava.lang.String"__id*"
-
-__unknown_file (
-
-%2"4
-
-á á(&$
-"com.afollestad.aesthetic.Aesthetic: 
+%0: 
 
 __unknown_file (
 ""B&$

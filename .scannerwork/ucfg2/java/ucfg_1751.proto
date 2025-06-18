@@ -1,59 +1,171 @@
 
-?com.simplecity.amp_library.ui.modelviews.FolderView#hashCode()Is
-gC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/FolderView.javaÍ Í("1*Ï
-1
-Î Î([
-Y
+Ocom.simplecity.amp_library.ui.modelviews.FolderView#equals(Ljava/lang/Object;)Zs
+gC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/FolderView.javaÂ Â("startingBlock*%
+2
+Å% Å(*"
 
-Î Î(%	
-%0int"java.lang.Object#hashCode()I*"
+Å Å(+
+""*¿
+3
+Å Å(¥
+¢
+
+Å Å(
+%5boolean",java.lang.Object#equals(Ljava/lang/Object;)Z*"
 
 __unknown_file (
-""e
-c
+""*3
+
+__unknown_file (
+
+ojava.lang.Object*
+2
+1*†
+startingBlock
+Â Â(#Š
+‡
 
-Ï Ï(	
-%1int"__calculate*
+Á Á(
+%9"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+ojava.lang.ObjectW
+U
 
-Ï Ï(
-**
+Â! Â("
+ojava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%9*
+8*%
+4
+Ä< Ä(A"
 
-Ï Ï(2*
+Ä5 Ä(B
+""*÷
+5
+Ä Ä(!µ²
 
-Ï Ï(
-""µ
+Ä Ä(#
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*S
+
+__unknown_file (75
+3com.simplecity.amp_library.ui.modelviews.FolderView2
+getClass()•’
+
+Ä' Ä(3
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
+
+__unknown_file (
+
+ojava.lang.Object2
+getClass()
+Š
+
+Ä Ä(3
+%4boolean"	__compare*
+
+Ä$ Ä(&
+!=*%
+
+Ä Ä(#
+
+%2java.lang.Class*%
+
+Ä' Ä(3
+
+%3java.lang.Class*
+3
+4*”
+6
+Ä Ä({
+y
+
+Ä Ä(
+%1boolean"	__compare*
+
+Ä Ä(
+==*%
+
+Ä Ä(
+
+ojava.lang.Object*
+
+Ä Ä(
+""*
+4
+5*%
+7
+Ã Ã(""
+
+Ã Ã(#
+""*Ç
+8
+Ã Ã(­
+ª
+
+Ã Ã(
+%0boolean"	__compare*
+
+Ã Ã(
+==*E
+
+Ã Ã(75
+3com.simplecity.amp_library.ui.modelviews.FolderView*%
+
+Ã Ã(
+
+ojava.lang.Object*
+6
+7*Ù
+1
+Ç' Ç((‡
+„
+
+Ç Ç();
+that3com.simplecity.amp_library.ui.modelviews.FolderView"__id*3
+
+__unknown_file (
+
+ojava.lang.Objectµ
 ²
 
-Ï Ï(-5
-%2/com.simplecity.amp_library.model.BaseFileObject"__id*g
+É É(5
+%6/com.simplecity.amp_library.model.BaseFileObject"__id*g
 
 __unknown_file (K*I5
 3com.simplecity.amp_library.ui.modelviews.FolderView"
-baseFileObject¸µ
+baseFileObject»
+¸
 
-Ï Ï(8	
-%3int";com.simplecity.amp_library.model.BaseFileObject#hashCode()I*S
+É% É(85
+%7/com.simplecity.amp_library.model.BaseFileObject"__id*m
+
+__unknown_file (Q*O
+;
+that3com.simplecity.amp_library.ui.modelviews.FolderView"
+baseFileObject±®
+
+É É(9
+%8boolean"Kcom.simplecity.amp_library.model.BaseFileObject#equals(Ljava/lang/Object;)Z*S
 
 __unknown_file (7
 5
-%2/com.simplecity.amp_library.model.BaseFileObject2
-hashCode()q
-o
+%6/com.simplecity.amp_library.model.BaseFileObject*S
+
+__unknown_file (7
+5
+%7/com.simplecity.amp_library.model.BaseFileObject2equals(Ljava/lang/Object;)"
 
-Ï Ï(8	
-%4int"__calculate*
+É É(:
+"":#
 
-Ï Ï(
-+*
-
-Ï Ï(
-	
-%1int*
-
-Ï Ï(8
-	
-%3int"
-
-Ð Ð(
-""B75
+Â Â("
+ojava.lang.ObjectB75
 3com.simplecity.amp_library.ui.modelviews.FolderViewHX

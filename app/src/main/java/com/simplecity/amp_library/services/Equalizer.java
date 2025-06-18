@@ -15,6 +15,7 @@ import com.crashlytics.android.Crashlytics;
 import com.simplecity.amp_library.utils.SettingsManager;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
+import java.util.Objects;
 
 /**
  * <p>This calls listen to events that affect DSP function and responds to them.</p>
@@ -61,7 +62,7 @@ public class Equalizer {
 
     public void releaseEffects() {
         Stream.of(mAudioSessions.values())
-                .filter(effectSet -> effectSet != null)
+                .filter(Objects::nonNull)
                 .forEach(EffectSet::release);
     }
 

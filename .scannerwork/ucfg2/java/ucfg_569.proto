@@ -1,48 +1,40 @@
 
-Bcom.simplecity.amp_library.playback.MediaManager#getShuffleMode()Ip
-dC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/playback/MediaManager.javaã ã("4*%
-2
-ç ç(."
-
-ç ç([
-""*z
-3
-åA å(\a
-_
-
-åA å(
+=com.simplecity.amp_library.playback.MediaManager#isPlaying()Zp
+dC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/playback/MediaManager.javaÜ Ü("5*y
+4
+áD á(_c
+a
+áD á(Ç
 %1"	__compare*
 
-åx å(z
+á{ á(}
 !=*
 
-åA å(w
-""*
-
-å{ å(
-""*
-2
+áD á(z
+""*
+á~ á(Ç
+""*
 1*z
-4
-å å('a
+5
+á á(*a
 _
 
-å å(=
+á á(@
 %0"	__compare*
 
-å6 å(8
+á9 á(;
 !=*
 
-å å(5
+á á(8
 ""*
 
-å9 å(=
+á< á(@
 ""*
-3
+4
 1*%
 1
-è è("
+á à("
 
-è è(
+á à(
 ""B42
 0com.simplecity.amp_library.playback.MediaManagerHX

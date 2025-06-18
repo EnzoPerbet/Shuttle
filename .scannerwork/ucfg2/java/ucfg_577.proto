@@ -1,65 +1,48 @@
 
-?com.simplecity.amp_library.playback.MediaManager#getDuration()Jp
-dC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/playback/MediaManager.java‹ ‹("5*%
-2
- ("
-
- (%
-""*z
-3
- (3a
-_
-
- (
-%2"	__compare*
-
- (
-!=*
-
- (
-""*
-
- (
-""*
-2
-1*z
+?com.simplecity.amp_library.playback.MediaManager#getPosition()Jp
+dC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/playback/MediaManager.javaû û("9*%
 4
-ŒA Œ(\a
+ş ş(`"
+
+ş ş(`
+""*z
+8
+üA ü(\a
 _
 
-ŒA Œ(
+üA ü(
 %1"	__compare*
 
-Œx Œ(z
+üx ü(z
 !=*
 
-ŒA Œ(w
+üA ü(w
 ""*
 
-Œ{ Œ(
-""*
-3
-1*z
-5
-Œ Œ('a
-_
-
-Œ Œ(=
-%0"	__compare*
-
-Œ6 Œ(8
-!=*
-
-Œ Œ(5
-""*
-
-Œ9 Œ(=
+ü{ ü(
 ""*
 4
+1*z
+9
+ü ü('a
+_
+
+ü ü(=
+%0"	__compare*
+
+ü6 ü(8
+!=*
+
+ü ü(5
+""*
+
+ü9 ü(=
+""*
+8
 1*%
 1
-’ ’("
+ƒ ƒ("
 
-’ ’(
+ƒ ƒ(
 ""B42
 0com.simplecity.amp_library.playback.MediaManagerHX

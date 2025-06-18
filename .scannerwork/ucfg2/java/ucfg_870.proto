@@ -1,19 +1,21 @@
 
-`com.afollestad.aesthetic.Aesthetic#colorIconTitleInactive(I)Lcom/afollestad/aesthetic/Aesthetic;r
-fC:/Users/enzo.perbet/Shuttle/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/Aesthetic.java¾ ¾()"1*®
+acom.afollestad.aesthetic.Aesthetic#colorIconTitleActiveRes(I)Lcom/afollestad/aesthetic/Aesthetic;r
+fC:/Users/enzo.perbet/Shuttle/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/Aesthetic.java¹ ¹(*"1*ž
 1
-¿ ¿(
-g
-e
+º º(öó
 
-¿ ¿(/
-%0java.lang.String"__id*9
+º º(G
+%0"^com.afollestad.aesthetic.Aesthetic#colorIconTitleActive(I)Lcom/afollestad/aesthetic/Aesthetic;*B
 
-__unknown_file (
-icon_title_inactive_color"4
+__unknown_file (&$
+"com.afollestad.aesthetic.Aesthetic*"
+
+__unknown_file (
+""2colorIconTitleActive(I)"
 
-À À(&$
-"com.afollestad.aesthetic.Aesthetic: 
+º º(H
+
+%0: 
 
 __unknown_file (
 ""B&$

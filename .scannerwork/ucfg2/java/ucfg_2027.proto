@@ -1,17 +1,29 @@
 
-Zcom.simplecity.amp_library.utils.FileBrowser#folderCountComparator()Ljava/util/Comparator;l
-`C:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/FileBrowser.java‘ ‘(,"1*±
+?__sonar_lambda_167$com.simplecity.amp_library.utils.FileBrowserl
+`C:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/FileBrowser.java’* ’(Y"1*‰
 1
-’* ’(Y‰
-†
+’8 ’(;b
+`
 
-’* ’(Y
-%0"__declareFunction*_
-
-__unknown_file (CA
-?__sonar_lambda_167$com.simplecity.amp_library.utils.FileBrowser"
+’8 ’(Y
+%1"__calculate*
 
-’ ’(Z
+’H ’(I
+-*
+
+’8 ’(G
+""*
+
+’J ’(Y
+"""
+
+’8 ’(Y
 
-%0B0.
-,com.simplecity.amp_library.utils.FileBrowser
+%1: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""B
+java.util.Comparator

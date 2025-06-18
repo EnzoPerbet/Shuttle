@@ -1,17 +1,29 @@
 
-Zcom.simplecity.amp_library.utils.FileBrowser#trackNumberComparator()Ljava/util/Comparator;l
-`C:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/FileBrowser.javaç ç(,"1*±
+?__sonar_lambda_166$com.simplecity.amp_library.utils.FileBrowserl
+`C:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/FileBrowser.javaé( é(g"1*â
 1
-é( é(gâ
-Ü
+é6 é(9b
+`
 
-é( é(g
-%0"__declareFunction*_
-
-__unknown_file (CA
-?__sonar_lambda_166$com.simplecity.amp_library.utils.FileBrowser"
+é6 é(g
+%1"__calculate*
 
-é é(h
+éN é(O
+-*
+
+é6 é(M
+""*
+
+éP é(g
+"""
+
+é6 é(g
 
-%0B0.
-,com.simplecity.amp_library.utils.FileBrowser
+%1: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""B
+java.util.Comparator

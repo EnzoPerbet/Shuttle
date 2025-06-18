@@ -1,57 +1,181 @@
 
-/com.afollestad.aesthetic.Util#isColorLight(II)Zm
-aC:/Users/enzo.perbet/Shuttle/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/Util.javaç ç("3*Ù
+.com.afollestad.aesthetic.Util#isColorLight(I)Zm
+aC:/Users/enzo.perbet/Shuttle/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/Util.javaÙ Ù($"6*%
 2
-ê ê(±
-®
+Ý Ý("
 
-ê ë(
-%1boolean".com.afollestad.aesthetic.Util#isColorLight(I)Z*=
-
-__unknown_file (!"
-com.afollestad.aesthetic.Util*"
-
-__unknown_file (
-"""
-
-ê ë(
-""*x
+Ý Ý(
+""*z
 3
-è è(_
-]
+Ü' Ü(,a
+_
 
-è é(
-%0"	__compare*
+Ü' Ü(A
+%2"	__compare*
 
-é é(	
+Ü- Ü(/
+==*
+
+Ü' Ü(,
+""*
+
+Ü0 Ü(A
+""*
+2
+1*z
+4
+Ü Ü(a
+_
+
+Ü Ü(#
+%1"	__compare*
+
+Ü Ü(
+==*
+
+Ü Ü(
+""*
+
+Ü Ü(#
+""*
+2
+3*%
+5
+Û Û("
+
+Û Û(
+""*z
+6
+Ú Ú(a
+_
+
+Ú Ú(
+%0"	__compare*
+
+Ú Ú(
+==*
+
+Ú Ú(
+""*
+
+Ú Ú(
+""*
+4
+5*Ê
+1
+à à(	b
+`
+
+á á('
+%3"__calculate*
+
+á á(
+**
+
+á á(
+""*
+
+á á('
+""b
+`
+
+á* á(D
+%4"__calculate*
+
+á0 á(1
+**
+
+á* á(/
+""*
+
+á2 á(D
+""b
+`
+
+á á(D
+%5"__calculate*
+
+á( á()
++*
+
+á á('
+
+%3*
+
+á* á(D
+
+%4b
+`
+
+áG á(`
+%6"__calculate*
+
+áM á(N
+**
+
+áG á(L
+""*
+
+áO á(`
+""b
+`
+
+á á(`
+%7"__calculate*
+
+áE á(F
++*
+
+á á(D
+
+%5*
+
+áG á(`
+
+%6a
+_
+
+á â(
+%8"__calculate*
+
+â â(
+/*
+
+á á(a
+
+%7*
+
+â â(2ÿ`
+^
+
+à â(
+%9"__calculate*
+
+á á(
+-*
+
+à à(	2*
+
+á â(
+
+%8j
+h
+
+ã ã(
+%10boolean"	__compare*
+
+ã ã(
 <*
 
-è è(
-""*
+ã ã(
+""*
 
-é
- é(2€*
-2
-1*Ù
-1
-í í(±
-®
-
-í í(
-%2boolean".com.afollestad.aesthetic.Util#isColorLight(I)Z*=
-
-__unknown_file (!"
-com.afollestad.aesthetic.Util*"
-
-__unknown_file (
+ã ã(
 """
 
-í í(
-"": 
-
-__unknown_file (
+ã ã(
 "": 
 
 __unknown_file (
 ""B!"
-com.afollestad.aesthetic.UtilX
+com.afollestad.aesthetic.UtilHX

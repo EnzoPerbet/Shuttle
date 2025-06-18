@@ -1,61 +1,54 @@
 
-Hcom.simplecity.amp_library.model.Song#getFormatLabel()Ljava/lang/String;e
-YC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Song.javaş ş( "3*²
+7com.simplecity.amp_library.model.Song#getElapsedTime()Je
+YC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Song.javaÕ Õ("1"2*%
 2
-€ €($§¤
+× ×("
 
-€ €(&
-%2";com.simplecity.amp_library.model.Song#getTagInfo()LTagInfo;*E
-
-__unknown_file ()'
-%com.simplecity.amp_library.model.Song2getTagInfo()r
-p
-
-€ €(-8'
-%com.simplecity.amp_library.model.Song"
-formatLabel"__id*"
-
-__unknown_file (
-""*
-1*
-3
-ÿ ÿ(…
-‚
-
-ÿ ÿ(
-%0java.lang.String"__id*V
-
-__unknown_file (:*8'
-%com.simplecity.amp_library.model.Song"
-formatLabel|
-z
-
-ÿ ÿ(
-%1boolean"	__compare*
-
-ÿ ÿ(
-==*&
-
-ÿ ÿ(
-
-%0java.lang.String*
-
-ÿ ÿ(
-""*
-2
-1*¿
+× ×(
+""*ú
 1
-‚ ‚(…
-‚
+Ù Ù(s
+q
 
-‚ ‚(
-%3java.lang.String"__id*V
+Ù! Ù(;
+
+%0long"%java.lang.System#currentTimeMillis()J*0
 
-__unknown_file (:*8'
-%com.simplecity.amp_library.model.Song"
-formatLabel"&
+__unknown_file ("
+java.lang.Systemn
+l
 
-‚ ‚(
-
-%3java.lang.StringB)'
-%com.simplecity.amp_library.model.SongH
+Ù Ù(;
+
+%1long"__calculate*
+
+Ù Ù( 
++*
+
+Ù Ù(
+""*
+
+Ù! Ù(;
+
+
+%0longn
+l
+
+Ù Ù(G
+
+%2long"__calculate*
+
+Ù< Ù(=
+-*
+
+Ù Ù(;
+
+
+%1long*
+
+Ù> Ù(G
+"""
+
+Ù Ù(H
+""B)'
+%com.simplecity.amp_library.model.SongX

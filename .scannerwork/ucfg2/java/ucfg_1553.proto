@@ -1,21 +1,17 @@
 
-Pcom.simplecity.amp_library.ui.screens.search.voice.VoiceSearchActivity#<init>()V
-__unknown_file ("startingBlock*›
-startingBlock‚
-zC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/search/voice/VoiceSearchActivity.java (Á
-¾
-‚
-zC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/search/voice/VoiceSearchActivity.java (
-%0"Ycom.simplecity.amp_library.ui.screens.search.voice.VoiceSearchActivity#%field_initializer*V
- (JH
-Fcom.simplecity.amp_library.ui.screens.search.voice.VoiceSearchActivity£
- 
-‚
-zC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/search/voice/VoiceSearchActivity.java (
-%1";com.simplecity.amp_library.ui.common.BaseActivity#<init>()V*V
- (JH
-Fcom.simplecity.amp_library.ui.screens.search.voice.VoiceSearchActivity"š
-‚
-zC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/search/voice/VoiceSearchActivity.java (
-implicit returnBJH
+ecom.simplecity.amp_library.ui.screens.search.voice.VoiceSearchActivity#screenName()Ljava/lang/String;†
+zC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/search/voice/VoiceSearchActivity.java› ›("1*š
+1
+œ œ(a
+_
+
+œ œ(
+%0java.lang.String"__id*3
+
+__unknown_file (
+VoiceSearchActivity"&
+
+œ œ(
+
+%0java.lang.StringBJH
 Fcom.simplecity.amp_library.ui.screens.search.voice.VoiceSearchActivity

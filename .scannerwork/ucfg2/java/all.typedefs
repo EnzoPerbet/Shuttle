@@ -1603,9 +1603,9 @@ Ccom.simplecity.amp_library.ui.views.AestheticFastScrollRecyclerViewFastScroll
 onAttachedToWindow()Ycom.simplecity.amp_library.ui.views.AestheticFastScrollRecyclerView#onAttachedToWindow()Vu
 onDetachedFromWindow()[com.simplecity.amp_library.ui.views.AestheticFastScrollRecyclerView#onDetachedFromWindow()Vª
 9com.simplecity.amp_library.ui.views.SquareHeightImageViewAppCompatImageViewY
-onMeasure(II)Hcom.simplecity.amp_library.ui.views.SquareHeightImageView#onMeasure(II)V‘
-)com.simplecity.amp_library.model.Playlistjava.io.Serializablejava.lang.Objectq
-!<init>(IJLjava/lang/String;ZZZZZ)Lcom.simplecity.amp_library.model.Playlist#<init>(IJLjava/lang/String;ZZZZZ)Vc
+onMeasure(II)Hcom.simplecity.amp_library.ui.views.SquareHeightImageView#onMeasure(II)V‡
+)com.simplecity.amp_library.model.Playlistjava.io.Serializablejava.lang.Objectæ
+[<init>(IJLjava/lang/String;Lcom/simplecity/amp_library/model/Playlist$PlaylistPermissions;)†com.simplecity.amp_library.model.Playlist#<init>(IJLjava/lang/String;Lcom/simplecity/amp_library/model/Playlist$PlaylistPermissions;)Vc
 equals(Ljava/lang/Object;)Ecom.simplecity.amp_library.model.Playlist#equals(Ljava/lang/Object;)ZI
 
 getQuery();com.simplecity.amp_library.model.Playlist#getQuery()LQuery;C
@@ -1613,7 +1613,9 @@ getQuery();com.simplecity.amp_library.model.Playlist#getQuery()LQuery;C
 hashCode()5com.simplecity.amp_library.model.Playlist#hashCode()IT
 
 toString()Fcom.simplecity.amp_library.model.Playlist#toString()Ljava/lang/String;c
-.com.simplecity.amp_library.model.Playlist$Typejava.lang.Objectjava.lang.annotation.Annotation°
+.com.simplecity.amp_library.model.Playlist$Typejava.lang.Objectjava.lang.annotation.Annotation‡
+=com.simplecity.amp_library.model.Playlist$PlaylistPermissionsjava.lang.Object³
+8<init>(Lcom/simplecity/amp_library/model/Playlist;ZZZZZ)wcom.simplecity.amp_library.model.Playlist$PlaylistPermissions#<init>(Lcom/simplecity/amp_library/model/Playlist;ZZZZZ)V°
 Bcom.simplecity.amp_library.ui.screens.folders.FolderFragmentModulejava.lang.ObjectX
 <init>()Lcom.simplecity.amp_library.ui.screens.folders.FolderFragmentModule#<init>()Vî	
 3com.simplecity.amp_library.ui.views.CircleImageViewAppCompatImageViewY

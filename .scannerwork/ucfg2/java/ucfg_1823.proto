@@ -1,28 +1,21 @@
 
-Ocom.simplecity.amp_library.model.CategoryItem#getEnabledKey()Ljava/lang/String;m
-aC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/CategoryItem.javaÅ Å("1*˙
-1
-Ç Ç( «
-
-Ç Ç(
+Lcom.simplecity.amp_library.model.CategoryItem#getSortKey()Ljava/lang/String;k
+aC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/CategoryItem.java} }("1*Î
+1~ ~(»≈
+~ ~(
 %0java.lang.String"Hcom.simplecity.amp_library.model.CategoryItem#getKey()Ljava/lang/String;*M
 
 __unknown_file (1/
--com.simplecity.amp_library.model.CategoryItem2getKey()t
-r
-
-Ç Ç($
-%1java.lang.String"__concat*&
-
-Ç Ç(
+-com.simplecity.amp_library.model.CategoryItem2getKey()k
+i
+~ ~(!
+%1java.lang.String"__concat*$
+~ ~(
 
-%0java.lang.String*
-
-Ç Ç($
-
-_enabled"&
-
-Ç Ç(%
+%0java.lang.String*
+~ ~(!	
+_sort"$
+~ ~("
 
 %1java.lang.StringB1/
 -com.simplecity.amp_library.model.CategoryItemH

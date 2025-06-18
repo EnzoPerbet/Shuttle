@@ -1,17 +1,17 @@
 
-Mcom.simplecity.amp_library.model.Song#getFolderArtworkFiles()Ljava/util/List;e
-YC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Song.java‚ ‚(+"1*¤
+Jcom.simplecity.amp_library.model.Song#getTagArtwork()Ljava/io/InputStream;e
+YC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Song.javaý ý($"1*¤
 1
-ƒ ƒ(}
+þ þ(}
 {
 
-ƒ0 ƒ(4
+þ* þ(.
 %0java.lang.String"__id*O
 
 __unknown_file (3*1'
 %com.simplecity.amp_library.model.Song"
 path"
 
-ƒ ƒ(6
+þ þ(0
 ""B)'
 %com.simplecity.amp_library.model.SongH

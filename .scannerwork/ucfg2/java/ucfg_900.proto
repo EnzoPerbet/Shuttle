@@ -1,7 +1,38 @@
 
-Dcom.simplecity.amp_library.glide.palette.ColorSetResource#getSize()Iw
-mC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/glide/palette/ColorSetResource.java ("1*!
-1 ("
- (2
-""B=;
-9com.simplecity.amp_library.glide.palette.ColorSetResourceHX
+[com.simplecity.amp_library.ui.modelviews.PlaylistView#areContentsEqual(Ljava/lang/Object;)Zs
+iC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/PlaylistView.javar r(#"startingBlock*ˆ
+startingBlockr# r(1Œ
+‰
+q q(
+%1"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*7
+
+__unknown_file (
+
+otherjava.lang.ObjectY
+W
+r+ r(0
+otherjava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%1*
+1*¿
+1s s(›˜
+s s(
+%0boolean"Qcom.simplecity.amp_library.ui.modelviews.PlaylistView#equals(Ljava/lang/Object;)Z*U
+
+__unknown_file (97
+5com.simplecity.amp_library.ui.modelviews.PlaylistView*7
+
+__unknown_file (
+
+otherjava.lang.Object2equals(Ljava/lang/Object;)"
+s s(
+"":%
+r$ r(0
+otherjava.lang.ObjectB97
+5com.simplecity.amp_library.ui.modelviews.PlaylistViewHX

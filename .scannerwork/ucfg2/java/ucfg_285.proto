@@ -1,99 +1,191 @@
 
-5com.simplecity.amp_library.model.Playlist#hashCode()Ig
-]C:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Playlist.javap p("4*Z
-2rA r(BF
-D
-rA r(B	
-%5int"__id*'
+Ecom.simplecity.amp_library.model.Playlist#equals(Ljava/lang/Object;)Zg
+]C:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Playlist.javau u("startingBlock*é
+2|; |(C‹
+ˆ
+|; |(H
+%13java.lang.String"__id*]
 
-__unknown_file (
-	
-%7int*
-1*Ô
-3r/ r(3
-}
-r/ r(3
-%8java.lang.String"__id*S
+__unknown_file (A*?
+5
+playlist)com.simplecity.amp_library.model.Playlist"
+namev
+t
+|; |(P
+%10boolean"	__compare*
+|I |(K
+==*%
+|; |(H
+
+%13java.lang.String*
+|L |(P
+""O
+M
+|; |(P
+%8boolean"__id*,
+
+__unknown_file (
+
+%10boolean*
+1*Ê
+3| |("€
+~
+| |("
+%11java.lang.String"__id*S
 
 __unknown_file (7*5+
 )com.simplecity.amp_library.model.Playlist"
-namewu
-r/ r(>	
-%6int"java.lang.String#hashCode()I*4
+name‹
+ˆ
+|* |(7
+%12java.lang.String"__id*]
 
-__unknown_file (
-
-%8java.lang.String2
-hashCode()F
-D
-r/ r(>	
-%5int"__id*'
+__unknown_file (A*?
+5
+playlist)com.simplecity.amp_library.model.Playlist"
+nameÔÑ
+| |(8
+%9boolean",java.lang.String#equals(Ljava/lang/Object;)Z*5
 
-__unknown_file (
-	
-%6int*
-1*µ
-4q q(`
-^
-q" q(+
+__unknown_file (
+
+%11java.lang.String*5
+
+__unknown_file (
+
+%12java.lang.String2equals(Ljava/lang/Object;)N
+L
+| |(8
+%8boolean"__id*+
+
+__unknown_file (
 
-%0long"__calculate*
-q% q((
->>>*
-q" q($
-""*
-q) q(+2 f
-d
-q q(,
-
-%1long"__calculate*
-q q( 
-^*
-q q(
-""*
-q! q(,
-
-
-%0long]
-[
-r r(	
-%2int"__calculate*
-r r(
-**
-r r(2*
-r r(
-""
+%9boolean*
+1*ƒ
+startingBlocku u(#‰
+†
+t t(
+%14"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+ojava.lang.ObjectV
+T
+u! u("
+ojava.lang.Object"__annotation*#
+
+__unknown_file (
+
+%14*
+11*Œ
+4| |(
 }
-r  r($
-%3java.lang.String"__id*S
+| |(
+%6java.lang.String"__id*S
 
 __unknown_file (7*5+
 )com.simplecity.amp_library.model.Playlist"
 namet
 r
-r  r(,
-%4boolean"	__compare*
-r% r('
+| |(
+%7boolean"	__compare*
+| |(
 !=*$
-r  r($
+| |(
 
-%3java.lang.String*
-r( r(,
+%6java.lang.String*
+| |(
 ""*
 2
-3*Œ
-1r r(Ci
-g
-r r(C	
-%9int"__calculate*
-r r(
-+*
-r r(
-	
-%2int*
-r r(C
-	
-%5int"
-s s(
-""B-+
+3*!
+5{& {(+"
+{ {(,
+""*ù
+6y' y((~
+|
+y y()5
+playlist)com.simplecity.amp_library.model.Playlist"__id*3
+
+__unknown_file (
+
+ojava.lang.Objectb
+`
+{ {(
+%5boolean"	__compare*
+{ {(
+!=*
+{ {(
+""*
+{ {(
+""*
+4
+5*!
+7w< w(A"
+w5 w(B
+""*ß
+8w w(!©¦
+w w(#
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*I
+
+__unknown_file (-+
+)com.simplecity.amp_library.model.Playlist2
+getClass()“
+w' w(3
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
+
+__unknown_file (
+
+ojava.lang.Object2
+getClass()…
+‚
+w w(3
+%4boolean"	__compare*
+w$ w(&
+!=*#
+w w(#
+
+%2java.lang.Class*#
+w' w(3
+
+%3java.lang.Class*
+6
+7*Š
+9w w(s
+q
+w w(
+%1boolean"	__compare*
+w w(
+==*#
+w w(
+
+ojava.lang.Object*
+w w(
+""*
+7
+8*"
+10v v(""
+v v(#
+""*µ
+11v v(›
+˜
+v v(
+%0boolean"	__compare*
+v v(
+==*9
+v v(-+
+)com.simplecity.amp_library.model.Playlist*#
+v v(
+
+ojava.lang.Object*
+9
+10*!
+1| |(Q"
+| |(Q
+"":!
+u u("
+ojava.lang.ObjectB-+
 )com.simplecity.amp_library.model.PlaylistHX

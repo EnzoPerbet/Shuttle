@@ -1,22 +1,24 @@
 
-:com.simplecity.amp_library.utils.FileBrowser#hasHomeDir()Zl
-`C:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/FileBrowser.java„ „("1*Å
+Gcom.simplecity.amp_library.utils.FileBrowser#getHomeDir()Ljava/io/File;l
+`C:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/FileBrowser.javaﬂ ﬂ("1*˝
 1
-‰ ‰(»≈
+‡ ‡('0.
 
-‰" ‰(.
-%0java.io.File"Gcom.simplecity.amp_library.utils.FileBrowser#getHomeDir()Ljava/io/File;*L
-
-__unknown_file (0.
-,com.simplecity.amp_library.utils.FileBrowser2getHomeDir()éã
+‡ ‡(
+%0java.io.File"java.io.Fileï
+í
 
-‰" ‰(8
-%1java.lang.String"(java.io.File#getPath()Ljava/lang/String;*0
+‡ ‡(E
+%1"(java.io.File#<init>(Ljava/lang/String;)V*0
 
 __unknown_file (
 
-%0java.io.File2	getPath()"
+%0java.io.File*"
+
+__unknown_file (
+""""
 
-‰ ‰(:
-""B0.
-,com.simplecity.amp_library.utils.FileBrowserHX
+‡ ‡(F
+
+%0java.io.FileB0.
+,com.simplecity.amp_library.utils.FileBrowserH

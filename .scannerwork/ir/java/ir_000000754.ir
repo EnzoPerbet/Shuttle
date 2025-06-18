@@ -1,21 +1,30 @@
-=this6 6(")com.simplecity.amp_library.model.Playlisttype6 6(""intid6$ 6(+"long$name6- 6(8"java.lang.StringcanEdit6: 6(I"booleancanClear6K 6(["boolean 	canDelete6] 6(n"boolean!	canRename	6p 6(Å"boolean 	canSort
-6É 6(í"boolean"‡&
+=thisF F(")com.simplecity.amp_library.model.PlaylisttypeF F(""intidF$ F(+"long$nameF- F(8"java.lang.StringXpermissionsF: F(Y"=com.simplecity.amp_library.model.Playlist$PlaylistPermissions"‰&
 $
-7 7(
-"#set-field# type:$
+G G("#set-field# type:$
 "
-8 8("#set-field# id:&
+H H("#set-field# id:&
 $
-9 9("#set-field# name:)
+I I("#set-field# name:1
+/
+J J(*	"#get-field# canEdit:Bboolean)
 '
-: :("#set-field# canEdit:*
+J J(*
+"#set-field# canEdit:	2
+0
+K K(,"#get-field# canClear:Bboolean*
 (
-; ;( "#set-field# canClear:+
+K K(,"#set-field# canClear:3
+1
+L L(."#get-field# canDelete:Bboolean+
 )
-< <(""#set-field# canDelete:+
+L L(."#set-field# canDelete:3
+1
+M M(."#get-field# canRename:Bboolean+
 )
-= =(""#set-field# canRename:)
+M M(."#set-field# canRename:1
+/
+N N(*"#get-field# canSort:Bboolean)
 '
-> >("#set-field# canSort:	
+N N(*"#set-field# canSort:
 
-? ?(*]C:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Playlist.java
+O O(*]C:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Playlist.java

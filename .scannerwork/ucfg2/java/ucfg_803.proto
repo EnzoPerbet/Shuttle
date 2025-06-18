@@ -1,21 +1,15 @@
 
-Fcom.simplecity.amp_library.ui.screens.folders.FolderFragment#<init>()V
-__unknown_file ("startingBlock*¬
-startingBlockx
-pC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/folders/FolderFragment.javaQ Q(¢
-Ÿ
-x
-pC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/folders/FolderFragment.javaQ Q(
-%0"Ocom.simplecity.amp_library.ui.screens.folders.FolderFragment#%field_initializer*L
- (@>
-<com.simplecity.amp_library.ui.screens.folders.FolderFragmenté
-æ
-x
-pC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/folders/FolderFragment.javaQ Q(
-%1"BaseFragment#<init>()V*L
- (@>
-<com.simplecity.amp_library.ui.screens.folders.FolderFragment"
-x
-pC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/folders/FolderFragment.javaQ Q(
-implicit returnB@>
-<com.simplecity.amp_library.ui.screens.folders.FolderFragment
+Hcom.simplecity.amp_library.ui.screens.folders.FolderFragment$2#<init>()V
+__unknown_file ("startingBlock*¢
+startingBlock|
+pC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/folders/FolderFragment.java”J ”(Kü
+ù
+|
+pC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/folders/FolderFragment.java”J ”(K
+%0"#FolderMenuUtils.Callbacks#<init>()V*N
+ (B@
+>com.simplecity.amp_library.ui.screens.folders.FolderFragment$2"“
+|
+pC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/folders/FolderFragment.java”J ”(K
+implicit returnBB@
+>com.simplecity.amp_library.ui.screens.folders.FolderFragment$2

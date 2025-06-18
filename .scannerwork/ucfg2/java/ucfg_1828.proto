@@ -1,17 +1,10 @@
 
-mcom.github.florent37.glidepalette.BitmapPalette#crossfade(Z)Lcom/github/florent37/glidepalette/BitmapPalette;€
-vC:/Users/enzo.perbet/Shuttle/libraries/glidepalette/src/main/java/com/github/florent37/glidepalette/BitmapPalette.javaU U(%"1*‡
-1V V(¶
-³
-V V(!
-
-%0void"Jcom.github.florent37.glidepalette.BitmapPalette#assertTargetsIsNotEmpty()V*O
-
-__unknown_file (31
-/com.github.florent37.glidepalette.BitmapPalette"?
-Y Y(31
+gcom.github.florent37.glidepalette.BitmapPalette#use(I)Lcom/github/florent37/glidepalette/BitmapPalette;€
+vC:/Users/enzo.perbet/Shuttle/libraries/glidepalette/src/main/java/com/github/florent37/glidepalette/BitmapPalette.javaB B("1*N
+1C C("?
+D D(31
 /com.github.florent37.glidepalette.BitmapPalette: 
 
 __unknown_file (
 ""B31
-/com.github.florent37.glidepalette.BitmapPalette
+/com.github.florent37.glidepalette.BitmapPaletteH

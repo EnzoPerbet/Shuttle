@@ -1,9 +1,80 @@
 
-Mcom.simplecity.multisheetview.ui.view.MultiSheetView#getMainContainerResId()I‰
-}C:/Users/enzo.perbet/Shuttle/libraries/multisheetview/src/main/java/com/simplecity/multisheetview/ui/view/MultiSheetView.java÷ ÷($"1*%
-1
-ø ø("
+Hcom.simplecity.multisheetview.ui.view.MultiSheetView#consumeBackPress()Z‰
+}C:/Users/enzo.perbet/Shuttle/libraries/multisheetview/src/main/java/com/simplecity/multisheetview/ui/view/MultiSheetView.javaê ê(#"2*ó
+2
+ë ë(ÌÉ
 
-ø ø("
+ë ë(!	
+%0int"Gcom.simplecity.multisheetview.ui.view.MultiSheetView#getCurrentSheet()I*T
+
+__unknown_file (86
+4com.simplecity.multisheetview.ui.view.MultiSheetView2getCurrentSheet()C
+A
+
+ì ì(	
+%1int"__id*"
+
+__unknown_file (
+""C
+A
+
+ï ï(	
+%2int"__id*"
+
+__unknown_file (
+""*	
+3
+4
+1*á
+3
+ï ñ(C
+A
+
+ð ð()	
+%5int"__id*"
+
+__unknown_file (
+""ôñ
+
+ð ð(*
+
+%6void"Fcom.simplecity.multisheetview.ui.view.MultiSheetView#collapseSheet(I)V*T
+
+__unknown_file (86
+4com.simplecity.multisheetview.ui.view.MultiSheetView*'
+
+__unknown_file (
+	
+%5int2collapseSheet(I)"
+
+ñ ñ(
+""*á
+4
+ì î(C
+A
+
+í í(*	
+%3int"__id*"
+
+__unknown_file (
+""ôñ
+
+í í(+
+
+%4void"Fcom.simplecity.multisheetview.ui.view.MultiSheetView#collapseSheet(I)V*T
+
+__unknown_file (86
+4com.simplecity.multisheetview.ui.view.MultiSheetView*'
+
+__unknown_file (
+	
+%3int2collapseSheet(I)"
+
+î î(
+""*%
+1
+ó ó("
+
+ó ó(
 ""B86
 4com.simplecity.multisheetview.ui.view.MultiSheetViewHX

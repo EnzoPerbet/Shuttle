@@ -1,12 +1,21 @@
 
-}com.simplecity.amp_library.ui.screens.tagger.TaggerTask#showAlbum(Z)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;w
-kC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.javaà à("1*Z
+‹com.simplecity.amp_library.ui.screens.tagger.TaggerTask#setPaths(Ljava/util/List;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;w
+kC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.javaÖ Ö("1*ï
 1
-á á(""I
+× ×(’
+
 
-â â(;9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask: 
+× ×(D9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
+paths"__id*5
 
-__unknown_file (
-""B;9
+__unknown_file (
+
+pathsjava.util.List"I
+
+Ø Ø(;9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask:%
+
+Ö Ö(1
+pathsjava.util.ListB;9
 7com.simplecity.amp_library.ui.screens.tagger.TaggerTaskH

@@ -1,71 +1,85 @@
 
-Fcom.simplecity.amp_library.ui.views.CircleImageView#%field_initializer
-__unknown_file ("1*‚
-1 (⁄
-◊
-q
-gC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/views/CircleImageView.java# #(4H5
-3com.simplecity.amp_library.ui.views.CircleImageView"
-mDrawableRect"__id*
- (
-""ÿ
-’
-q
-gC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/views/CircleImageView.java$ $(2F5
-3com.simplecity.amp_library.ui.views.CircleImageView"
-mBorderRect"__id*
- (
-""⁄
-◊
-q
-gC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/views/CircleImageView.java& &(6H5
-3com.simplecity.amp_library.ui.views.CircleImageView"
-mShaderMatrix"__id*
- (
-""Ÿ
-÷
-q
-gC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/views/CircleImageView.java' '(3G5
-3com.simplecity.amp_library.ui.views.CircleImageView"
-mBitmapPaint"__id*
- (
-""Ÿ
-÷
-q
-gC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/views/CircleImageView.java( ((3G5
-3com.simplecity.amp_library.ui.views.CircleImageView"
-mBorderPaint"__id*
- (
-""õ
-ò
-q
-gC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/views/CircleImageView.java* *(3	
-%0int"__id*
- (
-""ﬁ
-€
-q
-gC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/views/CircleImageView.java* *(4G5
-3com.simplecity.amp_library.ui.views.CircleImageView"
-mBorderColor"__id*
- (
-	
-%0intõ
-ò
-q
-gC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/views/CircleImageView.java+ +(3	
-%1int"__id*
- (
-""ﬁ
-€
-q
-gC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/views/CircleImageView.java+ +(4G5
-3com.simplecity.amp_library.ui.views.CircleImageView"
-mBorderWidth"__id*
- (
-	
-%1int"á
-p
-gC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/views/CircleImageView.java •(
-implicit returnB75
-3com.simplecity.amp_library.ui.views.CircleImageView
+Fcom.simplecity.amp_library.model.Playlist#toString()Ljava/lang/String;i
+]C:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Playlist.javaá á("1*È
+1
+à à(d
+b
+
+à â(
+%0java.lang.String"__concat*
+
+à à(
+	Playlist{*
+
+â â(
+id=n
+l
+
+à â(
+%1java.lang.String"__concat*&
+
+à â(
+
+%0java.lang.String*
+
+â â(
+""t
+r
+
+à ä(
+%2java.lang.String"__concat*&
+
+à â(
+
+%1java.lang.String*
+
+ä ä(
+
+, name='Å
+
+
+ä ä(!
+%3java.lang.String"__id*S
+
+__unknown_file (7*5+
+)com.simplecity.amp_library.model.Playlist"
+nameÄ
+~
+
+à ä(!
+%4java.lang.String"__concat*&
+
+à ä(
+
+%2java.lang.String*&
+
+ä ä(!
+
+%3java.lang.Stringn
+l
+
+à ä((
+%5java.lang.String"__concat*&
+
+à ä(!
+
+%4java.lang.String*
+
+ä$ ä((
+\'m
+k
+
+à ã(
+%6java.lang.String"__concat*&
+
+à ä((
+
+%5java.lang.String*
+
+ã ã(
+}"&
+
+à ã(
+
+%6java.lang.StringB-+
+)com.simplecity.amp_library.model.PlaylistH

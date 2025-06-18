@@ -1,64 +1,129 @@
 
-Fcom.simplecity.amp_library.model.Playlist#toString()Ljava/lang/String;g
-]C:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Playlist.javaw w("1*Ω
-1x x(^
-\
-x y(
-%0java.lang.String"__concat*
-x x(
-	Playlist{*
-y y(
-id=h
-f
-x y(
-%1java.lang.String"__concat*$
-x y(
-
-%0java.lang.String*
-y y(
-""n
-l
-x z(
-%2java.lang.String"__concat*$
-x y(
-
-%1java.lang.String*
-z z(
+5com.simplecity.amp_library.model.Playlist#hashCode()Ii
+]C:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Playlist.javaÄ Ä("4*^
+2
+ÇA Ç(BH
+F
 
-, name='
-}
-z z(!
+ÇA Ç(B	
+%5int"__id*'
+
+__unknown_file (
+	
+%7int*
+1*›
+3
+Ç/ Ç(3Å
+
+
+Ç/ Ç(3
+%8java.lang.String"__id*S
+
+__unknown_file (7*5+
+)com.simplecity.amp_library.model.Playlist"
+nameyw
+
+Ç/ Ç(>	
+%6int"java.lang.String#hashCode()I*4
+
+__unknown_file (
+
+%8java.lang.String2
+hashCode()H
+F
+
+Ç/ Ç(>	
+%5int"__id*'
+
+__unknown_file (
+	
+%6int*
+1*⁄
+4
+Å Å(h
+f
+
+Å" Å(+
+
+%0long"__calculate*
+
+Å% Å((
+>>>*
+
+Å" Å($
+""*
+
+Å) Å(+2 n
+l
+
+Å Å(,
+
+%1long"__calculate*
+
+Å Å( 
+^*
+
+Å Å(
+""*
+
+Å! Å(,
+
+
+%0longe
+c
+
+Ç Ç(	
+%2int"__calculate*
+
+Ç Ç(
+**
+
+Ç Ç(2*
+
+Ç Ç(
+""Å
+
+
+Ç  Ç($
 %3java.lang.String"__id*S
 
 __unknown_file (7*5+
 )com.simplecity.amp_library.model.Playlist"
-namez
-x
-x z(!
-%4java.lang.String"__concat*$
-x z(
+name|
+z
+
+Ç  Ç(,
+%4boolean"	__compare*
+
+Ç% Ç('
+!=*&
+
+Ç  Ç($
 
-%2java.lang.String*$
-z z(!
-
-%3java.lang.Stringh
-f
-x z((
-%5java.lang.String"__concat*$
-x z(!
-
-%4java.lang.String*
-z$ z((
-\'g
-e
-x {(
-%6java.lang.String"__concat*$
-x z((
-
-%5java.lang.String*
-{ {(
-}"$
-x {(
-
-%6java.lang.StringB-+
-)com.simplecity.amp_library.model.PlaylistH
+%3java.lang.String*
+
+Ç( Ç(,
+""*
+2
+3*ò
+1
+Ç Ç(Cq
+o
+
+Ç Ç(C	
+%9int"__calculate*
+
+Ç Ç(
++*
+
+Ç Ç(
+	
+%2int*
+
+Ç Ç(C
+	
+%5int"
+
+É É(
+""B-+
+)com.simplecity.amp_library.model.PlaylistHX

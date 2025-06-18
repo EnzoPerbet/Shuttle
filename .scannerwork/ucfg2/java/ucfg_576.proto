@@ -1,48 +1,48 @@
 
-?com.simplecity.amp_library.playback.MediaManager#getPosition()Jp
-dC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/playback/MediaManager.javaû û("9*%
-4
-þ þ(`"
+Ecom.simplecity.amp_library.playback.MediaManager#getAudioSessionId()Ip
+dC:/Users/enzo.perbet/Shuttle/app/src/main/java/com/simplecity/amp_library/playback/MediaManager.javaÅ Å( "4*%
+2
+Ç Ç(."
 
-þ þ(`
+Ç Ç(^
 ""*z
-8
-üA ü(\a
+3
+ÆA Æ(\a
 _
 
-üA ü(
+ÆA Æ(
 %1"	__compare*
 
-üx ü(z
+Æx Æ(z
 !=*
 
-üA ü(w
+ÆA Æ(w
 ""*
 
-ü{ ü(
+Æ{ Æ(
 ""*
-4
+2
 1*z
-9
-ü ü('a
+4
+Æ Æ('a
 _
 
-ü ü(=
+Æ Æ(=
 %0"	__compare*
 
-ü6 ü(8
+Æ6 Æ(8
 !=*
 
-ü ü(5
+Æ Æ(5
 ""*
 
-ü9 ü(=
+Æ9 Æ(=
 ""*
-8
+3
 1*%
 1
-ƒ ƒ("
+É É("
 
-ƒ ƒ(
+É É(
 ""B42
 0com.simplecity.amp_library.playback.MediaManagerHX
